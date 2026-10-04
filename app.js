@@ -4,7 +4,7 @@ const data = window.NEARBY_DATA;
 let selected = '全部', savedOnly = false, photoIndex = 0, photoPlace = null;
 let saved = new Set();
 try { const value = JSON.parse(localStorage.getItem('nearby-favorites') || '[]'); if(Array.isArray(value)) saved = new Set(value); } catch {}
-const categories = ['全部','早餐','午餐','晚餐','宵夜','下午茶','咖啡廳','飲料','台菜','港式','日式'];
+const categories = ['全部','早餐','午餐','晚餐','宵夜','下午茶','咖啡廳','飲料'];
 for(const [id,key] of [['cuisine','cuisines'],['type','types'],['period','periods'],['occasion','occasions'],['child','childRatings']]) {
   $('#'+id).innerHTML += data.taxonomy[key].map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join('');
 }
