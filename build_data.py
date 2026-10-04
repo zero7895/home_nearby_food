@@ -1,6 +1,7 @@
 """Convert locally recorded Maps observations and researched metadata into static data.js."""
 import json, re
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = lambda label, url: {'label': label, 'url': url}
@@ -24,28 +25,59 @@ META = {
 TAXONOMY = {
  'cuisines':['台式','中式','港式','日式','韓式','泰式','越式','新馬料理','印度料理','義式','法式','西班牙料理','美式','墨西哥料理','中東料理','其他異國料理','不適用（咖啡／茶飲）'],
  'types':['早餐店','早午餐','咖啡廳','甜點店','飲料店','小吃','麵店','飯類','便當','熱炒','火鍋','燒肉','鐵板燒','居酒屋','拉麵','壽司','丼飯','飲茶','牛排','義大利麵','披薩','Buffet','吃到飽','餐酒館','酒吧','速食','素食／蔬食'],
- 'periods':['早餐','早午餐','午餐','下午茶','晚餐','宵夜','甜點／飲料'],
+ 'periods':['早餐','早午餐','午餐','晚餐','甜點／飲料'],
  'occasions':['一人用餐','情侶約會','朋友聚餐','家庭聚餐','帶小孩','長輩聚餐','慶生','商務聚餐','多人聚餐','聊天聚會','快速用餐'],
  'childRatings':['適合','普通','不適合'],
  'priceBands':[{'label':'NT$200 以下','min':0,'max':200},{'label':'NT$201–400','min':201,'max':400},{'label':'NT$401–600','min':401,'max':600},{'label':'NT$601–1,000','min':601,'max':1000},{'label':'NT$1,001–1,500','min':1001,'max':1500},{'label':'NT$1,501–2,000','min':1501,'max':2000},{'label':'NT$2,001 以上','min':2001,'max':999999}],
 }
 
 def build():
-    observed = json.loads((ROOT/'maps-research.json').read_text())
+    observed = json.loads((ROOT/'maps-research.json').read_text()) + json.loads((ROOT/'expanded-maps-research.json').read_text()) + json.loads((ROOT/'expansion-200-maps.json').read_text()) + json.loads((ROOT/'expansion-500-maps.json').read_text())
+    META.update(json.loads((ROOT/'expanded-metadata.json').read_text()))
+    META.update(json.loads((ROOT/'expansion-200-metadata.json').read_text()))
+    META.update(json.loads((ROOT/'expansion-500-metadata.json').read_text()))
+    more_metadata = json.loads((ROOT/'expansion-more-metadata.json').read_text())
+    META.update(more_metadata)
+    observed += json.loads((ROOT/'expansion-more-maps.json').read_text())
+    expanded_routes = json.loads((ROOT/'expanded-routes-research.json').read_text()) + json.loads((ROOT/'expansion-200-routes.json').read_text()) + json.loads((ROOT/'expansion-500-routes.json').read_text())
+    expanded_routes += json.loads((ROOT/'expansion-more-routes.json').read_text())
+    drives = {r['name']:r for r in expanded_routes if r['mode']=='driving'}
     routes = {r['name']:r for r in json.loads((ROOT/'routes-research.json').read_text())}
+    routes.update({r['name']:r for r in expanded_routes if r['mode']=='walking'})
+    corrections = json.loads((ROOT/'reviewed-corrections.json').read_text())
     places, excluded = [], []
     for obs in observed:
-        if obs['closed']:
+        if obs.get('excludedReason'):
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':obs['excludedReason'], 'checkedAt':'2026-10-04'})
+            continue
+        if obs.get('closed'):
             excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'Google Maps 標示永久歇業', 'checkedAt':'2026-10-04'})
             continue
+        if obs['name'] not in routes:
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'交通路線資料待複查，暫不收錄', 'checkedAt':'2026-10-04'})
+            continue
+        walk = int(re.search(r'(\d+) 分',routes[obs['name']]['options'][0]).group(1))
+        drive = int(re.search(r'(\d+) 分',drives[obs['name']]['options'][0]).group(1)) if obs['name'] in drives else None
+        if walk > 20 and (drive is None or drive > 15):
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'超過步行20分鐘且開車15分鐘範圍', 'checkedAt':'2026-10-04'})
+            continue
         p = dict(META[obs['name']])
+        p.update(corrections.get(obs['name'], {}))
         p['name'] = obs['name']
         p.setdefault('address',obs.get('address','').replace('地址: ','').strip())
-        p['address'] = re.sub(r'^220(?:42)?','',p['address'])
+        p['address'] = re.sub(r'^\d{3,6}(?=[^\d])','',p['address'])
         p['mapUrl'] = obs['url']
         p.setdefault('rating',float(obs.get('rating','0').split()[0]))
         p.setdefault('reviewCount',int(re.sub(r'\D','',obs.get('reviews','0'))))
-        p['photos'] = [re.sub(r'^url\("?|"?\)$','',url) for url in obs['photos']]
+        photo_ids = set()
+        p['photos'] = []
+        for url in obs['photos']:
+            url = re.sub(r'^url\("?|"?\)$','',url)
+            identity = url.split('=')[0]
+            if identity not in photo_ids:
+                photo_ids.add(identity)
+                p['photos'].append(url)
+        p['photos'] = p['photos'][:5]
         p['photoSource'] = 'Google Maps 店家頁面；權利屬原攝影者'
         route = routes[obs['name']]
         route_text = route['options'][0]
@@ -55,23 +87,41 @@ def build():
         p['walkDistance'] = distance.group(1)
         p['routeVia'] = next((s for s in route_text.splitlines() if s.startswith('途經')),'Google 建議步行路線')
         p['routeUrl'] = route['url']
-        assert p['walkMinutes'] <= 15, f"Outside walk limit: {p['name']}"
+        p['driveMinutes'] = drive
+        p['driveDistance'] = re.search(r'([\d.]+ (?:公尺|公里))',drives[obs['name']]['options'][0]).group(1) if drive is not None else '未查證'
+        p['driveRouteUrl'] = drives[obs['name']]['url'] if drive is not None else 'https://www.google.com/maps/dir/?api=1&destination='+quote(p['name']+' '+p['address'])+'&travelmode=driving'
+        p['driveVia'] = next((s for s in drives[obs['name']]['options'][0].splitlines() if s.startswith('途經')),'Google 建議開車路線') if drive is not None else '未查證，請自行規劃路線'
+        p['walkBand'] = '0-5' if walk <= 5 else '5-10' if walk <= 10 else '10-20' if walk <= 20 else None
+        assert walk <= 20 or (drive is not None and drive <= 15)
+        # Retain the researched meal periods and shop types without the removed categories.
+        old_periods = p['periods']
+        p['periods'] = [v for v in old_periods if v not in ['下午茶','宵夜']]
+        if '宵夜' in old_periods and not p['periods']:
+            p['periods'] = ['晚餐']
+        elif not p['periods']:
+            p['periods'] = ['甜點／飲料']
         p['tags'] = p['periods'] + [t for t in ['咖啡廳','飲料'] if (t=='咖啡廳' and t in p['types']) or (t=='飲料' and '飲料店' in p['types'])] + ['台菜' if c=='台式' else c for c in p['cuisines'] if c in ['港式','日式'] or (c=='台式' and any(t in p['types'] for t in ['小吃','麵店','飯類','餐酒館','熱炒']))]
         original_rating = p.get('childRating', '未查證')
         p['childRating'] = {'很適合':'適合', '不太適合':'不適合', '未查證':'普通'}.get(original_rating, original_rating)
-        p['childBasis'] = '資料不足，暫列普通，並非已確認適合兒童' if original_rating == '未查證' else '公開資料＋情境推估'
+        p.setdefault('childBasis','資料不足，暫列普通，並非已確認適合兒童' if original_rating == '未查證' else '公開資料＋情境推估')
         for field in ['childNote', 'highchair', 'spacious']:
             p.pop(field, None)
         assert p['childRating'] in TAXONOMY['childRatings']
         p['priceBands'] = [band['label'] for band in TAXONOMY['priceBands'] if p['price'][0] <= band['max'] and p['price'][1] >= band['min']]
-        p['classificationBasis'] = '依公開菜單與店家定位整理；適合場合為情境推估，未保證兒童或包廂設備。'
+        p.setdefault('classificationBasis','依公開菜單與店家定位整理；適合場合為情境推估，未保證兒童或包廂設備。')
         p['checkedAt'] = '2026-10-04'
         assert len(p['photos']) == 5 and len(set(p['photos'])) == 5, p['name']
+        for field in ['cuisines','types','periods','occasions']:
+            assert all(v in TAXONOMY[field] for v in p[field]), (p['name'],field)
         places.append(p)
+    assert len({p['name'] for p in places}) == len(places)
+    identities = [re.search(r'!1s(0x[^!]+)',p['mapUrl']).group(1) if re.search(r'!1s(0x[^!]+)',p['mapUrl']) else p['name'] for p in places]
+    assert len(set(identities)) == len(places), 'Duplicate Google Maps place identity'
+    assert len(places) == 500 + len(more_metadata) and len({p['id'] for p in places}) == len(places)
     result = {'checkedAt':'2026-10-04','home':{'label':'板橋區民生路二段240巷68號','mapUrl':json.loads((ROOT/'home-map.json').read_text())['url']},'places':places,'excluded':excluded,'taxonomy':TAXONOMY}
     (ROOT/'data.js').write_text('window.NEARBY_DATA = '+json.dumps(result,ensure_ascii=False,indent=2)+';\n')
     (ROOT/'restaurants.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-    print(f'Built {len(places)} active places, {sum(len(p["photos"]) for p in places)} photos; excluded {len(excluded)} closed places.')
+    print(f'Built {len(places)} active places, {sum(len(p["photos"]) for p in places)} photos; excluded {len(excluded)} candidates.')
 
 if __name__ == '__main__':
     build()

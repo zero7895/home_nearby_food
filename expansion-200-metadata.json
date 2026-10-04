@@ -1,0 +1,5993 @@
+{
+  "麥當勞-板橋文化餐廳": {
+    "shortName": "麥當勞-板橋文化餐廳",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "速食與套餐，適合快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a84076dcb3f7:0x94c0833713a17d24!8m2!3d25.027701!4d121.47037!16s%2Fg%2F1tgfmtv3!19sChIJ97PcdkCoQjQRJH2hEzeDwJQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-001"
+  },
+  "六堆伙房板橋新埔店": {
+    "shortName": "六堆伙房板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "飯類",
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–450 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "客家麵食與家常菜，單人或多人分食都能選。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%AD%E5%A0%86%E4%BC%99%E6%88%BF%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a83e18a94423:0xa17763981f47bec0!8m2!3d25.0233683!4d121.4697777!16s%2Fg%2F11f1wqvx5z!19sChIJI0SpGD6oQjQRwL5HH5hjd6E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.liouduai.com.tw/"
+      },
+      {
+        "label": "六堆伙房官方｜料理與新埔店資訊",
+        "url": "https://www.liouduai.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-002"
+  },
+  "板橋新埔食堂": {
+    "shortName": "板橋新埔食堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a83e1f15be3b:0x1dc3528f07ac9508!8m2!3d25.023543!4d121.4687323!16s%2Fg%2F11d_71p6n_!19sChIJO74VHz6oQjQRCJWsB49Swx0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.shokudo.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-003"
+  },
+  "Coffee HABU Co. 咖啡哈巭": {
+    "shortName": "Coffee HABU Co. 咖啡哈巭",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Coffee+HABU+Co.+%E5%92%96%E5%95%A1%E5%93%88%E5%B7%AD/data=!4m7!3m6!1s0x3442a90f8120659d:0x76d55bc4ef743b75!8m2!3d25.0207471!4d121.4682762!16s%2Fg%2F11t4gy29f6!19sChIJnWUggQ-pQjQRdTt078Rb1XY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/coffee_habu.co/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-004"
+  },
+  "烏龍麵所 板橋新埔店": {
+    "shortName": "烏龍麵所 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      300
+    ],
+    "priceNote": "此次查閱的 Google 公開評論提到柴魚昆布烏龍麵110元、豆皮加點20元；評論價格可能較舊，加入其他餐點預留150–300元。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%83%8F%E9%BE%8D%E9%BA%B5%E6%89%80+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a98e695bae69:0x2b760cb6cc252913!8m2!3d25.022036!4d121.467843!16s%2Fg%2F11lw7zr_0s!19sChIJaa5baY6pQjQREyklzLYMdis?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://udonmanso.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-005"
+  },
+  "新埔洞天 粵式煲湯獨享鍋-新埔美食-板橋火鍋-板橋美食": {
+    "shortName": "新埔洞天 粵式煲湯獨享鍋",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "港式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$350–650 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%96%B0%E5%9F%94%E6%B4%9E%E5%A4%A9+%E7%B2%B5%E5%BC%8F%E7%85%B2%E6%B9%AF%E7%8D%A8%E4%BA%AB%E9%8D%8B-%E6%96%B0%E5%9F%94%E7%BE%8E%E9%A3%9F-%E6%9D%BF%E6%A9%8B%E7%81%AB%E9%8D%8B-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a98b3c21e84f:0xd46ee4329c7ce0c2!8m2!3d25.0202456!4d121.4676378!16s%2Fg%2F11l5qkvqgf!19sChIJT-ghPIupQjQRwuB8nDLkbtQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://dongtianhotpot.framer.website/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-006"
+  },
+  "禾多靜巷 義式餐廳 板橋新埔店": {
+    "shortName": "禾多靜巷 義式餐廳 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      300,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$300–650 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%A6%BE%E5%A4%9A%E9%9D%9C%E5%B7%B7+%E7%BE%A9%E5%BC%8F%E9%A4%90%E5%BB%B3+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442abc57d52a685:0x15461a2b094ad58b!8m2!3d25.0246321!4d121.4730463!16s%2Fg%2F11b6ggz94c!19sChIJhaZSfcWrQjQRi9VKCSsaRhU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.herdorlife.com/herdor_tea_house"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-007"
+  },
+  "solemio": {
+    "shortName": "solemio",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      450,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$450–800 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/solemio/data=!4m7!3m6!1s0x3442a815e74a2ad7:0x7ab135520d22edd6!8m2!3d25.0227884!4d121.4667912!16s%2Fg%2F11gzr81xw!19sChIJ1ypK5xWoQjQR1u0iDVI1sXo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/www.solemio.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-008"
+  },
+  "NU PASTA 板橋新埔店": {
+    "shortName": "NU PASTA 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/NU+PASTA+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8168e542ba9:0x6c8d4bd2b92aa745!8m2!3d25.022395!4d121.4651203!16s%2Fg%2F11f4m9yxtd!19sChIJqStUjhaoQjQRRacqudJLjWw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.nu-pasta.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-009"
+  },
+  "陶板屋 板橋捷運新埔店": {
+    "shortName": "陶板屋 板橋捷運新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式",
+      "美式"
+    ],
+    "types": [
+      "牛排"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐",
+      "帶小孩",
+      "慶生",
+      "長輩聚餐"
+    ],
+    "childRating": "適合",
+    "price": [
+      800,
+      1100
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$800–1100 的參考預算，屬推估而非已查證售價或店家平均消費。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "和風洋食套餐，適合約會與慶生聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%99%B6%E6%9D%BF%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E6%8D%B7%E9%81%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a81bd39c401d:0xc4e272b190104941!8m2!3d25.0236277!4d121.4687999!16s%2Fg%2F1ts3hxk2!19sChIJHUCc0xuoQjQRQUkQkLFy4sQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.tokiya.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-010"
+  },
+  "QuackKitchen 呱灶廚房": {
+    "shortName": "QuackKitchen 呱灶廚房",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      280,
+      450
+    ],
+    "priceNote": "Google 公開評論提到法式吐司280元；主餐搭飲品預留280–450元，最新菜單待店家確認。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/QuackKitchen+%E5%91%B1%E7%81%B6%E5%BB%9A%E6%88%BF/data=!4m7!3m6!1s0x3442a976a55c143d:0x6beddc32c3468cc7!8m2!3d25.026481!4d121.4666365!16s%2Fg%2F11s4698skn!19sChIJPRRcpXapQjQRx4xGwzLc7Ws?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/quack_kitchen"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-011"
+  },
+  "Guten Morgen Brunch & Beer 貳巷食號 Night Burger (Prosit Cafe and Bistro)": {
+    "shortName": "貳巷食號 Guten Morgen",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Guten+Morgen+Brunch+%26+Beer+%E8%B2%B3%E5%B7%B7%E9%A3%9F%E8%99%9F+Night+Burger+%28Prosit+Cafe+and+Bistro%29/data=!4m7!3m6!1s0x3442a95b9e276ca9:0x9d1f137b21ae3db3!8m2!3d25.0250478!4d121.4684965!16s%2Fg%2F11g0m4ghtp!19sChIJqWwnnlupQjQRsz2uIXsTH50?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-012"
+  },
+  "藍海子LazyBrunch 新埔": {
+    "shortName": "藍海子LazyBrunch 新埔",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%97%8D%E6%B5%B7%E5%AD%90LazyBrunch+%E6%96%B0%E5%9F%94/data=!4m7!3m6!1s0x3442a9002921b9db:0xab0981a635ac1127!8m2!3d25.0205062!4d121.4676409!16s%2Fg%2F11x091ncx8!19sChIJ27khKQCpQjQRJxGsNaaBCas?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-013"
+  },
+  "小螺波 板橋店": {
+    "shortName": "小螺波 板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–280 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "廣西風味螺螄粉，想吃酸辣麵食時的選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E8%9E%BA%E6%B3%A2+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a98978557349:0xe8501160a2bb516e!8m2!3d25.0226458!4d121.4673305!16s%2Fg%2F11kqrs63pv!19sChIJSXNVeImpQjQRblG7omARUOg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.xiaoluobo.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-014"
+  },
+  "同樂咖啡": {
+    "shortName": "同樂咖啡",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%90%8C%E6%A8%82%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9e2a31b9e75:0x57c13f46d432718d!8m2!3d25.0227393!4d121.4667855!16s%2Fg%2F11rj54ghzw!19sChIJdZ4bo-KpQjQRjXEy1EY_wVc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://sites.google.com/view/funtogether17"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-015"
+  },
+  "P'go沛果鮮食煮意": {
+    "shortName": "P'go沛果鮮食煮意",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      250,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–500 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/P%27go%E6%B2%9B%E6%9E%9C%E9%AE%AE%E9%A3%9F%E7%85%AE%E6%84%8F/data=!4m7!3m6!1s0x3442a81634513133:0xb9c7997095868cc3!8m2!3d25.0201959!4d121.46725!16s%2Fg%2F11f3dfz6d2!19sChIJMzFRNBaoQjQRw4yGlXCZx7k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/prego.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-016"
+  },
+  "和牛涮 板橋文化店": {
+    "shortName": "和牛涮 板橋文化店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      900,
+      1300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$900–1300 的參考預算，屬推估而非已查證售價或店家平均消費。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%92%8C%E7%89%9B%E6%B6%AE+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a929a505f077:0xa35beb1974da8294!8m2!3d25.021312!4d121.467335!16s%2Fg%2F11qnrlz64z!19sChIJd_AFpSmpQjQRlILadBnrW6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.wagyushabu.com.tw/index.php"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-017"
+  },
+  "盈泰豐泰式料理": {
+    "shortName": "盈泰豐泰式料理",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–500 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%9B%88%E6%B3%B0%E8%B1%90%E6%B3%B0%E5%BC%8F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a815e0da2715:0x690d2e53278a1fd2!8m2!3d25.0229239!4d121.4671971!16s%2Fg%2F1td0w4x_!19sChIJFSfa4BWoQjQR0h-KJ1MuDWk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-018"
+  },
+  "拾貳籃早午餐-江子翠捷運站 新埔捷運站 親子友善餐廳 免服務費 包場方案彈性多元 歡迎來電洽詢": {
+    "shortName": "拾貳籃早午餐",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      170,
+      350
+    ],
+    "priceNote": "Google 公開評論提到總匯100元加70元套餐；依不同主餐規劃170–350元，最新價格待店家確認。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%8B%BE%E8%B2%B3%E7%B1%83%E6%97%A9%E5%8D%88%E9%A4%90-%E6%B1%9F%E5%AD%90%E7%BF%A0%E6%8D%B7%E9%81%8B%E7%AB%99+%E6%96%B0%E5%9F%94%E6%8D%B7%E9%81%8B%E7%AB%99+%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3+%E5%85%8D%E6%9C%8D%E5%8B%99%E8%B2%BB+%E5%8C%85%E5%A0%B4%E6%96%B9%E6%A1%88%E5%BD%88%E6%80%A7%E5%A4%9A%E5%85%83+%E6%AD%A1%E8%BF%8E%E4%BE%86%E9%9B%BB%E6%B4%BD%E8%A9%A2/data=!4m7!3m6!1s0x3442a92d3f8a5d9f:0xf890bc9865a7e6e6!8m2!3d25.0265726!4d121.4689862!16s%2Fg%2F11ny4ptzfp!19sChIJn12KPy2pQjQR5uanZZi8kPg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-019"
+  },
+  "老味噌居酒屋 板橋-新埔店": {
+    "shortName": "老味噌居酒屋 板橋-新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E5%91%B3%E5%99%8C%E5%B1%85%E9%85%92%E5%B1%8B+%E6%9D%BF%E6%A9%8B-%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a83dc42f89ab:0x9535174afbba3269!8m2!3d25.0210702!4d121.470417!16s%2Fg%2F1pp2tzzjr!19sChIJq4kvxD2oQjQRaTK6-0oXNZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/booking/-NOcqRrDww6Jj3lqRhGn:inline-live-3"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-020"
+  },
+  "聚 日式鍋物 板橋江子翠店": {
+    "shortName": "聚 日式鍋物 板橋江子翠店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      700
+    ],
+    "priceNote": "Google 公開評論記載有500元內的單人用餐組合；不同主餐與加點預留400–700元，最新菜單待確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%81%9A+%E6%97%A5%E5%BC%8F%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E6%B1%9F%E5%AD%90%E7%BF%A0%E5%BA%97/data=!4m7!3m6!1s0x3442a921d1e8ed77:0x3e1c74acf0028796!8m2!3d25.0292649!4d121.4727657!16s%2Fg%2F11kqcfknnd!19sChIJd-3o0SGpQjQRlocC8Kx0HD4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.giguo.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-021"
+  },
+  "W2 Cafe 板橋小籠包｜江子翠咖啡廳": {
+    "shortName": "W2 Cafe 板橋小籠包",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/W2+Cafe+%E6%9D%BF%E6%A9%8B%E5%B0%8F%E7%B1%A0%E5%8C%85%EF%BD%9C%E6%B1%9F%E5%AD%90%E7%BF%A0%E5%92%96%E5%95%A1%E5%BB%B3/data=!4m7!3m6!1s0x3442a9c37aff747f:0xb7c008d939023615!8m2!3d25.0311145!4d121.4726214!16s%2Fg%2F11kz543d2n!19sChIJf3T_esOpQjQRFTYCOdkIwLc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://reserve.oddle.me/w2-cafe"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-022"
+  },
+  "定食8 江翠店⎜日式定食 午間定食 ⎜台北江子翠捷運平價美食": {
+    "shortName": "定食8 江翠店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$220–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%AE%9A%E9%A3%9F8+%E6%B1%9F%E7%BF%A0%E5%BA%97%E2%8E%9C%E6%97%A5%E5%BC%8F%E5%AE%9A%E9%A3%9F+%E5%8D%88%E9%96%93%E5%AE%9A%E9%A3%9F+%E2%8E%9C%E5%8F%B0%E5%8C%97%E6%B1%9F%E5%AD%90%E7%BF%A0%E6%8D%B7%E9%81%8B%E5%B9%B3%E5%83%B9%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a841188219a5:0xba4f05214f4b04ce!8m2!3d25.0299397!4d121.4726322!16s%2Fg%2F12m9bkf3w!19sChIJpRmCGEGoQjQRzgRLTyEFT7o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.sushiexpress.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-023"
+  },
+  "老串角居酒屋-江子翠總店": {
+    "shortName": "老串角居酒屋-江子翠總店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "此次 Google 公開評論出現每人400–600元區間；串燒搭配酒飲規劃500–1,000元，並非店家統計平均。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E4%B8%B2%E8%A7%92%E5%B1%85%E9%85%92%E5%B1%8B-%E6%B1%9F%E5%AD%90%E7%BF%A0%E7%B8%BD%E5%BA%97/data=!4m7!3m6!1s0x3442a97d5c1b2f1b:0x4d1b1e821aa73846!8m2!3d25.0277587!4d121.4724204!16s%2Fg%2F11h047l60q!19sChIJGy8bXH2pQjQRRjinGoIeG00?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://kushi-kadoizakaya.weebly.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-024"
+  },
+  "藍海子 LazyBrunch 江子翠": {
+    "shortName": "藍海子 LazyBrunch 江子翠",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%97%8D%E6%B5%B7%E5%AD%90+LazyBrunch+%E6%B1%9F%E5%AD%90%E7%BF%A0/data=!4m7!3m6!1s0x3442a9c6c27cf1d9:0xaaa6927fea7fbd1a!8m2!3d25.0321411!4d121.4767169!16s%2Fg%2F11v60qwf4x!19sChIJ2fF8wsapQjQRGr1_6n-Spqo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=100094583807400"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-025"
+  },
+  "炎上燒肉": {
+    "shortName": "炎上燒肉",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      900,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$900–1500 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%82%8E%E4%B8%8A%E7%87%92%E8%82%89/data=!4m7!3m6!1s0x3442a90033a17bb7:0x6440eee93cc5d292!8m2!3d25.0307637!4d121.4727438!16s%2Fg%2F11wjqqkybr!19sChIJt3uhMwCpQjQRktLFPOnuQGQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://yakinikuenjo.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-026"
+  },
+  "泰之初 Brunch板橋江翠店": {
+    "shortName": "泰之初 Brunch板橋江翠店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B3%B0%E4%B9%8B%E5%88%9D+Brunch%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97/data=!4m7!3m6!1s0x3442a9a556cbf1ff:0xea62a8a1a18874d8!8m2!3d25.0305307!4d121.475939!16s%2Fg%2F11ght89r85!19sChIJ__HLVqWpQjQR2HSIoaGoYuo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/JiangCuiBrunchThai/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-027"
+  },
+  "大洺牛肉麵-板橋美食-江子翠餐廳-Restaurants": {
+    "shortName": "大洺牛肉麵",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%B4%BA%E7%89%9B%E8%82%89%E9%BA%B5-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F-%E6%B1%9F%E5%AD%90%E7%BF%A0%E9%A4%90%E5%BB%B3-Restaurants/data=!4m7!3m6!1s0x3442a95f41e22643:0x97c4a7b1da4e027e!8m2!3d25.0259709!4d121.476103!16s%2Fg%2F11m77cnhr4!19sChIJQybiQV-pQjQRfgJO2rGnxJc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://daming-niouroumian.weebly.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-028"
+  },
+  "豐華小館": {
+    "shortName": "豐華小館",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      700,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$700–1500 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B1%90%E8%8F%AF%E5%B0%8F%E9%A4%A8/data=!4m7!3m6!1s0x3442a841265adef1:0x1a7e061c6598e260!8m2!3d25.0289694!4d121.4732444!16s%2Fg%2F1tfskpkh!19sChIJ8d5aJkGoQjQRYOKYZRwGfho?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://fonhua.blogspot.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-029"
+  },
+  "水云濮人文食堂": {
+    "shortName": "水云濮人文食堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–280 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B0%B4%E4%BA%91%E6%BF%AE%E4%BA%BA%E6%96%87%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a844885d668b:0xa1d56e237e0c569!8m2!3d25.0342973!4d121.4749396!16s%2Fg%2F11b639pk3r!19sChIJi2ZdiESoQjQRacXgN-JWHQo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.facebook.com/shueiyunpu"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-030"
+  },
+  "TNT美式炭烤牛排-板橋店": {
+    "shortName": "TNT美式炭烤牛排-板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "牛排"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      850
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–850 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "牛排主餐，適合午晚餐聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/TNT%E7%BE%8E%E5%BC%8F%E7%82%AD%E7%83%A4%E7%89%9B%E6%8E%92-%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a96b037d1ebf:0xb2ba69d7d597d5d1!8m2!3d25.0255927!4d121.4750828!16s%2Fg%2F11kbczs6wv!19sChIJvx59A2upQjQR0dWX1ddpurI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=100089882211208&mibextid=LQQJ4d"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-031"
+  },
+  "風日洋食": {
+    "shortName": "風日洋食",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$300–600 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A2%A8%E6%97%A5%E6%B4%8B%E9%A3%9F/data=!4m7!3m6!1s0x3442a97dcf00603b:0xefce891aa7a4c75!8m2!3d25.0205541!4d121.4675958!16s%2Fg%2F11tdhtv747!19sChIJO2AAz32pQjQRdUx6qpHo_A4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-032"
+  },
+  "這里恬冰菓室": {
+    "shortName": "這里恬冰菓室",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%80%99%E9%87%8C%E6%81%AC%E5%86%B0%E8%8F%93%E5%AE%A4/data=!4m7!3m6!1s0x3442a9b378997f05:0xa33b2895c95caaee!8m2!3d25.023895!4d121.4723309!16s%2Fg%2F11y5l24jkt!19sChIJBX-ZeLOpQjQR7qpcyZUoO6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-033"
+  },
+  "鮨跡日本料理": {
+    "shortName": "鮨跡日本料理",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1500 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%AE%A8%E8%B7%A1%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a91698a6e919:0x4b1f87acbf00b926!8m2!3d25.0311336!4d121.4741225!16s%2Fg%2F11kh5vp6bl!19sChIJGemmmBapQjQRJrkAv6yHH0s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=100063732652502&sk=grid&locale=zh_TW"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-034"
+  },
+  "肉sandwich板橋新埔店(最後收客14:15)": {
+    "shortName": "肉sandwich板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%82%89sandwich%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97%28%E6%9C%80%E5%BE%8C%E6%94%B6%E5%AE%A214:15%29/data=!4m7!3m6!1s0x3442a939f9a01311:0x67956317cd650222!8m2!3d25.019931!4d121.468593!16s%2Fg%2F11v11x7_3b!19sChIJEROg-TmpQjQRIgJlzRdjlWc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/meatsandwichbq?mibextid=LQQJ4d"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-035"
+  },
+  "福來早餐新埔店": {
+    "shortName": "福來早餐新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      220
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–220 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%A6%8F%E4%BE%86%E6%97%A9%E9%A4%90%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a9215e6899f9:0xf90aaae007f55237!8m2!3d25.0235319!4d121.4660182!16s%2Fg%2F11v05q7dqz!19sChIJ-ZloXiGpQjQRN1L1B-CqCvk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/breakyfast/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-036"
+  },
+  "旧宅在 Near Home Cafe": {
+    "shortName": "旧宅在 Near Home Cafe",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%97%A7%E5%AE%85%E5%9C%A8+Near+Home+Cafe/data=!4m7!3m6!1s0x3442a9aadc92978f:0x1ca39085f566a011!8m2!3d25.0277832!4d121.4688686!16s%2Fg%2F11h3ms1_s6!19sChIJj5eS3KqpQjQREaBm9YWQoxw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/nearhome_72/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-037"
+  },
+  "小巷柒食": {
+    "shortName": "小巷柒食",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$60–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E5%B7%B7%E6%9F%92%E9%A3%9F/data=!4m7!3m6!1s0x3442a9e28a2d7747:0xfa5e801df2bb3710!8m2!3d25.0230764!4d121.466674!16s%2Fg%2F11mwjgr3sm!19sChIJR3ctiuKpQjQREDe78h2AXvo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://iding.tw/stores/9d7d3299/menu"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-038"
+  },
+  "懶的享早午餐": {
+    "shortName": "懶的享早午餐",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%87%B6%E7%9A%84%E4%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x3442a8162701dc4f:0xaaaf8b3ac5b2cb5e!8m2!3d25.0206172!4d121.46828!16s%2Fg%2F11bttpm6j6!19sChIJT9wBJxaoQjQRXsuyxTqLr6o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/lazyenjoy"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-039"
+  },
+  "鳳梨寶堡 | 售完提早打烊 | 外帶請加Line訂餐 ID: pineapple_baby | 無訂位服務 | 只收現金 | 寵物友善 |": {
+    "shortName": "鳳梨寶堡",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。售完可能提早打烊。店名公告無訂位服務。店名公告只收現金。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%B3%B3%E6%A2%A8%E5%AF%B6%E5%A0%A1+%7C+%E5%94%AE%E5%AE%8C%E6%8F%90%E6%97%A9%E6%89%93%E7%83%8A+%7C+%E5%A4%96%E5%B8%B6%E8%AB%8B%E5%8A%A0Line%E8%A8%82%E9%A4%90+ID:+pineapple_baby+%7C+%E7%84%A1%E8%A8%82%E4%BD%8D%E6%9C%8D%E5%8B%99+%7C+%E5%8F%AA%E6%94%B6%E7%8F%BE%E9%87%91+%7C+%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84+%7C/data=!4m7!3m6!1s0x3442a9c1468ab061:0x1ba7dba5b3db7650!8m2!3d25.0230081!4d121.4601947!16s%2Fg%2F11fd6c2c67!19sChIJYbCKRsGpQjQRUHbbs6Xbpxs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/pbaby88/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-040"
+  },
+  "邑朵早午餐": {
+    "shortName": "邑朵早午餐",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%82%91%E6%9C%B5%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x3442a83ca8590c03:0xa1b344d3d628915a!8m2!3d25.0163429!4d121.4740118!16s%2Fg%2F11g8974hlv!19sChIJAwxZqDyoQjQRWpEo1tNEs6E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/idobrunch.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-041"
+  },
+  "J Kitchen": {
+    "shortName": "J Kitchen",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/J+Kitchen/data=!4m7!3m6!1s0x3442a815e91c5569:0xdea700627a78d565!8m2!3d25.0236116!4d121.4673466!16s%2Fg%2F11b5phl468!19sChIJaVUc6RWoQjQRZdV4emIAp94?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-042"
+  },
+  "早。自己 文化店": {
+    "shortName": "早。自己 文化店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%97%A9%E3%80%82%E8%87%AA%E5%B7%B1+%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2ecc1a347:0x5487608f3a7efe8e!8m2!3d25.0267809!4d121.4692479!16s%2Fg%2F11ny3bswt6!19sChIJR6PB7MKpQjQRjv5-Oo9gh1Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://liff.line.me/1645278921-kWRPP32q/?accountId=931dhlkd"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-043"
+  },
+  "美而美1999小柏小傑": {
+    "shortName": "美而美1999小柏小傑",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      180
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$60–180 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%BE%8E%E8%80%8C%E7%BE%8E1999%E5%B0%8F%E6%9F%8F%E5%B0%8F%E5%82%91/data=!4m7!3m6!1s0x3442a8115ef3ef85:0xed91690f60aecc81!8m2!3d25.0236289!4d121.461395!16s%2Fg%2F1tgkdzzq!19sChIJhe_zXhGoQjQRgcyuYA9pke0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-044"
+  },
+  "彼得好咖啡 板橋文化店": {
+    "shortName": "彼得好咖啡 板橋文化店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      80,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a9ccbb08a879:0xe65ce04cc727c6fc!8m2!3d25.0202569!4d121.4669265!16s%2Fg%2F11kj71288x!19sChIJeagIu8ypQjQR_MYnx0zgXOY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/pbcafe_wenhua?igsh=NDhoaGJoMXJ6eXg5"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-045"
+  },
+  "彼得好咖啡 板橋新埔店": {
+    "shortName": "彼得好咖啡 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8142aefe643:0xf8a1cb37f1f26efa!8m2!3d25.0231926!4d121.4654793!16s%2Fg%2F1tf55ky_!19sChIJQ-bvKhSoQjQR-m7y8TfLofg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1-%E6%9D%BF%E6%A9%8B%E5%BA%97-423240414528231/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-046"
+  },
+  "光權 Kuang's Bistro": {
+    "shortName": "光權 Kuang's Bistro",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%89%E6%AC%8A+Kuang%27s+Bistro/data=!4m7!3m6!1s0x3442a81a185a858b:0x2f8bc69d68737e0b!8m2!3d25.017289!4d121.4621267!16s%2Fg%2F11c60dnthn!19sChIJi4VaGBqoQjQRC35zaJ3Giy8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/kuang.bistro/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-047"
+  },
+  "182 pancake": {
+    "shortName": "182 pancake",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐",
+      "咖啡廳"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/182+pancake/data=!4m7!3m6!1s0x3442a83ffde73ee1:0x9c469411087afb56!8m2!3d25.0273066!4d121.4685532!16s%2Fg%2F11bw471tmr!19sChIJ4T7n_T-oQjQRVvt6CBGURpw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.facebook.com/182Pancake"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-048"
+  },
+  "Merci crème": {
+    "shortName": "Merci crème",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Merci+cr%C3%A8me/data=!4m7!3m6!1s0x3442a819d3a430d1:0x7ed6a0b91f3f3f6!8m2!3d25.0176546!4d121.4665234!16s%2Fg%2F11cs0phbrg!19sChIJ0TCk0xmoQjQR9vPzkQtq7Qc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://mercicreme.oddle.me/zh_TW/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-049"
+  },
+  "Ten Ten Den Den 點點甜甜": {
+    "shortName": "Ten Ten Den Den 點點甜甜",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Ten+Ten+Den+Den+%E9%BB%9E%E9%BB%9E%E7%94%9C%E7%94%9C/data=!4m7!3m6!1s0x3442a81a160431bf:0x1253b4b5e8b68236!8m2!3d25.0173549!4d121.461712!16s%2Fg%2F11c3tr8g_9!19sChIJvzEEFhqoQjQRNoK26LW0UxI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://tentendenden.cyberbiz.co/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-050"
+  },
+  "Aposo 艾波索 法式甜點 板橋新埔店": {
+    "shortName": "Aposo 艾波索 法式甜點 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "法式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Aposo+%E8%89%BE%E6%B3%A2%E7%B4%A2+%E6%B3%95%E5%BC%8F%E7%94%9C%E9%BB%9E+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8151cdf94bf:0x93e1c9ba6d912bbc!8m2!3d25.024585!4d121.466668!16s%2Fg%2F11bwl1vd07!19sChIJv5TfHBWoQjQRvCuRbbrJ4ZM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.aposo2035.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-051"
+  },
+  "Gustave & Henri 古斯塔亨利｜甜塔鹹派專賣 板橋店": {
+    "shortName": "Gustave & Henri 古斯塔亨利",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "法式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$150–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Gustave+%26+Henri+%E5%8F%A4%E6%96%AF%E5%A1%94%E4%BA%A8%E5%88%A9%EF%BD%9C%E7%94%9C%E5%A1%94%E9%B9%B9%E6%B4%BE%E5%B0%88%E8%B3%A3+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442ab00782022e5:0x414c7eef6636fbc0!8m2!3d25.0224814!4d121.46986!16s%2Fg%2F11ltft7mzq!19sChIJ5SIgeACrQjQRwPs2Zu9-TEE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.gustavehenri.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-052"
+  },
+  "Bonnie Sugar 手作甜點 不限時咖啡專門店": {
+    "shortName": "Bonnie Sugar 手作甜點 不限時咖啡專門店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Bonnie+Sugar+%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E+%E4%B8%8D%E9%99%90%E6%99%82%E5%92%96%E5%95%A1%E5%B0%88%E9%96%80%E5%BA%97/data=!4m7!3m6!1s0x3442a9003518d849:0x18d68c93f905412e!8m2!3d25.0164837!4d121.462973!16s%2Fg%2F11y2f5vx4h!19sChIJSdgYNQCpQjQRLkEF-ZOM1hg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-053"
+  },
+  "LAZZY BEANS 閑人咖啡": {
+    "shortName": "LAZZY BEANS 閑人咖啡",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/LAZZY+BEANS+%E9%96%91%E4%BA%BA%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a90ad79b73bb:0x73e893bcc9ef568d!8m2!3d25.0211007!4d121.4654089!16s%2Fg%2F11xkwx2n86!19sChIJu3Ob1wqpQjQRjVbvybyT6HM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/lazzybeans_tw?igsh=MXZnc2VzNWY0NTluZw%3D%3D&utm_source=qr"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-054"
+  },
+  "拾梯甜日式舒芙蕾_板橋一店(民權)": {
+    "shortName": "拾梯甜日式舒芙蕾_板橋一店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–500 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%8B%BE%E6%A2%AF%E7%94%9C%E6%97%A5%E5%BC%8F%E8%88%92%E8%8A%99%E8%95%BE_%E6%9D%BF%E6%A9%8B%E4%B8%80%E5%BA%97%28%E6%B0%91%E6%AC%8A%29/data=!4m7!3m6!1s0x3442a96326abb309:0x62a3bf49712be66a!8m2!3d25.0151024!4d121.4604812!16s%2Fg%2F11s76bg51z!19sChIJCbOrJmOpQjQRauYrcUm_o2I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=100083362646766&mibextid=ZbWKwL"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-055"
+  },
+  "時光造所 As Time Goes By｜選物・攝影・手作體驗・咖啡（板橋新埔）請看IG公告營業時間": {
+    "shortName": "時光造所 As Time Goes By",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$150–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%99%82%E5%85%89%E9%80%A0%E6%89%80+As+Time+Goes+By%EF%BD%9C%E9%81%B8%E7%89%A9%E3%83%BB%E6%94%9D%E5%BD%B1%E3%83%BB%E6%89%8B%E4%BD%9C%E9%AB%94%E9%A9%97%E3%83%BB%E5%92%96%E5%95%A1%EF%BC%88%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%EF%BC%89%E8%AB%8B%E7%9C%8BIG%E5%85%AC%E5%91%8A%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93/data=!4m7!3m6!1s0x3442a9bd3badbf5b:0x9b8e3e21a969c266!8m2!3d25.026712!4d121.4666273!16s%2Fg%2F11z18m4_33!19sChIJW7-tO72pQjQRZsJpqSE-jps?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://astimegoesbyhandmade.simplybook.asia/v2/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-056"
+  },
+  "Merci Cafe(營業時間詳見IG)": {
+    "shortName": "Merci Cafe",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Merci+Cafe%28%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%A9%B3%E8%A6%8BIG%29/data=!4m7!3m6!1s0x3442a81e8ec93585:0x7af768d9e0a1a048!8m2!3d25.010337!4d121.4634209!16s%2Fg%2F11g_ms64h!19sChIJhTXJjh6oQjQRSKCh4Nlo93o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://m.facebook.com/profile.php?id=100089864175615&eav=AfbyodAFtCfbTcEnRiiaNgfytFOwK2_aeS3AQU2pMQZf0SS52UGRfexbzRthcpwKp78&fref=nf&paipv=0"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-057"
+  },
+  "Ponpie澎派 板橋店 水果塔專門店 甜點 生日蛋糕": {
+    "shortName": "Ponpie澎派 板橋店 水果塔專門店 甜點 生日蛋糕",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Ponpie%E6%BE%8E%E6%B4%BE+%E6%9D%BF%E6%A9%8B%E5%BA%97+%E6%B0%B4%E6%9E%9C%E5%A1%94%E5%B0%88%E9%96%80%E5%BA%97+%E7%94%9C%E9%BB%9E+%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95/data=!4m7!3m6!1s0x3442a81b7eb32637:0xdc48d7b4b61e5e85!8m2!3d25.0141664!4d121.4595405!16s%2Fg%2F11btlxyw2q!19sChIJNyazfhuoQjQRhV4etrTXSNw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://ponpie.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-058"
+  },
+  "小木咖啡店": {
+    "shortName": "小木咖啡店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E6%9C%A8%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9a8e2e705ff:0x6ad707b4203ae65b!8m2!3d25.0218587!4d121.4582909!16s%2Fg%2F11fmwqgdsy!19sChIJ_wXn4qipQjQRW-Y6ILQH12o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E5%B0%8F%E6%9C%A8%E5%92%96%E5%95%A1%E5%BA%97-406677346842943/?modal=admin_todo_tour"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-059"
+  },
+  "沐珈琲 自家焙煎": {
+    "shortName": "沐珈琲 自家焙煎",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B2%90%E7%8F%88%E7%90%B2+%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/data=!4m7!3m6!1s0x3442a8162dbe9a85:0x8f9f65d36ff87292!8m2!3d25.0201452!4d121.4678777!16s%2Fg%2F11c4698m5x!19sChIJhZq-LRaoQjQRknL4b9Nln48?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=61581188663309"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-060"
+  },
+  "哈肯舖烘焙 - 板橋新埔店": {
+    "shortName": "哈肯舖烘焙 - 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%93%88%E8%82%AF%E8%88%96%E7%83%98%E7%84%99+-+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a95bb1f8f3c1:0x1c3da40c39261286!8m2!3d25.024684!4d121.467745!16s%2Fg%2F11gmxc8gc0!19sChIJwfP4sVupQjQRhhImOQykPRw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.hoganbakery.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-061"
+  },
+  "一之軒 幸福烘焙 新埔店": {
+    "shortName": "一之軒 幸福烘焙 新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E4%B9%8B%E8%BB%92+%E5%B9%B8%E7%A6%8F%E7%83%98%E7%84%99+%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a9673d2b0187:0x61c6aaf20d2367e0!8m2!3d25.0238296!4d121.4668428!16s%2Fg%2F11h5dmczms!19sChIJhwErPWepQjQR4GcjDfKqxmE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.ijysheng.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-062"
+  },
+  "KDI CAFE": {
+    "shortName": "KDI CAFE",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/KDI+CAFE/data=!4m7!3m6!1s0x3442a943097aeeb3:0x902e6b822ca960e7!8m2!3d25.028279!4d121.4752677!16s%2Fg%2F11wxcsgj7v!19sChIJs-56CUOpQjQR52CpLIJrLpA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/kdicafe?igsh=MTZjcjBxb2xxdzRxbg=="
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-063"
+  },
+  "緣聚。酒食創作": {
+    "shortName": "緣聚。酒食創作",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "餐酒館"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%B7%A3%E8%81%9A%E3%80%82%E9%85%92%E9%A3%9F%E5%89%B5%E4%BD%9C/data=!4m7!3m6!1s0x3442a9723cf00295:0x1e0ee55704ce50f6!8m2!3d25.0239497!4d121.4690654!16s%2Fg%2F11v3x6nf35!19sChIJlQLwPHKpQjQR9lDOBFflDh4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/fate_bistro233/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-064"
+  },
+  "煨煨小米 粥舖韓食飯捲 板橋莒光店-板橋美食 板橋小吃 板橋必吃 板橋飯捲": {
+    "shortName": "煨煨小米 粥舖韓食飯捲 板橋莒光店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%85%A8%E7%85%A8%E5%B0%8F%E7%B1%B3+%E7%B2%A5%E8%88%96%E9%9F%93%E9%A3%9F%E9%A3%AF%E6%8D%B2+%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E5%BA%97-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F+%E6%9D%BF%E6%A9%8B%E5%B0%8F%E5%90%83+%E6%9D%BF%E6%A9%8B%E5%BF%85%E5%90%83+%E6%9D%BF%E6%A9%8B%E9%A3%AF%E6%8D%B2/data=!4m7!3m6!1s0x3442a927b09fd775:0xd4337acd82fa138!8m2!3d25.0238678!4d121.4731517!16s%2Fg%2F11v3p150yb!19sChIJddefsCepQjQROKEv2Kw3Qw0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://simmerrice.weebly.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-065"
+  },
+  "HALO潮飯": {
+    "shortName": "HALO潮飯",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      130,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$130–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/HALO%E6%BD%AE%E9%A3%AF/data=!4m7!3m6!1s0x3442a83eac485041:0x316c1b9fce8e2ee2!8m2!3d25.0218906!4d121.4742865!16s%2Fg%2F11c5z_6fs0!19sChIJQVBIrD6oQjQR4i6Ozp8bbDE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://halochaofan.weebly.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-066"
+  },
+  "來來水餃": {
+    "shortName": "來來水餃",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "Google 公開評論記載水餃每顆8元、至少10顆，另有麵與湯品；規劃每人100–250元，評論價格可能較舊。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BE%86%E4%BE%86%E6%B0%B4%E9%A4%83/data=!4m7!3m6!1s0x3442a83eb571c0f1:0xc4124995ff8c3612!8m2!3d25.0223083!4d121.4739813!16s%2Fg%2F11c45wjwwm!19sChIJ8cBxtT6oQjQREjaM_5VJEsQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-067"
+  },
+  "友谷涮涮屋": {
+    "shortName": "友谷涮涮屋",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      320,
+      600
+    ],
+    "priceNote": "Google 公開評論記載基本鍋約319元；加點與肉品不同，預留320–600元，最新價格待確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%8F%8B%E8%B0%B7%E6%B6%AE%E6%B6%AE%E5%B1%8B/data=!4m7!3m6!1s0x3442a9c9fb27a3e1:0xc64130e761249fd4!8m2!3d25.0239483!4d121.4719595!16s%2Fg%2F1tj7brlb!19sChIJ4aMn-8mpQjQR1J8kYecwQcY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/YouGuShuanShuanGuo/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-068"
+  },
+  "初義食午義大利麵": {
+    "shortName": "初義食午義大利麵",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$150–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%88%9D%E7%BE%A9%E9%A3%9F%E5%8D%88%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5/data=!4m7!3m6!1s0x3442a927b21263d9:0x398a02a9fe67e0b1!8m2!3d25.0245275!4d121.4698147!16s%2Fg%2F11fm785v8w!19sChIJ2WMSsiepQjQRseBn_qkCijk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://liff.line.me/1645278921-kWRPP32q/?accountId=591gqwbi"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-069"
+  },
+  "大小通吃": {
+    "shortName": "大小通吃",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%B0%8F%E9%80%9A%E5%90%83/data=!4m7!3m6!1s0x3442a83e4e85da3b:0x1c75bcb4b7c7fcdd!8m2!3d25.0241694!4d121.4704253!16s%2Fg%2F11b63vlhl2!19sChIJO9qFTj6oQjQR3fzHt7S8dRw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-070"
+  },
+  "萬得富爸爸肉骨茶王中王": {
+    "shortName": "萬得富爸爸肉骨茶王中王",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "新馬料理"
+    ],
+    "types": [
+      "小吃",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "肉骨茶湯品，想喝熱湯時的一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%90%AC%E5%BE%97%E5%AF%8C%E7%88%B8%E7%88%B8%E8%82%89%E9%AA%A8%E8%8C%B6%E7%8E%8B%E4%B8%AD%E7%8E%8B/data=!4m7!3m6!1s0x3442a83e354fc029:0xf9862d0007e9cb61!8m2!3d25.0246586!4d121.4698697!16s%2Fg%2F11c0rk_y89!19sChIJKcBPNT6oQjQRYcvpBwAthvk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/WonderfulBaBaBKT?mibextid=LQQJ4d"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-071"
+  },
+  "泰國廚房泰式平價料理": {
+    "shortName": "泰國廚房泰式平價料理",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–500 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B3%B0%E5%9C%8B%E5%BB%9A%E6%88%BF%E6%B3%B0%E5%BC%8F%E5%B9%B3%E5%83%B9%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a83f9617581d:0xd09f0fdba474b6c6!8m2!3d25.0240214!4d121.4714548!16s%2Fg%2F11c30tvw9_!19sChIJHVgXlj-oQjQRxrZ0pNsPn9A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-072"
+  },
+  "武越天": {
+    "shortName": "武越天",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%AD%A6%E8%B6%8A%E5%A4%A9/data=!4m7!3m6!1s0x3442a83efc46098b:0xee5eae89f170852!8m2!3d25.0239796!4d121.471693!16s%2Fg%2F11b_2ttf3l!19sChIJiwlG_D6oQjQRUggXn-jq5Q4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-073"
+  },
+  "湯虎食初-鍋燒意麵": {
+    "shortName": "湯虎食初-鍋燒意麵",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–280 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B9%AF%E8%99%8E%E9%A3%9F%E5%88%9D-%E9%8D%8B%E7%87%92%E6%84%8F%E9%BA%B5/data=!4m7!3m6!1s0x3442a9a1191afe39:0x80f4ba9e26f0a223!8m2!3d25.0242862!4d121.4713096!16s%2Fg%2F11z4lx98x4!19sChIJOf4aGaGpQjQRI6LwJp669IA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-074"
+  },
+  "龍行天下小吃店": {
+    "shortName": "龍行天下小吃店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BE%8D%E8%A1%8C%E5%A4%A9%E4%B8%8B%E5%B0%8F%E5%90%83%E5%BA%97/data=!4m7!3m6!1s0x3442a904df0fe771:0x4be974b7fe4b4727!8m2!3d25.0222714!4d121.4741387!16s%2Fg%2F11g1kv34hm!19sChIJcecP3wSpQjQRJ0dL_rd06Us?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-075"
+  },
+  "四維客棧 創新台菜": {
+    "shortName": "四維客棧 創新台菜",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      900
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–900 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%9B%9B%E7%B6%AD%E5%AE%A2%E6%A3%A7+%E5%89%B5%E6%96%B0%E5%8F%B0%E8%8F%9C/data=!4m7!3m6!1s0x3442a9195c33891b:0xda284df9eb51dced!8m2!3d25.0261557!4d121.4647481!16s%2Fg%2F11mtlbrq6s!19sChIJG4kzXBmpQjQR7dxR6_lNKNo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://startinghouse.wixsite.com/site"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-076"
+  },
+  "樂威牛排館": {
+    "shortName": "樂威牛排館",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "牛排"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      550
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–550 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "牛排主餐，適合午晚餐聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%A8%82%E5%A8%81%E7%89%9B%E6%8E%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a95f59a47aa3:0xd0946c3790a237c4!8m2!3d25.0258718!4d121.465!16s%2Fg%2F11kj8wktcf!19sChIJo3qkWV-pQjQRxDeikDdslNA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/p/%E6%A8%82%E5%A8%81%E7%89%9B%E6%8E%92%E9%A4%A8-100092178406172/?locale=zh_TW"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-077"
+  },
+  "二穀 壽司丼飯小売所": {
+    "shortName": "二穀 壽司丼飯小売所",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      300,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$300–700 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BA%8C%E7%A9%80+%E5%A3%BD%E5%8F%B8%E4%B8%BC%E9%A3%AF%E5%B0%8F%E5%A3%B2%E6%89%80/data=!4m7!3m6!1s0x3442a98ae9ccf8e1:0x79f4cf036a168d13!8m2!3d25.0261236!4d121.4640239!16s%2Fg%2F11t_sdmlym!19sChIJ4fjM6YqpQjQRE40WagPP9Hk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://instagram.com/nikoku_sushi?igshid=MWZjMTM2ODFkZg=="
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-078"
+  },
+  "食樂堂": {
+    "shortName": "食樂堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–800 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A3%9F%E6%A8%82%E5%A0%82/data=!4m7!3m6!1s0x3442a9bab76962e1:0x127db854bec7f667!8m2!3d25.0249204!4d121.4652011!16s%2Fg%2F11f9wn06_q!19sChIJ4WJpt7qpQjQRZ_bHvlS4fRI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://fb.me/ShiLeTang8"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-079"
+  },
+  "食神滷味板橋四維旗艦店": {
+    "shortName": "食神滷味板橋四維旗艦店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "滷味小吃，依想吃的食材自由搭配。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A3%9F%E7%A5%9E%E6%BB%B7%E5%91%B3%E6%9D%BF%E6%A9%8B%E5%9B%9B%E7%B6%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a9000a229c8b:0x148683e5da45e9cf!8m2!3d25.028649!4d121.4630233!16s%2Fg%2F11vwgfw577!19sChIJi5wiCgCpQjQRz-lF2uWDhhQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://store.dudooeat.com/order/store/357940e874754b069848188bc7c01a46"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-080"
+  },
+  "津菁炒飯-四維店": {
+    "shortName": "津菁炒飯-四維店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B4%A5%E8%8F%81%E7%82%92%E9%A3%AF-%E5%9B%9B%E7%B6%AD%E5%BA%97/data=!4m7!3m6!1s0x3442a86ca9cd7abd:0xde45a92266bf34db!8m2!3d25.0295057!4d121.4626997!16s%2Fg%2F11kzcrw46r!19sChIJvXrNqWyoQjQR2zS_ZiKpRd4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-081"
+  },
+  "稻香園陳記潮汕砂鍋粥板橋三民店": {
+    "shortName": "稻香園陳記潮汕砂鍋粥板橋三民店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–600 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "潮汕砂鍋粥，適合多人分食暖胃的一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%A8%BB%E9%A6%99%E5%9C%92%E9%99%B3%E8%A8%98%E6%BD%AE%E6%B1%95%E7%A0%82%E9%8D%8B%E7%B2%A5%E6%9D%BF%E6%A9%8B%E4%B8%89%E6%B0%91%E5%BA%97/data=!4m7!3m6!1s0x3442a9b99ef2db95:0xaaf53532c2cb9518!8m2!3d25.0130521!4d121.4791309!16s%2Fg%2F11tjzqc81_!19sChIJldvynrmpQjQRGJXLwjI19ao?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=100087950736028&mibextid=LQQJ4d"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-082"
+  },
+  "惦記溫體牛肉湯（火鍋） 板橋三民店": {
+    "shortName": "惦記溫體牛肉湯 板橋三民店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$350–750 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%83%A6%E8%A8%98%E6%BA%AB%E9%AB%94%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%88%E7%81%AB%E9%8D%8B%EF%BC%89+%E6%9D%BF%E6%A9%8B%E4%B8%89%E6%B0%91%E5%BA%97/data=!4m7!3m6!1s0x3442a98233427ef1:0x2198d58eecc66a31!8m2!3d25.0142277!4d121.4792793!16s%2Fg%2F11vpz8n50s!19sChIJ8X5CM4KpQjQRMWrG7I7VmCE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-083"
+  },
+  "品鮮": {
+    "shortName": "品鮮",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–800 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%93%81%E9%AE%AE/data=!4m7!3m6!1s0x3442a83d8c68a3f9:0xeb956faf66d46e32!8m2!3d25.0207772!4d121.4690103!16s%2Fg%2F11b7f3f778!19sChIJ-aNojD2oQjQRMm7UZq9vles?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E5%93%81%E9%AE%AE-886535734773826/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-084"
+  },
+  "天香小廚": {
+    "shortName": "天香小廚",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–600 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A9%E9%A6%99%E5%B0%8F%E5%BB%9A/data=!4m7!3m6!1s0x3442a90060ee2345:0xa1a3dc56bc0f329e!8m2!3d25.0223907!4d121.4689269!16s%2Fg%2F11w444zsj2!19sChIJRSPuYACpQjQRnjIPvFbco6E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/profile.php?id=61553217333955&mibextid=LQQJ4d"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-085"
+  },
+  "日日晴食健康餐盒｜營養餐盒｜": {
+    "shortName": "日日晴食健康餐盒",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "便當"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      130,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$130–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%97%A5%E6%97%A5%E6%99%B4%E9%A3%9F%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92%EF%BD%9C%E7%87%9F%E9%A4%8A%E9%A4%90%E7%9B%92%EF%BD%9C/data=!4m7!3m6!1s0x3442a981ea91f9c1:0x3ca63a206c48b80b!8m2!3d25.0136767!4d121.4788134!16s%2Fg%2F11q1jm5rxq!19sChIJwfmR6oGpQjQRC7hIbCA6pjw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E6%97%A5%E6%97%A5%E6%99%B4%E9%A3%9F-102822675356183"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-086"
+  },
+  "金龍日料行": {
+    "shortName": "金龍日料行",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%87%91%E9%BE%8D%E6%97%A5%E6%96%99%E8%A1%8C/data=!4m7!3m6!1s0x3442a9531c9ae745:0xcd8f8da7c3f34bfe!8m2!3d25.0135668!4d121.4769636!16s%2Fg%2F11x052ym6c!19sChIJReeaHFOpQjQR_kvzw6eNj80?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/booking/-OJSAaY03hzJ99q40qkc:inline-live-3/-OJSAaeIyXVgmVKBs3ow"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-087"
+  },
+  "泰廚小館": {
+    "shortName": "泰廚小館",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–500 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B3%B0%E5%BB%9A%E5%B0%8F%E9%A4%A8/data=!4m7!3m6!1s0x3442a83ab7838109:0x3bb8c3a2b04b230d!8m2!3d25.015723!4d121.47871!16s%2Fg%2F11g69g5514!19sChIJCYGDtzqoQjQRDSNLsKLDuDs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-088"
+  },
+  "MJ Bistro": {
+    "shortName": "MJ Bistro",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$350–750 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/MJ+Bistro/data=!4m7!3m6!1s0x3442a961343cacf3:0x46b1d10dd5fb13ca!8m2!3d25.0251042!4d121.4659586!16s%2Fg%2F11yyd85c1n!19sChIJ86w8NGGpQjQRyhP71Q3RsUY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://maifood.tw/MJbistro/MJbistro_SP/menu?table=30179"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-089"
+  },
+  "喝桶海餐廳": {
+    "shortName": "喝桶海餐廳",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1200 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%96%9D%E6%A1%B6%E6%B5%B7%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a956209acbdb:0x538b2dcb53e7a20f!8m2!3d25.030765!4d121.4634902!16s%2Fg%2F11q2tdc51_!19sChIJ28uaIFapQjQRD6LnU8sti1M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-090"
+  },
+  "頑味食堂": {
+    "shortName": "頑味食堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      1000,
+      1500
+    ],
+    "priceNote": "Google 公開評論記載曾以每人1,000元預算提供無菜單料理；預留1,000–1,500元，需事先確認當日內容與價格。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A0%91%E5%91%B3%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a8236ffb357f:0x981ccf3307ce99a3!8m2!3d25.0131668!4d121.474889!16s%2Fg%2F1tj508q3!19sChIJfzX7byOoQjQRo5nOBzPPHJg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-091"
+  },
+  "双豚ラーメン": {
+    "shortName": "双豚ラーメン",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "拉麵",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式拉麵，適合午晚餐吃一碗熱湯麵。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%8F%8C%E8%B1%9A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3/data=!4m7!3m6!1s0x3442a949818692a1:0x1713563b8fdb7bb6!8m2!3d25.0274807!4d121.4651899!16s%2Fg%2F11g2_g5mzf!19sChIJoZKGgUmpQjQRtnvbjztWExc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/shuangtun/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-092"
+  },
+  "板橋旬野漁平美食日式料理": {
+    "shortName": "板橋旬野漁平美食日式料理",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      900
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–900 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E6%97%AC%E9%87%8E%E6%BC%81%E5%B9%B3%E7%BE%8E%E9%A3%9F%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a9dc1dc03503:0x870d9b16ba12b06!8m2!3d25.0134993!4d121.4736619!16s%2Fg%2F11mw4cmm8k!19sChIJAzXAHdypQjQRBiuha7HZcAg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.0222259798.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-093"
+  },
+  "賀本屋日式食堂(丼飯、咖哩飯、烏龍麵)": {
+    "shortName": "賀本屋日式食堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B3%80%E6%9C%AC%E5%B1%8B%E6%97%A5%E5%BC%8F%E9%A3%9F%E5%A0%82%28%E4%B8%BC%E9%A3%AF%E3%80%81%E5%92%96%E5%93%A9%E9%A3%AF%E3%80%81%E7%83%8F%E9%BE%8D%E9%BA%B5%29/data=!4m7!3m6!1s0x3442a9d5effeaca7:0x5807ef933f676685!8m2!3d25.0133181!4d121.4739573!16s%2Fg%2F11k4n93f30!19sChIJp6z-79WpQjQRhWZnP5PvB1g?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-094"
+  },
+  "糰聚": {
+    "shortName": "糰聚",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      150
+    ],
+    "priceNote": "Google 公開評論記載內用飯糰50元、鮪魚蛋餅45元、豆漿30元；規劃每人60–150元，外送價格不同且評論價格可能較舊。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%B3%B0%E8%81%9A/data=!4m7!3m6!1s0x3442a98158a8320b:0xf92b6818f245a517!8m2!3d25.0208625!4d121.4700972!16s%2Fg%2F11pc9yy49s!19sChIJCzKoWIGpQjQRF6VF8hhoK_k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://instagram.com/eatingtogether_2021?utm_medium=copy_link"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-095"
+  },
+  "鯨於雞飯": {
+    "shortName": "鯨於雞飯",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%AF%A8%E6%96%BC%E9%9B%9E%E9%A3%AF/data=!4m7!3m6!1s0x3442a95463b0f907:0xe5926f2530041ac9!8m2!3d25.0130721!4d121.4752831!16s%2Fg%2F11q1p2xxnw!19sChIJB_mwY1SpQjQRyRoEMCVvkuU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E9%AF%A8%E6%96%BC%E9%9B%9E%E9%A3%AF-108711034688700"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-096"
+  },
+  "金春喜韓廚-誠品板橋店": {
+    "shortName": "金春喜韓廚-誠品板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "韓式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–700 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "韓式餐點，依當日菜單挑選一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%87%91%E6%98%A5%E5%96%9C%E9%9F%93%E5%BB%9A-%E8%AA%A0%E5%93%81%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a912ecd06ee3:0xdc6213fa8fda840c!8m2!3d25.0087551!4d121.4607384!16s%2Fg%2F11qmb403q2!19sChIJ427Q7BKpQjQRDITaj_oTYtw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/kimchunhee.korea"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-097"
+  },
+  "貓頭鷹深夜早餐-板橋民生": {
+    "shortName": "貓頭鷹深夜早餐-板橋民生",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$60–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "深夜供應早餐類餐點，想吃宵夜時的選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B2%93%E9%A0%AD%E9%B7%B9%E6%B7%B1%E5%A4%9C%E6%97%A9%E9%A4%90-%E6%9D%BF%E6%A9%8B%E6%B0%91%E7%94%9F/data=!4m7!3m6!1s0x3442a91aed1b4711:0x5ff1c285300e4dbe!8m2!3d25.0208664!4d121.4699421!16s%2Fg%2F11yjyz_f18!19sChIJEUcb7RqpQjQRvk0OMIXC8V8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-098"
+  },
+  "拉亞漢堡 板橋三民": {
+    "shortName": "拉亞漢堡 板橋三民",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–400 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%8B%89%E4%BA%9E%E6%BC%A2%E5%A0%A1+%E6%9D%BF%E6%A9%8B%E4%B8%89%E6%B0%91/data=!4m7!3m6!1s0x3442a99bb8c1f83d:0x623c274e543471d!8m2!3d25.0150905!4d121.479379!16s%2Fg%2F11srts353m!19sChIJPfjBuJupQjQRHUdD5XTCIwY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://now.laya.com.tw/table?store=64a4deabc06ca680d4ab243e"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-099"
+  },
+  "大魔大滿足鍋物-板橋民生店": {
+    "shortName": "大魔大滿足鍋物-板橋民生店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E9%AD%94%E5%A4%A7%E6%BB%BF%E8%B6%B3%E9%8D%8B%E7%89%A9-%E6%9D%BF%E6%A9%8B%E6%B0%91%E7%94%9F%E5%BA%97/data=!4m7!3m6!1s0x3442a937f8b48629:0x489a0788378a066c!8m2!3d25.0251871!4d121.4663927!16s%2Fg%2F11jm9wb24v!19sChIJKYa0-DepQjQRbAaKN4gHmkg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/groups/daima"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-100"
+  },
+  "老串角 板橋中山店": {
+    "shortName": "老串角 板橋中山店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E4%B8%B2%E8%A7%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a92d63c3afd1:0x50bc5bb1591e3537!8m2!3d25.0199988!4d121.4810592!16s%2Fg%2F11pr2clv7f!19sChIJ0a_DYy2pQjQRNzUeWbFbvFA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://page.line.me/641mfosc"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-101"
+  },
+  "魚港生猛海鮮料理": {
+    "shortName": "魚港生猛海鮮料理",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%AD%9A%E6%B8%AF%E7%94%9F%E7%8C%9B%E6%B5%B7%E9%AE%AE%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a825683d369f:0xe39a959d5624a57d!8m2!3d25.0132332!4d121.4792877!16s%2Fg%2F1pp2t_v70!19sChIJnzY9aCWoQjQRfaUkVp2VmuM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/YuKangseafood/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-102"
+  },
+  "五六麵館": {
+    "shortName": "五六麵館",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BA%94%E5%85%AD%E9%BA%B5%E9%A4%A8/data=!4m7!3m6!1s0x3442a84710d4288b:0x33a6f838bbb193a2!8m2!3d25.0277375!4d121.4760105!16s%2Fg%2F11c5zk65_b!19sChIJiyjUEEeoQjQRopOxuzj4pjM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-103"
+  },
+  "ONI NOODLE 二鬼麵舖｜板橋店": {
+    "shortName": "ONI NOODLE 二鬼麵舖",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐",
+      "帶小孩"
+    ],
+    "childRating": "適合",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–280 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/ONI+NOODLE+%E4%BA%8C%E9%AC%BC%E9%BA%B5%E8%88%96%EF%BD%9C%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a9cf27ed1c29:0x874f98aaac4b06fc!8m2!3d25.0296112!4d121.4731343!16s%2Fg%2F11j97kv8sf!19sChIJKRztJ8-pQjQR_AZLrKqYT4c?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://oninoodle68.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "Google 公開資料有親子用餐記載，並非店家保證",
+    "id": "neighborhood-104"
+  },
+  "二姊麵擔": {
+    "shortName": "二姊麵擔",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–250 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BA%8C%E5%A7%8A%E9%BA%B5%E6%93%94/data=!4m7!3m6!1s0x3442a8472477d433:0x4740f9b77b7bd0f0!8m2!3d25.028459!4d121.4754229!16s%2Fg%2F12hmfldwh!19sChIJM9R3JEeoQjQR8NB7e7f5QEc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/linlihui0204/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-105"
+  },
+  "元氣家族麵飯館": {
+    "shortName": "元氣家族麵飯館",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      220
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–220 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%83%E6%B0%A3%E5%AE%B6%E6%97%8F%E9%BA%B5%E9%A3%AF%E9%A4%A8/data=!4m7!3m6!1s0x140dd6c86a6960f7:0xbeb1da4f457f2ba4!8m2!3d25.0246204!4d121.4715185!16s%2Fg%2F11b6lj21rl!19sChIJ92BpasjWDRQRpCt_RU_asb4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.foodpanda.com.tw/restaurant/x1uv/yuan-qi-jia-zu-mian-fan-guan-xin-bei-zhuang-jing-dian?utm_medium=organic&utm_source=google&utm_campaign=GBP"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-106"
+  },
+  "甘泉魚麵(雙十店)": {
+    "shortName": "甘泉魚麵",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%94%98%E6%B3%89%E9%AD%9A%E9%BA%B5%28%E9%9B%99%E5%8D%81%E5%BA%97%29/data=!4m7!3m6!1s0x3442a847739fd661:0x69b7ec5d5cd6e6fd!8m2!3d25.0267022!4d121.4767595!16s%2Fg%2F1q62kscjz!19sChIJYdafc0eoQjQR_ebWXF3st2k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.fishnoodle.com.tw/shopinfo/23"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-107"
+  },
+  "小吳鍋燒麵": {
+    "shortName": "小吳鍋燒麵",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$100–280 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E5%90%B3%E9%8D%8B%E7%87%92%E9%BA%B5/data=!4m7!3m6!1s0x3442a9a0d2ef6961:0x81f2b877ce7715b9!8m2!3d25.0134434!4d121.4768141!16s%2Fg%2F11qq6shyy_!19sChIJYWnv0qCpQjQRuRV3zne48oE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/wu_hot?igsh=c3JqOXJzcXdldnlw"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-108"
+  },
+  "季緣 CHI YUAN | 板橋店 | Premium Taiwanese Tea |": {
+    "shortName": "季緣 CHI YUAN",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%AD%A3%E7%B7%A3+CHI+YUAN+%7C+%E6%9D%BF%E6%A9%8B%E5%BA%97+%7C+Premium+Taiwanese+Tea+%7C/data=!4m7!3m6!1s0x3442a90046c1845f:0xb2374585c779507d!8m2!3d25.0234588!4d121.4673!16s%2Fg%2F11xw3r8d4t!19sChIJX4TBRgCpQjQRfVB5x4VFN7I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.chiyuantea.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-109"
+  },
+  "麻古茶坊 板橋新埔店": {
+    "shortName": "麻古茶坊 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%BB%E5%8F%A4%E8%8C%B6%E5%9D%8A+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a904f80a3207:0x82bd0bef7bb6893!8m2!3d25.0205585!4d121.4661915!16s%2Fg%2F11qn0bh9hb!19sChIJBzIK-ASpQjQRk2i7977QKwg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.eathere.com.tw/MaceWebPhone/storelist.php?Q2hhqscrgnaW5JRD0zNDUwMTEx"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-110"
+  },
+  "晴喜摘 板橋民生店": {
+    "shortName": "晴喜摘 板橋民生店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%99%B4%E5%96%9C%E6%91%98+%E6%9D%BF%E6%A9%8B%E6%B0%91%E7%94%9F%E5%BA%97/data=!4m7!3m6!1s0x3442a9663a6f62d3:0x58262f755d0499dc!8m2!3d25.0254295!4d121.4673337!16s%2Fg%2F11tmrr9__7!19sChIJ02JvOmapQjQR3JkEXXUvJlg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-111"
+  },
+  "板橋埔墘市場古早味米苔目冰": {
+    "shortName": "板橋埔墘市場古早味米苔目冰",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      40,
+      120
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$40–120 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E5%9F%94%E5%A2%98%E5%B8%82%E5%A0%B4%E5%8F%A4%E6%97%A9%E5%91%B3%E7%B1%B3%E8%8B%94%E7%9B%AE%E5%86%B0/data=!4m7!3m6!1s0x3442a9372388a8a5:0xe2b692dd0cd6731c!8m2!3d25.0153545!4d121.4761701!16s%2Fg%2F11jn688jnv!19sChIJpaiIIzepQjQRHHPWDN2StuI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-112"
+  },
+  "再睡5分鐘 - 板橋陽明店": {
+    "shortName": "再睡5分鐘 - 板橋陽明店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%86%8D%E7%9D%A15%E5%88%86%E9%90%98+-+%E6%9D%BF%E6%A9%8B%E9%99%BD%E6%98%8E%E5%BA%97/data=!4m7!3m6!1s0x3442a900376fa751:0x9b8a77a8cd11821c!8m2!3d25.0219219!4d121.4660202!16s%2Fg%2F11lmhk753v!19sChIJUadvNwCpQjQRHIIRzah3ips?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.napteazzz.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-113"
+  },
+  "有kaffe冇/新埔店.新北手沖咖啡 新北咖啡豆 板橋區咖啡廳 板橋咖啡豆": {
+    "shortName": "有 kaffe 冇・新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9C%89kaffe%E5%86%87%2F%E6%96%B0%E5%9F%94%E5%BA%97.%E6%96%B0%E5%8C%97%E6%89%8B%E6%B2%96%E5%92%96%E5%95%A1+%E6%96%B0%E5%8C%97%E5%92%96%E5%95%A1%E8%B1%86+%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%92%96%E5%95%A1%E5%BB%B3+%E6%9D%BF%E6%A9%8B%E5%92%96%E5%95%A1%E8%B1%86/data=!4m7!3m6!1s0x3442a93dbfd0e84f:0x837705d21300e8c3!8m2!3d25.0226975!4d121.4702699!16s%2Fg%2F11yf3rs_2_!19sChIJT-jQvz2pQjQRw-gAE9IFd4M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.instagram.com/kaffe_24?igsh=Y2xxM2FtbHN5OTZz&utm_source=qr"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-114"
+  },
+  "天湧茶Vinegar Tea": {
+    "shortName": "天湧茶Vinegar Tea",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A9%E6%B9%A7%E8%8C%B6Vinegar+Tea/data=!4m7!3m6!1s0x3442a99e41f20443:0x58abfd018002f45!8m2!3d25.0169781!4d121.4634294!16s%2Fg%2F11h_trg6st!19sChIJQwTyQZ6pQjQRRS8AGNC_igU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-115"
+  },
+  "茶聚CHAGE板橋大仁店": {
+    "shortName": "茶聚CHAGE板橋大仁店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%8C%B6%E8%81%9ACHAGE%E6%9D%BF%E6%A9%8B%E5%A4%A7%E4%BB%81%E5%BA%97/data=!4m7!3m6!1s0x3442a95e3bccf0b3:0x6cb4b6ffe629ce07!8m2!3d25.0167449!4d121.455547!16s%2Fg%2F11mth2945z!19sChIJs_DMO16pQjQRB84p5v-2tGw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-116"
+  },
+  "烏弄原生茶飲（板橋四維店）": {
+    "shortName": "烏弄原生茶飲",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2%EF%BC%88%E6%9D%BF%E6%A9%8B%E5%9B%9B%E7%B6%AD%E5%BA%97%EF%BC%89/data=!4m7!3m6!1s0x3442a9d3d51e2f59:0x21df04cdbc8c9341!8m2!3d25.0247605!4d121.4653192!16s%2Fg%2F11p4__rh99!19sChIJWS8e1dOpQjQRQZOMvM0E3yE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-117"
+  },
+  "武林茶文創人文茶飲坊 板橋四維旗艦店": {
+    "shortName": "武林茶文創人文茶飲坊 板橋四維旗艦店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%AD%A6%E6%9E%97%E8%8C%B6%E6%96%87%E5%89%B5%E4%BA%BA%E6%96%87%E8%8C%B6%E9%A3%B2%E5%9D%8A+%E6%9D%BF%E6%A9%8B%E5%9B%9B%E7%B6%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a9caf6ed7f77:0x9cc3dc8b1d38c2ad!8m2!3d25.0249425!4d121.4651903!16s%2Fg%2F11fkljywck!19sChIJd3_t9sqpQjQRrcI4HYvcw5w?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E6%AD%A6%E6%9E%97%E8%8C%B6%E6%96%87%E5%89%B5%E4%BA%BA%E6%96%87%E8%8C%B6%E9%A3%B2%E5%9D%8A%E6%96%B0%E5%9F%94%E5%9B%9B%E7%B6%AD%E5%BA%97-2604693036224215/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-118"
+  },
+  "清原芋圓 板橋四維店": {
+    "shortName": "清原芋圓 板橋四維店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店",
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      150
+    ],
+    "priceNote": "Google 公開評論記載紅豆湯約100元，業主回覆鮮奶紅茶70元；單份甜品或飲料規劃60–150元，特殊加料另計。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B8%85%E5%8E%9F%E8%8A%8B%E5%9C%93+%E6%9D%BF%E6%A9%8B%E5%9B%9B%E7%B6%AD%E5%BA%97/data=!4m7!3m6!1s0x3442a9808bed021d:0xc6fe58555fa1418d!8m2!3d25.0248807!4d121.465456!16s%2Fg%2F11qp22l0wp!19sChIJHQLti4CpQjQRjUGhX1VY_sY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://line.me/R/ti/p/%40376pdjlj"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-119"
+  },
+  "五桐號WooTea 新北板橋莒光店": {
+    "shortName": "五桐號WooTea 新北板橋莒光店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BA%94%E6%A1%90%E8%99%9FWooTea+%E6%96%B0%E5%8C%97%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E5%BA%97/data=!4m7!3m6!1s0x3442a9b9ffc17f35:0xf951010e9ba95cc7!8m2!3d25.0245692!4d121.4700429!16s%2Fg%2F11jzdmp5l6!19sChIJNX_B_7mpQjQRx1ypmw4BUfk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.wootea.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-120"
+  },
+  "COMEBUY_板橋民生店": {
+    "shortName": "COMEBUY_板橋民生店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/COMEBUY_%E6%9D%BF%E6%A9%8B%E6%B0%91%E7%94%9F%E5%BA%97/data=!4m7!3m6!1s0x3442a9017eb1817b:0x1a5225a46669d3e3!8m2!3d25.0251824!4d121.467423!16s%2Fg%2F11jpy5j233!19sChIJe4GxfgGpQjQR49NpZqQlUho?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.comebuy2002.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-121"
+  },
+  "娃娃臉雪花冰": {
+    "shortName": "娃娃臉雪花冰",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$80–200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A8%83%E5%A8%83%E8%87%89%E9%9B%AA%E8%8A%B1%E5%86%B0/data=!4m7!3m6!1s0x3442a816807bc037:0x8ca9f62485a4c077!8m2!3d25.0228232!4d121.4656202!16s%2Fg%2F11cn67s6j8!19sChIJN8B7gBaoQjQRd8CkhST2qYw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/%E5%A8%83%E5%A8%83%E8%87%89%E9%9B%AA%E8%8A%B1%E5%86%B0-464126503763680/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-122"
+  },
+  "星巴克(板橋新埔門市)": {
+    "shortName": "星巴克",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%98%9F%E5%B7%B4%E5%85%8B%28%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E9%96%80%E5%B8%82%29/data=!4m7!3m6!1s0x3442a8164beb6b07:0x76184f7b9a3d1e0e!8m2!3d25.0203572!4d121.4666594!16s%2Fg%2F12hmjms6z!19sChIJB2vrSxaoQjQRDh49mntPGHY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.starbucks.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-123"
+  },
+  "CoCo都可 板橋莊敬店": {
+    "shortName": "CoCo都可 板橋莊敬店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$35–110 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "外帶茶飲與特色飲品，飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/CoCo%E9%83%BD%E5%8F%AF+%E6%9D%BF%E6%A9%8B%E8%8E%8A%E6%95%AC%E5%BA%97/data=!4m7!3m6!1s0x3442a83e54d49a27:0xa3493b80001861b7!8m2!3d25.024399!4d121.471128!16s%2Fg%2F1trc2n5z!19sChIJJ5rUVD6oQjQRt2EYAIA7SaM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.coco-tea.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-124"
+  },
+  "Dicos德克士脆皮炸雞-板橋新埔店": {
+    "shortName": "Dicos德克士脆皮炸雞-板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "速食與套餐，適合快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Dicos%E5%BE%B7%E5%85%8B%E5%A3%AB%E8%84%86%E7%9A%AE%E7%82%B8%E9%9B%9E-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a9d52dc879c9:0x53ca29ba6ddf2e97!8m2!3d25.0242208!4d121.4689344!16s%2Fg%2F11zjyt_ps7!19sChIJyXnILdWpQjQRly7fbbopylM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.dicos.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-126"
+  },
+  "饞鬥鍋物 板橋新埔店": {
+    "shortName": "饞鬥鍋物 板橋新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$350–750 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A5%9E%E9%AC%A5%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x346803cf732ddc69:0xabccd5a98acdb763!8m2!3d25.0204142!4d121.4688212!16s%2Fg%2F11r9t6nvn0!19sChIJadwtc88DaDQRY7fNiqnVzKs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://m.facebook.com/%E9%A5%9E%E9%AC%A5%E9%8D%8B%E7%89%A9-%E5%9C%9F%E5%9F%8E%E5%BA%97-104475145128571/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-127"
+  },
+  "老串角日式鍋物-中山店（公休日幫我關注ig)": {
+    "shortName": "老串角日式鍋物-中山店（公休日幫我關注ig)",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E4%B8%B2%E8%A7%92%E6%97%A5%E5%BC%8F%E9%8D%8B%E7%89%A9-%E4%B8%AD%E5%B1%B1%E5%BA%97%EF%BC%88%E5%85%AC%E4%BC%91%E6%97%A5%E5%B9%AB%E6%88%91%E9%97%9C%E6%B3%A8ig%29/data=!4m7!3m6!1s0x3442a9be0c12077b:0xc48a846f40302107!8m2!3d25.0160664!4d121.4747233!16s%2Fg%2F11y53z3hhq!19sChIJewcSDL6pQjQRByEwQG-EisQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.foodpanda.com.tw/restaurant/m7mo/lao-chuan-jiao-ri-shi-guo-wu"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-128"
+  },
+  "吉哆火鍋百匯": {
+    "shortName": "吉哆火鍋百匯",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1000 的參考預算，屬推估而非已查證售價或店家平均消費。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%90%89%E5%93%86%E7%81%AB%E9%8D%8B%E7%99%BE%E5%8C%AF/data=!4m7!3m6!1s0x3442a97362085f8f:0xecf9f4d3a86500af!8m2!3d25.0282879!4d121.4707125!16s%2Fg%2F11mvn_rgzn!19sChIJj18IYnOpQjQRrwBlqNP0-ew?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/GIDOHOTPOT/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-129"
+  },
+  "涮武鶴和牛火鍋 (仁化)": {
+    "shortName": "涮武鶴和牛火鍋",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      1000,
+      1800
+    ],
+    "priceNote": "Google 公開評論記載1,580元吃到飽另加一成服務費；不同方案預留1,000–1,800元，訂位前請確認最新方案。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B6%AE%E6%AD%A6%E9%B6%B4%E5%92%8C%E7%89%9B%E7%81%AB%E9%8D%8B+%28%E4%BB%81%E5%8C%96%29/data=!4m7!3m6!1s0x3442a971e0d0650d:0xbdb6c3899b4d46df!8m2!3d25.0318193!4d121.4763651!16s%2Fg%2F11f3s2hk4_!19sChIJDWXQ4HGpQjQR30ZNm4nDtr0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/booking/swhhotpot_bq"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-130"
+  },
+  "XO SHABU SHABU板橋店": {
+    "shortName": "XO SHABU SHABU板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/XO+SHABU+SHABU%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a9503d1f3b4f:0xf3424e87b51daab5!8m2!3d25.0182152!4d121.4592864!16s%2Fg%2F11h_47r0z5!19sChIJTzsfPVCpQjQRtaodtYdOQvM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.facebook.com/XO-Shabushabu-%E6%9D%BF%E6%A9%8B%E5%BA%97-306870876910179/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-131"
+  },
+  "錢都日式涮涮鍋 板橋新海直營店": {
+    "shortName": "錢都日式涮涮鍋 板橋新海直營店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      280,
+      550
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$280–550 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E6%96%B0%E6%B5%B7%E7%9B%B4%E7%87%9F%E5%BA%97/data=!4m7!3m6!1s0x3442a8116ef565ab:0x19f0f6ff52e0ad67!8m2!3d25.0232038!4d121.4608159!16s%2Fg%2F12cp0hbp1!19sChIJq2X1bhGoQjQRZ63gUv_28Bk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.chientu.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-132"
+  },
+  "丹生炊事｜板橋傑仕堡門市": {
+    "shortName": "丹生炊事",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋",
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–700 的參考預算，屬推估而非已查證售價或店家平均消費。人均依多人分食估算，會受點餐與人數影響。",
+    "description": "台式鍋物與共享餐點，適合多人聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%B8%B9%E7%94%9F%E7%82%8A%E4%BA%8B%EF%BD%9C%E6%9D%BF%E6%A9%8B%E5%82%91%E4%BB%95%E5%A0%A1%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a95152539b1b:0xbcc6c3279b5fdeff!8m2!3d25.0177228!4d121.4693139!16s%2Fg%2F11pl42qst1!19sChIJG5tTUlGpQjQR_95fmyfDxrw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/booking/-MpyS7xs06o_Bf4PtQPP:inline-live-2/-MpyS8BX1TdFU2-VJ3kJ"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-133"
+  },
+  "海牧水產鍋物 板橋店": {
+    "shortName": "海牧水產鍋物 板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B5%B7%E7%89%A7%E6%B0%B4%E7%94%A2%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a9918dd90cb3:0x982501ba49e94bc!8m2!3d25.0139305!4d121.4609215!16s%2Fg%2F11rjw6hp7x!19sChIJswzZjZGpQjQRvJSepBtQggk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://himu.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-134"
+  },
+  "錢都日式涮涮鍋-板橋莒光店 CHIEN TU HOT POT": {
+    "shortName": "錢都日式涮涮鍋-板橋莒光店 CHIEN TU HOT POT",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      280,
+      550
+    ],
+    "priceNote": "Google 公開評論記載低脂牛鍋289元；不同主餐及加點預留280–550元，評論價格可能較舊。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%8C%A2%E9%83%BD%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B-%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E5%BA%97+CHIEN+TU+HOT+POT/data=!4m7!3m6!1s0x3442a81db7ecc3cb:0x8bc28406533be038!8m2!3d25.0246491!4d121.4704532!16s%2Fg%2F1v6p6kbm!19sChIJy8Pstx2oQjQROOA7UwaEwos?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.chientu.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-135"
+  },
+  "樂釜 Love Hot Pot 極上鍋物(板橋店)": {
+    "shortName": "樂釜 Love Hot Pot 極上鍋物",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1000 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%A8%82%E9%87%9C+Love+Hot+Pot+%E6%A5%B5%E4%B8%8A%E9%8D%8B%E7%89%A9%28%E6%9D%BF%E6%A9%8B%E5%BA%97%29/data=!4m7!3m6!1s0x3442a9a90ffd42e1:0xa775b893147ca827!8m2!3d25.0076755!4d121.4599548!16s%2Fg%2F11t2vlfgq3!19sChIJ4UL9D6mpQjQRJ6h8FJO4dac?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://love-hot-pot.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-136"
+  },
+  "chao潮肉鍋物 板橋店": {
+    "shortName": "chao潮肉鍋物 板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1100
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$600–1100 的參考預算，屬推估而非已查證售價或店家平均消費。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/chao%E6%BD%AE%E8%82%89%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a8416ab3c0d1:0x278656fd1a74d90d!8m2!3d25.030707!4d121.472711!16s%2Fg%2F11f2b63n5v!19sChIJ0cCzakGoQjQRDdl0Gv1Whic?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://chaorau.com/ui/index.html"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-137"
+  },
+  "大魔大満足鍋物-板橋旗艦店": {
+    "shortName": "大魔大満足鍋物-板橋旗艦店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$500–1200 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E9%AD%94%E5%A4%A7%E6%BA%80%E8%B6%B3%E9%8D%8B%E7%89%A9-%E6%9D%BF%E6%A9%8B%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x346803e0c12f0111:0x96cf6d00efa6a2e5!8m2!3d25.0073662!4d121.4634916!16s%2Fg%2F11f7pts0gv!19sChIJEQEvweADaDQR5aKm7wBtz5Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://inline.app/groups/daima"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-138"
+  },
+  "初鍋玉軒屋涮涮鍋(僅此一家，別無分店）": {
+    "shortName": "初鍋玉軒屋涮涮鍋(僅此一家，別無分店）",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$350–700 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%88%9D%E9%8D%8B%E7%8E%89%E8%BB%92%E5%B1%8B%E6%B6%AE%E6%B6%AE%E9%8D%8B%28%E5%83%85%E6%AD%A4%E4%B8%80%E5%AE%B6%EF%BC%8C%E5%88%A5%E7%84%A1%E5%88%86%E5%BA%97%EF%BC%89/data=!4m7!3m6!1s0x3442a83e443b3cc1:0xd620341c28cdfc2a!8m2!3d25.0237976!4d121.4703964!16s%2Fg%2F11byxflfv3!19sChIJwTw7RD6oQjQRKvzNKBw0INY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://yuhsuanwu.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-139"
+  },
+  "梁季港式小火鍋 板橋文化旗艦店": {
+    "shortName": "梁季港式小火鍋 板橋文化旗艦店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "港式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      550
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$300–550 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%A2%81%E5%AD%A3%E6%B8%AF%E5%BC%8F%E5%B0%8F%E7%81%AB%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a817c18a04d9:0xf51ee6513a261f60!8m2!3d25.0194631!4d121.4661396!16s%2Fg%2F1trqdx95!19sChIJ2QSKwReoQjQRYB8mOlHmHvU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://facebook.com/pages/category/Fondue-Restaurant/%E6%A2%81%E5%AD%A3%E5%81%A5%E5%BA%B7%E9%A4%8A%E7%94%9F%E9%8D%8B-464019627070205/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-140"
+  },
+  "武侍火鍋 板橋大仁店 WU SHIH HOT POT": {
+    "shortName": "武侍火鍋 板橋大仁店 WU SHIH HOT POT",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$400–750 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%AD%A6%E4%BE%8D%E7%81%AB%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E5%A4%A7%E4%BB%81%E5%BA%97+WU+SHIH+HOT+POT/data=!4m7!3m6!1s0x3442a8048ab3938f:0x4547634a1d90df45!8m2!3d25.0164627!4d121.4541364!16s%2Fg%2F11b6llr81w!19sChIJj5OzigSoQjQRRd-QHUpjR0U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://lin.ee/sxFsbaK"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-141"
+  },
+  "燒惑日式燒肉店": {
+    "shortName": "燒惑日式燒肉店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1250
+    ],
+    "priceNote": "Google 公開評論記載699／899／1,099元套餐另加一成服務費；預留800–1,250元，最新方案待店家确认。人均依多人分食估算，會受點餐與人數影響。餐期、平假日、服務費與加價品項請向店家確認。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%87%92%E6%83%91%E6%97%A5%E5%BC%8F%E7%87%92%E8%82%89%E5%BA%97/data=!4m7!3m6!1s0x3442a92f9a50dbc1:0xe1b95d9a6c062989!8m2!3d25.0205736!4d121.4662412!16s%2Fg%2F11c1l99f1h!19sChIJwdtQmi-pQjQRiSkGbJpdueE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-142"
+  },
+  "川蜀麻辣食堂": {
+    "shortName": "川蜀麻辣食堂",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$200–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B7%9D%E8%9C%80%E9%BA%BB%E8%BE%A3%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a8160bae8beb:0xb2e7396d389fcf80!8m2!3d25.0225834!4d121.4673316!16s%2Fg%2F11fz9jd5x4!19sChIJ64uuCxaoQjQRgM-fOG0557I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://m.facebook.com/%E5%B7%9D%E8%9C%80%E9%BA%BB%E8%BE%A3%E9%A3%9F%E5%A0%82-114122072600015/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-143"
+  },
+  "石二鍋 板橋捷運新埔店": {
+    "shortName": "石二鍋 板橋捷運新埔店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%9F%B3%E4%BA%8C%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E6%8D%B7%E9%81%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a83e21fded13:0x9ea211c24903a797!8m2!3d25.0236277!4d121.4687999!16s%2Fg%2F11b6cg3g0w!19sChIJE-39IT6oQjQRl6cDScIRop4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.12hotpot.com.tw/"
+      },
+      {
+        "label": "石二鍋官方｜菜單入口",
+        "url": "https://www.12hotpot.com.tw/menu-list.php"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-144"
+  },
+  "麥當勞-板車環球餐廳": {
+    "shortName": "麥當勞-板車環球餐廳",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$120–300 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "速食與套餐，適合快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%9D%BF%E8%BB%8A%E7%92%B0%E7%90%83%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a922923a9ec3:0x2ecb01a61b49dd21!8m2!3d25.014243!4d121.463662!16s%2Fg%2F11n74r1vgs!19sChIJw546kiKpQjQRId1JG6YByy4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.mcdonalds.com/tw/zh-tw.html"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-145"
+  },
+  "BELLINI Pasta Pasta 板橋環球店": {
+    "shortName": "BELLINI Pasta Pasta 板橋環球店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      450,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$450–800 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/BELLINI+Pasta+Pasta+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97/data=!4m7!3m6!1s0x3442a965224a83a5:0xfe378757ecccae76!8m2!3d25.0141259!4d121.4637592!16s%2Fg%2F11xn3rkcz1!19sChIJpYNKImWpQjQRdq7M7FeHN_4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.bellinipasta.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-146"
+  },
+  "讚岐製麵所板橋店": {
+    "shortName": "讚岐製麵所板橋店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$150–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式麵食，適合車站附近快速吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%AE%9A%E5%B2%90%E8%A3%BD%E9%BA%B5%E6%89%80%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a9a37828d639:0xb2f1f8ff0d01282!8m2!3d25.0142726!4d121.4635462!16s%2Fg%2F11krhqmrh3!19sChIJOdYoeKOpQjQRghLQ8I8fLws?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-147"
+  },
+  "大師兄銷魂麵舖-板橋環球店": {
+    "shortName": "大師兄銷魂麵舖-板橋環球店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$250–450 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%B8%AB%E5%85%84%E9%8A%B7%E9%AD%82%E9%BA%B5%E8%88%96-%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97/data=!4m7!3m6!1s0x3442a9adf7dfdbad:0x8626861ac161a581!8m2!3d25.0142992!4d121.4640073!16s%2Fg%2F11kjlhbprz!19sChIJrdvf962pQjQRgaVhwRqGJoY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://www.masterspicy.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-148"
+  },
+  "樂麵屋 Globalmall板橋車站": {
+    "shortName": "樂麵屋 Globalmall板橋車站",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "拉麵",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$300–500 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "日式拉麵，適合午晚餐吃一碗熱湯麵。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%A8%82%E9%BA%B5%E5%B1%8B+Globalmall%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99/data=!4m7!3m6!1s0x3442a8195a5d65b1:0x85a46a870b7a245d!8m2!3d25.0146099!4d121.4642406!16s%2Fg%2F1tf33nk2!19sChIJsWVdWhmoQjQRXSR6C4dqpIU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.rakumenya.com.tw/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-149"
+  },
+  "TG 蔬坊 The Greenery 板橋車站店": {
+    "shortName": "TG 蔬坊 The Greenery 板橋車站店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "素食／蔬食",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$180–350 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "蔬食與單人主餐，適合車站附近用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/TG+%E8%94%AC%E5%9D%8A+The+Greenery+%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97/data=!4m7!3m6!1s0x3442a93dd501e9c3:0xe6106f5939e7c3a2!8m2!3d25.0142426!4d121.4636617!16s%2Fg%2F11v41g06lb!19sChIJw-kB1T2pQjQRosPnOVlvEOY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "https://thegreenerytw.com/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-150"
+  },
+  "涓豆腐 板橋環球店": {
+    "shortName": "涓豆腐 板橋環球店",
+    "area": "板橋・新埔及周邊",
+    "cuisines": [
+      "韓式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      450,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家定位規劃每人 NT$450–800 的參考預算，屬推估而非已查證售價或店家平均消費。",
+    "description": "韓式餐點，依當日菜單挑選一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B6%93%E8%B1%86%E8%85%90+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97/data=!4m7!3m6!1s0x3442a9bbc2e25f99:0xc6893469d4f1b683!8m2!3d25.0143273!4d121.4644726!16s%2Fg%2F11jgc07zlc!19sChIJmV_iwrupQjQRg7bx1Gk0icY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "店家網站／菜單入口（由 Maps 提供）",
+        "url": "http://www.dubuhouse.com.tw/index.html"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "neighborhood-151"
+  }
+}

@@ -1,0 +1,2761 @@
+{
+  "埔墘小吃": {
+    "shortName": "埔墘小吃",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃",
+      "飯類",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      70,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$70–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "滷肉飯、便當與藥燉排骨湯，適合日常用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "滷肉飯",
+      "藥燉排骨湯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%9F%94%E5%A2%98%E5%B0%8F%E5%90%83/data=!4m7!3m6!1s0x3442a93b673fbc9b:0x8edb672357654598!8m2!3d25.0202848!4d121.4752053!16s%2Fg%2F11t7pkn4bm!19sChIJm7w_ZzupQjQRmEVlVyNn244?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-001"
+  },
+  "Ivy輕食厨房": {
+    "shortName": "Ivy輕食厨房",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$180–400 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Ivy%E8%BC%95%E9%A3%9F%E5%8E%A8%E6%88%BF/data=!4m7!3m6!1s0x3442a8408ca9490d:0xdf5450b0f13d033a!8m2!3d25.0281686!4d121.4717853!16s%2Fg%2F11bv2hff57!19sChIJDUmpjECoQjQROgM98bBQVN8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-002"
+  },
+  "老闆牛肉飯便當-板橋店": {
+    "shortName": "老闆牛肉飯便當-板橋店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "便當",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      230
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–230 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "便當與飯類主餐，適合外帶或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E9%97%86%E7%89%9B%E8%82%89%E9%A3%AF%E4%BE%BF%E7%95%B6-%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a900473094e7:0xca96368ba66df8b6!8m2!3d25.0336331!4d121.4736786!16s%2Fg%2F11whh43vb5!19sChIJ55QwRwCpQjQRtvhtpos2lso?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-003"
+  },
+  "光復街 串烤攤": {
+    "shortName": "光復街 串烤攤",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%89%E5%BE%A9%E8%A1%97+%E4%B8%B2%E7%83%A4%E6%94%A4/data=!4m7!3m6!1s0x3442a91ac071dc1b:0x878cb1e1b4582500!8m2!3d25.018724!4d121.4815859!16s%2Fg%2F11qbdst70l!19sChIJG9xxwBqpQjQRACVYtOGxjIc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-004"
+  },
+  "豆干爸ㄟ臭豆腐": {
+    "shortName": "豆干爸ㄟ臭豆腐",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      180
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$60–180 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "現炸臭豆腐搭配泡菜的外帶小吃。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。公開評論提到巡迴攤車，前往前請先確認當日出攤位置。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B1%86%E5%B9%B2%E7%88%B8%E3%84%9F%E8%87%AD%E8%B1%86%E8%85%90/data=!4m7!3m6!1s0x3442a9022def7231:0xe633bd04d3c3efaf!8m2!3d25.018798!4d121.4834154!16s%2Fg%2F11v15htc96!19sChIJMXLvLQKpQjQRr-_D0wS9M-Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-005"
+  },
+  "光復街涼麵": {
+    "shortName": "光復街涼麵",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–280 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%89%E5%BE%A9%E8%A1%97%E6%B6%BC%E9%BA%B5/data=!4m7!3m6!1s0x3442a9d5d109e1e9:0x8d554e1ce13de6c6!8m2!3d25.0188767!4d121.4818742!16s%2Fg%2F11j9cxb754!19sChIJ6eEJ0dWpQjQRxuY94RxOVY0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-006"
+  },
+  "阿嘉職人雞肉飯": {
+    "shortName": "阿嘉職人雞肉飯",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      70,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$70–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "飯類主餐與小吃，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "雞肉飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%98%BF%E5%98%89%E8%81%B7%E4%BA%BA%E9%9B%9E%E8%82%89%E9%A3%AF/data=!4m7!3m6!1s0x3442a979bceaaa6f:0xbeccaa3c78fd629e!8m2!3d25.0185824!4d121.4819391!16s%2Fg%2F11j0f2j5v5!19sChIJb6rqvHmpQjQRnmL9eDyqzL4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-007"
+  },
+  "麥味登cafe&brunch板橋光復店": {
+    "shortName": "麥味登cafe&brunch板橋光復店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$60–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%A5%E5%91%B3%E7%99%BBcafe%26brunch%E6%9D%BF%E6%A9%8B%E5%85%89%E5%BE%A9%E5%BA%97/data=!4m7!3m6!1s0x3442a90036d10cfb:0x9d281ce9c8c60cb1!8m2!3d25.0188542!4d121.4814904!16s%2Fg%2F11vr8fk8qz!19sChIJ-wzRNgCpQjQRsQzGyOkcKJ0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-008"
+  },
+  "烤杯串燒": {
+    "shortName": "烤杯串燒",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%83%A4%E6%9D%AF%E4%B8%B2%E7%87%92/data=!4m7!3m6!1s0x3442a830b5f7a349:0x62964a94b4ebd19d!8m2!3d25.0188114!4d121.482057!16s%2Fg%2F11nsv4djzd!19sChIJSaP3tTCoQjQRndHrtJRKlmI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-009"
+  },
+  "布袋鮮の蚵": {
+    "shortName": "布袋鮮の蚵",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–800 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B8%83%E8%A2%8B%E9%AE%AE%E3%81%AE%E8%9A%B5/data=!4m7!3m6!1s0x3442a83659c21d2b:0x7e154fa00ea48f6d!8m2!3d25.0216426!4d121.4836305!16s%2Fg%2F11xndp8zf!19sChIJKx3CWTaoQjQRbY-kDqBPFX4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-010"
+  },
+  "好粗飯丸": {
+    "shortName": "好粗飯丸",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$60–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "早餐與輕食，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A5%BD%E7%B2%97%E9%A3%AF%E4%B8%B8/data=!4m7!3m6!1s0x3442a9c336b5f2e3:0x3a2ae69e70196e02!8m2!3d25.0188169!4d121.4817272!16s%2Fg%2F11wnf2dd42!19sChIJ4_K1NsOpQjQRAm4ZcJ7mKjo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-011"
+  },
+  "光復水門烤香腸": {
+    "shortName": "光復水門烤香腸",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%89%E5%BE%A9%E6%B0%B4%E9%96%80%E7%83%A4%E9%A6%99%E8%85%B8/data=!4m7!3m6!1s0x3442a8341a9aa18b:0xabbdf58d4f7c6df2!8m2!3d25.0189381!4d121.4862438!16s%2Fg%2F11g9q9n_2z!19sChIJi6GaGjSoQjQR8m18T431vas?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-012"
+  },
+  "六必居潮州砂鍋粥 中山總店": {
+    "shortName": "六必居潮州砂鍋粥 中山總店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–600 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "潮汕砂鍋粥，適合多人分食暖胃的一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%AD%E5%BF%85%E5%B1%85%E6%BD%AE%E5%B7%9E%E7%A0%82%E9%8D%8B%E7%B2%A5+%E4%B8%AD%E5%B1%B1%E7%B8%BD%E5%BA%97/data=!4m7!3m6!1s0x3442a81f336d013f:0x27076f56dbc438c8!8m2!3d25.0118114!4d121.4659943!16s%2Fg%2F1tdd2zb3!19sChIJPwFtMx-oQjQRyDjE21ZvByc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-013"
+  },
+  "麥當勞-板橋府中餐廳": {
+    "shortName": "麥當勞-板橋府中餐廳",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$120–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "速食與套餐，適合快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a81d50996479:0x31ad89de8bca0652!8m2!3d25.009259!4d121.457751!16s%2Fg%2F11b7y9lzq6!19sChIJeWSZUB2oQjQRUgbKi96JrTE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-014"
+  },
+  "這一鍋 板橋府中殿": {
+    "shortName": "這一鍋 板橋府中殿",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%80%99%E4%B8%80%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E6%AE%BF/data=!4m7!3m6!1s0x346802a7f2c7da77:0xc36554b487db9d8f!8m2!3d25.0081875!4d121.4584131!16s%2Fg%2F11ckkxb_6z!19sChIJd9rH8qcCaDQRj53bh7RUZcM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-015"
+  },
+  "杉男串酒塲 府中店": {
+    "shortName": "杉男串酒塲 府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%89%E7%94%B7%E4%B8%B2%E9%85%92%E5%A1%B2+%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x3442a9128f15daed:0x7f0e5356567d4402!8m2!3d25.0095468!4d121.4623359!16s%2Fg%2F11stvs0tzd!19sChIJ7doVjxKpQjQRAkR9VlZTDn8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-016"
+  },
+  "米個人燒肉板橋府中店": {
+    "shortName": "米個人燒肉板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–600 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。餐期、方案與服務費請向店家確認。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%B1%B3%E5%80%8B%E4%BA%BA%E7%87%92%E8%82%89%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346803a20f7fa035:0xab8d787beddb9e79!8m2!3d25.0081928!4d121.4599861!16s%2Fg%2F11wj5kw68z!19sChIJNaB_D6IDaDQReZ7b7Xt4jas?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-017"
+  },
+  "壽司郎 新北板橋府中店": {
+    "shortName": "壽司郎 新北板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–700 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A3%BD%E5%8F%B8%E9%83%8E+%E6%96%B0%E5%8C%97%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x34680300631b715b:0x64fb9690d9f7ee90!8m2!3d25.0078573!4d121.460188!16s%2Fg%2F11wbvhyvrq!19sChIJW3EbYwADaDQRkO732ZCW-2Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-018"
+  },
+  "Buon Pasta & Bar - 現代義式料理": {
+    "shortName": "Buon Pasta & Bar - 現代義式料理",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$220–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Buon+Pasta+%26+Bar+-+%E7%8F%BE%E4%BB%A3%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x346803642bb15d4b:0xe024376958e76f6b!8m2!3d25.0075775!4d121.4606708!16s%2Fg%2F11t8cbnqfy!19sChIJS12xK2QDaDQRa2_nWGk3JOA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-019"
+  },
+  "良師塾人文食飲": {
+    "shortName": "良師塾人文食飲",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式",
+      "台式"
+    ],
+    "types": [
+      "咖啡廳",
+      "義大利麵",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–600 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "咖啡、義大利麵與牛肉麵，適合用餐或聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%89%AF%E5%B8%AB%E5%A1%BE%E4%BA%BA%E6%96%87%E9%A3%9F%E9%A3%B2/data=!4m7!3m6!1s0x346802a7f2c7da77:0x81ab4967b3607000!8m2!3d25.0082526!4d121.4583994!16s%2Fg%2F11gfd4xc05!19sChIJd9rH8qcCaDQRAHBgs2dJq4E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-020"
+  },
+  "食客稻日式料理｜居酒屋｜生啤買三送一｜府中美食｜寵物友善｜串燒": {
+    "shortName": "食客稻日式料理",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A3%9F%E5%AE%A2%E7%A8%BB%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86%EF%BD%9C%E5%B1%85%E9%85%92%E5%B1%8B%EF%BD%9C%E7%94%9F%E5%95%A4%E8%B2%B7%E4%B8%89%E9%80%81%E4%B8%80%EF%BD%9C%E5%BA%9C%E4%B8%AD%E7%BE%8E%E9%A3%9F%EF%BD%9C%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84%EF%BD%9C%E4%B8%B2%E7%87%92/data=!4m7!3m6!1s0x346802a71ab695e1:0xef67251b5f06698d!8m2!3d25.0062576!4d121.4606536!16s%2Fg%2F11d_tckc34!19sChIJ4ZW2GqcCaDQRjWkGXxslZ-8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-021"
+  },
+  "町燒酒食": {
+    "shortName": "町燒酒食",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$800–1500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%94%BA%E7%87%92%E9%85%92%E9%A3%9F/data=!4m7!3m6!1s0x346802a7c09fea35:0x3a291df80eb1a99d!8m2!3d25.0072354!4d121.4585087!16s%2Fg%2F11f3jh6cqv!19sChIJNeqfwKcCaDQRnamxDvgdKTo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-022"
+  },
+  "品鼎殿日式壽喜燒": {
+    "shortName": "品鼎殿日式壽喜燒",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      600,
+      1100
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$600–1100 的參考預算，屬推估，並非已查證售價或店家平均消費。餐期、方案與服務費請向店家確認。",
+    "description": "日式壽喜燒吃到飽，方案與服務費依當日菜單。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%93%81%E9%BC%8E%E6%AE%BF%E6%97%A5%E5%BC%8F%E5%A3%BD%E5%96%9C%E7%87%92/data=!4m7!3m6!1s0x346802a77e9a5cd3:0x75d9dd147fac961e!8m2!3d25.0082025!4d121.4603411!16s%2Fg%2F12hnbwm6c!19sChIJ01yafqcCaDQRHpasfxTd2XU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-023"
+  },
+  "笑匠居酒屋（串燒,酒場,刺身)人氣居酒屋，府中商圈深夜食堂": {
+    "shortName": "笑匠居酒屋（串燒,酒場,刺身)人氣居酒屋，府中商圈深夜食堂",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%AC%91%E5%8C%A0%E5%B1%85%E9%85%92%E5%B1%8B%EF%BC%88%E4%B8%B2%E7%87%92,%E9%85%92%E5%A0%B4,%E5%88%BA%E8%BA%AB%29%E4%BA%BA%E6%B0%A3%E5%B1%85%E9%85%92%E5%B1%8B%EF%BC%8C%E5%BA%9C%E4%B8%AD%E5%95%86%E5%9C%88%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a9458c458ed1:0x55e4d1c68b52b19c!8m2!3d25.0088725!4d121.4619832!16s%2Fg%2F11rcw815pl!19sChIJ0Y5FjEWpQjQRnLFSi8bR5FU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-024"
+  },
+  "一茶甜品": {
+    "shortName": "一茶甜品",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      80,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$80–350 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "甜點或烘焙點心，適合下午茶與外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E8%8C%B6%E7%94%9C%E5%93%81/data=!4m7!3m6!1s0x3442a936a2b1c6a3:0xdb7fa1c8149e8e2e!8m2!3d25.0105636!4d121.4622912!16s%2Fg%2F11sl1_rl2d!19sChIJo8axojapQjQRLo6eFMihf9s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-025"
+  },
+  "鮮牧火鍋 板橋府中店 I 單人海陸 I 野菜吃到飽": {
+    "shortName": "鮮牧火鍋 板橋府中店 I 單人海陸 I 野菜吃到飽",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%AE%AE%E7%89%A7%E7%81%AB%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97+I+%E5%96%AE%E4%BA%BA%E6%B5%B7%E9%99%B8+I+%E9%87%8E%E8%8F%9C%E5%90%83%E5%88%B0%E9%A3%BD/data=!4m7!3m6!1s0x3442a9e11cb8e3fb:0x47ddbee20a956df1!8m2!3d25.0086094!4d121.4605966!16s%2Fg%2F11yy3j26n3!19sChIJ--O4HOGpQjQR8W2VCuK-3Uc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-026"
+  },
+  "夏廚食光餐廳": {
+    "shortName": "夏廚食光餐廳",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "牛排"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義大利麵、燉飯與牛排，適合午晚餐聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%8F%E5%BB%9A%E9%A3%9F%E5%85%89%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a90069322067:0x69a06524abc8e85!8m2!3d25.0093475!4d121.4620744!16s%2Fg%2F11ys0c0knn!19sChIJZyAyaQCpQjQRhY68SlIGmgY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-027"
+  },
+  "Hala Chicken 板橋府中店": {
+    "shortName": "Hala Chicken 板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–700 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "西式主餐與輕食，適合朋友聚會或午晚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Hala+Chicken+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x3442a943860069b1:0x1b5d8ec63cbb657c!8m2!3d25.0097608!4d121.4623233!16s%2Fg%2F11y621p004!19sChIJsWkAhkOpQjQRfGW7PMaOXRs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-028"
+  },
+  "堤諾義式比薩 Tino's Pizza Café 板橋府中店｜抓周｜性別派對｜包場｜一條龍服務｜": {
+    "shortName": "堤諾義式比薩 Tino's Pizza Café 板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$220–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A0%A4%E8%AB%BE%E7%BE%A9%E5%BC%8F%E6%AF%94%E8%96%A9+Tino%27s+Pizza+Caf%C3%A9+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%EF%BD%9C%E6%8A%93%E5%91%A8%EF%BD%9C%E6%80%A7%E5%88%A5%E6%B4%BE%E5%B0%8D%EF%BD%9C%E5%8C%85%E5%A0%B4%EF%BD%9C%E4%B8%80%E6%A2%9D%E9%BE%8D%E6%9C%8D%E5%8B%99%EF%BD%9C/data=!4m7!3m6!1s0x3442a901091463d7:0xd6bd96483ed95b2a!8m2!3d25.0088928!4d121.4627097!16s%2Fg%2F11g9q68d34!19sChIJ12MUCQGpQjQRKlvZPkiWvdY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-029"
+  },
+  "燒肉アニキ-燒肉Aniki-板橋府中店": {
+    "shortName": "燒肉アニキ-燒肉Aniki-板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$800–1500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。餐期、方案與服務費請向店家確認。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%87%92%E8%82%89%E3%82%A2%E3%83%8B%E3%82%AD-%E7%87%92%E8%82%89Aniki-%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346803ecf4920d4d:0xb51bc52e930b8466!8m2!3d25.008115!4d121.4580601!16s%2Fg%2F11kqsrv97f!19sChIJTQ2S9OwDaDQRZoQLky7FG7U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-030"
+  },
+  "燒肉王日式碳燒": {
+    "shortName": "燒肉王日式碳燒",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$800–1500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。餐期、方案與服務費請向店家確認。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%87%92%E8%82%89%E7%8E%8B%E6%97%A5%E5%BC%8F%E7%A2%B3%E7%87%92/data=!4m7!3m6!1s0x346803d4decd9139:0xe83ad46c789b438!8m2!3d25.0073285!4d121.4604721!16s%2Fg%2F11m9q4vb45!19sChIJOZHN3tQDaDQROLSJx0atgw4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-031"
+  },
+  "泰樂泰國料理": {
+    "shortName": "泰樂泰國料理",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$200–500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B3%B0%E6%A8%82%E6%B3%B0%E5%9C%8B%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a81df7962395:0x28df0dc8d642191b!8m2!3d25.0080597!4d121.4619958!16s%2Fg%2F11gg995hf3!19sChIJlSOW9x2oQjQRGxlC1sgN3yg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-032"
+  },
+  "赤富士日式燒肉鍋物 板橋店": {
+    "shortName": "赤富士日式燒肉鍋物 板橋店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$800–1500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B5%A4%E5%AF%8C%E5%A3%AB%E6%97%A5%E5%BC%8F%E7%87%92%E8%82%89%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a91b5e56457b:0x50a12896713c3361!8m2!3d25.0094347!4d121.4612603!16s%2Fg%2F11rttfm61h!19sChIJe0VWXhupQjQRYTM8cZYooVA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-033"
+  },
+  "Merci vielle": {
+    "shortName": "Merci vielle",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "下午茶",
+      "甜點／飲料",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      120,
+      350
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$120–350 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "咖啡與午後休息的選擇，餐點以店內當日供應為準。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Merci+vielle/data=!4m7!3m6!1s0x3442a81d5318045f:0x3a4930dd7b47003c!8m2!3d25.0096556!4d121.4571433!16s%2Fg%2F11cn0ph6bz!19sChIJXwQYUx2oQjQRPABHe90wSTo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-034"
+  },
+  "薩莉亞 板橋府中店": {
+    "shortName": "薩莉亞 板橋府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$220–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%96%A9%E8%8E%89%E4%BA%9E+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x3442a81d86b73043:0xba9aef4d7d23b96e!8m2!3d25.0085696!4d121.4601776!16s%2Fg%2F1ptyk17kn!19sChIJQzC3hh2oQjQRbrkjfU3vmro?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-035"
+  },
+  "（板橋府中店） 林斯漢堡美式餐廳Lin's Burger": {
+    "shortName": "林斯漢堡美式餐廳Lin's Burger",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$150–450 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "漢堡與美式輕食，依當日菜單搭配主餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%EF%BC%88%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%EF%BC%89+%E6%9E%97%E6%96%AF%E6%BC%A2%E5%A0%A1%E7%BE%8E%E5%BC%8F%E9%A4%90%E5%BB%B3Lin%27s+Burger/data=!4m7!3m6!1s0x346802a7ee7b9fe5:0xc53cc974796a5395!8m2!3d25.0081217!4d121.4580525!16s%2Fg%2F11ddxwcrpn!19sChIJ5Z977qcCaDQRlVNqeXTJPMU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-036"
+  },
+  "朝食午宴Just Brunch 府中店": {
+    "shortName": "朝食午宴Just Brunch 府中店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "下午茶"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$180–400 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "早餐與輕食選擇，適合白天簡單吃一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9C%9D%E9%A3%9F%E5%8D%88%E5%AE%B4Just+Brunch+%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x3468033f8a5ae89d:0xfab8c4f24d174cd8!8m2!3d25.0086936!4d121.4579341!16s%2Fg%2F11j7yk82y7!19sChIJnehaij8DaDQR2EwXTfLEuPo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-037"
+  },
+  "大根屋": {
+    "shortName": "大根屋",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–700 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "日式料理與單人主餐，依當日菜單選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%A0%B9%E5%B1%8B/data=!4m7!3m6!1s0x346802aaad8668d3:0xd9c9940af95a4cd1!8m2!3d25.009103!4d121.4578455!16s%2Fg%2F11gznt_sv!19sChIJ02iGraoCaDQR0Uxa-QqUydk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-038"
+  },
+  "High串燒": {
+    "shortName": "High串燒",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/High%E4%B8%B2%E7%87%92/data=!4m7!3m6!1s0x3442a9a941727aa1:0x70925708e759cd59!8m2!3d25.0076042!4d121.4642063!16s%2Fg%2F11kmtyk724!19sChIJoXpyQampQjQRWc1Z5whXknA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-039"
+  },
+  "月餐酒館": {
+    "shortName": "月餐酒館",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "餐酒館",
+      "義大利麵"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      450,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$450–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "燉飯、義大利麵與酒飲，適合晚間聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9C%88%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a93a045db1ef:0xbabbc7b168e7300c!8m2!3d25.0088445!4d121.4605291!16s%2Fg%2F11qg01v2vy!19sChIJ77FdBDqpQjQRDDDnaLHHu7o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-040"
+  },
+  "來得福川菜客家菜餐廳": {
+    "shortName": "來得福川菜客家菜餐廳",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–800 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BE%86%E5%BE%97%E7%A6%8F%E5%B7%9D%E8%8F%9C%E5%AE%A2%E5%AE%B6%E8%8F%9C%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a80f88ee27d5:0x47ce64389863cb5c!8m2!3d25.0204544!4d121.4554227!16s%2Fg%2F1t_hwpcv!19sChIJ1SfuiA-oQjQRXMtjmDhkzkc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-041"
+  },
+  "心心石頭火鍋 中正店": {
+    "shortName": "心心石頭火鍋 中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%BF%83%E5%BF%83%E7%9F%B3%E9%A0%AD%E7%81%AB%E9%8D%8B+%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a9a61e8ed8a7:0x30c1ec8b49fd6d21!8m2!3d25.0162546!4d121.4565802!16s%2Fg%2F11twdtgvwr!19sChIJp9iOHqapQjQRIW39SYvswTA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-042"
+  },
+  "茶餘飯後": {
+    "shortName": "茶餘飯後",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$220–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%8C%B6%E9%A4%98%E9%A3%AF%E5%BE%8C/data=!4m7!3m6!1s0x3442a96f816134e1:0x27f0a9da3b05dfea!8m2!3d25.0181948!4d121.4546405!16s%2Fg%2F11h5n7v7p0!19sChIJ4TRhgW-pQjQR6t8FO9qp8Cc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-043"
+  },
+  "加分100%浜中特選昆布鍋物 板橋店": {
+    "shortName": "加分100%浜中特選昆布鍋物 板橋店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%8A%A0%E5%88%86100%25%E6%B5%9C%E4%B8%AD%E7%89%B9%E9%81%B8%E6%98%86%E5%B8%83%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a80f0a8cde57:0xa077e3fc6e746729!8m2!3d25.0218406!4d121.454195!16s%2Fg%2F11f3wlr2zr!19sChIJV96MCg-oQjQRKWd0bvzjd6A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-044"
+  },
+  "首屋": {
+    "shortName": "首屋",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      250,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$250–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "何首烏雞湯、麵線與小菜，適合暖胃的一餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%A6%96%E5%B1%8B/data=!4m7!3m6!1s0x3442a80f795dd657:0x983e1cbeec2babc1!8m2!3d25.0209371!4d121.4538711!16s%2Fg%2F1tjdjg1n!19sChIJV9ZdeQ-oQjQRwasr7L4cPpg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-045"
+  },
+  "慶祥樓北方館": {
+    "shortName": "慶祥樓北方館",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      400,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$400–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%85%B6%E7%A5%A5%E6%A8%93%E5%8C%97%E6%96%B9%E9%A4%A8/data=!4m7!3m6!1s0x3442a804b5baa619:0x67959b8bb083b8de!8m2!3d25.0163448!4d121.4566377!16s%2Fg%2F1vj5xxx9!19sChIJGaa6tQSoQjQR3riDsIublWc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-046"
+  },
+  "達利早餐Daily Breakfast-板橋中正店": {
+    "shortName": "達利早餐Daily Breakfast-板橋中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$60–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "早餐與輕食，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%81%94%E5%88%A9%E6%97%A9%E9%A4%90Daily+Breakfast-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a9cba5a24a6d:0x129a3cf6e0a59bed!8m2!3d25.0213615!4d121.4542853!16s%2Fg%2F11krxvxv8y!19sChIJbUqipcupQjQR7Zul4PY8mhI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-047"
+  },
+  "津囋灶咖": {
+    "shortName": "津囋灶咖",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–800 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B4%A5%E5%9B%8B%E7%81%B6%E5%92%96/data=!4m7!3m6!1s0x346802a9d2f12d31:0xf7ef1684864d7bcc!8m2!3d25.0093367!4d121.4539911!16s%2Fg%2F11fy4s7z7x!19sChIJMS3x0qkCaDQRzHtNhoQW7_c?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-048"
+  },
+  "健康獵人 健康餐盒專賣 板橋中正店": {
+    "shortName": "健康獵人 健康餐盒專賣 板橋中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "便當"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      250
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–250 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "飯類主餐，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%81%A5%E5%BA%B7%E7%8D%B5%E4%BA%BA+%E5%81%A5%E5%BA%B7%E9%A4%90%E7%9B%92%E5%B0%88%E8%B3%A3+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a93b0f9d9129:0x22a7dfac82236215!8m2!3d25.0170404!4d121.4566113!16s%2Fg%2F11xdq1qrgx!19sChIJKZGdDzupQjQRFWIjgqzfpyI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-049"
+  },
+  "森林敘事 La Foresta by Narrative": {
+    "shortName": "森林敘事 La Foresta by Narrative",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "餐酒館"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1200 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "義大利麵、燉飯與葡萄酒，適合約會或聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%A3%AE%E6%9E%97%E6%95%98%E4%BA%8B+La+Foresta+by+Narrative/data=!4m7!3m6!1s0x3442a976a3b92b65:0x95c817a1b323eb43!8m2!3d25.0170706!4d121.4607428!16s%2Fg%2F11jm_782p7!19sChIJZSu5o3apQjQRQ-sjs6EXyJU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-050"
+  },
+  "國光小館/板橋美食": {
+    "shortName": "國光小館/板橋美食",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–800 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "川菜與共享料理，適合多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%9C%8B%E5%85%89%E5%B0%8F%E9%A4%A8%2F%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a81ad1ca4c79:0x62c1729e947aefd!8m2!3d25.017519!4d121.4575318!16s%2Fg%2F11xbqxwlq!19sChIJeUzK0RqoQjQR_a5H6SkXLAY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-051"
+  },
+  "牛肉麵水餃餛飩之家": {
+    "shortName": "牛肉麵水餃餛飩之家",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–280 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%89%9B%E8%82%89%E9%BA%B5%E6%B0%B4%E9%A4%83%E9%A4%9B%E9%A3%A9%E4%B9%8B%E5%AE%B6/data=!4m7!3m6!1s0x3442a80f84ab6401:0xaa1c22d406a3759f!8m2!3d25.0209616!4d121.4544704!16s%2Fg%2F11xjlbhhl!19sChIJAWSrhA-oQjQRn3WjBtQiHKo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-052"
+  },
+  "角落UTOPIA·漢堡": {
+    "shortName": "角落UTOPIA·漢堡",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$150–450 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "漢堡與美式輕食，依當日菜單搭配主餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%A7%92%E8%90%BDUTOPIA%C2%B7%E6%BC%A2%E5%A0%A1/data=!4m7!3m6!1s0x3442a9bc82a61cb5:0x6965735d8ac12742!8m2!3d25.0086965!4d121.4657469!16s%2Fg%2F11qnd0lkft!19sChIJtRymgrypQjQRQifBil1zZWk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-053"
+  },
+  "金好客雞肉飯 無刺虱目魚 中正分店": {
+    "shortName": "金好客雞肉飯 無刺虱目魚 中正分店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      70,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$70–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "飯類主餐與小吃，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%87%91%E5%A5%BD%E5%AE%A2%E9%9B%9E%E8%82%89%E9%A3%AF+%E7%84%A1%E5%88%BA%E8%99%B1%E7%9B%AE%E9%AD%9A+%E4%B8%AD%E6%AD%A3%E5%88%86%E5%BA%97/data=!4m7!3m6!1s0x3442a80f840c5f37:0xf3f3956d1f0e2285!8m2!3d25.02073!4d121.4545743!16s%2Fg%2F11g8bby70f!19sChIJN18MhA-oQjQRhSIOH22V8_M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-054"
+  },
+  "向陽冬瓜肉飯 板橋中正店": {
+    "shortName": "向陽冬瓜肉飯 板橋中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      70,
+      200
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$70–200 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "飯類主餐與小吃，適合日常午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%90%91%E9%99%BD%E5%86%AC%E7%93%9C%E8%82%89%E9%A3%AF+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a900726ebd77:0xa0cbcee1a188fc8e!8m2!3d25.0200073!4d121.4549593!16s%2Fg%2F11w92l939c!19sChIJd71ucgCpQjQRjvyIoeHOy6A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-055"
+  },
+  "蓋子美式餐廳": {
+    "shortName": "蓋子美式餐廳",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式",
+      "義式"
+    ],
+    "types": [
+      "義大利麵",
+      "披薩",
+      "早午餐"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      700
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–700 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "漢堡、義大利麵與燉飯，適合朋友聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%93%8B%E5%AD%90%E7%BE%8E%E5%BC%8F%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a81a6bdcafc5:0xff1592a83b1f41a6!8m2!3d25.0177195!4d121.4610147!16s%2Fg%2F11byx8m0_5!19sChIJxa_caxqoQjQRpkEfO6iSFf8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-056"
+  },
+  "發肉燒肉餐酒 板橋三店": {
+    "shortName": "發肉燒肉餐酒 板橋三店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      800,
+      1500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$800–1500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "日式燒肉聚餐，依套餐選擇不同肉品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%99%BC%E8%82%89%E7%87%92%E8%82%89%E9%A4%90%E9%85%92+%E6%9D%BF%E6%A9%8B%E4%B8%89%E5%BA%97/data=!4m7!3m6!1s0x3468030952fd9b33:0x36a0c4e7ff834e30!8m2!3d25.0063923!4d121.459376!16s%2Fg%2F11s22_7jlg!19sChIJM5v9UgkDaDQRME6D_-fEoDY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-057"
+  },
+  "堯壽喔唐揚炸雞板橋中正店": {
+    "shortName": "堯壽喔唐揚炸雞板橋中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A0%AF%E5%A3%BD%E5%96%94%E5%94%90%E6%8F%9A%E7%82%B8%E9%9B%9E%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a95225377059:0xb21938d53c557df5!8m2!3d25.0170941!4d121.4566451!16s%2Fg%2F11nr1cxv2p!19sChIJWXA3JVKpQjQR9X1VPNU4GbI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-058"
+  },
+  "21Plus 21風味館 板橋中正門市": {
+    "shortName": "21Plus 21風味館 板橋中正門市",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "速食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      150,
+      400
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$150–400 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "烤雞與速食套餐，適合快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/21Plus+21%E9%A2%A8%E5%91%B3%E9%A4%A8+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a9e430b6d557:0xe18bd41b0afc3842!8m2!3d25.0175553!4d121.4563491!16s%2Fg%2F11t4bx6vfc!19sChIJV9W2MOSpQjQRQjj8ChvUi-E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-059"
+  },
+  "來吧sunset南洋風暢飲餐酒館 | 板橋酒吧 | 調酒暢飲 | 板橋餐酒館": {
+    "shortName": "來吧sunset南洋風暢飲餐酒館",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "其他異國料理",
+      "義式"
+    ],
+    "types": [
+      "餐酒館",
+      "酒吧",
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1300 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "南洋風味餐酒與義式主餐，依酒飲與點餐方式規劃預算。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BE%86%E5%90%A7sunset%E5%8D%97%E6%B4%8B%E9%A2%A8%E6%9A%A2%E9%A3%B2%E9%A4%90%E9%85%92%E9%A4%A8+%7C+%E6%9D%BF%E6%A9%8B%E9%85%92%E5%90%A7+%7C+%E8%AA%BF%E9%85%92%E6%9A%A2%E9%A3%B2+%7C+%E6%9D%BF%E6%A9%8B%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9485629c931:0x3e36d5a744a8cfc2!8m2!3d25.0156413!4d121.4675695!16s%2Fg%2F11rb3nqr2f!19sChIJMckpVkipQjQRws-oRKfVNj4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-060"
+  },
+  "八方悅鍋物 板橋中正店": {
+    "shortName": "八方悅鍋物 板橋中正店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%AB%E6%96%B9%E6%82%85%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m7!3m6!1s0x3442a9b51986b13f:0xc72ca8d80a23e6ed!8m2!3d25.0150387!4d121.4564107!16s%2Fg%2F11f79yrcf6!19sChIJP7GGGbWpQjQR7eYjCtioLMc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-061"
+  },
+  "小松燴炒": {
+    "shortName": "小松燴炒",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      300,
+      800
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$300–800 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "台式或中式料理，適合多人分享一桌。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E6%9D%BE%E7%87%B4%E7%82%92/data=!4m7!3m6!1s0x3442a8054a1be16f:0xa7491da9aea56e28!8m2!3d25.018599!4d121.4565433!16s%2Fg%2F11dx958kqg!19sChIJb-EbSgWoQjQRKG6lrqkdSac?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-062"
+  },
+  "貳巷貓弄 板橋店(未滿12歲孩童僅接受電話/臉書粉絲團預約)": {
+    "shortName": "貳巷貓弄 板橋店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "咖啡廳",
+      "義大利麵",
+      "甜點店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$200–500 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "貓咪主題空間，提供義大利麵、鬆餅與飲料。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示預約制，請先向店家確認。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%B2%B3%E5%B7%B7%E8%B2%93%E5%BC%84+%E6%9D%BF%E6%A9%8B%E5%BA%97%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E5%83%85%E6%8E%A5%E5%8F%97%E9%9B%BB%E8%A9%B1%2F%E8%87%89%E6%9B%B8%E7%B2%89%E7%B5%B2%E5%9C%98%E9%A0%90%E7%B4%84%29/data=!4m7!3m6!1s0x3442a98b1f8e1365:0x290fa3bc43afc220!8m2!3d25.0168913!4d121.463158!16s%2Fg%2F11kpgtf4hv!19sChIJZROOH4upQjQRIMKvQ7yjDyk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "店名公告未滿12歲孩童須電話或粉絲團預約，請先向店家確認。",
+    "id": "expanded-more-063"
+  },
+  "大智33號 牛肉麵店": {
+    "shortName": "大智33號 牛肉麵店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      280
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–280 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "麵食與小吃，適合一個人或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%99%BA33%E8%99%9F+%E7%89%9B%E8%82%89%E9%BA%B5%E5%BA%97/data=!4m7!3m6!1s0x3442a804813ea01d:0xec8001a688b6b562!8m2!3d25.0151265!4d121.4546717!16s%2Fg%2F11bz0x8pz7!19sChIJHaA-gQSoQjQRYrW2iKYBgOw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-064"
+  },
+  "板橋高記生炒魷魚": {
+    "shortName": "板橋高記生炒魷魚",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E9%AB%98%E8%A8%98%E7%94%9F%E7%82%92%E9%AD%B7%E9%AD%9A/data=!4m7!3m6!1s0x3442a802cb144fd7:0x355956a1ac3a6b9d!8m2!3d25.0102834!4d121.4574124!16s%2Fg%2F1td3j92x!19sChIJ108UywKoQjQRnWs6rKFWWTU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-065"
+  },
+  "悟芯素-板橋便當 葷/蔬食便當餐盒 板橋定食餐 板橋美食": {
+    "shortName": "悟芯素-板橋便當 葷/蔬食便當餐盒 板橋定食餐 板橋美食",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "便當",
+      "飯類",
+      "素食／蔬食"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      230
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–230 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "便當與飯類主餐，適合外帶或快速用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%82%9F%E8%8A%AF%E7%B4%A0-%E6%9D%BF%E6%A9%8B%E4%BE%BF%E7%95%B6+%E8%91%B7%2F%E8%94%AC%E9%A3%9F%E4%BE%BF%E7%95%B6%E9%A4%90%E7%9B%92+%E6%9D%BF%E6%A9%8B%E5%AE%9A%E9%A3%9F%E9%A4%90+%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a960aaa80853:0xbd52afb3c9ab43ac!8m2!3d25.0197123!4d121.4574129!16s%2Fg%2F11l32zncn_!19sChIJUwioqmCpQjQRrEOrybOvUr0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-066"
+  },
+  "炭吉郎居酒屋 板橋店": {
+    "shortName": "炭吉郎居酒屋 板橋店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "未查證",
+    "price": [
+      500,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$500–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "晚間聚餐與酒食選擇，適合朋友相約。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%82%AD%E5%90%89%E9%83%8E%E5%B1%85%E9%85%92%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a9c5c88807c9:0x47cdb318d8da1455!8m2!3d25.0145638!4d121.4711111!16s%2Fg%2F11qm05z4r1!19sChIJyQeIyMWpQjQRVRTa2BizzUc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-067"
+  },
+  "YAYOI彌生軒 板橋中山店": {
+    "shortName": "YAYOI彌生軒 板橋中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      180,
+      450
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$180–450 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "日式飯類與定食，適合一人用餐或日常午晚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/YAYOI%E5%BD%8C%E7%94%9F%E8%BB%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a81e9148d1d5:0xa279276a2029e0e3!8m2!3d25.011113!4d121.463851!16s%2Fg%2F11g81syng0!19sChIJ1dFIkR6oQjQR4-ApIGoneaI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-068"
+  },
+  "呈信鵝肉 板橋中山店": {
+    "shortName": "呈信鵝肉 板橋中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%91%88%E4%BF%A1%E9%B5%9D%E8%82%89+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a93cae2aa433:0xfcf273a9f08bc7cc!8m2!3d25.0160163!4d121.4747615!16s%2Fg%2F11ms1rj_4q!19sChIJM6QqrjypQjQRzMeL8Klz8vw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-069"
+  },
+  "泰味廚房板橋中山店": {
+    "shortName": "泰味廚房板橋中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      200,
+      500
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$200–500 的參考預算，屬推估，並非已查證售價或店家平均消費。多人分食與酒飲會受點餐及人數影響。",
+    "description": "泰式料理，適合換個口味或多人分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B3%B0%E5%91%B3%E5%BB%9A%E6%88%BF%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a8231c60c733:0xefc820b5f4aee412!8m2!3d25.0152428!4d121.4731471!16s%2Fg%2F11b6xb_60v!19sChIJM8dgHCOoQjQREuSu9LUgyO8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-070"
+  },
+  "這一小鍋 板橋中山店【呷Bar店】": {
+    "shortName": "這一小鍋 板橋中山店【呷Bar店】",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      350,
+      750
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$350–750 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "火鍋主餐，適合午晚餐與朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%80%99%E4%B8%80%E5%B0%8F%E9%8D%8B+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97%E3%80%90%E5%91%B7Bar%E5%BA%97%E3%80%91/data=!4m7!3m6!1s0x3468038bdc70fdef:0x805f7acf189af9c!8m2!3d25.0073252!4d121.4596389!16s%2Fg%2F11stp1wh18!19sChIJ7_1w3IsDaDQRnK-J8az3BQg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-071"
+  },
+  "佩佩奶奶大份量義大利麵 板橋中山店": {
+    "shortName": "佩佩奶奶大份量義大利麵 板橋中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "朋友聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      220,
+      650
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$220–650 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "義式主餐，適合約會或朋友輕鬆聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BD%A9%E4%BD%A9%E5%A5%B6%E5%A5%B6%E5%A4%A7%E4%BB%BD%E9%87%8F%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a9000cfb9e9b:0x208536099b036a0!8m2!3d25.0169145!4d121.4760344!16s%2Fg%2F11mry73x73!19sChIJm577DACpQjQRoDawmWBTCAI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-072"
+  },
+  "村村食堂": {
+    "shortName": "村村食堂",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "街區裡的日常用餐選擇。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%91%E6%9D%91%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a900389ddbb1:0xae7b24772c9355ff!8m2!3d25.0173458!4d121.4768872!16s%2Fg%2F11w8vj39rd!19sChIJsdudOACpQjQR_1WTLHcke64?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-073"
+  },
+  "老先覺麻辣鍋(蔬食吃到飽)-板橋中山店": {
+    "shortName": "老先覺麻辣鍋-板橋中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      280,
+      600
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$280–600 的參考預算，屬推估，並非已查證售價或店家平均消費。餐期、方案與服務費請向店家確認。",
+    "description": "麻辣鍋與蔬菜自助吧；吃到飽範圍依店家方案，並非純素餐廳。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%80%81%E5%85%88%E8%A6%BA%E9%BA%BB%E8%BE%A3%E9%8D%8B%28%E8%94%AC%E9%A3%9F%E5%90%83%E5%88%B0%E9%A3%BD%29-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a945d538db09:0x2c42863759038005!8m2!3d25.015888!4d121.4738!16s%2Fg%2F11wbnzwd8b!19sChIJCds41UWpQjQRBYADWTeGQiw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-074"
+  },
+  "涮乃葉板橋遠百中山店": {
+    "shortName": "涮乃葉板橋遠百中山店",
+    "area": "板橋・府中／中正／中山及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋",
+      "吃到飽"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "未查證",
+    "price": [
+      450,
+      1000
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$450–1000 的參考預算，屬推估，並非已查證售價或店家平均消費。餐期、方案與服務費請向店家確認。",
+    "description": "日式涮涮鍋，餐期與方案依店家公告。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89%E6%9D%BF%E6%A9%8B%E9%81%A0%E7%99%BE%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a81eec765801:0xd20602496b50f32!8m2!3d25.0109601!4d121.4644536!16s%2Fg%2F11bwn89vty!19sChIJAVh27B6oQjQRMg-1liRgIA0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "id": "expanded-more-075"
+  }
+}
