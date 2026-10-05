@@ -1,0 +1,104 @@
+[
+  {
+    "name": "悠悠U Brunch",
+    "address": "22047新北市板橋區文化里文化路二段125巷15號",
+    "rating": 4.2,
+    "reviews": 203,
+    "observedPriceRange": "$400-600",
+    "phone": "02 2256 6006",
+    "closed": false,
+    "googleCategory": "早午餐餐廳",
+    "lat": 25.0270662,
+    "lon": 121.4694735,
+    "url": "https://www.google.com/maps?cid=3851376000272514698&hl=zh-TW",
+    "photos": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLeRedd2wEc4SnlUG2kRZ3NRgSm1sMzP5m1BjwujO3PC5mJnhxW5sOkdjpZpdUjTma8Bf1GiRI0bvuSGr0_DvojY7Gz2RgwoiP86vTQk8FVDP6ian1bM5guUNy8NM4tjyp079cDZ3gHLA9o=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdRRWEeMi6QiGIw1T1ehMYMZLz93KqmVXStRB1xg_odQIp7Vl-j7teWmhcnoxqwySaInU44DJ7Pnfq6KfGb3YJ9Lb6gFrTO0enJtyY2V8zArhA6DeU-yXKTV1Bs0avcWnSnOiFG7y-fy3I=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/ACvplmO7T5OxiK6a6yEFLZRC0ZsAqvyXUGo5xs25DaCHZw8x3p9qQY2qwCuN6QyVkusYlt2LVnQR-w799tUZQdy_cSeScNhB8LC8wLGTQ5Zg4OSuEjpF-9I53C8ftSqPOYB0CrDrOGIWOkYcxSED=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/ACvplmMVBAv0znHZ0YcZk-pIdEpNHV15iBevxdDrJ1Wdjwp4aWuCCFd4qqpUx-kkFgZrH1-1AmkOthXQ4FhGisRfBQuJKo4lyZDeC2X3xv5kDaUx3JbxFNP9BwqBoAkziAYvyPt_hl4NLopnkp_l=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVb30Ckfmag6T0aMNdArAm9f8CYQ9lALEArA3kyBpBW8t6_pwAOhc3-7vbxMqM_ccBqUN6KpueMz3en9dHKl_8nUWor63JMic-N1EiSOirEi7IPvMFMGkq6Q9Hm6LY1W2nFjzgskSkdHA=w224-h298-k-no"
+    ],
+    "dishes": [
+      "炸雞咖哩飯",
+      "Shrimp Avocado Toast with Eggs",
+      "老闆炸雞"
+    ],
+    "dishSources": [
+      "https://pattieeat.com/u-brunch-banqiao/"
+    ],
+    "text": "Google Maps：4.2，203 篇評論，早午餐餐廳，平均每人 $400-600（117人回報）。營業中，打烊時間17:00。菜單與精選餐點：炸雞咖哩飯、Shrimp Avocado Toast with Eggs。",
+    "checkedAt": "2026-10-05",
+    "photoCheckedAt": "2026-10-05",
+    "routeStatus": "pending-origin-transmission-consent",
+    "status": "candidate-not-published"
+  },
+  {
+    "name": "刁民-酸菜魚 板橋府中店",
+    "address": "220新北市板橋區鄉雲里中山路一段21-1號1樓",
+    "rating": 4.6,
+    "reviews": 1039,
+    "observedPriceRange": "$400-600",
+    "phone": "02 2951 2888",
+    "closed": false,
+    "googleCategory": "中菜館",
+    "lat": 25.0085857,
+    "lon": 121.4601496,
+    "url": "https://www.google.com/maps?cid=11361692063081552610&hl=zh-TW",
+    "photos": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdos5zE51c9BhXKgA2UGredKlZVhmVSY-78dcKoSjj6hPUhr1dw1OERLfxOnn9hY1PYayUKxSd1V_Ds25oCQkjrWPfaGL007FDd5pd_gcRnQasd5vxgsLBCOpQWv0E7YlyT3Ntk3Jf5cobm=w408-h544-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLd2wXRYBCttEp7M4TlY_sS1mQB-eh9Bst8QQ8nrdHx5WxK4K-XqNeFqjGkwLjC-OBJ4VHzVoBinHUvYPT1HZeEiJ8kPaPNZ8LQPyRqVRouT3cWsTlgi_A7skS4yggnApAe-t3wzVo-DBCLC=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLf8_siIGF6oRK4NH1PcdKeXlSNQAO7RsbH8RqCk_ip6_fd5CmUfDLG9I10bQ0e2RMF6tJyL3sl2zMZsYW38DOYvct5-kZhplSGlDodg1U9i5UxS3KMmOHdhTcj4AEWm8OuuU8S-iG-NwoSW=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLcT95YcyUCYuugAxXt0gzc5-PeIQ1U4TnCq-UAmvDkZCbsfwRnpp0HU-2leK91XrTsqLP82uVXcE-piKs7YB-oVBQWbnoPqfM22uINsKvTU32r5sgVdrTj9H7PS7k7hu-8lRBPcORDp1DHB=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QXS3c0YYNXE1U-PYUZ8C-KzO15ApbC_Kv30VstdGs-pvr1pwalha6GodptnZW8vclJIoJR4EgD3FvOp8nD5VIHNOzMbb3NF6_P0ksP5TL_oF5-8NWp46fOIV4fEhHmH8uEG-P4GTrZkFQy=w224-h298-k-no"
+    ],
+    "dishes": [
+      "酸菜魚",
+      "母湯娃娃菜",
+      "完美蝦滑",
+      "四季水果茶"
+    ],
+    "dishSources": [
+      "https://www.diaominasia.com/article_d.php?id=171&lang=tw&tb=1",
+      "https://pekoblog.tw/diaomin-banqiao/"
+    ],
+    "text": "Google Maps：4.6，1,039 篇評論，中菜館，平均每人 $400-600（253人回報）。營業中，打烊時間02:00。菜單與精選餐點：母湯娃娃菜、四季水果茶。公開評論提及酸菜魚、完美蝦滑、沙漏酥魚皮。",
+    "checkedAt": "2026-10-05",
+    "photoCheckedAt": "2026-10-05",
+    "routeStatus": "pending-origin-transmission-consent",
+    "status": "candidate-not-published"
+  },
+  {
+    "name": "Lane 72 Bistro 英式餐館《板橋店》",
+    "address": "220新北市板橋區文化里松江街74號",
+    "rating": 4.8,
+    "reviews": 1579,
+    "observedPriceRange": "$400-600",
+    "phone": "02 2250 9584",
+    "closed": false,
+    "googleCategory": "小餐館",
+    "lat": 25.0278699,
+    "lon": 121.4686941,
+    "url": "https://www.google.com/maps?cid=3956178985993773589&hl=zh-TW",
+    "photos": [
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdhPKMY4H4HZ07EFNqLV6IUDCaVaBWH04sNW1BIllAZlKu1ow_H56g1umG6F7fx5ph6J08lKWiTckbJM8vSiwiv0EjiHXGuRyOayI4EW8R_4IqDxhmvMikzLy0q89wqE4YcFnram0xLsCkq=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/grass-cs/AABkmLdflwXdqfmMPbDBMIgQv1GERDYZrLQ5Ebmnkb99o1JKfTbNC_xmaR-6bH8B3ap-t-KbY48o7aeID41rBYDWxiLaFWTeZfDML0DIS1FVGEetLvVH8z5j4WArRl7399YrZikbiDgxaA=w224-h224-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RorHCJqqpyHfnuyWAC8TgTgO7JNu-5ry90S2uPETW7V55gZWFSGX0D50FtPGPcfcEmcyOKE9BjF-rP9f6KWcffK-YOHCfqXiGtyUCt1-g6z_nyw6-CGgCbCRKUpJX2z62y7874BXs7truB=w782-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SCeiexHSHmldBx3q_8VPhtwgnxO5RV1NQlkaFPpPUpP3aIVsjTa6L2ZTufFc2qN5SIiGHRUvQze02zSMtpcAKz1pkfTyNV5BFTLyE8vCXO6cPeHIv2yQUc4fHGI0Dlgwci7ZPwuP_LrFv7=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RmmX22mxXUsCAcSbGply0NbV246zLr92F4eG0iSKMDmHEpXJhXdZRaGBe8HzQBTEKUVkCg8L4Gty5cByt4oTvk6as4CSsH2ArIQNZtGa8GSNUSVtXkqCJO6X96uMbusN0EskJDXFft3GlK=w224-h398-k-no"
+    ],
+    "dishes": [
+      "炸魚薯條",
+      "蘇格蘭蛋",
+      "蘋果酒香烤豬排"
+    ],
+    "dishSources": [
+      "https://annieko.tw/lane-72-bistro/",
+      "https://jeremyfoodie.tw/lane72-bistro/"
+    ],
+    "text": "Google Maps：4.8，1,579 篇評論，小餐館，平均每人 $400-600（49人回報）。週一公休，週二18:30開始營業。公開評論與照片分類提及炸魚薯條、蘇格蘭蛋、蘋果酒香烤豬排。",
+    "checkedAt": "2026-10-05",
+    "photoCheckedAt": "2026-10-05",
+    "routeStatus": "pending-origin-transmission-consent",
+    "status": "candidate-not-published"
+  }
+]

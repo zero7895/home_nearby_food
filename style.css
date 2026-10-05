@@ -165,3 +165,22 @@ dialog{overscroll-behavior:contain;max-height:90dvh}
 .card .card-bottom .price{align-self:flex-start}
 .card .card-bottom .detail-button{width:100%;min-height:44px;padding:10px 14px;border:1px solid var(--green);border-radius:10px;background:var(--green);color:white;font-size:14px;font-weight:700;text-align:center}
 .card .card-bottom .detail-button:hover{background:#1b3d30}
+
+/* Random card actions: stacked full-width detail and Google Maps buttons. */
+.random-card-actions{display:grid;grid-template-columns:minmax(0,1fr);align-items:stretch;gap:10px;padding-top:10px}
+.random-card-actions .detail-button,.random-card-actions .random-google-link{display:flex;align-items:center;justify-content:center;gap:6px;min-width:0;min-height:48px;padding:10px 6px;border:1px solid var(--green);border-radius:10px;font-size:13px;font-weight:700;line-height:1.4;text-align:center;white-space:nowrap}
+.random-card-actions .detail-button{background:var(--green);color:white}
+.random-card-actions .random-google-link{background:white;color:var(--green)}
+.random-card-actions .detail-button:hover{background:#1b3d30}
+.random-card-actions .random-google-link:hover{background:#eff2e8}
+.random-action-icon{font-size:17px;line-height:1}
+@media(max-width:380px){.random-card-actions{gap:6px}.random-card-actions .detail-button,.random-card-actions .random-google-link{font-size:12px;gap:3px;padding-inline:3px}.random-results{padding-inline:12px}.random-card-body{padding-inline:10px}}
+@media(max-width:380px){.random-card{grid-template-columns:1fr}.random-card>img{width:100%;height:155px;min-height:0}.random-card-body{padding-top:14px}}
+
+/* Text-only random cards; larger, horizontally scrollable detail photos. */
+.random-card{display:flex;flex-direction:column}
+.random-card-body{padding:16px;flex:1}
+.random-walk-badge{position:static;align-self:flex-end;margin-bottom:10px}
+.detail-gallery{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:30px;padding-bottom:6px}
+.detail-gallery button{flex:0 0 170px;height:140px;scroll-snap-align:start}
+@media(max-width:600px){.random-card-body{padding:14px}.detail-gallery{scroll-padding-inline:18px}.detail-gallery button{flex-basis:145px;height:120px}}
