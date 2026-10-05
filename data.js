@@ -1,5 +1,5 @@
 window.NEARBY_DATA = {
-  "checkedAt": "2026-10-04",
+  "checkedAt": "2026-10-05",
   "home": {
     "label": "板橋區民生路二段240巷68號",
     "mapUrl": "https://www.google.com/maps/place/%E6%AC%A3%E7%92%9E%E7%B6%BB%E7%A4%BE%E5%8D%80/@25.0228333,121.4674713,17z/data=!3m2!4b1!5s0x3442a83e3dfad6b7:0x656da5176a539c3d!4m6!3m5!1s0x3442a9bfd9878c23:0x7bbf824b32a63e1!8m2!3d25.0228333!4d121.4700462!16s%2Fg%2F11h080fyvr?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D"
@@ -42850,6 +42850,4155 @@ window.NEARBY_DATA = {
         "NT$601–1,000"
       ],
       "checkedAt": "2026-10-04"
+    },
+    {
+      "shortName": "大戶屋 板橋遠百中山店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "飯類",
+        "丼飯"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        600
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "日式定食與飯類主餐，適合日常午晚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "雞排蓋飯",
+        "炭烤雞腿沙拉"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%88%B6%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E9%81%A0%E7%99%BE%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a9144f3f1851:0xd7aaf76695a10f87!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11p74py6wk!19sChIJURg_TxSpQjQRhw-hlWb3qtc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-001",
+      "name": "大戶屋 板橋遠百中山店",
+      "address": "新北市板橋區深丘里中山路一段152號12樓",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E6%88%B6%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E9%81%A0%E7%99%BE%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a9144f3f1851:0xd7aaf76695a10f87!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11p74py6wk!19sChIJURg_TxSpQjQRhw-hlWb3qtc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.3,
+      "reviewCount": 562,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLewjUcekk4uE9dZSV8jWNWFnBUxjE39x1ueGdpOvyXFwbkVn_BXoBfLIrHqtp96tuHdV81HLCRF5iZU2LUzPkB7nheFha_CxgQzhEm53QHs7051w00Ek3DD37THmdhMW7Dkn9OGQA=w408-h305-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd_V8a95r4_6XESKn5f4ba5k_waydpQS7i7_QIr_YcYNPUyFR4G-vGaZOhDu0PiPax0FnDeO1NyCOpnO_VHmPrO5zdpX12dOWqaSg45LKH2e8dKzGw9_GWFMZF8ldGeFrIqbKHcVw=w228-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnYZXtzGgmCTXfAIdG5OZ3_-Rzvt3HENAq4eo0qpwFoCREAAiiJAtFJ-PmOXRynNYCsTxBPmhlXdL6scpYjDyHA4Uoi9SUOBPAGONeJbfFXJ5ogqr5qz8OgN8nkVYguNOH41iP-n5uj8on=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcAWJgpV7Ecq_0-DSPdmVZ28gh1QvodqiURlfVRF3gqcC9TfGUSooUges44TPnn1GGwPHWUR7gpilLIMnFYtfsdNwBdwCXkpwFYQu6LQ74kpZMEaWzxvGb0ZdGi3VT2Rkm9ToVP3xww4M8=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd1Z_-nAbwcAmmzab7AP-cv_19m3kGyYJRxr9rWTOV4_QaR5tH0SZQIyTRvh-wbWvbJG-ESIiGLDaW1-CXSRcssBP5WFRW9NQc1orliwbDDng5Z97se59STplOdK8GmIm_WxZ8Jc-8GWjHH=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 27,
+      "walkDistance": "1.9 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "大賞平價鐵板燒板橋中山店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "鐵板燒"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "鐵板燒與海陸套餐，適合午晚餐或朋友聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "單人海陸特餐",
+        "牛肉",
+        "鐵板豆腐"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%A4%A7%E8%B3%9E%E5%B9%B3%E5%83%B9%E9%90%B5%E6%9D%BF%E7%87%92%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a82347cf1697:0x5130f133ebc78ae7!8m2!3d25.0152532!4d121.4729097!16s%2Fg%2F11cm_47840!19sChIJlxbPRyOoQjQR54rH6zPxMFE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://www.ubereats.com/tw/store/大賞平價鉄板燒-板橋店/CD2YVX7NVEyS_E_WjojzGQ"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-002",
+      "name": "大賞平價鐵板燒板橋中山店",
+      "address": "新北市板橋區民生里中山路二段36-38號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E8%B3%9E%E5%B9%B3%E5%83%B9%E9%90%B5%E6%9D%BF%E7%87%92%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a82347cf1697:0x5130f133ebc78ae7!8m2!3d25.0152532!4d121.4729097!16s%2Fg%2F11cm_47840!19sChIJlxbPRyOoQjQR54rH6zPxMFE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 4282,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfXmy_CmItloCHK6RF6jkEZBMhNgl55ksGefHYKZk3E3FdQm2zoEc1-vPss2fmBuAriQvwbxNkVpoN0wvGpHNuDvFpVYIQeeQ6XlovaK-YYPkTVolZuWOHU5fqZrcjPEbz6Lf0=w426-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWbc5iH_7h9vFnDWzI_7gQ9NSDqqRC-D2WwzmDZhZIGDtxGalYOMUPXk_acEtgJYaQSYfTLPOaa4Y_Ko8-oqn0vKZguKcPJQRVMiHGzR39-5D0KLY3685rgLK16vLy94WfQ70pbK-3q7XF=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPwYh1WRxe0lspnRAPGF10A3E4nita4d8iy7DjGzDNBpzb6F1eNxzmHZaYhBx5Jm7Ko5RcKxJ93KMnxRlIhzuQL_25LOwM5LQS8k-czACHQuqIpbMoJtwL8UmPJd3N3QAZMvf_IjyNO7haH=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMxuyHR49xhrsa-Vmbm9zo0_YGH93sE1zGVE91zZ7gBObqgyEgUXRWob0zeo6vN1LBlTFkOJ-NRuOxEQnVZ2hSBwS9NnIzVnAve0-KjzPKedj_0NYNXfuLM8e7exiEwMVNjdsk_mS3MYFb0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPD9Oo6ar80g9au6s0oHsC5cys6NV2YbQ5el5xfImfdgDcoUxnUCZTZJg76age1DuRWpEsMoqop3z8D3s5unOn711hgigsUtAsd88dAuo_iofjv6wmqngM9OKbUHjSuGs7UOhczpLsiHOiW=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 15,
+      "walkDistance": "1.1 公里",
+      "routeVia": "途經民生路二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0152532%2C121.4729097&travelmode=walking",
+      "driveMinutes": 5,
+      "driveDistance": "1.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0152532%2C121.4729097&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道",
+      "walkBand": "10-20",
+      "tags": [
+        "午餐",
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "旭舊咖啡 Shiujiou’s cafe!",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "泰式"
+      ],
+      "types": [
+        "咖啡廳",
+        "飯類",
+        "甜點店"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡、打拋豬飯與手作蛋糕，適合用餐或午後聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "打拋豬飯",
+        "伯爵檸檬戚風",
+        "鹹奶蓋拿鐵"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%97%AD%E8%88%8A%E5%92%96%E5%95%A1+Shiujiou%E2%80%99s+cafe!/data=!4m7!3m6!1s0x3442a9646c6ea4b3:0xa5d6f3c200f11858!8m2!3d25.0128361!4d121.4706195!16s%2Fg%2F11k56gj1qy!19sChIJs6RubGSpQjQRWBjxAMLz1qU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://shinblog.com.tw/shiujioucafe/"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-003",
+      "name": "旭舊咖啡 Shiujiou’s cafe!",
+      "address": "新北市板橋區長安里中山路一段206巷39號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%97%AD%E8%88%8A%E5%92%96%E5%95%A1+Shiujiou%E2%80%99s+cafe!/data=!4m7!3m6!1s0x3442a9646c6ea4b3:0xa5d6f3c200f11858!8m2!3d25.0128361!4d121.4706195!16s%2Fg%2F11k56gj1qy!19sChIJs6RubGSpQjQRWBjxAMLz1qU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.4,
+      "reviewCount": 627,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcLpq8xvKzqQ-hT5lXLGzBiA-AmRIETxpcxHp_Fro1bjr8mXouwKr7hh1jvXUX3nQRtqZHISNxG2Mv-ANhYprT0lS6dnyO2qv1kj7IhC5RH8av3QeTUfaET3elzk-sinxKRmmY=w426-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLegKN7v4igqQXOjdQhIt5CZiOs8yBYLuzVxcNhtuvF037pY1-kD5_04LIH4zMWvJpYU6FjxWeR2LWfENqiTLKSkhUzgrB3ch6hU8RaRkDHnj-YedyQhr6HIFvBb4OQAIh2w5o_Mi3NLqJoR=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNR212YcwKRIAGwQEPHM7wX3kyWAGXntMs4yb4TibQsNqh1aMaUNrSvY-VnhE6N_EqQy4aJIUV1zXxbkJc9P3OXb7BYcC13UP0MWOwkILAW4jV_aUekj1FNi372epO6Fb0qyt9E6e_7rq4=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMe6UvUp4Dq4MyXXH5XHefBYMFLphmmXj4nz05xtYj1ausGQltIYyRLskLHz8djnv2KYm_NdR-iU2LVhsxaPNOZV3CS7mwJJzngRFYdNeYWrCYY9tZIeujvzuh-KI35Qia_3Z8bZ5wi1fM=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPFxzHemglzBthW9Kx0rE7bHGW-CNWZ2gZANa_CKJCnNI1U8GKxrB5S4_IQg4TpHuvejxbBziLQac2mUX8RQONAzZX8diic0NVNyCinDqeJgWnUC9R61MgJULfj1nFMDjV_ANUYKSzW68MT=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 23,
+      "walkDistance": "1.6 公里",
+      "routeVia": "途經民生路二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0128361%2C121.4706195&travelmode=walking",
+      "driveMinutes": 7,
+      "driveDistance": "1.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0128361%2C121.4706195&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "The Wild Boar 野豬精釀啤酒餐酒館",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "其他異國料理"
+      ],
+      "types": [
+        "餐酒館",
+        "飯類"
+      ],
+      "periods": [
+        "晚餐"
+      ],
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        800
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "精釀啤酒搭配創意餐點與燉飯，適合晚間朋友聚會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "明太子法式吐司",
+        "巧克力炸雞",
+        "蕃茄海鮮燉飯"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/The+Wild+Boar+%E9%87%8E%E8%B1%AC%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9861cc39145:0x659e7024ce90e1cf!8m2!3d25.0106571!4d121.4634073!16s%2Fg%2F11ll4x_2r9!19sChIJRZHDHIapQjQRz-GQziRwnmU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-004",
+      "name": "The Wild Boar 野豬精釀啤酒餐酒館",
+      "address": "新北市板橋區福丘里中山路一段128號1樓",
+      "mapUrl": "https://www.google.com/maps/place/The+Wild+Boar+%E9%87%8E%E8%B1%AC%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9861cc39145:0x659e7024ce90e1cf!8m2!3d25.0106571!4d121.4634073!16s%2Fg%2F11ll4x_2r9!19sChIJRZHDHIapQjQRz-GQziRwnmU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 1690,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcLg78-mf2gEMQkGFV74wY80m5ycHcOAuYHjzJjHEpJ6RgkMyT0iGE-8L3oNA2hPnLtUmp_PKUWmLCCmF5ENdL1V-23pky_ZTL2XdEWMtiNFiYIBayP21RodStUbULmjkckfKjM4Sz5CYw=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdhyxlIS7NczAD_u-gaT7irMqdiYpy9xR4D7CO9lGBam3vDlGwJMs1h0SK4GgdQmOQZ_-vjCjmoykPqItf7QdA9FpAUQC_giwMfSN2y_NqKMsG9nsYUNOomo14JbyZg-hn9TtU=w140-h197-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeAIWma97t_Qxq--624-2BRb9owx5ru8CHNBspoX5Nc6QiiZeqXAadh4QyzLex3UqMcksC8YbVEF0Adh-OPepG6-yS9ICRb2Zc0vMWRr6vAO73FFfvFL1mwmGv55mVX_thlBv688RIVK_qZ=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeLH2rXtMbZlnsnYU6hduKirb3RwiP3XT5oDxIzKw5ww9k8w2W5spzOgF7S5dESd-lrv0BfK9ejCzT_MS3qhTjFvxWqqoCCzBxoJCk3DMQLtQ5RnrtLziDo26kHarhv71OUigYH06PTScb0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc56sVzUfvr51MdrIcFY6hLWyd_CpiLtwrABRx62xVKb1XxNf6ohCOPQZi5gkmgE8wxZc2KGalH99u12KJra_ZRE7YDMpfufdGAL-mI9c9L4mb8Dr7xqMUuDb-ozdgTXacfrNof08To_KDe=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 28,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106571%2C121.4634073&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106571%2C121.4634073&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600",
+        "NT$601–1,000"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "小秘苑燒肉餐酒",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "燒肉",
+        "餐酒館"
+      ],
+      "periods": [
+        "晚餐"
+      ],
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        600,
+        1400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "日式燒肉與餐酒，適合朋友聚餐或約會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "厚切霜降翼板",
+        "明太子雞肉",
+        "明太子烤雞肉飯糰"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%B0%8F%E7%A7%98%E8%8B%91%E7%87%92%E8%82%89%E9%A4%90%E9%85%92/data=!4m7!3m6!1s0x3442a914666ae767:0xd582ca27d53de423!8m2!3d25.0142282!4d121.4702913!16s%2Fg%2F11fm4l5qhr!19sChIJZ-dqZhSpQjQRI-Q91SfKgtU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-005",
+      "name": "小秘苑燒肉餐酒",
+      "address": "新北市板橋區香丘里中山路一段285號1樓",
+      "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E7%A7%98%E8%8B%91%E7%87%92%E8%82%89%E9%A4%90%E9%85%92/data=!4m7!3m6!1s0x3442a914666ae767:0xd582ca27d53de423!8m2!3d25.0142282!4d121.4702913!16s%2Fg%2F11fm4l5qhr!19sChIJZ-dqZhSpQjQRI-Q91SfKgtU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviewCount": 1028,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdsi3Hb1iKtwwVVzisAbnQmWZpvVZwQCinB2n3N4On9t5XcSZF7O72NRYRPsP2gzy8P0OQu425LD9dniqFCCk_F_w-iFN2A8k-eCEuKR6hxRVUhKtwpyShtzAhN_bR7vMYfjP8L=w506-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf-sxod7-gGt0zEQvonmgXbnY56ldmFxEjIPo-VVixuHm8X2sMaGW4KNGyuOzylUdnHJpanJPlp5dI8qCdav1mQBLxRwk9U3wdJlCgoK8IkcPrQB3c9Ebj_Gi3IM8OlUpzWgnMLKyE6Sk72=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdBgFHC84AAULqhke2wS04qM3k33J3Bb8uZ_OjoErhKJ6g5-ZtBt6Ec0Q6VTqK_5G5SUmP3e3j8wMIoIwRQQReTzm1iPz069nZr8DIIWrRVedhgNsq5_faZIVc1naZmM7EuAAMRJ1zAEiE=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe_Jer6W6QW69AGnSWMphKcA5M_8cAc-8wea__rNx14J7KsgqdAKruI-HekTIoGmZ582fS_gOcd5ghv1tTkWeX-ayEe4V6btUZIHAqjx1gTc4A9c3WX8WDLverSdKserUhVAvVGp8hT2tKI=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfxxqFzJMOeku-AGF14tnCFaXgL5-IsOfiPX_8B6x2tfzsY7JS9g173vBgH1MZewPpEm73n92BumqoAu6n22a4D02Y7tBRA1ATRMkaHU7iJtRqM0vjGxSPPWlB7qdArbOW0RuA31r03wxmk=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 19,
+      "walkDistance": "1.3 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0142282%2C121.4702913&travelmode=walking",
+      "driveMinutes": 6,
+      "driveDistance": "1.4 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0142282%2C121.4702913&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道",
+      "walkBand": "10-20",
+      "tags": [
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$401–600",
+        "NT$601–1,000",
+        "NT$1,001–1,500"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "羅瑛沙縣小吃",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "中式"
+      ],
+      "types": [
+        "小吃",
+        "飯類",
+        "麵店"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        100,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$100 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "沙縣小吃、煎餃與飯類主餐，適合日常用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "蝦仁煎餃",
+        "沙縣抄手",
+        "牛肉蓋飯"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E7%BE%85%E7%91%9B%E6%B2%99%E7%B8%A3%E5%B0%8F%E5%90%83/data=!4m7!3m6!1s0x3442a9d66751a2a3:0x84d7bdd927007550!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11khqfcx_t!19sChIJo6JRZ9apQjQRUHUAJ9m914Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-006",
+      "name": "羅瑛沙縣小吃",
+      "address": "新北市板橋區深丘里中山路一段152號12樓",
+      "mapUrl": "https://www.google.com/maps/place/%E7%BE%85%E7%91%9B%E6%B2%99%E7%B8%A3%E5%B0%8F%E5%90%83/data=!4m7!3m6!1s0x3442a9d66751a2a3:0x84d7bdd927007550!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11khqfcx_t!19sChIJo6JRZ9apQjQRUHUAJ9m914Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 171,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnl5b-HDn5SwhKiiKdjOIJusyBKz3XhW7xFAvCblG-vOWeA2NpR8j4nkSJHnVCYeBB7ifaGEVemYO4xgmqJMSfhQbww__esq5Gp2fTEeC3IQC2ahnRJb6-u9Q1ygGj683dZPjDT4_E9v7Z=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcstwITbIR8XWy6reGXFoXiKNwozGykkejedNDDP69FHEBn7JLoqRFWMFQ7UGEXriQhvfabkvi07G27HSMfYA06H7S8rPsTEA2U5NsfZnoVRudHoULDaWaHa1eO0_pUTLjXxw7IFg=w180-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeQ77mjlNb0aF-OKocXuhH_b_qFNwxDne8E6Vjibe5-MhS73Yyg123b5QxmZIrtuKjshwNeB27fjZf-iol0VHMwQle_-zV6k1EQwzxWbaSfOug2mOhPBCZvTPpqNK_P9mPjWgnjc1hQ-5Vr=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdb8PycsNvn1aa1tqPtUOP5lTwic7HxrUATAswVy9Nj6pa29YltRk0FsTJLGG29kydDacRfeyw3APZZ52HYKUNFk3NZIeETqw2PU4i-yNW32O-Eyd-iHMw9iqqYjUOJkhzmfGh26qDd3vmS=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfogyH1YfGqQz1x97qWHde-vFfYfiLz-kpGWjJSDR9fOOPpK0eBG3dUQEXj8vyPdJBYMR0WAB_ACpb9F3hbCgnUkIYSkHM9uW_TIbJe1YgCuVXabPEbBV9CVv532AAZs3b7n2-UC4FpyGPw=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 27,
+      "walkDistance": "1.9 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "酒食人餐酒館",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "義式"
+      ],
+      "types": [
+        "餐酒館",
+        "義大利麵",
+        "披薩"
+      ],
+      "periods": [
+        "晚餐"
+      ],
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        1200
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "融合台味與義式餐點，適合晚間朋友聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "粉色鮮蝦扁扁麵",
+        "菇菇寶貝燉飯",
+        "大腸包小腸披薩"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E9%85%92%E9%A3%9F%E4%BA%BA%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a96327509ecf:0xa677646fa93be3f2!8m2!3d25.010697!4d121.463286!16s%2Fg%2F11h_3zk8gf!19sChIJz55QJ2OpQjQR8uM7qW9kd6Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://www.ubereats.com/tw/store/酒食人餐酒館/As6MlwbcXO6_cavr0PWVFA"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-007",
+      "name": "酒食人餐酒館",
+      "address": "新北市板橋區福丘里中山路一段124號",
+      "mapUrl": "https://www.google.com/maps/place/%E9%85%92%E9%A3%9F%E4%BA%BA%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a96327509ecf:0xa677646fa93be3f2!8m2!3d25.010697!4d121.463286!16s%2Fg%2F11h_3zk8gf!19sChIJz55QJ2OpQjQR8uM7qW9kd6Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviewCount": 1384,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeq80fz2B98OE-LqGcJyki90nq51F7GXwWqaO6hyvUsPN2HfgNo4ZBaevKHdDZW0KMFZ7OneBc2o6p_ttTNRTNVP53ajj2QnToi9E3x7cVJBP8snHZZ27yjXaryN37MAjDQsTe1=w408-h612-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf11VI8nqPfWzs88PpisDSBnpxuoHCpFKxl0swBfUXskE9OXcbrWQXgROGd2QIp5qN9co_79abmYfmzKIOdXAlNlbrW9Nt51RSsGYcYZB2e2Oyht-ca8AGxpXcyZuAU37IKXVflEcp0mUv3=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcGeY33mmqGq-5qz-bQ48UjkAyEHLyxWwyRmjTTGaDvi4PwNphgnbyimUZ5r8FFyMlOhdQslLxkA8UCwW6cCqXMMKvYfScFnq0OUONuAn8N0-dsDo9GSCw7pykQIEf2SghQaBADka9xwIU=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLctzOKChpfQZA_4SnLmgzX1TNNQoPfRseS2yDskzlP4uU5OYo9MMp8cxDDxLfEBiHJrj822UO4BdWV6u97bg8963JBO-584osxm2sM4xozupk8bpyIxMCCFUg3d8sD_BNO2M4-mSF2AhbqH=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfqRuQAx813ycuA_dT2JN8Y4SlEQ6rvmxEPDW7b_jqrGiHKSG_wTE2VQ0H0l5Z6sOlwOdJWhpapF0Dp0eTfe2GiLMWQB7-r3lIcQXNzPTNYWMz-Ju0aVKjIHWAJN-qyhvH0KPVaSeNpFFw=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 29,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010697%2C121.463286&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010697%2C121.463286&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "晚餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600",
+        "NT$601–1,000",
+        "NT$1,001–1,500"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "巢鍋 shabu",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "火鍋"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐",
+        "多人聚餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        600,
+        800
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "鍋物與壽喜燒，適合午晚餐或多人聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "日式壽喜燒",
+        "梅花豬"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%B7%A2%E9%8D%8B+shabu/data=!4m7!3m6!1s0x3442a81e86d4b073:0xb3d9934ce25d0576!8m2!3d25.0106356!4d121.4631597!16s%2Fg%2F11f1wqf608!19sChIJc7DUhh6oQjQRdgVd4kyT2bM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://ifoodie.tw/post/66a1c36c7be9c3cb067837de"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-008",
+      "name": "巢鍋 shabu",
+      "address": "新北市板橋區福丘里中山路一段120號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%B7%A2%E9%8D%8B+shabu/data=!4m7!3m6!1s0x3442a81e86d4b073:0xb3d9934ce25d0576!8m2!3d25.0106356!4d121.4631597!16s%2Fg%2F11f1wqf608!19sChIJc7DUhh6oQjQRdgVd4kyT2bM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.4,
+      "reviewCount": 1894,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcm6OFT96CqUpQYxMIgirN5FFnH6JGJEMWWSz1jhZ_kAzhFdQZNpif_IrOXo-bxY8lD73tkWp7_xQoEggysF3uZQnHWsjSEHxKWlVdTTMGO2z5WmiNG02M-UaUtgjxu68o26DKJ=w428-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcL9jQa5550SHXQZDUGr6xtn7jMR94RbB8pmWazvp5cluu47Lmz9bpCVKdY8NWl-5HNO-abqre31QrOOkh-qavJsw6rc9Y2AgK9YYvz9qvjGh9uqBk2w3GL7tHU02a-mp5qfr6V9G6nzXU=w213-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdHpe2LodWOiBOcqeOp98o2UGNkCz6tAXGLu9LOSuhSjWtE8oOIbPG83PNC63X_00_XFj26DC-KvdridPwkApXEQlLGlYRIjsgQTRrOU75uttBeBHdVbdHba3gYtOQN5fy-neAYrkpILNdW=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfibgX-nf_bUwfrPvozT4N004HQYAzhI74-m2P-XPI-M13xSiKcM7h37BpThfDMZstYccPEra4Sq6BQHuC6e6MML3CwnmV2Q1IXoDt_03gk-wC4zPnnHm5YyJBwV1oW6pvYzZ-nG4alxRmk=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfR0W3NrTUYNfist79HusNRHiw1YMRamJbA2y0RfBdINFM9_bCqDWc26wXQJumHsY-dtdIjQHKw_Ef-HrDNBn2AkDEYyYI4wK_0ReGvNTW7CAF14-a6VgDss2ZPVsznhDL3FWypLkmjMGxW=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 29,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106356%2C121.4631597&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106356%2C121.4631597&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$401–600",
+        "NT$601–1,000"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "板橋鳴門和食料理",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "壽司",
+        "丼飯"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "日式丼飯與壽司料理，適合午晚餐或一人用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "天使蝦生魚丼飯",
+        "招牌黑捲",
+        "腰內肉豬肉丼"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E9%B3%B4%E9%96%80%E5%92%8C%E9%A3%9F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a81f2e2ec4c7:0x484d0546e866f4ee!8m2!3d25.0117719!4d121.4663202!16s%2Fg%2F1pp2tkt_d!19sChIJx8QuLh-oQjQR7vRm6EYFTUg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-009",
+      "name": "板橋鳴門和食料理",
+      "address": "新北市板橋區深丘里中山路一段158巷3號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E9%B3%B4%E9%96%80%E5%92%8C%E9%A3%9F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a81f2e2ec4c7:0x484d0546e866f4ee!8m2!3d25.0117719!4d121.4663202!16s%2Fg%2F1pp2tkt_d!19sChIJx8QuLh-oQjQR7vRm6EYFTUg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.2,
+      "reviewCount": 294,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDLZh_whQYEnBkh7r8_AlfvG9B8q_o1BbW4kLPM5CvQmNzSBVmsq_-qrPJtkL3ah-0gDPp7ht-8XqauQvjwQhKiUB9Yq1TRaq2JY7-4apayt1hRb3L6ao8GU-gSEG6jqdarghEWg=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdT1ptOFjyYCerxC6mqhoB_qKgIlds4zEJMsFwjyEB2poKu2zo3QpASvDaM5RxNLMarEUScOq07xCOElS6HgsPmPrdUo6_PsNwjkLZTsPBZHmfrtXcLz_M2a9bs5rMtygkV9WAYDlYs34ia=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfqn01lksK60n5mcZCub0I4D1SN278yg_jNqH41oQciKkimUViL_UhmV7AwOA4Pic6D-_7UDgLcP5aGz6anklpmInp2scyMjDmYOmbKboUwRWYl6TXrHnAGi0TrbdtTRmuLZhNdNEqgodiS=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeV0lWVtDcy2M7D-AxaJBhhqIZ01sWVWEUzy6vz95Qc9H9QnDVOy0hWOBet9snY0gdsLMHrW_TcndLByCiLz253CD082TOHRY9I80b7C7wlprhGIlWw0WC3quDM5cen_li0adzv6qakWtA=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeQb6nK14W0mbcc-_a4aLk2bO9uBVVXlbcqFWcEljB2MiS0aYV332rPXBbTiPzNfQW9sXoErwShMBV_jtAPsJ77o8xuvOYyxs9GmO_JK9EScHk4vPa-b6mKasOgWRrJCU9wyCQz6xZJZoyO=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 25,
+      "walkDistance": "1.7 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0117719%2C121.4663202&travelmode=walking",
+      "driveMinutes": 9,
+      "driveDistance": "1.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0117719%2C121.4663202&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "滝禾製麵所-板橋中山店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "拉麵"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "雞湯拉麵與炸物，適合午晚餐或一人用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鹽味雞湯五花叉燒",
+        "清香黑蒜",
+        "炸水餃"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%BB%9D%E7%A6%BE%E8%A3%BD%E9%BA%B5%E6%89%80-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97%28%E6%8B%89%E9%BA%B5%E5%B0%88%E8%B3%A3%29/data=!4m7!3m6!1s0x3442a92c3dcaa289:0x283079f905b05c52!8m2!3d25.0089711!4d121.4608989!16s%2Fg%2F11p_247ffj!19sChIJiaLKPSypQjQRUlywBfl5MCg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://www.ubereats.com/tw-en/store/滝禾製麵所-板橋中山店/T8uA5X50V8C3yK-4c_PXBA"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-010",
+      "name": "滝禾製麵所-板橋中山店(拉麵專賣)",
+      "address": "新北市板橋區景星里中山路一段50巷2號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%BB%9D%E7%A6%BE%E8%A3%BD%E9%BA%B5%E6%89%80-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97%28%E6%8B%89%E9%BA%B5%E5%B0%88%E8%B3%A3%29/data=!4m7!3m6!1s0x3442a92c3dcaa289:0x283079f905b05c52!8m2!3d25.0089711!4d121.4608989!16s%2Fg%2F11p_247ffj!19sChIJiaLKPSypQjQRUlywBfl5MCg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.0,
+      "reviewCount": 769,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfbkq0CBActBOOeEgkN0sKhzy8kaKEu8k2jcQXxeFM95DEZ1saJPktTcOxN2HJRNgE2h-Dq1Ey4P6kTUBs-lnSvHP3HJYW4ltP3NFHnYnLbIxR0JkyWYcpW2UnblR-aoS7_0c0hswDyolD6=w408-h295-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcNELHTPiPDDpZDL7B3Ozj0b-lhhcXooFiI-OtP0ESbLWSqB6GPwV77pyNuD60UEVcpgVymLiAOxBU0yF8nDdYlSOVoYEYY0gjrqMAVhw5a2DkI4djFHZrZUyfO6HWGuCmJnspEt-wlGUfh=w180-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdIGHeWzvBQTyQy5JpnatEynEg-99Uth-v1O4423m2mpCirJLLUNAolF4Pesc3f29J-Z5rbcmeh205rMILORfw8T_DJ52mgj3Tcw1KGszINc-9__LNrXQeCZUpYkXNtJpICOKK_FTLtVog9=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLZT0wfBBCbCHsURgDYU1P5ZQPlfyt0y5jloyGgKkAyqPnVk9H9MskO4PCe7P_-E4diJcgDQzhxxFVTY4dMI4zT-afGUKwSVR1xBB1YR6Ug5Ttl1RkR9WNXtWjAYZ8HgVxQl0A95B6Z5cW=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdCXduiLjdGAHTRJoKmI1DG8A4nVzgAbfmcRpMCS7wsvc0IvFGyQY2M325esr8veUCIHGxPZYVOjbBmlTEwexchZLGX28zfHW8oRLP-cQTHvfm6jxTr7-V5WEmA6wuCrjKJbZSDtLE1DlK=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 32,
+      "walkDistance": "2.2 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0089711%2C121.4608989&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.5 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0089711%2C121.4608989&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "西堤牛排 板橋中山店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "牛排"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        600,
+        800
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "牛排套餐與西式料理，適合朋友聚餐或約會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "牛排",
+        "南瓜湯",
+        "焦糖起司塔"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E8%A5%BF%E5%A0%A4%E7%89%9B%E6%8E%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x346802a777d692ab:0xd7940cfc590ca6ad!8m2!3d25.0078516!4d121.4598833!16s%2Fg%2F1v9l8hj7!19sChIJq5LWd6cCaDQRraYMWfwMlNc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-012",
+      "name": "西堤牛排 板橋中山店",
+      "address": "新北市板橋區中山路一段6號2 樓",
+      "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E5%A0%A4%E7%89%9B%E6%8E%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x346802a777d692ab:0xd7940cfc590ca6ad!8m2!3d25.0078516!4d121.4598833!16s%2Fg%2F1v9l8hj7!19sChIJq5LWd6cCaDQRraYMWfwMlNc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 17903,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc1XJmKmQEGjx-3cRavdobPHQ8eXWYziW-ZQ_L2hXu2Zk_SI2rGpPvK8naVwMUl8bNc1Xz0bvkYJz9nUVrmKTAXp3uOiBWNcheHdvjy2BhsP4oPYi0GKnvySHzODBTOOmzoApIrSw=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeenzykQnYZFkR89ZBIfnMHHwSrO6k2f5v7qq5KV05vEoF84X8S29ttlNpF-0_E4_4dV0vxQZ5UqpPIzw1E_nrZe6EpcBceoN-nk8xCjEFId_W_QNxzZ9MqWgH3gXghNDqSdvYEOw=w211-h120-k-no-pi-0-ya41.97258-ro-0-fo100",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc_jD2VsVwIQ3IO6NPujMc_6gpXoi6CVhO3dN3itZ3XSg9uHi4DAIfUXFTXPTVP8NttJL-bWQJqYzgjy4goDbws7ur1ZgOgkBU0b_mhNqN8CjdLH4YsX8yh9UKhnl0k02yXsLZa=w213-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcA6oHKC-5w2eKsmWtY9yuPHw3nk5YoVnFallK_qAQBLlN_eTlqJPVtyJiQgV6J8P1vX3_0UE86jVPg-xrkxIXDOj93CcXke-bVujkl60kclarIyymuFW-m5rypTwO9UaKjaKs63fCt0vr2=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd3rnyVWk6b9v8xph-9vnw99RHynI6y6Za-Tm5mvzyco6WI1xxKorlG3cfKrX_Hxf4-SaGTMQGhQq6LHDTvFETKy5muvvJeEbPU5WhpJl-s0AIkswMlrPQHyzP4p9cEx6FbIojtjY2k-olV=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 34,
+      "walkDistance": "2.3 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0078516%2C121.4598833&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0078516%2C121.4598833&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$401–600",
+        "NT$601–1,000"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "くら寿司 藏壽司 板橋中山遠百店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "日式"
+      ],
+      "types": [
+        "壽司"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        600
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "迴轉壽司與日式配餐，適合日常午晚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "燒炙鮭魚肚握壽司",
+        "炙烤起司鮭魚",
+        "茶碗蒸"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8+%E8%97%8F%E5%A3%BD%E5%8F%B8+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2534f6ba1:0x6df9c4b48c117012!8m2!3d25.0108872!4d121.4645019!16s%2Fg%2F11llzqk3s2!19sChIJoWtPU8KpQjQREnARjLTE-W0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "藏壽司官方菜單",
+          "url": "https://www.kurasushi.tw/products"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-013",
+      "name": "くら寿司 藏壽司 板橋中山遠百店",
+      "address": "新北市板橋區深丘里中山路一段152號號5樓",
+      "mapUrl": "https://www.google.com/maps/place/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8+%E8%97%8F%E5%A3%BD%E5%8F%B8+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2534f6ba1:0x6df9c4b48c117012!8m2!3d25.0108872!4d121.4645019!16s%2Fg%2F11llzqk3s2!19sChIJoWtPU8KpQjQREnARjLTE-W0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.1,
+      "reviewCount": 2208,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfdmdIGjuevccwNXgqVpQuEMp4JsUfCelbeu-w6YMfdTg0AK5swSoR19KB2Of1G_D-YPNVTeELBqFKOePlUMpXEofBbw6DJYHFzAfN2NfSehzmnYoSoERtOa55X6WwsrbJdwAGbEQ=w695-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdkOFExFqfyl_sQ3f81gx0fVGI2A7X25hi4PAA-rV5R0NH56okcZhofGaI_nTVbzFJ8daUjCflqXyEu5K_9T-08uyRefEPYDWKYXqK_mdywTdwRXdlLDCXdCQ7rxaoRalKoIRa8zhvrjAE=w360-h270-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe4wCXS1ydY-dJ4LB9mEFvXUdlE3nIjEs3WOkez7bBGtjSA7iHe7r3FqNCGjU-1SvkW1DTmpzrAYoNAQxeoXli37YcdjzUznoz5p10HGhc4gUHKELHwehN5KQSg2ZH6OInZKiGMuw8ODqc=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc3KxC2pQiRua47n3Sk4yz3-wqiMId_U2Y9l3KXSLY-LbUSsFI3_Zl9ZoqsrXg1KH4eKP4OJhf4I3pvpTtlwg0DSjoalN8EX-YiMsWlps3rVg50Rj_xawjgcyrmlrSrlaxzr25mw-XwYbUw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe__gOxPz_lAdv8yTuravzf5MZmVlxVAlKMlubBIyOxrdl4EtxcBE_DWbhTF4NzpLmhSg5HxvHja2GdMf9SlaRevHyY8n-hT2WlwJicBZfCsKeZ9n1tiR-zMsGh2OAdwaxZlZrrxXzSi4g=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 28,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108872%2C121.4645019&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108872%2C121.4645019&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "FRENCH TOAST FACTORY 府中旗艦店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "法式吐司與早午餐主餐，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "松露白醬牛肉寶",
+        "豬豬拳擊餐"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/FRENCH+TOAST+FACTORY+%E5%BA%9C%E4%B8%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a81d1158a6c5:0xa347ceaafe410827!8m2!3d25.0103006!4d121.4589664!16s%2Fg%2F11clvv563k!19sChIJxaZYER2oQjQRJwhB_qrOR6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-014",
+      "name": "FRENCH TOAST FACTORY 府中旗艦店",
+      "address": "新北市板橋區挹秀里府後街7號",
+      "mapUrl": "https://www.google.com/maps/place/FRENCH+TOAST+FACTORY+%E5%BA%9C%E4%B8%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a81d1158a6c5:0xa347ceaafe410827!8m2!3d25.0103006!4d121.4589664!16s%2Fg%2F11clvv563k!19sChIJxaZYER2oQjQRJwhB_qrOR6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.2,
+      "reviewCount": 1343,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeH9Jds0J-Pblun2_kRug_ZfIoqpR-yLQ5vIDhHS0wWZWQYGbriHDZGc7-jCsyZrCJ79Q4RWzYI-kgLsT7jBtUtlmjHMAKArFtDrjmfxde-LT5fNbc2BJyYjO1D5mMLURyyShmt-Q=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdqqLOUAKgxvf6N-aBvPmpGkkhBOY_Yozg4yCM7CKOhEM-3ISe-O00amsi5oVvjlaEGXou2VKMvACvK0d_iXhUouXZkyJvNUO45iy9bmI5eEHZPTEUvQ32aOIQ13GOgmTA_evB6aYCpxQUT=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMy16kNyhcwn15j9I-bfITjUBaihagF5pRUW4IahMNc8UaC6IClwIj6SwJRC5d2rYwcV5LUBUi7SZmwWnguF5VAZ2DtPNGGvomIYTThLvsKyKWYWFPhjzqsKzdtYT3rS1gpTbUHzOJXdPx=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe18tapRcLOW1JxWKWRpShFnHOkuqCNW-0U-00O9r3po72PwGI7M2dxSAHg5jQcficqwM2I76CVzofsjZxPJVC_75WkVzJaD1ch1fOiRfafILA6UJC67tAsPLE4gADr-BxAQ6EL7hsLtRdw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcCOR_yGVS4HsuURttYIk7xT6K0j7xI9B-g_FqYp4aYThgfF7dRarn9mj6OK1bPyqwuXNVUvRvJuR5QzJZRWcLsqc5Ne2RcB96hI8qyRH7rftWav8MmbVtvQhbLpsqcbx6WADjOtcQqUnNh=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0103006%2C121.4589664&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.4 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0103006%2C121.4589664&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Morning call早午餐",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "港式"
+      ],
+      "types": [
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        180,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$180 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早午餐特餐與漢堡套餐，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "法式羅勒鮪魚特餐",
+        "港式特餐",
+        "超值卡滋雞腿堡特餐"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/Morning+call%E6%97%A9%E5%8D%88%E9%A4%90%28%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%29/data=!4m7!3m6!1s0x346803cf208fa549:0xe975336b0a834174!8m2!3d25.0093027!4d121.4550783!16s%2Fg%2F11s_zbn3_6!19sChIJSaWPIM8DaDQRdEGDCmszdek?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://www.foodpanda.com.tw/restaurant/mboz/morningcallzao-wu-can-ban-qiao-fu-zhong-dian"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-015",
+      "name": "Morning call早午餐(板橋府中店)",
+      "address": "新北市板橋區留侯里府中路157號",
+      "mapUrl": "https://www.google.com/maps/place/Morning+call%E6%97%A9%E5%8D%88%E9%A4%90%28%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%29/data=!4m7!3m6!1s0x346803cf208fa549:0xe975336b0a834174!8m2!3d25.0093027!4d121.4550783!16s%2Fg%2F11s_zbn3_6!19sChIJSaWPIM8DaDQRdEGDCmszdek?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.1,
+      "reviewCount": 752,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf-QFvngqfMFKYFF2tlaTo9io4ie1sZ1xS0c-OjKY6P7VprDSCxKvCF8Pmx6KpcHnRlSnXsDpU0Q-KsRScHR5nT9CuJvJdhe-56upHSCS9_9-XmSm9yQ9pPEtrpC93f55fj_2j7TQ=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfIh3QZcDMDa2MRIDe0mvzgAHbnklJOoBXwJsrLsLPtVBb9-RkbOEoZmy0Oy6rMNzZqyb9GXk8JAzjvQDoQbVtz693IqVY6x0NyNx1qep_EF-wi_gbAX6BljBhkUQrUZvWrWvtqOGuZaJ7T=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_-SOm2psWBgV8CwoQYO7mZkAjTOcOYmaeoO_5PorJgb4VKkxbQlgIRqD-bP6pX2ElUPWl_x6Rk1ilhfecXrT3TuYQ7neUPlZ1RM2DmdOfLVDM2OlfIa9hpRm1Q3urevNI1iEdJibq3hTe=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdCgGs9nST9CDDACICEm9PNcn7qv89ublInRRxqNYgUlqdUaNXQeDc3qqyd8QFb_jyhgyYcPT7x5XdK9XqSjLjHp3ejvoSPOj5xWXkezHa4LvHcUN8ZWRk61J2NAmRjGG_vlkNhqX_wPKk=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc90us3QdJvkFlf7HwMh49J3Gvnp3_qMhMnV6khF1ytk7_Sv1J2zJMFcHd1cH3mC5id9Iywgoyj7S9eBW_RPahwKI2Bhj3r2zr-ajKms0-KL-__ubk37OsoOZ9-jd87_Gz4jmHQjaxxZ3I=w1200-h900-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0093027%2C121.4550783&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0093027%2C121.4550783&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "港式"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "隱寓咖啡",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "可頌主餐、咖啡與茶飲，適合早午餐或聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "牛牛配可頌",
+        "港式奶茶",
+        "抹茶牛奶"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E9%9A%B1%E5%AF%93%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9f69d7839cd:0x5dd255c7df68d83c!8m2!3d25.0175576!4d121.4646734!16s%2Fg%2F11nngvvkn0!19sChIJzTl4nfapQjQRPNho38dV0l0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-016",
+      "name": "隱寓咖啡",
+      "address": "新北市板橋區漢生東路7號",
+      "mapUrl": "https://www.google.com/maps/place/%E9%9A%B1%E5%AF%93%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9f69d7839cd:0x5dd255c7df68d83c!8m2!3d25.0175576!4d121.4646734!16s%2Fg%2F11nngvvkn0!19sChIJzTl4nfapQjQRPNho38dV0l0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.3,
+      "reviewCount": 1418,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdc7VII4NaBqJRw2SPRhPCxYqKJV9i3kXj6cRb1TiwRqxl7pFPvM0vBDzU41nEMnZ34Deu2Q7Osrsz8vvRRwE2blmwBnd42Uk7xEk742s6s0YIgs9iUlI367EUud0J4WgGZbC64=w427-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLey4ZtTKORjaTE5rptAi5g5X8fSgrnKCIrbJWkb9gVl0b8jEDOjP4ZWgxN-xg7wfhRS1_0FmczxfTyyCpG3Ne-YkmtvQ7Mjt3f3D5HXO5iRBbtGI-zeJnt2gnwwgJ5ajX9NO8v6gQ=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcmXvHWpbytj252908MxIkohDiahmDVjTVZZda62DrfurgvzaCjHrQIg0vhQICVeA87RtZ5mLIGzLw-KAtYH_YLESwfB9pGWQq0keOk4FtXaZ01QScr18vb1TSFem1-SIon85uuJdJiWDg3=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfmiznfE6uQ9a5N0kixcn-ay0ktcvQKrufa08o6KhcisrBJMPjTTSBsPzJciiYkUeWyAR8RWrcwGbp5I_loJ_fYGj0ciRVU85uK5JnZpvBinQkGckZf5Ds33aZsdWCUUD2FP1MIIinGCGXZ=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfNfrhcZJRVeIG5XqJboWmmL-PPrpf50E1S44ONm9Oq8hxfL6CBtjA8kQorGMDurggSEHh7scLcEsgD8A-T43sA4XoUYbmVM679BZ_ktE8JBtFpNMTLSv0fx9IFIekO4e-rCoOCJj6Elu6i=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 15,
+      "walkDistance": "1.1 公里",
+      "routeVia": "途經文化路一段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175576%2C121.4646734&travelmode=walking",
+      "driveMinutes": 7,
+      "driveDistance": "1.5 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175576%2C121.4646734&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": "10-20",
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "COFFeee早午餐咖啡",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "佛卡夏、濃湯與咖啡，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "青醬蘋果鮭魚佛卡夏",
+        "松露濃湯"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/COFFeee%E6%97%A9%E5%8D%88%E9%A4%90%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346802a76ed14ffd:0x7e8900357ebc4d8e!8m2!3d25.007399!4d121.4609836!16s%2Fg%2F11cn3rz26z!19sChIJ_U_RbqcCaDQRjk28fjUAiX4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-017",
+      "name": "COFFeee早午餐咖啡",
+      "address": "新北市板橋區景星里館前東路39號",
+      "mapUrl": "https://www.google.com/maps/place/COFFeee%E6%97%A9%E5%8D%88%E9%A4%90%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346802a76ed14ffd:0x7e8900357ebc4d8e!8m2!3d25.007399!4d121.4609836!16s%2Fg%2F11cn3rz26z!19sChIJ_U_RbqcCaDQRjk28fjUAiX4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.2,
+      "reviewCount": 635,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOe_jc_RwCCMQ_CW32KMe-lNjuiV5ychpCjfHnQTPkN2GmdXMKq9QQ42a5mJFLuxDRx87HK8K3s02kTW0-LkVsbqV5bzvzWozQsSeBAm487u3hl7ESHSWqURrAwbZvA-DdnBNnl=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMryVwk2Pgpfh21oSlhnCuz-TqEJPHYq4bGNYxqM7OtXX0bMCcSDuOkVQMq1kJVBO2YcInPjpPX7G2k02lAyWaKQ3E3YxccgKzhGqYl0200fvxG3-7TMxJvhbnB1h8hiDqgDnUZ8f8U9LFm=w197-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc4G9v75u_sUybCGmRopDLqbd3GYL06c2WZyuVzDZcc5KZK0JstefS1RtKhPHbyKTfV9M6bvWhhhXA-ASEfiObFaxxgSc0yj2ReYC9RHWEQ8WE_tAC2XqMp1DB4ipDLX6PDnbyRgbjuGAoS=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcr840qnZF9msNwsQ7_Vv3rCN15CG8QeMqDb0XRH-Vqe08VOfYM0a_O-pooqUD2ApEDbZSvYwKhkkfc8nm9sxWjzKr6txNzRhkM4t8Ep4gLAXPDxuzn8hsrFSkghVveiQcpP-LO1Z-ahKT3=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdSNrvqrPsplwh8BBFQvgCcE5kgt9QQrh0wJ1wuTmavd9GQrn3yE5WmRxugTm6--ZDLILim1GNYyWYU2tl4l3olnxjqafib-Ghu-aARoekfFlNRANZYNupc1EqDSBJyMtVWPzb4oDs3rrMs=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 36,
+      "walkDistance": "2.5 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.007399%2C121.4609836&travelmode=walking",
+      "driveMinutes": 14,
+      "driveDistance": "2.8 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.007399%2C121.4609836&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "慵懶貓早午餐",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "美式"
+      ],
+      "types": [
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "蛋餅、捲餅與早餐輕食，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "花生厚牛蛋餅",
+        "惡魔雞腿捲餅",
+        "薯餅波蘿"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%85%B5%E6%87%B6%E8%B2%93%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x346803ca26772ae7:0x42dde58c705577e4!8m2!3d25.0057002!4d121.4605495!16s%2Fg%2F11v9v6921b!19sChIJ5yp3JsoDaDQR5HdVcIzl3UI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-018",
+      "name": "慵懶貓早午餐",
+      "address": "新北市板橋區後埔街58號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%85%B5%E6%87%B6%E8%B2%93%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x346803ca26772ae7:0x42dde58c705577e4!8m2!3d25.0057002!4d121.4605495!16s%2Fg%2F11v9v6921b!19sChIJ5yp3JsoDaDQR5HdVcIzl3UI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.6,
+      "reviewCount": 630,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcl_mdlAMQJQgtHqB3vseYdO_BmXsDzGREXDh816li44l8wCfDd_UoM5ky1Ur8QtkTodpjpV-3NbFdVvU4MC7S7pZ2HoxnEi_9VIWttIFtD_k6YHuTCSvtagns2GCawdxokZ__I=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexF0R5KdftqjvD0vQOZnTcUX6E1HkjzatKZMIiqabBpEe8_8zktXv2_IT_TY9VqAvsOWBL4M70lnw0hapzMXTiu1HEVoBC6aRd4MkegxyjFACZmh6z5EPpCyoQVbBrhExNl5ttJZRRabZ6=w180-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfYIraG3Vi3wVdbl_ZV06Ed5PG4jD_U8EH4Zmj-g1mtFDpwFNKQTjhlvdbPDArNG22VDxTOD5EIhPhu6qEEcpwTxjJYxApDfCtpJt5z3iJfhwphic1n8qPPRVLQE0yxYjyI9HnCZJSuoPuy=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcK_jb1DqLpkNAQzbp65CStQd-QZXSM7vsXh-MRBkNi4zULXVrPLPth_SEwku4okyQ8mPoDK4kwplzhckJb5FLW9bP0PdEtjPnRhZ28lFEqEm2Zy4GUhn73HD5xOiwMkOU0Y90tG2I8DlmC=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcgUeuwxpjQ78m_HXyS2tjoQUtW0VZv5zW45ZzTKFx7Y6teRmfksBLzhs4F4Y45eNHfM0tWQeTEiWpyRJxrcdBKvzzZmN81fadRam27e6LsKj4k7XPE2FmVITOVYmEKmYG0ak7YWaJ5Rk3k=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 38,
+      "walkDistance": "2.6 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057002%2C121.4605495&travelmode=walking",
+      "driveMinutes": 14,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057002%2C121.4605495&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "巨人早餐店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "蒜蒜蛋餅",
+        "薯餅漢堡"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%B7%A8%E4%BA%BA%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a820f1b96d:0x28465db8ca699884!8m2!3d25.0094089!4d121.4553539!16s%2Fg%2F11fzbvjbgy!19sChIJbbnxIKgCaDQRhJhpyrhdRig?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-019",
+      "name": "巨人早餐店",
+      "address": "新北市板橋區留侯里府中路145號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%B7%A8%E4%BA%BA%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a820f1b96d:0x28465db8ca699884!8m2!3d25.0094089!4d121.4553539!16s%2Fg%2F11fzbvjbgy!19sChIJbbnxIKgCaDQRhJhpyrhdRig?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 3.6,
+      "reviewCount": 108,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcPc5LZMkuc9iNQ9Gi-olbN1YgvctlhUbnYnl1Ma4EYapKAFJokYAWmuRSOEo6Lri9CuFp0vOQ13oJAmeO95oi-l01Qc4IiJBG5MYxFYmzkAGwzWkO6PYbwK7vDZbe-rHf1wcaD=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfN3fDhb9shKm95tL_GzKPtBUzuQpTINea3_bVZBDwcgoHKV6QDYmT8io3C6qF-Enw6LbVvEXqN5DwdF_Zbjn7tjw0EUvzajTEsqP3qXuaVbYZRnMpY1ws0SPXeN09zCON8dgkHsEV42tSv=w1200-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSrQjabfTs-KT-98fcZYo6i61dnNbh2NwmfEZGdGXiJLaTX8gAnUZ41TIYPM7R8A1iD4iHVRwanKqB5iB9Hav0LLordd0HuG6sigazlMBlFcv8Hdue78pYWZwpiV6Tjhb528lz=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLflju8TlzwvDfOFVzwZLMjdq-T-brWzuyk1O0fuf5DwaxpNcHlxOO6UC6wNzv2iCg_FU03Bx7-V8rQ94W9SceLEeHK7iWo2GkAfPjodOMrQL75Mi5xmI3FZgJka2PZcReVJaGjF=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexBAPyZTRnco8_bzx4MROgfLh85bb59FB1c28jAh8OE91CuHx7DLnfRBCrKQpi2cDf4Ubbw1QBqxJIWCbi2ESbIXl2Nsols7iHje2PuMbY19gqwpsEoSO8HfSckQ1tYk7zrEkG=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094089%2C121.4553539&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094089%2C121.4553539&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "蒔逅 Seed Meet",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "雞腿排、漢堡與早午餐，適合白天聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "雞腿排",
+        "手打漢堡排",
+        "手作牛肉漢堡"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E8%92%94%E9%80%85+Seed+Meet/data=!4m7!3m6!1s0x3442a93a27871a05:0xb00950fcb5395010!8m2!3d25.0115046!4d121.4542844!16s%2Fg%2F11x1cb790t!19sChIJBRqHJzqpQjQREFA5tfxQCbA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://ifoodie.com.tw/blog/691b3274eb74c4411ed6313c"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-020",
+      "name": "蒔逅 Seed Meet",
+      "address": "新北市板橋區光華里光華街10號",
+      "mapUrl": "https://www.google.com/maps/place/%E8%92%94%E9%80%85+Seed+Meet/data=!4m7!3m6!1s0x3442a93a27871a05:0xb00950fcb5395010!8m2!3d25.0115046!4d121.4542844!16s%2Fg%2F11x1cb790t!19sChIJBRqHJzqpQjQREFA5tfxQCbA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 96,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe7zO1wvJfHMBU_aA3NIz0vkqakMKS5Zr6rxRirsi2rR2ASbPs-bf0nn30t2vpqCZUP1LWa1amsZ-LR8hTMEoGTJFq12qHGIdTx3cVjyuwWSpehQzTpiocWDg7406sLWLfKAJM2we8izxz6=w408-h408-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdGNLZ3JGm6rj8QCaSh7BGSeDUa2alpwfmN6I6LUwWkYsRYkfhnajZ534Q375_P3MYjvFXWFgc8_6HfZTXWSd2TmsEZslWCJdA1i0C2EJ9PlBoW3qM4eGlyPX1MZy8uG_GQ1_xW3i2_kROr=w212-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfzGFzsqFdY4_Rhd6v-U7uimUAQQ9vNCqHfGISX66Z4p88wY9FO1bPfhDy5HYhZ25Kf1YEzhdiCS6xBOBGzypOWo_9anpIbYB89S1b4eWkvdxzH08Uu0eB9bWpVQ-hs9z6IVUnhXK0Whdw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd1aLZ-wuIhO5MslycnORYi_uX1X-TVze6O5LOIhvQzd9SNRXuyLRzzFL-SJLEpF9sSaZHUnHDsf-R9UOYX8UBwRZVb8oG7fgJwLrvXMI2R1jud11o9I-rvUt24P0vVKuzKfd3sM3LQEQg=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc8wi0Ng2fWX8QwM-Txz2wrkBQvFqL3xtqj1QxQa2GChMfNr07TWy3g5XKcuMeLae5b8xBAXTGBBkwg2NTRVLtBdYOESD8Wlsdl9k9K5AtR6YI_bpTTp0zmfRgseoUAzi7gNecgkiiNDD1_=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0115046%2C121.4542844&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0115046%2C121.4542844&travelmode=driving",
+      "driveVia": "途經台3線和公館街",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "麥味登 板橋光環店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鮮蔬可頌"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E9%BA%A5%E5%91%B3%E7%99%BB+%E6%9D%BF%E6%A9%8B%E5%85%89%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3442a9dd4b1008e9:0x4350fa323abe5f45!8m2!3d25.014772!4d121.4814776!16s%2Fg%2F11lf_mblqr!19sChIJ6QgQS92pQjQRRV--OjL6UEM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-021",
+      "name": "麥味登 板橋光環店",
+      "address": "新北市板橋區居仁里光環路二段76號",
+      "mapUrl": "https://www.google.com/maps/place/%E9%BA%A5%E5%91%B3%E7%99%BB+%E6%9D%BF%E6%A9%8B%E5%85%89%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3442a9dd4b1008e9:0x4350fa323abe5f45!8m2!3d25.014772!4d121.4814776!16s%2Fg%2F11lf_mblqr!19sChIJ6QgQS92pQjQRRV--OjL6UEM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 3.6,
+      "reviewCount": 151,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcuk5yGezqwZSQQKpVOnG5_DPXfxwNY21F6SGzVBnxL1WDvRpfrFdZTOoFSeUXnJpBqPqm8gXc8AID3pPScLnoG7sLdCNXUbTPEu79jeQncHzw55xW6HA9pw4igFlwlTOsnb1S4ug=w426-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcsoPn4plfPoJXku_SBcbzVM5_LXGjkvtVHyOrPVN3rXCeFmWuoWQ_qrQ6Sx56FwmmPHkYlbzO3I33ML0wdGmhf1NA0oVGNX2Mlw6g7GI04OEV4EEuPT7C_7zS9R_38WXPomp5vbQ=w140-h140-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcRPkSYu33axKoy_caG-s35XRNVCT2yTP_x5MOpKmyt99bVtVrsJsevfX3qA4qERZjIe0_qlruzc7qRzUWv7V2fl4bvP8kdqHq_50EbFDGrnkWkajvSy5_Gxcx5Fpm1Fp1TndMr131ju7Y=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe44x3CuKzHJcX7OCGYaAuUh4bXnm69sPs53rWfiQ2ta5JcipvDXgXVUeeA7Nr0ttt2OhhNBrd7mAvRQQLA8QAW1F-oPiX3SkXoutq4ujMfpd-wFo_17VSlRcAIb10h7E7ZnwzY4rhvKSyX=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJVqcsq_P4vXTo5_6IEFDlJxEWD_6GKhVxRJJn8071QZwQXCYUxaifeiH1LhMhKIPgGI216LdRqaStKyNN_fvig7F9QZcuCDXt-Lp42mPxfemkH-K7XCnkhWNT-imeSwAjcNoJLz0urGU=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 27,
+      "walkDistance": "1.9 公里",
+      "routeVia": "途經懷仁街",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.014772%2C121.4814776&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.5 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.014772%2C121.4814776&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "好初早餐 板橋二二",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "美式"
+      ],
+      "types": [
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "三明治與肉餅漢堡，適合早餐、早午餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "一拳排骨三明治",
+        "首爾豬豬三明治",
+        "板橋炸肉餅堡"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%A5%BD%E5%88%9D%E6%97%A9%E9%A4%90+%E6%9D%BF%E6%A9%8B%E4%BA%8C%E4%BA%8C/data=!4m7!3m6!1s0x3442a81a6a18c2bd:0x3c492d35ffde46c2!8m2!3d25.0175321!4d121.4610103!16s%2Fg%2F1ptymr9cv!19sChIJvcIYahqoQjQRwkbe_zUtSTw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        },
+        {
+          "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+          "url": "https://www.popdaily.com.tw/forum/food/1591817?is_app=true"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-022",
+      "name": "好初早餐 板橋二二",
+      "address": "新北市板橋區漢生里建國街118號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A5%BD%E5%88%9D%E6%97%A9%E9%A4%90+%E6%9D%BF%E6%A9%8B%E4%BA%8C%E4%BA%8C/data=!4m7!3m6!1s0x3442a81a6a18c2bd:0x3c492d35ffde46c2!8m2!3d25.0175321!4d121.4610103!16s%2Fg%2F1ptymr9cv!19sChIJvcIYahqoQjQRwkbe_zUtSTw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.0,
+      "reviewCount": 2330,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmN1_RKi-GbLVge7SmEpAMddiDeJFtdzzP8tlsIH_VwZtebxUC5MTo9BFEbgSL5ziq16ubJNkLL5qbFmH-MUKsiEVi5q4kGUgajodEXiN2osvNILoAPMBe6b8XY73vwmGaKrceZg=w408-h259-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNx3dsk5ni5KwZgoaDdl5Fmvmi1FqFTgBAJ0TdfozGlL8BcFXsY-tFgUcrfqVfFoL7TLtz7g_Es1mlXU5PzMxXDOXnVkyCB88eCF8N3TPJk-FTgKKWDI0xRKDdAnKWCl5XcN11YHNR0AY4=w159-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeKV5doMiK2rFClxlvbn3R6vSO9AppEZSEojDwL5Se6Pmvl9CcCwYsTLV-Q359U4fNoDV4OvvsYI_SRzjDbA3XKe2kOg9i5sKLE96EV1xMhGRjsUnYZYdLRjaFybVQ63GN2uMTW8RVOLZ4=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLewmzXhKeIyGD5xgkbt_6Ypd0dsYnEDB8pbKFHsFIGPjqf9Apj3FUF1iZo_TecpqBEwkIEGpTwApah2PyAclcZQ20ac9YRWB8vFW-ZI9tk9WdxGkwY75hR66OE3bdLO6O5VGkI5HInVuT-_=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeBrcmfvhIPZwcw-tnbFS7VyG6NYej28vr6OMSrRPyJNVle_N4GmE7uHtGyqJHgRkzh-H8zv5N9jMNEXpa6WhbzdkuWPphEN6IuiXx7cgy_o6w-BwT_FrQOTXerh_EjuhbAsylq344oHbg=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 21,
+      "walkDistance": "1.5 公里",
+      "routeVia": "途經文化路一段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175321%2C121.4610103&travelmode=walking",
+      "driveMinutes": 9,
+      "driveDistance": "1.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175321%2C121.4610103&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "吉飽早餐-板橋北門街",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店",
+        "麵店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "蛋餅、熱壓吐司與肉燥麵，適合早餐或早午餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "薯餅蛋餅",
+        "古早肉燥麵",
+        "辣起司燻雞熱壓吐司"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%90%89%E9%A3%BD%E6%97%A9%E9%A4%90-%E6%9D%BF%E6%A9%8B%E5%8C%97%E9%96%80%E8%A1%97/data=!4m7!3m6!1s0x3442a95c68f40f09:0xdbd1b29e4b8402d9!8m2!3d25.0106261!4d121.4577203!16s%2Fg%2F11jrr4_jk7!19sChIJCQ_0aFypQjQR2QKES56y0ds?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-024",
+      "name": "吉飽早餐-板橋北門街",
+      "address": "新北市板橋區黃石里北門街12號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%90%89%E9%A3%BD%E6%97%A9%E9%A4%90-%E6%9D%BF%E6%A9%8B%E5%8C%97%E9%96%80%E8%A1%97/data=!4m7!3m6!1s0x3442a95c68f40f09:0xdbd1b29e4b8402d9!8m2!3d25.0106261!4d121.4577203!16s%2Fg%2F11jrr4_jk7!19sChIJCQ_0aFypQjQR2QKES56y0ds?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.1,
+      "reviewCount": 372,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMFEjrPKqDTmMJALLlCm572uvYGqOXFsloh6FDn90_16FjJxP167FGpRtf3gFXVejbANOWr6LRKh61PlxasbPeiK4Fwdh30ycNECeZwC20hDSfFqtNWq5dV3gOMP970LbQWgAs=w408-h305-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMPPCla_bkeC1mK-qbXWeZ5fPvxuxPAEGL3ircwiFqRRzrmWBAiA8dJfpSVeP0iJUmFjOpOY2MOqXXQCMyePLavV2pLK9Jm5itedIT1w3C31a5NcdcO6O-o-n4oqkEcmb_6CCHGe9D6ngcw=w164-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe7OncvhrpggHuYZkIQ4ZxpXj95Cc9lLWSXlBlUpLCpdpYHsd4vOkULnCMIDIoSMvTz3aCI8vlGK2CXoyrREdouhDR2owwRqt5F66BtoNtnE4y-dTsvMHBiZO9G0m6xWQUGL3UDW7IPGHlo=w1200-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexBG31yvHZUoTlC2ucsdvPJXhYpZeeKiHbgrn8dA48iLXryNjmRgK1hJ1zwmRnMNthQOiWKsGZFaBzn5AwkROCuH9W38xvIyAKzUL9MEC7EHEWSTx-NcMOfko8SJkqOCsH1qU=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfK1SKOMp9t6t2eTOhMxNBkUDN_NoXNdN-K9mhoIKiwGSHm86LiuNQhfwlGOS_C-HHQ1PmZOn35Qm5W8LXoLlADzgPfCQBhLBBNEJ2ocfMAGaP-c8lt9YttHvYhE43hygI9BtE=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106261%2C121.4577203&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.4 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106261%2C121.4577203&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "ASPOON CAFE",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "特色咖啡與巴斯克蛋糕，適合午後休息。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鳳梨特調美式咖啡",
+        "桂花風味拿鐵",
+        "黑芝麻巴斯克"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/ASPOON+CAFE/data=!4m7!3m6!1s0x3442a979cb9faa0d:0x359816a977fda956!8m2!3d25.0106638!4d121.4602683!16s%2Fg%2F11s3zjhrdp!19sChIJDaqfy3mpQjQRVqn9d6kWmDU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-025",
+      "name": "ASPOON CAFE",
+      "address": "新北市板橋區挹秀里文化路一段32巷22號",
+      "mapUrl": "https://www.google.com/maps/place/ASPOON+CAFE/data=!4m7!3m6!1s0x3442a979cb9faa0d:0x359816a977fda956!8m2!3d25.0106638!4d121.4602683!16s%2Fg%2F11s3zjhrdp!19sChIJDaqfy3mpQjQRVqn9d6kWmDU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.4,
+      "reviewCount": 332,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdVZiZy_6RkjBOYuQMtQJKEFiPL3kM7fIa-k6rMTeBqSdoEafhl8VfS6MXgnStHN2VdmUsBTKc1CpJ3snDwkBOgyr6-vx-rEh4jQD__eIR79bCJ_mEBJlRCM_aBVpVQ1MNR8H80dw=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeYyDnPLt2z9KMljFPZZW6iCJzvJhYkGRCHYodQT18kSGZ20EOom4WNjnvU0yAVEeyK_-mGy4aBHeEhaQIL1-rlBRUcnqIJ4iRObHW_gH-8WHbY1fQy2plO4p-_lGLUn-StWzqWBO6oURwj=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeuhMhux1Cd31Bna16txlWFJIBrEogt2lfZ4FFoIXq90SxI7_hp0g4PwfogBxTzjzOjRTQLnesvioBOJhzHQ3m4NSzvyYUhn0R8RwE40phePHpUlZDqgq7ZZIwV4gFHp7b3XtrSnYb7-8-1=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeRalTbUQKBdFCvx0mfBEJPdNCaO9obdXNZgfQaN7v8n0O7rG-ZaGlghPR3u8jjT7F4e1rtF23TmeJ_AvaXUvrNLCLPH-_G24Uc6BFWV58gSQ0m-qee8L6H5kByUAYB_U7pFu8YJ7qEBgVS=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeoTBty1HXsvPjqDY-UQC_05zxuprXbkYJ28IojfG-dU8xPA12i-R2rzre0Ia7PN-7Tmgu4tGUvmYvbbZgaW1eU5-TtUhZRSweKOyArPffkm640cXfgjownokq31cu7aDO3XHMvzSqfbj7W=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 30,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106638%2C121.4602683&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106638%2C121.4602683&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "紅茶巴士 Black Tea Bus - 板橋府中站",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "飲料店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        35,
+        110
+      ],
+      "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$35–110 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+      "description": "紅茶與豆漿紅茶，適合外帶飲品。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "復刻紅茶",
+        "豆漿紅茶"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E7%B4%85%E8%8C%B6%E5%B7%B4%E5%A3%AB+Black+Tea+Bus+-+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E7%AB%99/data=!4m7!3m6!1s0x346803ef9f6ecaa1:0x40121c44fcc16b6e!8m2!3d25.0057503!4d121.4620039!16s%2Fg%2F11wxgfwm6k!19sChIJocpun-8DaDQRbmvB_EQcEkA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-026",
+      "name": "紅茶巴士 Black Tea Bus - 板橋府中站",
+      "address": "新北市板橋區景星里重慶路102號",
+      "mapUrl": "https://www.google.com/maps/place/%E7%B4%85%E8%8C%B6%E5%B7%B4%E5%A3%AB+Black+Tea+Bus+-+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E7%AB%99/data=!4m7!3m6!1s0x346803ef9f6ecaa1:0x40121c44fcc16b6e!8m2!3d25.0057503!4d121.4620039!16s%2Fg%2F11wxgfwm6k!19sChIJocpun-8DaDQRbmvB_EQcEkA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 309,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfrHHglUoRU5uxY3rfGJvH_R1D2lb163TtG0XXvxmYMtPLY31VKt6n71gnRJK7Q9A0COjsYEVxIl1u2W-B-h22ZYPtNOyGJEO5GjIXyD7f4CC8akix2gM-sBBy_xIau2_twkSUVtc3cGnSv=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMf78GzZQpssNtTmN7dczldyEGlto3qNIdnzInCQvSdvs-typYyd6I69z0-8yPAkLPCRPxaly4sZiksuG9KMxpMoU_ljL9uV5NmYPEhOp417l2-kMC2fQy-G-xHq71fn7SNlEjv=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmN0thEsgjNbPBDBjAcUxZrTCYkp2k9jmlBoLybYvAuj4KS0Uw5h5mJaGfOsMjz2LjRilJ50pY6vS5cERRZ6ipmEEOMEVv3KV4yfk3t2VGf2HgMQgZS4fyUQfMXhMa0bj_ud66qm9w=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNynFePMLTXfeohoYZcH7YGtCgLqeAO3Y79Qt2mywBWvxDiQFfqs82bz4zcTC6WypnCQgs4BOGh-38Kothned3L9dtNXEOWUIVoXERPcC5etzKZFdTvm7gc4F0if7UWhhjyXY0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmP7F2JRlqXti-PtAWq9h8wkmWikXe0ZaaeF0NEpVplh9BKNavce1m6NNQBzbS_-hnfywtE7CaEiEP3v29vLAFxEE_gDLwrVPZ_PFV6anH4ZlGJy4dRi0UGNZplW86sSzRV7f6o4wg=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 37,
+      "walkDistance": "2.6 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057503%2C121.4620039&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.8 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057503%2C121.4620039&travelmode=driving",
+      "driveVia": "途經114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "飲料"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "聽喵說早午餐",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "美式"
+      ],
+      "types": [
+        "早餐店",
+        "飯類",
+        "麵店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "蛋餅、炒麵與燉飯，適合早餐或白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "芋泥起司蛋餅",
+        "重慶麻辣炒麵",
+        "奶油雞肉燉飯"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E8%81%BD%E5%96%B5%E8%AA%AA%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x34680365bb4dab81:0xddbad4bc6f51766c!8m2!3d25.0047817!4d121.4582227!16s%2Fg%2F11t6q7pkw0!19sChIJgatNu2UDaDQRbHZRb7zUut0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-027",
+      "name": "聽喵說早午餐",
+      "address": "新北市板橋區華福里華興街46號",
+      "mapUrl": "https://www.google.com/maps/place/%E8%81%BD%E5%96%B5%E8%AA%AA%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x34680365bb4dab81:0xddbad4bc6f51766c!8m2!3d25.0047817!4d121.4582227!16s%2Fg%2F11t6q7pkw0!19sChIJgatNu2UDaDQRbHZRb7zUut0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.4,
+      "reviewCount": 321,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeuI8wS6STpRgB_MNt6Jr3csYApOB08hw07Zqx8rSqE3lORbgtWcckh4WrAfJLlRwMCxj1ND0yJdMG6KIWVb2kKRiRkhfaAv2GiAsVSC8YrIrXaC9PXNktUfp7Dd1sttgSrc3L1H8xwoleO=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcVNi_cRXq9cOQx-UaK8Kf2Opha69FbL_xRPauRkW8So3YPt82GbUJWty4Zsr0QiXmKjWVJHuV0_WgIdw7oaFIBHC44fgetEESFRhdVKgZE1AkVkNGrdwQv-xTvTmfaaoNDMXnhgBtB0TwJ=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDM0p9oeFxIRmI7qW5fLGYuxf9cRh7gPedeJS3ye3ifSYC8MjdtEICiQAj3ndSWbSOTrjuNXP53f5bfQ4xqETeEReacp7Z0K4Il5iXnujEEVQl22I_bYZY1bSJvZi4ziRhCZHS6pAqkHE=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLepLPQfuEgjI-4YcCM5br60tQP-H7dXmHTACVSp2hAHQJ_Elh9THsQO4qH5ZRrCKDkd9HviHXKJpEcZMVbeb725XMARpAdubdGeKmgObpXgMGJqIJdewBsxuvVBDtWyB9GoBq-RP7dOlFIp=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe26p-wDy3amiEL5jRGok7fLlyphFZnK_iI4IVTK7oFKX9rMTPpUWkBeY1YfL6AQ1Rb_tR-YyZshMpRf6NpzF4abDbiIBmV8_FAVcnI6AmlQGPjlODgHzXDNZqID1z7t-214Z4WzXO3pO2t=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 42,
+      "walkDistance": "2.9 公里",
+      "routeVia": "途經縣民大道二段和縣民大道一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0047817%2C121.4582227&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0047817%2C121.4582227&travelmode=driving",
+      "driveVia": "途經縣民大道二段和縣民大道一段",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "東美早餐店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鐵板麵加蛋",
+        "中杯奶茶"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%9D%B1%E7%BE%8E%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a0e65ea3d7:0xf2fb820c55e25097!8m2!3d25.0053056!4d121.4644659!16s%2Fg%2F11fxzrh975!19sChIJ16Ne5qACaDQRl1DiVQyC-_I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-028",
+      "name": "東美早餐店",
+      "address": "新北市板橋區福德里實踐路93巷8號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%9D%B1%E7%BE%8E%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a0e65ea3d7:0xf2fb820c55e25097!8m2!3d25.0053056!4d121.4644659!16s%2Fg%2F11fxzrh975!19sChIJ16Ne5qACaDQRl1DiVQyC-_I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.3,
+      "reviewCount": 56,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcvAjpqe-tQGkHMYrMFklJ0Yqe6JDIE47TVP_A8nK1ghDi-pt89WttBCU1Ykf2jtG_Il94PiINQKiKt0QZpzw-LN_XELhZUoMqo16obIpz3dvQHI9q-tgIbzpb8jdZlT6BEIUP5=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDzMIX_JSxWDdrW8zG1i7oF-9vDlQ4kfig0fi3R42QcdtpTBntoXqPOrofEGnwrU8iYOgd_OwVuWvU93roZNjeGVW3E6AvOd7f7w3DvdmC2elfeuuiuVahQIEUS5eBiUVx40Wu6xRLljaD=w1200-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcB0VjgD2W5MUUsY32bpQogp4JbXR52YcGvXM8-fn8NosWspG4GdD8c-ft703Me48IkdIlYDvI4bXTSXzw5lE9lL9FRhvZLsbr9iH08NK80JxUKowQni4dIpiYBdT3VlEz-IUfXaw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfFO3F_Zgho6lo-E_vCmh2imDMINSeNdK1cGwxixn9BOxUQMdPB_Ya26ME-_24vo-tCFoBB8XNDwaC5PjMh_xYspiTqV1QI0LZ4rF5ay2UwawMciIGemMczAQ4mUnDMTpcTyuzc=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcZsbR4gReOwGlc8vQkmr4LC4KUCd07dckb2Tm0aralD2p9GfuVeYcrLPLSQMyXbypLT7FqKoMzYlnmAOo-yLmpSbn70QrSiYOKYzbbS8xrCDxMmdCQoAKSFAsz5R8iGL50SVq17g=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 38,
+      "walkDistance": "2.6 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0053056%2C121.4644659&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0053056%2C121.4644659&travelmode=driving",
+      "driveVia": "途經114縣道",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "尚青標記皮蛋瘦肉粥",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店",
+        "小吃"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "皮蛋瘦肉粥與飲品，適合早餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。快餐車出攤位置與時間請先查看店家公告。",
+      "dishes": [
+        "皮蛋瘦肉粥",
+        "薏仁牛奶"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%B0%9A%E9%9D%92%E6%A8%99%E8%A8%98%E7%9A%AE%E8%9B%8B%E7%98%A6%E8%82%89%E7%B2%A5%EF%BC%88%E5%BF%AB%E9%A4%90%E8%BB%8A%EF%BC%89/data=!4m7!3m6!1s0x3442a815ef7ec3dd:0x4ba82b4bb81bed87!8m2!3d25.0203894!4d121.4661099!16s%2Fg%2F11hbllvmg1!19sChIJ3cN-7xWoQjQRh-0buEsrqEs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-030",
+      "name": "尚青標記皮蛋瘦肉粥（快餐車）",
+      "address": "新北市板橋區忠誠里文化路一段315號號旁",
+      "mapUrl": "https://www.google.com/maps/place/%E5%B0%9A%E9%9D%92%E6%A8%99%E8%A8%98%E7%9A%AE%E8%9B%8B%E7%98%A6%E8%82%89%E7%B2%A5%EF%BC%88%E5%BF%AB%E9%A4%90%E8%BB%8A%EF%BC%89/data=!4m7!3m6!1s0x3442a815ef7ec3dd:0x4ba82b4bb81bed87!8m2!3d25.0203894!4d121.4661099!16s%2Fg%2F11hbllvmg1!19sChIJ3cN-7xWoQjQRh-0buEsrqEs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 46,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQ0YIJqWcw_6op5NVmtkRJt0kw4-AbU40kRN-Q3pBb_GOICUcMypab8YQPaugRkDgrBdyM73IoV-5HSO-h5cRdULkdoW2xCVE5F3J_hpWTIyiumqB57R7bIaHu_ftzUcfEouu24Q=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcjb8lK8oxubV972mvibW_Vbo6O0IrLzS3NrnMA0PmNgzpisGVdMst3H43FhxAyTIbN7nGcr244bmMBAroWND4oxT4DoZCAfBza-qitSW0XZISd08MgUq2zspKxxoGxu1bl5yCGZQ6trULa=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcM2p6V9TFFToUqZRakkBfOC7GTjR06MZewJm4zrPSvwk2eLmL7pf4habYn6sECBPdC-aSuVMKKY9fF2wv0fFeqTgQjPBIAOdW7skLQEoFcdJb2TUs2y9menl-vSEbeOR6Iy4rtd-bFCDI=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf05p2rlnWEB9EXuCyFYuSSHMHx9feMcjJ2n6-MkVINVer9sUEcJciYMZ-Fkg2mlv5opxJYLUUyfGvhAHVu4Ndw2IjncR7DFxBoybeLSi_a4D9ahANHLTDeH872G4qS4MPBPrLirJ2y6tOf=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdLSG7WYgkDbwnu8UCBLKY99cumcNbWusZJh_6vYZDOfAtZAs23Iqutpgx-4wv7bLfznXMc8QkylEg-ivNAqZHErLaWq4wvZ7Tb9w3bQC5RTLnKH6IIPe5Joq1fN93-uhs8i4lvdHVcrTU=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 11,
+      "walkDistance": "750 公尺",
+      "routeVia": "途經文化路一段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0203894%2C121.4661099&travelmode=walking",
+      "driveMinutes": 6,
+      "driveDistance": "1.0 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0203894%2C121.4661099&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": "10-20",
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "​源慶鮮蚵—鮮蚵/小卷/藥膳滷味",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "小吃",
+        "麵店",
+        "飯類"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$200 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "鮮蚵、小卷與飯麵小吃，適合日常午晚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "小卷米粉",
+        "牛肝菌滷肉飯",
+        "黑金麻醬麵"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E2%80%8B%E6%BA%90%E6%85%B6%E9%AE%AE%E8%9A%B5%28YuanQingOyster%29%E2%80%94%E9%AE%AE%E8%9A%B5%2F%E5%B0%8F%E5%8D%B7%2F%E8%97%A5%E8%86%B3%E6%BB%B7%E5%91%B3%EF%BD%9C%E5%8F%B0%E7%81%A3500%E7%A2%97%E6%8E%A8%E8%96%A6+%7C+%E6%9D%BF%E6%A9%8B60%E5%B9%B4%E8%80%81%E5%BA%97/data=!4m7!3m6!1s0x346802a921e09a25:0x3834a517287a0ae4!8m2!3d25.0058432!4d121.4540241!16s%2Fg%2F119w8tt3r!19sChIJJZrgIakCaDQR5Ap6KBelNDg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-031",
+      "name": "​源慶鮮蚵(YuanQingOyster)—鮮蚵/小卷/藥膳滷味｜台灣500碗推薦 | 板橋60年老店",
+      "address": "新北市板橋區湳興里南雅東路29巷2弄1號",
+      "mapUrl": "https://www.google.com/maps/place/%E2%80%8B%E6%BA%90%E6%85%B6%E9%AE%AE%E8%9A%B5%28YuanQingOyster%29%E2%80%94%E9%AE%AE%E8%9A%B5%2F%E5%B0%8F%E5%8D%B7%2F%E8%97%A5%E8%86%B3%E6%BB%B7%E5%91%B3%EF%BD%9C%E5%8F%B0%E7%81%A3500%E7%A2%97%E6%8E%A8%E8%96%A6+%7C+%E6%9D%BF%E6%A9%8B60%E5%B9%B4%E8%80%81%E5%BA%97/data=!4m7!3m6!1s0x346802a921e09a25:0x3834a517287a0ae4!8m2!3d25.0058432!4d121.4540241!16s%2Fg%2F119w8tt3r!19sChIJJZrgIakCaDQR5Ap6KBelNDg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.3,
+      "reviewCount": 3571,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcm1ejtCRQBgCIDpEs6lIzuUJKb-yyyBYmahDYyYIO1de1z4S_USxMRyoRelF4wNULHSICUISbh-h3ISxdIC_UR-hE3kEp0wCTuVxCH9MDV7mHkjOXvpWDg6xiO0cS7XCTUsbZGLprxmGY=w408-h440-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTsnzMr_sLv_6eb7Pj7cpQK2KYjGwne-_FGkQYdVGVqucwJZVBZX6OeUpaTjoa6gBz7KzntlCXZnnYSPzEnIEnRK_q_NL7__j_wsnds7Gau4-OCycNFMlsubhSFSOJLE_nrkPM0mks-ZXv=w213-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcrI_Ji-Xuesom8K6qddlMTRThgPtyd6DAgEmditIIacXLadJARVkAuHPArfKOEamYRq-08v3yY5Mm21FPvWnK7Wyz4hlfBMAUGXP6LI7XYA7rwqaVJInvGQ3LAIvIZ6GEzCVVlY06pz4Yx=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeNv2YpSWSfUBfHMmwl6T3pV-v4sKd3bwYvwJ-jXWFNu2VgOMW7hQLVZgGsrIVfnqE65iTwEHRRnFXGfyXI5vtK0hfipWpAp6gqcXQN49AUBd1BU6cbhc_R2KbzdRvJTiImFY5_e5V1loiX=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdS4klHBmpsJ5EUrpcpt5x9dw4g5S527ZzN42w0jxxJgg6LwTU8PhH0LYf8bB9gVtJXdb4vuDVEOHp0jt_yItw3eCY0VyQx9kEZFPSENnmhNwjAw0z9x4vIqzZDpTz0346CQhuGeaxD_JxM=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 41,
+      "walkDistance": "2.8 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0058432%2C121.4540241&travelmode=walking",
+      "driveMinutes": 15,
+      "driveDistance": "3.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0058432%2C121.4540241&travelmode=driving",
+      "driveVia": "途經文化路一段",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "伴刻早餐店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "燒肉蛋堡",
+        "薯餅"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E4%BC%B4%E5%88%BB%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x3468031cf17a9f5b:0x652f6010e87d6232!8m2!3d25.0074746!4d121.4604836!16s%2Fg%2F11njxdnd68!19sChIJW5968RwDaDQRMmJ96BBgL2U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-032",
+      "name": "伴刻早餐店",
+      "address": "新北市板橋區景星里重慶路12巷20號",
+      "mapUrl": "https://www.google.com/maps/place/%E4%BC%B4%E5%88%BB%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x3468031cf17a9f5b:0x652f6010e87d6232!8m2!3d25.0074746!4d121.4604836!16s%2Fg%2F11njxdnd68!19sChIJW5968RwDaDQRMmJ96BBgL2U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 37,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfZSAnqBhThJ_b9NwWp65Rb7WKxa7knQlsg3xLU7_R91brwL0i-Cgm-bnu2Jb7vM85azBUQ3x8ETGitQ2hSV2NIPkzHkDoEVtLHN6XuqtMJMFoRTzZDAuwL3n7Z_Z6FfaR_XKkZqKNO4QWn=w426-h240-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf-kXJZ1sBVsPU27hzZe3HVeHNn9-C_sR-9z4v042j4_Imm1LMUcQozMIiintivcfjC7B2MRkh_pt_bMJ8e-iF_M_NoPz5hcDnYTPO1qqS0952-WXThAyHijtbJrx08RyigBuivXofi0qfk=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf8m9ITFKjTyAAR5fDQCLubydnYd3vQ3XGLgG0hx_vLz-DOPiK2yk6V6rrMRt9adkf2OEecOM2gnTyDA6UOI2Iq7o_vEszs2cMUnBhnp2P9_1JV_ufViaXbV3c2eMw8ges78xIHOChIGjPt=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdZsD6D0fiE0v2pbCmUCvUqjS0qpCe_VL6B_cYeVehKxWEY6n7xhOw-upAO4dXAiAE9f_WUXF7AIN0BIB4oGwmu4TyNnCc4WKa_AzZi5b8kTW1G-7XiMB3JxVYoye8PhvmTXlmZ7MIOk83w=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdBPmZBh3rkgVvkvZ65pvGKPkFsR4TNiyjGEoCEB0ilR3RuKTT_0YGD0_TOI-4zdMhLQLlyUxeqVjncaCOf_ocvaUXLQOLA34UrG0WxdXUJtsm2a0ZoxcX0265-bDaoUXtRSshba1rS9R9c=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0074746%2C121.4604836&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0074746%2C121.4604836&travelmode=driving",
+      "driveVia": "途經114縣道",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "文昌豆漿",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鹹燒餅"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%96%87%E6%98%8C%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3468034051671d6f:0xaf2b1e224e8ae9f5!8m2!3d25.0092356!4d121.4557653!16s%2Fg%2F11v3_xgpnt!19sChIJbx1nUUADaDQR9emKTiIeK68?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-033",
+      "name": "文昌豆漿",
+      "address": "新北市板橋區留侯里福德街2巷14號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%96%87%E6%98%8C%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3468034051671d6f:0xaf2b1e224e8ae9f5!8m2!3d25.0092356!4d121.4557653!16s%2Fg%2F11v3_xgpnt!19sChIJbx1nUUADaDQR9emKTiIeK68?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 3.4,
+      "reviewCount": 21,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcpBWNVIYdHmfTdicIcSnmC-jFapQn_Mz4IFvIP2mDsgzy4oz1dSkoCDPDkoosI2FUPJHRUexHvrpz6p3jsMKYvz2eH550JNEPUin2baKI3TA3grEDGPRWyydwR5LDjPydYPNW9VW1IT0NB=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfjEh1fMOJ1P1xoFVX69CyGu34dIbluUv1T7deTmEGf-Tp58MC63OJ8ChL5jA3Okw5Hl_quo6DLw-E0gi4Vd075rAAoKE9iNhRPs9-ItNIDWjS7GPnV_CsK66VWzZq5c68abK2Dnl3NVzk=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcgZsKCXNgagquMzKuDTCuzeVq6iXpwP7te3qxdBAAPOVhufRBFdqen8IJSGRM3hod02yifhQ5979XPk2N1RwGNS5klZiwhG_xFxjTqsV8rZnxXIc_4Upu8cwzt61eBD4rPbd6JM8KEIDsK=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfEciikSE-kQxhSP8nxl2gLe_483p65jk7NRwn_7yCWyoB9SiHfxtAu6zTtt5czMEtWeElkSkQvrVb6tmFd6TEluhqn1ktEPfqexaSPWOotAPWP3BeIdUClcRJIknexKilkUIsi=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcFvy0KIAOEYLlud848HnMwS_F8aq4uXRwvDRsRRRdmy1iHmLk_aioCiPFHoegIvH4tfEu3PG1z3Jg_FmVQhaaK3o4HHzrdBpRvAKd20rcCM79rAoI6A5ptO0TZubrvMKo0ZfLJyA=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0092356%2C121.4557653&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0092356%2C121.4557653&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "在一起 One&Together",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "咖啡廳",
+        "麵店"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與家常輕食，適合用餐或午後聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "高麗菜蝦水餃",
+        "蜂蜜千層蛋糕",
+        "虱目魚烏龍麵"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%9C%A8%E4%B8%80%E8%B5%B7+One%26Together/data=!4m7!3m6!1s0x3442a802c7ab8937:0x10ec4def277f1364!8m2!3d25.010814!4d121.456173!16s%2Fg%2F11c44dlnks!19sChIJN4mrxwKoQjQRZBN_J-9N7BA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-034",
+      "name": "在一起 One&Together",
+      "address": "新北市板橋區黃石里文昌街24巷9號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%9C%A8%E4%B8%80%E8%B5%B7+One%26Together/data=!4m7!3m6!1s0x3442a802c7ab8937:0x10ec4def277f1364!8m2!3d25.010814!4d121.456173!16s%2Fg%2F11c44dlnks!19sChIJN4mrxwKoQjQRZBN_J-9N7BA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviewCount": 403,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcroOSnBwnmRRMaO3iLjvTDLZirdTnCcsXfVoEMYRqy4IhA8fEgYJ-K9nSjwnYQJAzzCAfq5u_MsNhlzPq4aWKdqOER8Iix3Kgj-ISEM-3EdQkaenVUGyY_vTXmhb8KBp4oxCVSNQwNAFv-=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe9Yy7Bx6KTQv5SgmKskW7tyFCoHii2rKseeBA3I8aVf5eufurfWSbji0a0fKGkoITsUlBQYBk8zN5wd3sJ-xIeN5K9qHL25rat2YTQgZghHqkJTvcpGM3qWnh3w80QEb_5A-3v=w192-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcTM-KNX4hrCBigPkIRDTvPYB2LP6IGoPzs-08TSB_jrmiSpoda3A-YJMXn344fPRqooPF_MW2U6Uw16roy3UgkuA6mpWBsnrxGqPCZTwIJY2QocP7LbXtwO1Lx017q0WWGSbm1iej74Rg=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDFlBapPEw0s3UDW4fOZUryJPoF1llLQ4pK1UbF6l6x87RiVBI9snx-DXYeO8ASrUkquHzx8VCPdrPeccXlDRTXpKdHdnMt80WbFDaAxezcsMS_oQGPhN6Xi92-vOpekKRyhFwxXiHyxjQ=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcd6Yb3-Ni-JKmb6dZ0WS4y3d4JDPyPG9eXnpynSHxfOEJYdfY0yr7QA6xUIsnvdK7rT0z9TuNp7uglzZSMvz4OCbfod2nHqCg2gFWd49_YL6o9y1lXIsvxGBLv1lyUCdfuZ3XWhl3VsVeX=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 34,
+      "walkDistance": "2.3 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010814%2C121.456173&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010814%2C121.456173&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料",
+        "咖啡廳",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "萬佳鄉府中店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "鮪魚蛋吐司",
+        "炸薯條"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E8%90%AC%E4%BD%B3%E9%84%89%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346802a820728335:0xdbe79679c72b85ce!8m2!3d25.009422!4d121.455646!16s%2Fg%2F11bxd7p5j4!19sChIJNYNyIKgCaDQRzoUrx3mW59s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-035",
+      "name": "萬佳鄉府中店",
+      "address": "新北市板橋區赤松里府中路141-2號",
+      "mapUrl": "https://www.google.com/maps/place/%E8%90%AC%E4%BD%B3%E9%84%89%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346802a820728335:0xdbe79679c72b85ce!8m2!3d25.009422!4d121.455646!16s%2Fg%2F11bxd7p5j4!19sChIJNYNyIKgCaDQRzoUrx3mW59s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 2.9,
+      "reviewCount": 157,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfZKHL4-2L1-wHPNq0rs-yJ0VLTqt7s1juwnrrSp1XIE-QsfdopcS8QSUHPhJYZ4pGkpoMfbODs8ePPFYvVj4eCXojM03vBQFDDOWE5jYXJhxXVkfhXaguTp9MaBReGsJFBO1EN=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdzqpU6UTb4r2Kn73XliM07qtf1J0fkcmovpvIcERl-h4h9vBoqnO4eq-ZtQxoVN6eAtVjNYXXUpZzpZyhG6l-Phq--rjfNsgxXINkxVkaKQyhz1OwEOOkYDkwdaL_GE-R2D6GW=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfKHup8jiB8iQ9YqV3UHRvv0ZB4jaSC7n7TyMIGsjN4SmjR_akI0sX4ZppPN84iZ1RtjWc1wkhKMsA448Cs4B-2Pg6wg2tk3xAYV4BpB_YUrAZg9rqgEfn5gbrCwZlFzHzKH0ChGw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcsUnOCZ6U684qpqX5HEFDCiHjZJSacXLWWF6yvUsB2JF0FH2AX0n2FlNvKfTSxImwjygpCuno5PfYwq0ZtF0FWlmzbetSqiDKh3h9SVchDaRMQKgM29SXoJFZuOzWPAbusCE0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcVBau1s9-1s-hu8F8BugGtKWqQSXqkXOTbKqvJfKdpqvuHoDCjBp-F2UjEEWBvxkQ_bEsteGN6NsblijCo9dixgRBbrqs-klC1pxhsFYwk5UA9iHZ54oEUFvbFXb0run_SxQTblA=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.009422%2C121.455646&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.009422%2C121.455646&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "北港黑豆漿",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "黑豆香菜捲",
+        "蔥肉酥包",
+        "香椿毛豆餅"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%8C%97%E6%B8%AF%E9%BB%91%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3442a802bac2099b:0xaad71f381150a602!8m2!3d25.0101717!4d121.4561768!16s%2Fg%2F11cn3qbpn7!19sChIJmwnCugKoQjQRAqZQETgf16o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-036",
+      "name": "北港黑豆漿",
+      "address": "新北市板橋區黃石里後菜園街52號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%8C%97%E6%B8%AF%E9%BB%91%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3442a802bac2099b:0xaad71f381150a602!8m2!3d25.0101717!4d121.4561768!16s%2Fg%2F11cn3qbpn7!19sChIJmwnCugKoQjQRAqZQETgf16o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.0,
+      "reviewCount": 206,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOWAAfdR2cmF1NFQK0suKWvwAlWwVFTJ3RVrE34JA7BEhS9hWiEfW4RSDZw0sdM_m42BtoiSr8wYrK6AWfwXbY0MNhhPP4my6maTptKyqvRQqUrd7RtgbxVwuLWJ4__3ULPhI-1Z5R8S9Y=w408-h308-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdd4hSEJT3HfMZ5SYIBqKz0AwO3E34aeRJE9Plmrl8t8mLYyQD_Zc75Pk24PHFcOp8nebahWRoUvOPxiRsHtGBekISeDtsTzrELxLLTeiRE0AP4hlGA5sbtjhaVPsKA-gx_zu382lQ3HkgJ=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWrTMxAfPYJVMqdrtFHMKlAvP2nE-M3x6LpS6XQZaE9_een8MDM7_H51WjHLvEb5Exf8QK3zqzlPK3c9yuwxZGPeGzz3onivAjKKBcEXG6x14nuyyy_5c7zlFN1-J8Yq-fkPhwz2ztnS4W=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeaLNEWfkV1d9VxdJQu8oKr9beaT7aSAb4slBBZxrPKTIKpbVjO03Ic7m7nx2shb3gNvAVXp11198aE_3H-hJbpbxsnnvKqR9FTrzOUZ2LmHZ9xQqmIbF6O5FyU6DwgDokrS8I_84LR_t0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqtDhNVT9gJWVJZ2ACLYuaGCNhHJT1FxdQrsvH4K_47mi63azGWvfkEQ9DxRoeKF0VRvVpH1EaUBcCVZjzWVntOor7sm475JmatWEnHmnrXtUu5_IbA4h-G1u-KFEXEHXJuvPV1U4HSkMM=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 33,
+      "walkDistance": "2.3 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101717%2C121.4561768&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.5 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101717%2C121.4561768&travelmode=driving",
+      "driveVia": "途經文化路一段",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "早餐豆漿",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "早餐店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "朋友聚餐",
+        "快速用餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        60,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "熱無糖豆漿"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%97%A9%E9%A4%90%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x34680300567efed5:0xb999f6d78fb9ed!8m2!3d25.0075378!4d121.4613032!16s%2Fg%2F11wn10ccyp!19sChIJ1f5-VgADaDQR7bmP1_aZuQA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-037",
+      "name": "早餐豆漿",
+      "address": "新北市板橋區景星里館前東路40號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%97%A9%E9%A4%90%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x34680300567efed5:0xb999f6d78fb9ed!8m2!3d25.0075378!4d121.4613032!16s%2Fg%2F11wn10ccyp!19sChIJ1f5-VgADaDQR7bmP1_aZuQA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviewCount": 13,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLedHqW8BSgH2q6tJz8mirzFGF9PtT6khAg30I7MqAQaZwf-rXVPBuM9ZAYsoAhtlgh5zDyc2e83xpw_t46vcDXVLhSLo1ike6TFWkaVO_C3nx-SJxS8m6zNGQXRpLb4le6kMKnfNeu6K4mk=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLft2HrKeG08ZGRQ1caCo-2RJmTSEya9dSbe9E3ExcLYtoKasPpPlty-s4EwXwbxc_haC23w__QmUVp39Xoe5OrUDaASyW4o-yXHedaPeMREq_GQtjgzXyZUy418I3Bx-GwuiWXAl63e_x4=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeU5fU5VwuKEOrvNAFuT9GdQJL8KE5YgXovMxlziEinEm13ze7QC91SsgpHhfizKLak1aBV1G-R3Gkfex6AzrZaJ8gFEPC703Z03WBU_cthmgCnnQopzePF1J_PurtTEdYwvSzNvmuAzhqh=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfcdHOuRsP6yE4qRBe_cASSIH3bOJvrzHToZBKZ2TfVrdU9BFVlSHSo81eIyxeBstOawRkmL-kavoj4WyOXiKQSPHp2BYB3o4njKZNrN9SeHMKa_wvzy3AHB81WpiUvqshU1BAQTKypZJB0=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc9URVF2CizhqD2Zz-BSaVWhYpNPIwTHLNQkHD2q3JkBO8m3byO5LqTCQABtS5lkbyXAKRRtGvOKij3MI0w3QZcAErM2rkHx82JaJInsK0gis8oX8VPiYBbDF0c3SZ6JgqFVj0qDzWGf4b0=w600-h900-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0075378%2C121.4613032&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0075378%2C121.4613032&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "ssSip營業時間請看ig",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "義式"
+      ],
+      "types": [
+        "咖啡廳",
+        "義大利麵"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與麵疙瘩餐點，適合白天用餐或聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示營業時間請看 Instagram。",
+      "dishes": [
+        "奶油南瓜口味麵疙瘩"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/ssSip%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%AB%8B%E7%9C%8Big/data=!4m7!3m6!1s0x3442a97492e7eb8b:0x85f137369f1d9457!8m2!3d25.0096091!4d121.4600393!16s%2Fg%2F11w8pkdmdp!19sChIJi-vnknSpQjQRV5QdnzY38YU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-038",
+      "name": "ssSip營業時間請看ig",
+      "address": "新北市板橋區挹秀里府中路1號",
+      "mapUrl": "https://www.google.com/maps/place/ssSip%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%AB%8B%E7%9C%8Big/data=!4m7!3m6!1s0x3442a97492e7eb8b:0x85f137369f1d9457!8m2!3d25.0096091!4d121.4600393!16s%2Fg%2F11w8pkdmdp!19sChIJi-vnknSpQjQRV5QdnzY38YU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 101,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLePbLOYuAMxBNXuKa0pYHgDQY6Lw0f7DSuQMTdfyH-zDyn8LU0IxqwgmkDfanHCgIhOr8lmV8Vh215WBqBGN2Q6v5Zht0mkx_fvasY1T8CwoaeIWNTcFswYdByVNgem9AQRPJuX_bZfDDE=w408-h324-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdSpfNsA41swVaxDWHx4alBwBwMYMrTUPkEZ8c-7T5pCS1xM5I-ASRs6wmHjhnxX4WNT_tL2YwbnvhuDHPb9oeE7Ku8Rggfr_U7PKxbUC-y0Ol1k7RdcJ5n8G7yTpdxKkkIzyKG_UOhE86y=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLefQS8VzRJfn77GCsPYdXstfTeak5VqT0IGdTilajUoLh9dxNMcqK3cnCPfQPN4jp5Dyohzwapu77SRo8j6Fd2qBSwYaKYSHLbdTbR9miev-3gfjFXPNGBRb5GTDRELjBZ1QCvwYT6Ryqnf=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcxXvQRUnaI3NsI6Wcgli4w4sKBCI8po1fzVjuxkDAYDqW8H_zVOFve2rkg6mG1R8EMvHOLCwaRoqVHXCf8wBLE_Xblg6XXuBvzOa_3dkhkzkc8JvT6vaT5Hu_bvIpb_Wcm0BCi_P2MAVnn=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLffLwpChpslOfQ92wdZ1qglUzz8HQZ3fKHdcO_g6wftqf1ecJj_HEnT107gnQENPKVUq2ANTpQZ7kJCJ2Pwjvy77ieolnSD4tXJO7-ORrdmTZPjZ5RKrKFGnhE0DXPM5g0atdJ2naAx3A4=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0096091%2C121.4600393&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0096091%2C121.4600393&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "New Spark 新火花烘焙餐廳",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "其他異國料理"
+      ],
+      "types": [
+        "咖啡廳",
+        "飯類"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        80,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$80 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "咖啡與牛肉飯套餐，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "匈牙利牛肉飯套餐"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/New+Spark+%E6%96%B0%E7%81%AB%E8%8A%B1%E7%83%98%E7%84%99%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x346802a7bc245389:0x98d9bb8fbeba916d!8m2!3d25.0071188!4d121.4590284!16s%2Fg%2F11cmlzh8zy!19sChIJiVMkvKcCaDQRbZG6vo-72Zg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-039",
+      "name": "New Spark 新火花烘焙餐廳",
+      "address": "新北市板橋區鄉雲里館前西路6號",
+      "mapUrl": "https://www.google.com/maps/place/New+Spark+%E6%96%B0%E7%81%AB%E8%8A%B1%E7%83%98%E7%84%99%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x346802a7bc245389:0x98d9bb8fbeba916d!8m2!3d25.0071188!4d121.4590284!16s%2Fg%2F11cmlzh8zy!19sChIJiVMkvKcCaDQRbZG6vo-72Zg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 570,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdCEw4w2gftp1C9DrA2cOB041zWb-frc4r17Fp-j0aAziqnFWhac_BLzaLyoLufPYMzb9qpb7SNM99KksUXpfYH9F9JiloRp5s_DWy9KZf6hasanRkiMP-VUPBi4MuxshwpBURu=w114-h120-k-no-pi-0-ya174.08377-ro0-fo100",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcncnCuM_XSsbEKvZCARvjY62U7LhKWynCfIWJRbierPyqpX0AsqUCeeqE4BlmW_tqFGT8g7NV9C6Rpt_opCmLl0g1BpqaHjOhBi29OF2kdh8vD1ag3yNi9quBESG13Dy4WXvij=w180-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdCAY4a8ii9KrycL3YI51Bo9cTHVR0YH4_BClEFcZtrwhc5x6AECnRbUEY-9d6z-uXDI32NfoJ176zAEjTArVb-LkrR20zgncDVPynzASMyWeepVnj79aeM-ejANlXfNf4NXjDxK6XbPOWl=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcKYey8oUhN9QBeDpJX5RhD56Vt-4ztN7yy7s2wCRPCHO8ZyICTS1rATQ_NqfaXjpD_RkZ-TH2j52JLX3XTDo8H7OoBYosaZpI0UZEGAVexN44WBqbx48-PA3yMKaIvkYejwWqT9U4axZ6A=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQqrcAPs2ddb3YJdQydxRc5pkpKU5jcRY3k_aSsLJE-HA9Lw2mv9OispYjD6DuquBBZAcgK2EKqltrGuLLi90nrlvm8rkLgPiiyYwMymPHYi6jUQwaRyYAeftZ2fdoMDh9uaQeiwY7KsRC=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 36,
+      "walkDistance": "2.5 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0071188%2C121.4590284&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0071188%2C121.4590284&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "那裡的咖啡店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店",
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "吐司輕食、特色拿鐵與甜點，適合白天聚會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "柚子胡椒蛋沙拉吐司",
+        "鹽之花焦糖拿鐵",
+        "抹茶毛巾卷"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E9%82%A3%E8%A3%A1%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9cab6d91907:0x5bdf253a6e7b1186!8m2!3d25.0299307!4d121.4737161!16s%2Fg%2F11fd67_r0v!19sChIJBxnZtsqpQjQRhhF7bjol31s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-040",
+      "name": "那裡的咖啡店",
+      "address": "新北市板橋區松翠里松柏街1巷8號",
+      "mapUrl": "https://www.google.com/maps/place/%E9%82%A3%E8%A3%A1%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9cab6d91907:0x5bdf253a6e7b1186!8m2!3d25.0299307!4d121.4737161!16s%2Fg%2F11fd67_r0v!19sChIJBxnZtsqpQjQRhhF7bjol31s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 589,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdp7ez3o9uOeACcK7oVhR7m-Aj4RGqlTKy-A-59Oxebk_x6pQZdStkiAAgW8S8qaBkQa-Cm2N9U2aJUzrLrOYsr-zRGTJMwX7fR-z7vx8yv_wfUTmQ9Zkx6q01MBxEjAW0UhDcehG2i8Q4=w408-h358-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdh-p_I02SEw6b4nHxa8frr6oW4vFYDNZIRx6-iCD8OCAwRw1HVkiHs3Ml3Ul3GeVaeYAkCqW98TUrFZnkakKZPseIcroYkZIrFG2Yc0ueUKzRmsMC8eZbpZ13yrrsM3XiBZOqGA=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcpW5Xg0zSKF-xfnxbqtz2YZj_ceXYDsfG8ER5PxIMjOfADqxaDI3Gm-W73mvt4lKbioP-lFiNn7N_4JPDf_h1LWbkFPmqOiu3dLm6I7FrfFoxnGdmqfqPCfQtT24W5A2hhME1MYHNmrhjt=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebSPxc-22xDWKXDHCjhnQYOQODUKv8y4fYqkWZLiOv83DfKGtdEbTFytQblvBrbp1nchrEnPPNJx2eI1ic_dwr8hfbV8XPAbXQa8bwMi2QeDfbJF6f9ZYTfpTukj238UFZRe0CvEM9KHUF=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdOuYGyDNsI7gwmtnC4w_lU6RpILdkVB0mfN_WBSuvuyZf8Wci_kgCp7yrDZ73TCpk1AIXzcvrmD0IDSuVOP7Aqy7Z0RpPOifwK5giMvUPGjHdOAHHUfyn3knNM69s7x_rxS9jf78zR77Y=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 14,
+      "walkDistance": "1.0 公里",
+      "routeVia": "途經莊敬路",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0299307%2C121.4737161&travelmode=walking",
+      "driveMinutes": 5,
+      "driveDistance": "1.3 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0299307%2C121.4737161&travelmode=driving",
+      "driveVia": "途經文化路二段/台3線",
+      "walkBand": "10-20",
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "哩哉咖啡 Uknowhere Café",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "黑糖拿鐵"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%93%A9%E5%93%89%E5%92%96%E5%95%A1+Uknowhere+Caf%C3%A9/data=!4m7!3m6!1s0x346803a55f27083d:0x70db34d5bf7b9136!8m2!3d25.0080602!4d121.4617443!16s%2Fg%2F11s_d6sm5s!19sChIJPQgnX6UDaDQRNpF7v9U023A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-041",
+      "name": "哩哉咖啡 Uknowhere Café",
+      "address": "新北市板橋區公園街52巷3號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%93%A9%E5%93%89%E5%92%96%E5%95%A1+Uknowhere+Caf%C3%A9/data=!4m7!3m6!1s0x346803a55f27083d:0x70db34d5bf7b9136!8m2!3d25.0080602!4d121.4617443!16s%2Fg%2F11s_d6sm5s!19sChIJPQgnX6UDaDQRNpF7v9U023A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.4,
+      "reviewCount": 657,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmM9WQ8DX4zmfZmhtWR8whQYj3XpLTslkeRyyZs0WJaesxkKkjxcmRKYPrAeyoaJ2OA2-yl4yI8dGeG9kMZlEOVPxcMr5wTM_qqoB48z2lkkK1IZw8YN17pzm99gJl3_zFTdgQpzLwlj3tS8=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOKiMOnuNGHg558EBrj13bGBmyh6EWhAOyDzA6DnHV_RuOctCUhnT7-U-04Hvxjkdg0iICfg3gTVIQkF0ES-0hR5nT1k9ignV7VW4r4rTsRbO0-r-ze8txi3iqZWgp0WO0dHRN4=w140-h140-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmM63rEXKU4YMA_mXqVL1kV7ypjm0P-VYHTP8V7is0SnHgGjrbGxHUAotcSjiVPKnE6y-P0CTipwxMObG4F5a6wcGx8U5k8Cli00BCfohI35ChfDdrYw-7X35IFfCD_oHLkDA5ZeCyttXRMr=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPVuJ76CbXm55efjBBNKiwC_Q6oH0_vCuBhi0Aki-qIE-4Fo1COY3OKn0MKFLoCT7Si7_jrktO7UGe6dIg2v7uI7yMB64bnzdjf2c_EgwBjvWrx44FcBpjKrRxfXgYy9feD6yWwQ57Qs0hI=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOHgLAU3GDQz_XIdahsAKx13l__Gpv_Q-lhfsWJYlYXJj44yLN6KGMbeCYNDYhVhkgkA2b8r7V24z7TJ_lL-52LhpA3h4ilFKJjvwrqC2vKED4QQ5UaQuYRpGxlmYGESiH0Vwxt2dET6Qua=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 36,
+      "walkDistance": "2.5 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0080602%2C121.4617443&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0080602%2C121.4617443&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "濁水",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "西西里冰咖啡",
+        "提拉米蘇",
+        "焙茶芒果蛋糕"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%BF%81%E6%B0%B4/data=!4m7!3m6!1s0x346803f804ec2f4d:0x95ade6cdb2cbca97!8m2!3d25.0085475!4d121.4570862!16s%2Fg%2F11t507qnqn!19sChIJTS_sBPgDaDQRl8rLss3mrZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-042",
+      "name": "濁水",
+      "address": "新北市板橋區流芳里南門街34號2樓",
+      "mapUrl": "https://www.google.com/maps/place/%E6%BF%81%E6%B0%B4/data=!4m7!3m6!1s0x346803f804ec2f4d:0x95ade6cdb2cbca97!8m2!3d25.0085475!4d121.4570862!16s%2Fg%2F11t507qnqn!19sChIJTS_sBPgDaDQRl8rLss3mrZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 312,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdEhw_Ckuqi5ou9mwLWFGnjvn6TG6FZA6O4Jho_NWjMHKJMJ5mwnxGpS6pV7hiGvTORSoGhP4MUrSEMSmfRRJg2BTJGmcu1oKAgKHNNBQ8TgM2vPpbVqTfvblrrGhyG_MSi71CWMjSBH1Vs=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdDY0g1diKLuq4RNQPP2ETS7-NAnnJej9zXAhybOXqwWCeFK6EZ-esIWgQvUlFs-3FyeCvebu2I79mEutpMAIUixTqoHrdgfoA1uVQnMDDIvSS7uky51Oji-1yqpGy5DpyjM6CKsYhr22K-=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcAx7AIupD3inSdkpuMFHwtMmdmpzh41RexUTgcDHyoDweswO_BiFvxnVBI2C3OEDuaaxZ0yf7r-a8qfHFWLMsjoJZDG1BL8qu_qX4pUGruCPR-wvLdjmtQ1WIbZUKwzl89hilYdDsXxI4=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeOpyZwu7O06EnJ4ZxNrWz2n3p_p39RNBI7pjmRIfOTXQnVpSFhndFPfRe6M2G1BjuZKw1G94LnmbiG3-fsa6RbHr9Xl4Aj878nIFk6_TnRMfLj1fF-2txXR4r0DkwJWPzWHXsYJQtDREJb=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdb6wBbsT-YUZficqm350P4Qzgq8AwTaqSOhB3Qm031GLYB-6K7DQpgap-gg1muiJKKETY2bx9C58Nhu11YmGGkTfwdOZ5n1w941LSZGvDT-wbi4h9TztNPi8yUGAmHOAwnfWqA55oKes2y=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 34,
+      "walkDistance": "2.3 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085475%2C121.4570862&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085475%2C121.4570862&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "典藏咖啡館府中15店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "泰式"
+      ],
+      "types": [
+        "咖啡廳",
+        "飯類"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡、飯類主餐與鬆餅，適合用餐或朋友聚會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "泰式打拋豬",
+        "紫蘇梅肉排",
+        "鬆餅炸雞"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%85%B8%E8%97%8F%E5%92%96%E5%95%A1%E9%A4%A8%E5%BA%9C%E4%B8%AD15%E5%BA%97/data=!4m7!3m6!1s0x3442a81d76dcf3e1:0x2ab4acf1006d4e4c!8m2!3d25.0094848!4d121.4595785!16s%2Fg%2F11fy_d2g5c!19sChIJ4fPcdh2oQjQRTE5tAPGstCo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-043",
+      "name": "典藏咖啡館府中15店",
+      "address": "新北市板橋區挹秀里府中路15號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%85%B8%E8%97%8F%E5%92%96%E5%95%A1%E9%A4%A8%E5%BA%9C%E4%B8%AD15%E5%BA%97/data=!4m7!3m6!1s0x3442a81d76dcf3e1:0x2ab4acf1006d4e4c!8m2!3d25.0094848!4d121.4595785!16s%2Fg%2F11fy_d2g5c!19sChIJ4fPcdh2oQjQRTE5tAPGstCo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.2,
+      "reviewCount": 359,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd79E75st2zhT2JKc7U53MB8cVUobNInnoKtwN6fKrEr5pjiS1vhNr2FpcUh8RgjRgE_mZb9V4n7Eq0LbVMoXREjFvsGW6tzLvzg2dD8RKGp9Qle7uG-OB9DKkCgepY399TqSkq=w408-h304-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMjQiA3ozKZl4ZZYVbxL06droGPqDPFlfJTQAKixUTFMqK6T9d5eUl1U5NloweMc6szIUVVMOzl9Zpt_ougglPTlJFv4KAoSJRLj3HVmBsgRjUdQuDmWygumYpEAX-I0AE3J2Sk_I-Zr0=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQGotlPC7ODgwYemaAfTiM4d69y-83c136ulxmWpueF3HORcPE6UZuiYPhJzoScE2kTzTnuiOY7n5EizMHSznTxPUpZ3WUHF9OY9IS_AxHSV-9F939EkHx9w02iYnQaci0BRjix-KMJHFL=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeU_jtPsWbG1VmoAS6TnHdcMs_x65TexCWWglqrnBHhWvNJ9q9dI7At0coOB9ZgKO0EUaXzn61nKeW1o8E9LCla3643w1Ds9F9R8-WMMEvh4YsU2HQlx1tMQXMnvNTQBd3iA2TIsbuyAzq5=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSpMsvLUYZ6U9wOmSYlPW1c5C2EAQZbxn2QT9Ph-uY18Esp7BMMrvBTRp5T2GuZTTFUaBIWescnXybcaOeUF0A2qka9KHIYaaikFngN8tMpFPL00usRrpKZIcDxpWrQz2DXMFs7vKFQQJ4=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.2 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094848%2C121.4595785&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094848%2C121.4595785&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "甜點／飲料",
+        "咖啡廳",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "KINO KINO CAFE",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡、烤吐司與起司蛋糕，適合午後休息。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "芒果優格起司蛋糕",
+        "蛋沙拉烤吐司"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/KINO+KINO+CAFE/data=!4m7!3m6!1s0x346802a819c483dd:0xd9d1191daaafba92!8m2!3d25.0087695!4d121.4558813!16s%2Fg%2F11g7z6nckb!19sChIJ3YPEGagCaDQRkrqvqh0Z0dk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-044",
+      "name": "KINO KINO CAFE",
+      "address": "新北市板橋區留侯里倉後街6-2號1樓",
+      "mapUrl": "https://www.google.com/maps/place/KINO+KINO+CAFE/data=!4m7!3m6!1s0x346802a819c483dd:0xd9d1191daaafba92!8m2!3d25.0087695!4d121.4558813!16s%2Fg%2F11g7z6nckb!19sChIJ3YPEGagCaDQRkrqvqh0Z0dk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.3,
+      "reviewCount": 211,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfa4iEjXKoO8-KKSTkWp8nH4jHLebW3o7jS5aLUgY3Xbcn8dylJbRzFbxTKdZOWVzNk9G4TwNjf0cNq_4ssmhXHcvIyc_AXGnBhlfOzxGmpr_oJkik4Aecm1JzgLB37D4XC5pAHOEjJDW-B=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcfPEhs4Wn_6jSuEJFI008cmka-7e_vdy3gw5dDhWQsuMa-wpSUMusPPXCNN7630BzVFpgdP1rvuID3hewQurRb7lpVqqd_fsxpsni0sMLuiVoyk3nHpOWVXdpymu4me0PEFBRF5Tz3vGQA=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdcnQZtuGB25pFJTR3XqZoiLi32SyVZm4GAlaCKr3Tfa2xQ_-G39qt3dYCYgqZ5fMP81ATHV_8dzrctBJKXkQS3F6negbmtE-wfXg_YxgQKOMnsdwVQ0ivLhqD4SOPchdw_cOT1DIqr9CPE=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLet11kP_Ecs5EtNzlbgyPb8zq8cnAMEjURsQxG0SYrNNsPoJokNi0KlbvhCLmIYUT_UIolk3_q3daKH75vHVF51GPxgQV8XuFZSr0C0n_uBOAf74RjpF1KxcQ2QK1suN8DA8LnpNoY2QuhW=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd38HwHrPuYmjjEfoq4gHVet8OORCXFTYLmQG0mHI0SGCjoJMNO2PdMqkMoEsriAbCJxQtOz_ogDVG602Ma_J4xmjCETUcS88sbYSwPrw-b6B4sYuz6DT9sKA8tcObtY2WfOtIv1A=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 35,
+      "walkDistance": "2.4 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0087695%2C121.4558813&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0087695%2C121.4558813&travelmode=driving",
+      "driveVia": "途經文化路一段",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Ferment Café",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "酸種三明治與咖啡，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "輕檸酪梨酸種三明治盤"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/Ferment+Caf%C3%A9/data=!4m7!3m6!1s0x346803c86e2d9555:0x2914b125ccb6328f!8m2!3d25.0082013!4d121.4544973!16s%2Fg%2F11vxh3dz95!19sChIJVZUtbsgDaDQRjzK2zCWxFCk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-046",
+      "name": "Ferment Café",
+      "address": "新北市板橋區新興里館前西路213巷7號1樓",
+      "mapUrl": "https://www.google.com/maps/place/Ferment+Caf%C3%A9/data=!4m7!3m6!1s0x346803c86e2d9555:0x2914b125ccb6328f!8m2!3d25.0082013!4d121.4544973!16s%2Fg%2F11vxh3dz95!19sChIJVZUtbsgDaDQRjzK2zCWxFCk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.6,
+      "reviewCount": 218,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcQBPyvGTylon4uDSyLSWpaxVCWSHMD1_oqAjo0kcDYQZ9ZpTLLumFuxCc6jdW4hD8IGD4SEZL-jwj8-HbbSQjK8H3BiJgKL_7UYG95bdBqPBcWXv9Mq-AQAncpYE15WGmOPUrt=w408-h272-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeL34DKdG39PUOfDUpkSjaa5vGMURc4hp-UEiKO69qNzcGuxRDzMy78vsmtFCh6vurcVr9q04qVMO-v4P9TlEQWAx6saaSxfe6pnUdB-lVjN0vtFzSEXnpJNQAv_UWTCQIhq2FaISAvHveJ=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe76e_SvPF2UeGUP8vuzj2U0in3b0RKx2idLrVhXOmQJ0zrGQztaaxg5eNB6sPCKQD8JpuZwckPWOME7KH2lm-5pYND26u35-OOepgd0DtYJjN8-ErzLdXW87O32ouEadOYz8O9uc3mFCqK=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfnsENml1zrL3DH-7gBk-6sOfdMwyS1Z8kbEEV8Lz6bSAuImqaGzkmoiE41TZwVsw6CNGZiNcPwyTUNgx9Rz1bShZ7L_b7hZklxiW5Bg4TkIeiBEji4DXv_VWt4pfswAxGyfzfIy9DQZpRf=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfe3xoi98vEE8EfuRjsow6pXE4QEMjR8eAlJrNPMg6xk5wGOM5IHtow8dTYRlqrSlzjQRlfGqsOvzxKWxQN65ppfiJib-kHqL6RGmbQvQIGGy-cty4A5awtT2X72ekCaZjKkPju3BCrJ75B=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 39,
+      "walkDistance": "2.7 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0082013%2C121.4544973&travelmode=walking",
+      "driveMinutes": 14,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0082013%2C121.4544973&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Partik Coffee & Roast",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "肉桂捲",
+        "布丁"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/Partik+Coffee+%26+Roast/data=!4m7!3m6!1s0x3442abdeb094b569:0x2ab14c72da8a290d!8m2!3d25.0046675!4d121.4633166!16s%2Fg%2F11c1qx3vqv!19sChIJabWUsN6rQjQRDSmK2nJMsSo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-047",
+      "name": "Partik Coffee & Roast",
+      "address": "新北市板橋區福德里重慶路139巷7號",
+      "mapUrl": "https://www.google.com/maps/place/Partik+Coffee+%26+Roast/data=!4m7!3m6!1s0x3442abdeb094b569:0x2ab14c72da8a290d!8m2!3d25.0046675!4d121.4633166!16s%2Fg%2F11c1qx3vqv!19sChIJabWUsN6rQjQRDSmK2nJMsSo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviewCount": 152,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcu4NZke2-H7j6gN2rD9XjB7eJeCO8isD_6kvYBwbxO4Hkd2sPIT0XRxPUfSrAp-lnEX3qHN6n9uHnjkdqwB8NKxgsVJ-jvf7a_tKAWfWYOBW3pcXwLI_1CwWYYYkPvf7TeyrT6=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdbvgHg_3dPTUo0DMF26zGO7hh88LRSu7J88U_oO40SXnA2xXxORKMZw8VGVCWXryy0AjP5pDvGoQZ6Llj_bkGmJ4SgQN_Qu_6MJWdIqlHkWgztjZR7K_ZQXUr21UvKczFW_O-cZtz3_g=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcvnvbbTjbntKhI0UdoGTSPkObn1FbWeQ2Am5ha76SjhZDgmZX1C3xiNBoqjoF7-7Cgz75a_AZBflVX1WJdlCPYTKqM3PwLpno0kgU6DyrCLukxuwZsE89tQS_wx0fK6FKFkQywJeMDgtCI=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8aWF5Fc8ell2oVddwBEKaTwyQZL61lCdUWCuBD_3ygYfhXRrbFaqsSWfglicwSlzdU8jzYS2HW6KnuTJmgk0hvmln58E0kUUdwkNFY4v7qS43ImbMZVsxW0f30RcefdtAwB4uKqeaX6ch=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd6N3sI7JjLM3frndD1PyzvaIUjmN6ERq1vvlRqDA72i8mC9MUnChuRQzQQ5ifuYQp4wowXUXzRgnH-O-RXp96yt79_KjBZL4gGrtqAw4BRikU3sdAXZUKKj-YxXibUepL1ILrovXn2JHqZ=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 39,
+      "walkDistance": "2.7 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0046675%2C121.4633166&travelmode=walking",
+      "driveMinutes": 14,
+      "driveDistance": "3.0 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0046675%2C121.4633166&travelmode=driving",
+      "driveVia": "途經114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "萩眠咖啡 Chillman Coffee",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "軟趴趴焦糖布丁",
+        "台茶18號紅玉鮮奶茶",
+        "芭樂美式"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E8%90%A9%E7%9C%A0%E5%92%96%E5%95%A1+Chillman+Coffee/data=!4m7!3m6!1s0x3442a9b575d9e937:0xd2b994cfaeb6c69a!8m2!3d25.0101166!4d121.4598602!16s%2Fg%2F11zbn1tbqj!19sChIJN-nZdbWpQjQRmsa2rs-UudI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-048",
+      "name": "萩眠咖啡 Chillman Coffee",
+      "address": "新北市板橋區明德街4號",
+      "mapUrl": "https://www.google.com/maps/place/%E8%90%A9%E7%9C%A0%E5%92%96%E5%95%A1+Chillman+Coffee/data=!4m7!3m6!1s0x3442a9b575d9e937:0xd2b994cfaeb6c69a!8m2!3d25.0101166!4d121.4598602!16s%2Fg%2F11zbn1tbqj!19sChIJN-nZdbWpQjQRmsa2rs-UudI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.9,
+      "reviewCount": 51,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPgKIq_zA7AW3QCB_OqaUT8JAyH1RKfBUisXsVXDvdEy_6yVIdIAuPCaTpVNTtqpl7N3o-mIcwfkKptKG5h6JTDq_uaoF6dCUJgvEmPOVEKAwZ_4rgtVCfVaIAeAA72jGVZ9mZ_aTiHUg40=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOdtOcZ73VDhKCyItSCq-81LWCLs2I0mvN-gP1zOr6Bo-_6eELThGDuF8HDmOkkeX1Y-pEf_AZdQs2uZwJFVoEtoDDvTUlE3Ujp7fBbc3av3U_A_ZH16TH3AG2DPGyFR0rpEHvPr9SA9RU=w213-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_UaC5AqwpdbSalbZjqTPyd-5kCOw4d7JTX2ate05NqwliE7JzqjAGd6tKMzlLRl3fRoXAZm9ewjux7IYXowwwd12gH44poYj_ChjGeZAHCl1W6AcP_pUIgOt4m5--w-K30GNeEhjUyyE=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdhzGZ2OxjDW1P8bwKRUY3KC7OX_IYq5T-moWfMT56kQc54SNdRo1uVOXReLtepM_pkxNq6r8pNpun4Q90gXzWOfEHG5SzRNreadtx5qwbZhm3xPnjUTacWJ4XKAT8wh26QTtfM8G8eGz_g=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdoUjzINb-J5LUntv-T-TPjYx1xnrUjeJp2R6AyXke1eA9_FifvWB2IbuZhQNqf2kzZYIcrF-F9dTfqphtoHTU5Vg1r-JAsXQPmxkGTXcXuInCCn73XdxbCmu4zZa05KyyvnBdmVToAHzs=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101166%2C121.4598602&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101166%2C121.4598602&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "CAFE!N 硬咖啡 板橋中山門市",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        120,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "咖啡、嫩蛋堡與小點心，適合外帶或短暫休息。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "黑椒薯餅嫩蛋堡",
+        "一口小米甜甜圈",
+        "燕麥拿鐵"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/CAFE!N+%E7%A1%AC%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a97a809026f5:0x112bf0c0bee3ddee!8m2!3d25.0108458!4d121.4638672!16s%2Fg%2F11rww7flxw!19sChIJ9SaQgHqpQjQR7t3jvsDwKxE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-049",
+      "name": "CAFE!N 硬咖啡 板橋中山門市",
+      "address": "新北市板橋區福丘里新民街45號",
+      "mapUrl": "https://www.google.com/maps/place/CAFE!N+%E7%A1%AC%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a97a809026f5:0x112bf0c0bee3ddee!8m2!3d25.0108458!4d121.4638672!16s%2Fg%2F11rww7flxw!19sChIJ9SaQgHqpQjQR7t3jvsDwKxE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.0,
+      "reviewCount": 512,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmN85-F2ENT63oJYuE39xwd8C6IfHo9rsLMRDMqGYXUA9-VcT1Vkj7ZXwB0CNCGmu8MJzaIAKY_JqW6mSVzlFLaZCZD6C7g-LghwZfHfcagbT_jVwGrkjLIvi_NOhI3VTAkP7LCgOw=w408-h612-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMjtJd0Qw2iXN1hV-pm5B_SJjDMzNjxRlXSEKy-SyTWKMu9RYkbqqUZAltGeNqopi4Fx9PqPmkc2Ok_TqYo1y1t2csGkwx4k2SN8ZpkFeqqDuoeNH7tJjvp3X_ELeM1mexKqoKV=w211-h120-k-no-pi-0-ya0-ro-0-fo100",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPPURgROFVNKiHci9anPnCSeUvUglAIVWP7CxnyJ9O15YwILWdRjuk0Q-t6GtMygRdn8sQ8mCgpgAb808sCLEuzmf2Etcuf_lo8KRKdBTl_gsPjMgf_AGGOba9mjkJQsNq5SiY=w140-h140-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdsnc8AW0lkk8F4qmUPv0JJ4vIHvintOIkP-QNXcrVVhHqqcO3JP70aoZvcbzf4omzSljSmb_VQc3W8RtcpY15fh5mA-JT-nttnnym-fZqAbvzutNos_KojtQ2Wdg1pMNbZl5RqbIaphwl1=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLekKImy5aciYgXo25pOGkmluq2AgLHh516cV6hZYkvrS6zoeNqnZfEfkmlqRLjqc7H-hatzCqO-ArB__LhMOXGcfMV_Opo_ChEGpoW26l34UnvZCeQG3679j-22RCpBmgXJMJvOCJ-lewY=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 28,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108458%2C121.4638672&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108458%2C121.4638672&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "三豐芋冰城",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        100,
+        300
+      ],
+      "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+      "description": "芋頭冰品與雪花冰，適合外帶點心。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示無內用。",
+      "dishes": [
+        "芋泥牛奶雪冰",
+        "芋泥布丁牛奶雪花冰",
+        "芋頭冰磚"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E4%B8%89%E8%B1%90%E8%8A%8B%E5%86%B0%E5%9F%8E%EF%BC%88%E7%84%A1%E5%85%A7%E7%94%A8%EF%BC%89/data=!4m7!3m6!1s0x3442a81dc44b2807:0x79934ce83a6836c4!8m2!3d25.0098167!4d121.4616752!16s%2Fg%2F1tq4ns_3!19sChIJByhLxB2oQjQRxDZoOuhMk3k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-050",
+      "name": "三豐芋冰城（無內用）",
+      "address": "新北市板橋區福丘里民族路15號",
+      "mapUrl": "https://www.google.com/maps/place/%E4%B8%89%E8%B1%90%E8%8A%8B%E5%86%B0%E5%9F%8E%EF%BC%88%E7%84%A1%E5%85%A7%E7%94%A8%EF%BC%89/data=!4m7!3m6!1s0x3442a81dc44b2807:0x79934ce83a6836c4!8m2!3d25.0098167!4d121.4616752!16s%2Fg%2F1tq4ns_3!19sChIJByhLxB2oQjQRxDZoOuhMk3k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.1,
+      "reviewCount": 1687,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf1ojr5JPvcoHbQTwNUZIGUifrJ6Wc-xtlRGIoFv9JPnJI3p4Kv4zHmw5WwwOuyASJmlySkqAyIXw7iZUpc9LUVv9WMQK7-3uTGy_ETS7WO7CE6pLWTkjZ6AHGxqVHTzC_HfaaqSq4BBacK=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMQ6j7b65pd0Idy2Q5QqGl-wQoe5haszvceit1vMARbZRK4_7Oe7MNbtn-NV6CjrP0Gd6R4FJi-lSqw1Xxs3Z5YI_Mrsgz8bWh48gcwRah9ObrlQP9_ywIJw-JFHohQaS_Vug6=w140-h140-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmN6c7p5yIoPpIawIcIidNKnNYIYgwg3YrtWj_8ctB2Kv1JctqzVEPy3HX_NUiQHobpibB8PTtgVVgVa4y12B83rcUOVDg9FckSGPcTnE7edMHG_Wc0BWY1McgHM5Y23SskfhFODwCwHsA8=w600-h900-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMjzUWPygBAsgj3UyqBq0XtBA58IZ6G5lejvqPTRkRnGECD_MNJlgkyaU3gysx22wN8RbxK4PHN1ODQPnB1RILxKBdr-3wGkOdOBJGbriXF1VNS6dDzNnYMAyif2eaOSRah4OhvWfn4FQON=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNuvRcI_LRR4hiiapmefKolCqnI6YiiXDXQ3ZzM1E2K315C3AlLu2c0Ya4EDtnzU6GEFJeXYvCedWeMHo2Azm8T-2WuldiT7UcFVPDBuKMg9w1A-UbleyWpyQmZGJ7bvCTz84WgotIb1X4e=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098167%2C121.4616752&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.4 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098167%2C121.4616752&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "奶油鬍子貓咖啡甜點工作室Meowlicious",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        120,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。工作室的內用、取貨與預約方式請先詢問。甜點工作室的取貨與預約方式請先詢問。",
+      "dishes": [
+        "抹茶芝麻生乳酪",
+        "翠伯重乳酪塔",
+        "紫鄉芋頭"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%A5%B6%E6%B2%B9%E9%AC%8D%E5%AD%90%E8%B2%93%E5%92%96%E5%95%A1%E7%94%9C%E9%BB%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4Meowlicious/data=!4m7!3m6!1s0x3442a8049c4e15bf:0xa88e12853c0da64b!8m2!3d25.0150872!4d121.455134!16s%2Fg%2F11bbwn510m!19sChIJvxVOnASoQjQRS6YNPIUSjqg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-051",
+      "name": "奶油鬍子貓咖啡甜點工作室Meowlicious",
+      "address": "新北市板橋區社後里大智街34號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%A5%B6%E6%B2%B9%E9%AC%8D%E5%AD%90%E8%B2%93%E5%92%96%E5%95%A1%E7%94%9C%E9%BB%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4Meowlicious/data=!4m7!3m6!1s0x3442a8049c4e15bf:0xa88e12853c0da64b!8m2!3d25.0150872!4d121.455134!16s%2Fg%2F11bbwn510m!19sChIJvxVOnASoQjQRS6YNPIUSjqg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviewCount": 135,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNcDNQkVozFLv1Kkvd06iVHhVY-8hGHpzoTglXyW_KbrxQE2146pKIXgTUuOIls_bZyqDgn7o_IUnqCaGmlp_-ARuQRhcYU5IVNZvXBgYlfXRXtBqeJG__hPcnzW9GtlFJQl6ZrYRJjdQw=w140-h248-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcmlFpY54L5I-yUz7Ity8fyYLPtBFU6OF8cMJ3OagvEE2TI9IEhoAHX1LfY9SEXYdXQo0YOe1bD6gnZ0K-_oHLQHzwXxwUwW_6zlUiuDkcjv_9XaqSPsb7yk1JZDzUjwKOmSYcP=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdL_i8R4awGo0-JQ4OB9RBJSdfjFqIbLdHQ--e54xvQbpK-Eto-VgzvYyTXMf70iQpmaaYNlLluLHarQp0GcJ_FlntbI6HuTgO3KSToFg2XIlZoHgwC4sWqwyWWtJ2EE3uFdda-=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeGSmpqLNdnQ7PFkLyN4l0o1hC3-QjFHaC4sIZcad639FoET7A8u4F7eKsZusGCzfnv56gPwABoqUXhjn9eVYNYj2Xssh256LEZDXjkxMsGb9NeCTApnFf79hqxeS018uPSH0-n=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcJGtNV6N5sX0uafoj0-gfskfyEiKSmn20pjuFPfw71N3JTzF6kAUPUEm2N8kJvatoWPFWOdSFQg1RbMGUqqBHtzJgKnDOMxJEkf2-p7v3Dr5NKd8E-f_RFR0fx6RQgMeP0INNbEA=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 32,
+      "walkDistance": "2.2 公里",
+      "routeVia": "途經文化路一段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0150872%2C121.455134&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.7 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0150872%2C121.455134&travelmode=driving",
+      "driveVia": "途經文化路一段/台3線",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Bar Aku",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "其他異國料理"
+      ],
+      "types": [
+        "酒吧"
+      ],
+      "periods": [
+        "晚餐"
+      ],
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        1000
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "特色調酒，適合晚間小酌與朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "茶基酒 Old fashioned",
+        "新北（調酒）"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/Bar+Aku/data=!4m7!3m6!1s0x3442a9d89852ab23:0xc7a0f7f0eca30f5d!8m2!3d25.0098794!4d121.4603242!16s%2Fg%2F11w9bp92z2!19sChIJI6tSmNipQjQRXQ-j7PD3oMc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-052",
+      "name": "Bar Aku",
+      "address": "新北市板橋區挹秀里縣民大道一段269號2樓",
+      "mapUrl": "https://www.google.com/maps/place/Bar+Aku/data=!4m7!3m6!1s0x3442a9d89852ab23:0xc7a0f7f0eca30f5d!8m2!3d25.0098794!4d121.4603242!16s%2Fg%2F11w9bp92z2!19sChIJI6tSmNipQjQRXQ-j7PD3oMc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.9,
+      "reviewCount": 122,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe544EbX4FeycmijYAKe8fOJXaR1slNun6D67bFw--X94YHkWwe38Oog2k2gNHQfJEbiy8XcLFpMuddpUfRXqQmjVacWUGGOMu8N0Y_-QxLryWgN8_UvEE9LI_aAz9x6ymlZbG6NeX-dGmL=w408-h695-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdL5OkCK9t1JMyWtKHODnea-uUKsac4b8-R5q2RuRjBfCFQghWmNmX7kA31nbvipSkxhx9R-6au3UmeZo2wKfnEew5jJSqRKGPHMvqnvFSs03KaVyq_BTSd5d1oJax7HhY2SqIXheQ2ZYc=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqGg1T5UTOLN8AecChyIc6Eb20DwNhybfxBAr2_l7QVhs2Wq5wrZfwKh27rW5-I5bFdg9e2jtz_WTe5YY34XjwN_G9d4FuHZv-ubiB1bFrz2v2SbtA44sy6unVAZxoavvHPjOssN_34m2X=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLduGuBpAHF1f1Er30Axw5DN00Hi14ji9DuAKgoQwrGJmCN0D_eHFmQBAi0UADkQnQ2r5t3l3lgoTwK-sprx9eiJVRk45IFZoE9qUQOvCyz390-vgzXCUb8xLuFFPyih2WCUViwWn5539c4=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeN-8QeZU3MEQFkTntHWyy2kxR4ThcKI6baTFCUqBvzKLzNFxJcPK3ZPu879WMx-R2bqda2oB-VepmdrnJAUHWLNf4vSwx0Pq7kyajKmhDioJ-FDat-xoCUXWI7l8zVn8AeTklI2kyNxQ=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 30,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098794%2C121.4603242&travelmode=walking",
+      "driveMinutes": 10,
+      "driveDistance": "2.1 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098794%2C121.4603242&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600",
+        "NT$601–1,000"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "福實咖啡",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "早午餐",
+        "甜點店"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "荷蘭小鬆餅、蛋捲與咖啡，適合白天聚會。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "荷蘭小鬆餅",
+        "蔬菜起司蛋捲",
+        "肉桂捲"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E7%A6%8F%E5%AF%A6%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346803a815b8a229:0x8cd01bdb2df0ff05!8m2!3d25.0044683!4d121.4642527!16s%2Fg%2F11jq1l_p0l!19sChIJKaK4FagDaDQRBf_wLdsb0Iw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-053",
+      "name": "福實咖啡",
+      "address": "新北市板橋區福德里實踐路141號2樓",
+      "mapUrl": "https://www.google.com/maps/place/%E7%A6%8F%E5%AF%A6%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346803a815b8a229:0x8cd01bdb2df0ff05!8m2!3d25.0044683!4d121.4642527!16s%2Fg%2F11jq1l_p0l!19sChIJKaK4FagDaDQRBf_wLdsb0Iw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 155,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeruuxrLNOqu-J1_QZfgpMFPO8whJw6YW6gwoH_fNo6bIJoK7tVL78PPjNXHkoys9nXGMyR-S3uc0QV936VfsxOjGdIEnlnJIx6dG3qbCcJbn7FTGFE_G_6UTUPeACIu6zSmp877Q=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf3UfNuwgVbspZnV7OCLgneHaguzgcEl2cXNTDeX_vw3RIjLO4gv-A0IgllPt556MucCZQhRq__r5ix0dNX8YwuRHOY8jZ6dbZpUd15H_aq3GzNiSt4GjyToZvwLQIXgj3bQyTwWU3L84_q=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf2HpJ-bb6Vvoo9xlMiYh77Ix4MFu-cce3NuFK40b__3Go1YnRCsbW-RP2-1v41fOqqLvF6D1E-b38dsUGFB5lpputGwr_C_tllCIRmMKfNkf1hRE9kk6R2e8mD1ppgaRrSKIa9IAGd711-=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLchHi3JFcblwOICet-jtICAj-f_KnIZHxbd2YPKdel2CvlCyc3mZLo-EuLpzKoc_LQ55scvNDr5XiNrLAZdd3Y2mMAl79fOUqBtmteZfUh5-oTB_rLX4eEURsIUMKMENHIeGtLb7JWakM8v=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcvX1uaBwsyjLeOrwBuq-wCKTrQ1xRQuxJ1YS2_n0TA1MK3u53ENbx_SZ2bnWIU3z-YmgfqR8zyYlvMMOY59Q50ZjL0i5BJlQhNhWHRtxgzkBHm53Jigy7ivKuVkkCsQfUZbhbU7s4buQM=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 39,
+      "walkDistance": "2.7 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0044683%2C121.4642527&travelmode=walking",
+      "driveMinutes": 13,
+      "driveDistance": "2.9 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0044683%2C121.4642527&travelmode=driving",
+      "driveVia": "途經114縣道",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "一緒館",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式"
+      ],
+      "types": [
+        "咖啡廳",
+        "早午餐"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        120,
+        200
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "鹹派、可頌與咖啡，適合輕食或午後休息。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "法式鹹派",
+        "起司可頌"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E4%B8%80%E7%B7%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9b28c4e8615:0x6b69253ef82641ad!8m2!3d25.011103!4d121.460051!16s%2Fg%2F11rfqg46hg!19sChIJFYZOjLKpQjQRrUEm-D4laWs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-054",
+      "name": "一緒館",
+      "address": "新北市板橋區挹秀里文化路一段32巷23號1樓",
+      "mapUrl": "https://www.google.com/maps/place/%E4%B8%80%E7%B7%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9b28c4e8615:0x6b69253ef82641ad!8m2!3d25.011103!4d121.460051!16s%2Fg%2F11rfqg46hg!19sChIJFYZOjLKpQjQRrUEm-D4laWs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 74,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLethlYlN-UEaIbsg1Je9GATbtyXM6Xjn5G2lYEUx0FvzMjyEWGd1cJcknOBWHov7SHNGzGDmMqYaWwafSb4Wp_Vl0fPrXv4kacRDjbZCfl1YXKiD4DlLWHWQtpc7BmgMbjOnCk6l_WOAlk=w408-h306-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeNDa_JBBd2VFOcicoG56eHbh9mYXKClJAfwNKFxbB0hkJoZg4fmomx6PnEG_0eCHceItD9efBf94O5uGa_LyxdTUTkMLu5Cx6j01K_KXaDYuTQ62Z6tvhDt8jxm344iIHQVnBjHw=w140-h186-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdq-Nrkb34qKk4cCcX6UxXfCXnXQXWC_0d1FprqRd8O3-e4QeKE-EVWemyDTVBKYmYj8eEzAHTXDBuy6mhMqXnv7JQBEWiV9MLxV1Oos9j-GJW-vG_hcRRE3BnTBH9SYnNMWvyWt83clBED=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf4c8KYhm-ALp0n0NhsX0wQaAmPf3CSvJM2IIHRv8YoPYF1svzKduRhmC-EF5kG84l-Lzo2vKmJ-iqDFFrPQUYZk_WqyrtI7Yk-n1p5egLQ7E0_MVQQ26SgfQWrSnKCuZpRZowRPU4rKqdP=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcyHxsB5L3fJM3NgV7CEDtFdc3DdKa1bk_7On_qgJohucayaJUKPYjTIYOi3DYO3hpFu0xoorOf4D1OZ94cBtqeZuSKCzJmv6a1sZcsoQZ_IsHCCZyFmeZkJOBbDBVsCLmiWYAEdAlBR-kn=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 29,
+      "walkDistance": "2.0 公里",
+      "routeVia": "途經文化路一段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.011103%2C121.460051&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.011103%2C121.460051&travelmode=driving",
+      "driveVia": "途經台3線",
+      "walkBand": null,
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "檸檬草美食茶房 板橋店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式",
+        "韓式"
+      ],
+      "types": [
+        "飯類",
+        "火鍋"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐",
+        "多人聚餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "陶飯、焗烤與鍋物，適合午晚餐或朋友聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "韓式烤肉醬陶飯",
+        "茄汁辣味雞肉焗",
+        "五花牛肉鍋"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E6%AA%B8%E6%AA%AC%E8%8D%89%E7%BE%8E%E9%A3%9F%E8%8C%B6%E6%88%BF+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802a7c6280c75:0x10ccdea663ef1a88!8m2!3d25.0068674!4d121.4590616!16s%2Fg%2F1tjgy2xw!19sChIJdQwoxqcCaDQRiBrvY6bezBA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-055",
+      "name": "檸檬草美食茶房 板橋店",
+      "address": "新北市板橋區鄉雲里館前西路7號",
+      "mapUrl": "https://www.google.com/maps/place/%E6%AA%B8%E6%AA%AC%E8%8D%89%E7%BE%8E%E9%A3%9F%E8%8C%B6%E6%88%BF+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802a7c6280c75:0x10ccdea663ef1a88!8m2!3d25.0068674!4d121.4590616!16s%2Fg%2F1tjgy2xw!19sChIJdQwoxqcCaDQRiBrvY6bezBA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.1,
+      "reviewCount": 2690,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmO-NPfucZ9Vj26PZcapeMicf-UMGVQWc7aDJbESItIX3nkRPlLrJSvShp1ndTu5sY9sso0bN5CRd4K8HxK3-3qFN1ouLdJT9HNNKMEfr0BSwJiB30ebLLxtco_zOo38f3qkSsPzxw=w408-h271-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNyc3o0HOVwnHX5FXypGRbG7patOYDhsNcPmCA-1h9NPzobhUvUZSPj6gnJN-g3z0LtN6T6LMCpL4wNB57WzpLA-nAkRwF6kGiZfxfEPKC2uGZVjovvabdIcD36AntILHIYLBaO=w150-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdQHJpzFIN0j4w0BWp6FctB3lVZ_5WlvO-jNG9m7G13oJCpeBLxyFy9H4H95pioEYXiWfEzA82vMplChZV4U1eicVppLlNuw-8IO2-e_eRp4iefVfLGgNIjEfELO0fehoH9DL4K8977vdcF=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLccyLM2dKT42UEQngWGI7cKVXaS9n69ozERk_Gwj61CZp_LrOCakOJJhoOMD_B7zbTBbVQ6VfXBndL7AWePLGRBlnEbx4P4bhFzWJmkzb39OceM2AElkTdtPQUz_DJaYun8CXu3s_qa_0PR=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf4-I8oz1wRR6VGhdeEzjL7z0_1HQjLUDRk8AKR24u0JsxbDUfzcSBX8c7eP46RbXyeuwAexpiA6tI87SuwmFMyp3BjtDFiuDkIbjGa6La8Tfv0soYL82nCmfTQDYhDxB64_R-6ERcclD2V=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 36,
+      "walkDistance": "2.5 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0068674%2C121.4590616&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0068674%2C121.4590616&travelmode=driving",
+      "driveVia": "途經縣民大道二段",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐",
+        "台菜"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "兩喜布丁蛋糕甜點",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        80,
+        400
+      ],
+      "priceNote": "Google Maps 消費者回報區間為 NT$400 以下；下限 NT$80 為餐點類型的參考預算，非店家公布最低消費。",
+      "description": "布丁與蛋糕甜點，適合外帶分享。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "夏日雲朵芒果布丁杯杯"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/%E5%85%A9%E5%96%9C%E5%B8%83%E4%B8%81%E8%9B%8B%E7%B3%95%E7%94%9C%E9%BB%9E/data=!4m7!3m6!1s0x3442a9cb69e47ab3:0x688554271f1a5ba7!8m2!3d25.0098207!4d121.4616775!16s%2Fg%2F11s34l2qrf!19sChIJs3rkacupQjQRp1saHydUhWg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-056",
+      "name": "兩喜布丁蛋糕甜點",
+      "address": "新北市板橋區福丘里民族路13號",
+      "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E5%96%9C%E5%B8%83%E4%B8%81%E8%9B%8B%E7%B3%95%E7%94%9C%E9%BB%9E/data=!4m7!3m6!1s0x3442a9cb69e47ab3:0x688554271f1a5ba7!8m2!3d25.0098207!4d121.4616775!16s%2Fg%2F11s34l2qrf!19sChIJs3rkacupQjQRp1saHydUhWg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviewCount": 2175,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnJ5AcR0IkUs57q-HWSHdml3pgiSVm2zBf_cserFnD4CzPvRloDQHD0W2s1gMxIs-7XLUI2ewLTqSVu1LzlK8D0YkjQrSy3odtAk5YUK6ZVqFdfDuiNQvMB5RIoE51dvcXNmb8Y9qadPc=w408-h408-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcCV2IA_WzCGIS8j8hHIFcUSX0h_5TwOICnBDERUvAdDDwdQaoCgLa9xTQVLZF2by9xzcbh6AlpRTNzUy6-Bt1C7YFjhrURTmpTDpekj2thN7kiedJyT_BLrS9rOi1KEBqEGD4ySZMF5SYv=w360-h480-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcLxnEnmb0e3lxnYyAxrtV-Om7FTvhwBssH3Of-5ywB3peeye1SbVtBmd_nYZl32eBNeEyYx3jEDNQ_E8V4DzSmiKLNrbqnCAGSse5PeMnGvjxIsl9RG5Mk3BxwU63pUWkZlcvbh88WG8I=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdxIwaw50KUeXVpV6fltMl5NhcZMbeFlko_4J_7BAFyeBeG2G7QeM1qvmrDniNvDoBC0Y4xFyTczPQGrp7v6UmpT3BOpHAej4K2iwEoACyWphhXIpGjv5rxv-du4ZeCIFK1Gw8klWXIwLw=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfECmu_HZDpaw3A2YVol_wSOBkXWbA2uklZOtVdE8OWmJOUn93Tkw7wiY06Vpjg16zyQtVQ7tHggdRWGfGFcuXWlXu3edn30GcfezL5idPWBTE1nNxnEzFaW14ofDWmIxZi-Q1VjpbOR6Pn=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 31,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098207%2C121.4616775&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.4 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098207%2C121.4616775&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Buttery",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "不適用（咖啡／茶飲）"
+      ],
+      "types": [
+        "咖啡廳",
+        "甜點店"
+      ],
+      "periods": [
+        "甜點／飲料"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        200,
+        400
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "起司蛋糕",
+        "蒸汽美式"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps/place/Buttery/data=!4m7!3m6!1s0x3442a9003d4e0bbb:0x7eba2ea682324281!8m2!3d25.0090793!4d121.4653292!16s%2Fg%2F11y54g5btv!19sChIJuwtOPQCpQjQRgUIygqYuun4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-058",
+      "name": "Buttery",
+      "address": "新北市板橋區深丘里區運路10號1 樓",
+      "mapUrl": "https://www.google.com/maps/place/Buttery/data=!4m7!3m6!1s0x3442a9003d4e0bbb:0x7eba2ea682324281!8m2!3d25.0090793!4d121.4653292!16s%2Fg%2F11y54g5btv!19sChIJuwtOPQCpQjQRgUIygqYuun4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.9,
+      "reviewCount": 85,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNSdZ_N4B_v6KVr_JWppEE1_blkTe5bJ8wtPmUzNGwnIIEByjvDGd1JQ3fuM4UuaVyWy76ETRsxBu79DbzSrjuWHK4bdrZZq_3T8uGYQnxdT8KxMJncY6vRz-0ly8sT-fG5KaAo=w408-h492-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmP1_dNcHBUZeyNZI9hGsa1nmoPK9haEX4yD_bgbqE4g7MG0KPOXiN0B8hbhAEbGDYtUATC-8GD0TEu1ldmYv-6ajVjj60FVAtvNuPEHiXJNX0_gun2gzcwuHXDpSRIaGX4lUwRPxG8aD_A6=w160-h120-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfAey3XwzGVAmBUuSHnuCvXf87baJqvBLaRjrucVprQ8a35K0bUuMoGt1CW0p_L31G5g_PtJXba5e4ClkZV-tWis9k84KUGzDbGIcqYlFLfDp2_gw4MVf7a8lZAK6E29AMHvMXQyV7koo67=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcNdP8pVUI9zoyc_8EcSg01ehNdiPZmNZNm4WtFd89p1EgWrrp6CNHe1_u4CfTwDbCR8DHkm5hf84e8jzY03QIhR3sXlCodVI3bwYs0qtfSXQdcMNYFPYKbKLWEFIkAAl-EdyKVOgbXEF2Z=w600-h450-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe52fsCG5WP7Zh_oKSD8L3FDU7GzYej2mYh0nfbrNnsCEfEsAdlCWRVJfoxk-01wlwrAROPsDyfIS5ZyRmqNCm1za9btX7A8EG2WcXYLET3grnrCbXYUpIzDiTFj_NXvawyWVmabIaW6R1W=w600-h450-p-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 30,
+      "walkDistance": "2.1 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0090793%2C121.4653292&travelmode=walking",
+      "driveMinutes": 12,
+      "driveDistance": "2.3 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0090793%2C121.4653292&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "甜點／飲料",
+        "咖啡廳"
+      ],
+      "priceBands": [
+        "NT$200 以下",
+        "NT$201–400"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "悠悠U Brunch",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "美式",
+        "日式"
+      ],
+      "types": [
+        "早午餐",
+        "飯類"
+      ],
+      "periods": [
+        "早餐",
+        "早午餐",
+        "午餐"
+      ],
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        600
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "早午餐吐司、炸雞與咖哩飯，適合白天用餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "炸雞咖哩飯",
+        "酪梨鮮蝦乳酪酸種",
+        "老闆炸雞",
+        "蒸蛋殼"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps?cid=3851376000272514698&hl=zh-TW"
+        },
+        {
+          "label": "推薦品項公開資料",
+          "url": "https://pattieeat.com/u-brunch-banqiao/"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-059",
+      "name": "悠悠U Brunch",
+      "address": "新北市板橋區文化里文化路二段125巷15號",
+      "mapUrl": "https://www.google.com/maps?cid=3851376000272514698&hl=zh-TW",
+      "rating": 4.2,
+      "reviewCount": 203,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeRedd2wEc4SnlUG2kRZ3NRgSm1sMzP5m1BjwujO3PC5mJnhxW5sOkdjpZpdUjTma8Bf1GiRI0bvuSGr0_DvojY7Gz2RgwoiP86vTQk8FVDP6ian1bM5guUNy8NM4tjyp079cDZ3gHLA9o=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdRRWEeMi6QiGIw1T1ehMYMZLz93KqmVXStRB1xg_odQIp7Vl-j7teWmhcnoxqwySaInU44DJ7Pnfq6KfGb3YJ9Lb6gFrTO0enJtyY2V8zArhA6DeU-yXKTV1Bs0avcWnSnOiFG7y-fy3I=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmO7T5OxiK6a6yEFLZRC0ZsAqvyXUGo5xs25DaCHZw8x3p9qQY2qwCuN6QyVkusYlt2LVnQR-w799tUZQdy_cSeScNhB8LC8wLGTQ5Zg4OSuEjpF-9I53C8ftSqPOYB0CrDrOGIWOkYcxSED=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMVBAv0znHZ0YcZk-pIdEpNHV15iBevxdDrJ1Wdjwp4aWuCCFd4qqpUx-kkFgZrH1-1AmkOthXQ4FhGisRfBQuJKo4lyZDeC2X3xv5kDaUx3JbxFNP9BwqBoAkziAYvyPt_hl4NLopnkp_l=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVb30Ckfmag6T0aMNdArAm9f8CYQ9lALEArA3kyBpBW8t6_pwAOhc3-7vbxMqM_ccBqUN6KpueMz3en9dHKl_8nUWor63JMic-N1EiSOirEi7IPvMFMGkq6Q9Hm6LY1W2nFjzgskSkdHA=w224-h298-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 9,
+      "walkDistance": "600 公尺",
+      "routeVia": "途經莒光路和文化路二段/台3線",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0270662%2C121.4694735&travelmode=walking",
+      "driveMinutes": 5,
+      "driveDistance": "800 公尺",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0270662%2C121.4694735&travelmode=driving",
+      "driveVia": "途經文化路二段124巷",
+      "walkBand": "5-10",
+      "tags": [
+        "早餐",
+        "早午餐",
+        "午餐",
+        "日式"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "刁民-酸菜魚 板橋府中店",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "中式"
+      ],
+      "types": [
+        "熱炒"
+      ],
+      "periods": [
+        "午餐",
+        "晚餐"
+      ],
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐",
+        "多人聚餐"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        600
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "酸菜魚搭配小菜與加料，適合朋友或家庭分食。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "酸菜魚",
+        "母湯娃娃菜",
+        "完美蝦滑",
+        "四季水果茶"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps?cid=11361692063081552610&hl=zh-TW"
+        },
+        {
+          "label": "推薦品項公開資料",
+          "url": "https://www.diaominasia.com/article_d.php?id=171&lang=tw&tb=1"
+        },
+        {
+          "label": "推薦品項公開資料",
+          "url": "https://pekoblog.tw/diaomin-banqiao/"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-060",
+      "name": "刁民-酸菜魚 板橋府中店",
+      "address": "新北市板橋區鄉雲里中山路一段21-1號1樓",
+      "mapUrl": "https://www.google.com/maps?cid=11361692063081552610&hl=zh-TW",
+      "rating": 4.6,
+      "reviewCount": 1039,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdos5zE51c9BhXKgA2UGredKlZVhmVSY-78dcKoSjj6hPUhr1dw1OERLfxOnn9hY1PYayUKxSd1V_Ds25oCQkjrWPfaGL007FDd5pd_gcRnQasd5vxgsLBCOpQWv0E7YlyT3Ntk3Jf5cobm=w408-h544-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd2wXRYBCttEp7M4TlY_sS1mQB-eh9Bst8QQ8nrdHx5WxK4K-XqNeFqjGkwLjC-OBJ4VHzVoBinHUvYPT1HZeEiJ8kPaPNZ8LQPyRqVRouT3cWsTlgi_A7skS4yggnApAe-t3wzVo-DBCLC=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf8_siIGF6oRK4NH1PcdKeXlSNQAO7RsbH8RqCk_ip6_fd5CmUfDLG9I10bQ0e2RMF6tJyL3sl2zMZsYW38DOYvct5-kZhplSGlDodg1U9i5UxS3KMmOHdhTcj4AEWm8OuuU8S-iG-NwoSW=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcT95YcyUCYuugAxXt0gzc5-PeIQ1U4TnCq-UAmvDkZCbsfwRnpp0HU-2leK91XrTsqLP82uVXcE-piKs7YB-oVBQWbnoPqfM22uINsKvTU32r5sgVdrTj9H7PS7k7hu-8lRBPcORDp1DHB=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QXS3c0YYNXE1U-PYUZ8C-KzO15ApbC_Kv30VstdGs-pvr1pwalha6GodptnZW8vclJIoJR4EgD3FvOp8nD5VIHNOzMbb3NF6_P0ksP5TL_oF5-8NWp46fOIV4fEhHmH8uEG-P4GTrZkFQy=w224-h298-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 33,
+      "walkDistance": "2.3 公里",
+      "routeVia": "途經縣民大道二段",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085857%2C121.4601496&travelmode=walking",
+      "driveMinutes": 11,
+      "driveDistance": "2.6 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085857%2C121.4601496&travelmode=driving",
+      "driveVia": "途經新北市特一號道路/106甲縣道和114縣道",
+      "walkBand": null,
+      "tags": [
+        "午餐",
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600"
+      ],
+      "checkedAt": "2026-10-05"
+    },
+    {
+      "shortName": "Lane 72 Bistro 英式餐館《板橋店》",
+      "area": "板橋・新埔／府中及周邊",
+      "cuisines": [
+        "其他異國料理"
+      ],
+      "types": [
+        "餐酒館",
+        "酒吧"
+      ],
+      "periods": [
+        "晚餐"
+      ],
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ],
+      "childRating": "普通",
+      "price": [
+        400,
+        600
+      ],
+      "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+      "description": "英式炸魚薯條、蘇格蘭蛋與主餐，適合晚間聚餐。",
+      "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+      "dishes": [
+        "炸魚薯條",
+        "蘇格蘭蛋",
+        "蘋果酒香烤豬排"
+      ],
+      "sources": [
+        {
+          "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+          "url": "https://www.google.com/maps?cid=3956178985993773589&hl=zh-TW"
+        },
+        {
+          "label": "推薦品項公開資料",
+          "url": "https://annieko.tw/lane-72-bistro/"
+        },
+        {
+          "label": "推薦品項公開資料",
+          "url": "https://jeremyfoodie.tw/lane72-bistro/"
+        }
+      ],
+      "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+      "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+      "id": "expanded-next-061",
+      "name": "Lane 72 Bistro 英式餐館《板橋店》",
+      "address": "新北市板橋區文化里松江街74號",
+      "mapUrl": "https://www.google.com/maps?cid=3956178985993773589&hl=zh-TW",
+      "rating": 4.8,
+      "reviewCount": 1579,
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdhPKMY4H4HZ07EFNqLV6IUDCaVaBWH04sNW1BIllAZlKu1ow_H56g1umG6F7fx5ph6J08lKWiTckbJM8vSiwiv0EjiHXGuRyOayI4EW8R_4IqDxhmvMikzLy0q89wqE4YcFnram0xLsCkq=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdflwXdqfmMPbDBMIgQv1GERDYZrLQ5Ebmnkb99o1JKfTbNC_xmaR-6bH8B3ap-t-KbY48o7aeID41rBYDWxiLaFWTeZfDML0DIS1FVGEetLvVH8z5j4WArRl7399YrZikbiDgxaA=w224-h224-p-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RorHCJqqpyHfnuyWAC8TgTgO7JNu-5ry90S2uPETW7V55gZWFSGX0D50FtPGPcfcEmcyOKE9BjF-rP9f6KWcffK-YOHCfqXiGtyUCt1-g6z_nyw6-CGgCbCRKUpJX2z62y7874BXs7truB=w782-h298-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SCeiexHSHmldBx3q_8VPhtwgnxO5RV1NQlkaFPpPUpP3aIVsjTa6L2ZTufFc2qN5SIiGHRUvQze02zSMtpcAKz1pkfTyNV5BFTLyE8vCXO6cPeHIv2yQUc4fHGI0Dlgwci7ZPwuP_LrFv7=w224-h298-k-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RmmX22mxXUsCAcSbGply0NbV246zLr92F4eG0iSKMDmHEpXJhXdZRaGBe8HzQBTEKUVkCg8L4Gty5cByt4oTvk6as4CSsH2ArIQNZtGa8GSNUSVtXkqCJO6X96uMbusN0EskJDXFft3GlK=w224-h398-k-no"
+      ],
+      "photoSource": "Google Maps 店家頁面；權利屬原攝影者",
+      "walkMinutes": 10,
+      "walkDistance": "700 公尺",
+      "routeVia": "途經松江街",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0278699%2C121.4686941&travelmode=walking",
+      "driveMinutes": 5,
+      "driveDistance": "1.2 公里",
+      "driveRouteUrl": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0278699%2C121.4686941&travelmode=driving",
+      "driveVia": "途經文化路二段/台3線",
+      "walkBand": "5-10",
+      "tags": [
+        "晚餐"
+      ],
+      "priceBands": [
+        "NT$201–400",
+        "NT$401–600"
+      ],
+      "checkedAt": "2026-10-05"
     }
   ],
   "excluded": [
@@ -43082,152 +47231,8 @@ window.NEARBY_DATA = {
       "checkedAt": "2026-10-04"
     },
     {
-      "name": "大戶屋 板橋遠百中山店",
-      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E6%88%B6%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E9%81%A0%E7%99%BE%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a9144f3f1851:0xd7aaf76695a10f87!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11p74py6wk!19sChIJURg_TxSpQjQRhw-hlWb3qtc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "大賞平價鐵板燒板橋中山店",
-      "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E8%B3%9E%E5%B9%B3%E5%83%B9%E9%90%B5%E6%9D%BF%E7%87%92%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a82347cf1697:0x5130f133ebc78ae7!8m2!3d25.0152532!4d121.4729097!16s%2Fg%2F11cm_47840!19sChIJlxbPRyOoQjQR54rH6zPxMFE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "旭舊咖啡 Shiujiou’s cafe!",
-      "mapUrl": "https://www.google.com/maps/place/%E6%97%AD%E8%88%8A%E5%92%96%E5%95%A1+Shiujiou%E2%80%99s+cafe!/data=!4m7!3m6!1s0x3442a9646c6ea4b3:0xa5d6f3c200f11858!8m2!3d25.0128361!4d121.4706195!16s%2Fg%2F11k56gj1qy!19sChIJs6RubGSpQjQRWBjxAMLz1qU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "The Wild Boar 野豬精釀啤酒餐酒館",
-      "mapUrl": "https://www.google.com/maps/place/The+Wild+Boar+%E9%87%8E%E8%B1%AC%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9861cc39145:0x659e7024ce90e1cf!8m2!3d25.0106571!4d121.4634073!16s%2Fg%2F11ll4x_2r9!19sChIJRZHDHIapQjQRz-GQziRwnmU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "小秘苑燒肉餐酒",
-      "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E7%A7%98%E8%8B%91%E7%87%92%E8%82%89%E9%A4%90%E9%85%92/data=!4m7!3m6!1s0x3442a914666ae767:0xd582ca27d53de423!8m2!3d25.0142282!4d121.4702913!16s%2Fg%2F11fm4l5qhr!19sChIJZ-dqZhSpQjQRI-Q91SfKgtU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "羅瑛沙縣小吃",
-      "mapUrl": "https://www.google.com/maps/place/%E7%BE%85%E7%91%9B%E6%B2%99%E7%B8%A3%E5%B0%8F%E5%90%83/data=!4m7!3m6!1s0x3442a9d66751a2a3:0x84d7bdd927007550!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11khqfcx_t!19sChIJo6JRZ9apQjQRUHUAJ9m914Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "酒食人餐酒館",
-      "mapUrl": "https://www.google.com/maps/place/%E9%85%92%E9%A3%9F%E4%BA%BA%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a96327509ecf:0xa677646fa93be3f2!8m2!3d25.010697!4d121.463286!16s%2Fg%2F11h_3zk8gf!19sChIJz55QJ2OpQjQR8uM7qW9kd6Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "巢鍋 shabu",
-      "mapUrl": "https://www.google.com/maps/place/%E5%B7%A2%E9%8D%8B+shabu/data=!4m7!3m6!1s0x3442a81e86d4b073:0xb3d9934ce25d0576!8m2!3d25.0106356!4d121.4631597!16s%2Fg%2F11f1wqf608!19sChIJc7DUhh6oQjQRdgVd4kyT2bM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "板橋鳴門和食料理",
-      "mapUrl": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E9%B3%B4%E9%96%80%E5%92%8C%E9%A3%9F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a81f2e2ec4c7:0x484d0546e866f4ee!8m2!3d25.0117719!4d121.4663202!16s%2Fg%2F1pp2tkt_d!19sChIJx8QuLh-oQjQR7vRm6EYFTUg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "滝禾製麵所-板橋中山店(拉麵專賣)",
-      "mapUrl": "https://www.google.com/maps/place/%E6%BB%9D%E7%A6%BE%E8%A3%BD%E9%BA%B5%E6%89%80-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97%28%E6%8B%89%E9%BA%B5%E5%B0%88%E8%B3%A3%29/data=!4m7!3m6!1s0x3442a92c3dcaa289:0x283079f905b05c52!8m2!3d25.0089711!4d121.4608989!16s%2Fg%2F11p_247ffj!19sChIJiaLKPSypQjQRUlywBfl5MCg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "Petit Tuz 小兔子鄉村輕食雜貨鋪",
-      "mapUrl": "https://www.google.com/maps/place/Petit+Tuz+%E5%B0%8F%E5%85%94%E5%AD%90%E9%84%89%E6%9D%91%E8%BC%95%E9%A3%9F%E9%9B%9C%E8%B2%A8%E9%8B%AA/data=!4m7!3m6!1s0x3442a83a56754193:0x84c8a7b87e312bf7!8m2!3d25.0178255!4d121.4773101!16s%2Fg%2F1pzrwrqd3!19sChIJk0F1VjqoQjQR9ysxfrinyIQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
       "name": "開飯川食堂 板橋店",
       "mapUrl": "https://www.google.com/maps/place/%E9%96%8B%E9%A3%AF%E5%B7%9D%E9%A3%9F%E5%A0%82+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a81eec765801:0x56fbde6dd1dbaba4!8m2!3d25.0109601!4d121.4644536!16s%2Fg%2F11c2lc6pnd!19sChIJAVh27B6oQjQRpKvb0W3e-1Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "西堤牛排 板橋中山店",
-      "mapUrl": "https://www.google.com/maps/place/%E8%A5%BF%E5%A0%A4%E7%89%9B%E6%8E%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x346802a777d692ab:0xd7940cfc590ca6ad!8m2!3d25.0078516!4d121.4598833!16s%2Fg%2F1v9l8hj7!19sChIJq5LWd6cCaDQRraYMWfwMlNc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "くら寿司 藏壽司 板橋中山遠百店",
-      "mapUrl": "https://www.google.com/maps/place/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8+%E8%97%8F%E5%A3%BD%E5%8F%B8+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2534f6ba1:0x6df9c4b48c117012!8m2!3d25.0108872!4d121.4645019!16s%2Fg%2F11llzqk3s2!19sChIJoWtPU8KpQjQREnARjLTE-W0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "FRENCH TOAST FACTORY 府中旗艦店",
-      "mapUrl": "https://www.google.com/maps/place/FRENCH+TOAST+FACTORY+%E5%BA%9C%E4%B8%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a81d1158a6c5:0xa347ceaafe410827!8m2!3d25.0103006!4d121.4589664!16s%2Fg%2F11clvv563k!19sChIJxaZYER2oQjQRJwhB_qrOR6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "Morning call早午餐(板橋府中店)",
-      "mapUrl": "https://www.google.com/maps/place/Morning+call%E6%97%A9%E5%8D%88%E9%A4%90%28%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%29/data=!4m7!3m6!1s0x346803cf208fa549:0xe975336b0a834174!8m2!3d25.0093027!4d121.4550783!16s%2Fg%2F11s_zbn3_6!19sChIJSaWPIM8DaDQRdEGDCmszdek?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "隱寓咖啡",
-      "mapUrl": "https://www.google.com/maps/place/%E9%9A%B1%E5%AF%93%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9f69d7839cd:0x5dd255c7df68d83c!8m2!3d25.0175576!4d121.4646734!16s%2Fg%2F11nngvvkn0!19sChIJzTl4nfapQjQRPNho38dV0l0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "COFFeee早午餐咖啡",
-      "mapUrl": "https://www.google.com/maps/place/COFFeee%E6%97%A9%E5%8D%88%E9%A4%90%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346802a76ed14ffd:0x7e8900357ebc4d8e!8m2!3d25.007399!4d121.4609836!16s%2Fg%2F11cn3rz26z!19sChIJ_U_RbqcCaDQRjk28fjUAiX4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "慵懶貓早午餐",
-      "mapUrl": "https://www.google.com/maps/place/%E6%85%B5%E6%87%B6%E8%B2%93%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x346803ca26772ae7:0x42dde58c705577e4!8m2!3d25.0057002!4d121.4605495!16s%2Fg%2F11v9v6921b!19sChIJ5yp3JsoDaDQR5HdVcIzl3UI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "巨人早餐店",
-      "mapUrl": "https://www.google.com/maps/place/%E5%B7%A8%E4%BA%BA%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a820f1b96d:0x28465db8ca699884!8m2!3d25.0094089!4d121.4553539!16s%2Fg%2F11fzbvjbgy!19sChIJbbnxIKgCaDQRhJhpyrhdRig?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "蒔逅 Seed Meet",
-      "mapUrl": "https://www.google.com/maps/place/%E8%92%94%E9%80%85+Seed+Meet/data=!4m7!3m6!1s0x3442a93a27871a05:0xb00950fcb5395010!8m2!3d25.0115046!4d121.4542844!16s%2Fg%2F11x1cb790t!19sChIJBRqHJzqpQjQREFA5tfxQCbA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "麥味登 板橋光環店",
-      "mapUrl": "https://www.google.com/maps/place/%E9%BA%A5%E5%91%B3%E7%99%BB+%E6%9D%BF%E6%A9%8B%E5%85%89%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3442a9dd4b1008e9:0x4350fa323abe5f45!8m2!3d25.014772!4d121.4814776!16s%2Fg%2F11lf_mblqr!19sChIJ6QgQS92pQjQRRV--OjL6UEM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "好初早餐 板橋二二",
-      "mapUrl": "https://www.google.com/maps/place/%E5%A5%BD%E5%88%9D%E6%97%A9%E9%A4%90+%E6%9D%BF%E6%A9%8B%E4%BA%8C%E4%BA%8C/data=!4m7!3m6!1s0x3442a81a6a18c2bd:0x3c492d35ffde46c2!8m2!3d25.0175321!4d121.4610103!16s%2Fg%2F1ptymr9cv!19sChIJvcIYahqoQjQRwkbe_zUtSTw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "FULL MOON 手工蛋餅外帶店早午餐（不定期公休）",
-      "mapUrl": "https://www.google.com/maps/place/FULL+MOON+%E6%89%8B%E5%B7%A5%E8%9B%8B%E9%A4%85%E5%A4%96%E5%B8%B6%E5%BA%97%E6%97%A9%E5%8D%88%E9%A4%90%EF%BC%88%E4%B8%8D%E5%AE%9A%E6%9C%9F%E5%85%AC%E4%BC%91%EF%BC%89/data=!4m7!3m6!1s0x346803d037be552b:0x5979a4a94c9b86d8!8m2!3d25.003586!4d121.45849!16s%2Fg%2F11kx3lftmx!19sChIJK1W-N9ADaDQR2IabTKmkeVk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "吉飽早餐-板橋北門街",
-      "mapUrl": "https://www.google.com/maps/place/%E5%90%89%E9%A3%BD%E6%97%A9%E9%A4%90-%E6%9D%BF%E6%A9%8B%E5%8C%97%E9%96%80%E8%A1%97/data=!4m7!3m6!1s0x3442a95c68f40f09:0xdbd1b29e4b8402d9!8m2!3d25.0106261!4d121.4577203!16s%2Fg%2F11jrr4_jk7!19sChIJCQ_0aFypQjQR2QKES56y0ds?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
       "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
       "checkedAt": "2026-10-04"
     },
@@ -43238,20 +47243,8 @@ window.NEARBY_DATA = {
       "checkedAt": "2026-10-04"
     },
     {
-      "name": "ASPOON CAFE",
-      "mapUrl": "https://www.google.com/maps/place/ASPOON+CAFE/data=!4m7!3m6!1s0x3442a979cb9faa0d:0x359816a977fda956!8m2!3d25.0106638!4d121.4602683!16s%2Fg%2F11s3zjhrdp!19sChIJDaqfy3mpQjQRVqn9d6kWmDU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
       "name": "小食甜早午餐 永豐總店",
       "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E9%A3%9F%E7%94%9C%E6%97%A9%E5%8D%88%E9%A4%90+%E6%B0%B8%E8%B1%90%E7%B8%BD%E5%BA%97/data=!4m7!3m6!1s0x3442a9b068d995a3:0x53d6cff4cb2e670a!8m2!3d25.0210644!4d121.4765231!16s%2Fg%2F11gzs6xxxw!19sChIJo5XZaLCpQjQRCmcuy_TP1lM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "紅茶巴士 Black Tea Bus - 板橋府中站",
-      "mapUrl": "https://www.google.com/maps/place/%E7%B4%85%E8%8C%B6%E5%B7%B4%E5%A3%AB+Black+Tea+Bus+-+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E7%AB%99/data=!4m7!3m6!1s0x346803ef9f6ecaa1:0x40121c44fcc16b6e!8m2!3d25.0057503!4d121.4620039!16s%2Fg%2F11wxgfwm6k!19sChIJocpun-8DaDQRbmvB_EQcEkA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
       "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
       "checkedAt": "2026-10-04"
     },
@@ -43262,202 +47255,40 @@ window.NEARBY_DATA = {
       "checkedAt": "2026-10-04"
     },
     {
-      "name": "聽喵說早午餐",
-      "mapUrl": "https://www.google.com/maps/place/%E8%81%BD%E5%96%B5%E8%AA%AA%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x34680365bb4dab81:0xddbad4bc6f51766c!8m2!3d25.0047817!4d121.4582227!16s%2Fg%2F11t6q7pkw0!19sChIJgatNu2UDaDQRbHZRb7zUut0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "東美早餐店",
-      "mapUrl": "https://www.google.com/maps/place/%E6%9D%B1%E7%BE%8E%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a0e65ea3d7:0xf2fb820c55e25097!8m2!3d25.0053056!4d121.4644659!16s%2Fg%2F11fxzrh975!19sChIJ16Ne5qACaDQRl1DiVQyC-_I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "食月午日 Brunch & Cafe 板橋店",
-      "mapUrl": "https://www.google.com/maps/place/%E9%A3%9F%E6%9C%88%E5%8D%88%E6%97%A5+Brunch+%26+Cafe+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802b6cb436f45:0x482a7bd2828b83c4!8m2!3d24.994073!4d121.453065!16s%2Fg%2F11c2jvpy_k!19sChIJRW9Dy7YCaDQRxIOLgtJ7Kkg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "尚青標記皮蛋瘦肉粥（快餐車）",
-      "mapUrl": "https://www.google.com/maps/place/%E5%B0%9A%E9%9D%92%E6%A8%99%E8%A8%98%E7%9A%AE%E8%9B%8B%E7%98%A6%E8%82%89%E7%B2%A5%EF%BC%88%E5%BF%AB%E9%A4%90%E8%BB%8A%EF%BC%89/data=!4m7!3m6!1s0x3442a815ef7ec3dd:0x4ba82b4bb81bed87!8m2!3d25.0203894!4d121.4661099!16s%2Fg%2F11hbllvmg1!19sChIJ3cN-7xWoQjQRh-0buEsrqEs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "​源慶鮮蚵(YuanQingOyster)—鮮蚵/小卷/藥膳滷味｜台灣500碗推薦 | 板橋60年老店",
-      "mapUrl": "https://www.google.com/maps/place/%E2%80%8B%E6%BA%90%E6%85%B6%E9%AE%AE%E8%9A%B5%28YuanQingOyster%29%E2%80%94%E9%AE%AE%E8%9A%B5%2F%E5%B0%8F%E5%8D%B7%2F%E8%97%A5%E8%86%B3%E6%BB%B7%E5%91%B3%EF%BD%9C%E5%8F%B0%E7%81%A3500%E7%A2%97%E6%8E%A8%E8%96%A6+%7C+%E6%9D%BF%E6%A9%8B60%E5%B9%B4%E8%80%81%E5%BA%97/data=!4m7!3m6!1s0x346802a921e09a25:0x3834a517287a0ae4!8m2!3d25.0058432!4d121.4540241!16s%2Fg%2F119w8tt3r!19sChIJJZrgIakCaDQR5Ap6KBelNDg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "伴刻早餐店",
-      "mapUrl": "https://www.google.com/maps/place/%E4%BC%B4%E5%88%BB%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x3468031cf17a9f5b:0x652f6010e87d6232!8m2!3d25.0074746!4d121.4604836!16s%2Fg%2F11njxdnd68!19sChIJW5968RwDaDQRMmJ96BBgL2U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "文昌豆漿",
-      "mapUrl": "https://www.google.com/maps/place/%E6%96%87%E6%98%8C%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3468034051671d6f:0xaf2b1e224e8ae9f5!8m2!3d25.0092356!4d121.4557653!16s%2Fg%2F11v3_xgpnt!19sChIJbx1nUUADaDQR9emKTiIeK68?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "在一起 One&Together",
-      "mapUrl": "https://www.google.com/maps/place/%E5%9C%A8%E4%B8%80%E8%B5%B7+One%26Together/data=!4m7!3m6!1s0x3442a802c7ab8937:0x10ec4def277f1364!8m2!3d25.010814!4d121.456173!16s%2Fg%2F11c44dlnks!19sChIJN4mrxwKoQjQRZBN_J-9N7BA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "萬佳鄉府中店",
-      "mapUrl": "https://www.google.com/maps/place/%E8%90%AC%E4%BD%B3%E9%84%89%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346802a820728335:0xdbe79679c72b85ce!8m2!3d25.009422!4d121.455646!16s%2Fg%2F11bxd7p5j4!19sChIJNYNyIKgCaDQRzoUrx3mW59s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "北港黑豆漿",
-      "mapUrl": "https://www.google.com/maps/place/%E5%8C%97%E6%B8%AF%E9%BB%91%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3442a802bac2099b:0xaad71f381150a602!8m2!3d25.0101717!4d121.4561768!16s%2Fg%2F11cn3qbpn7!19sChIJmwnCugKoQjQRAqZQETgf16o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "早餐豆漿",
-      "mapUrl": "https://www.google.com/maps/place/%E6%97%A9%E9%A4%90%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x34680300567efed5:0xb999f6d78fb9ed!8m2!3d25.0075378!4d121.4613032!16s%2Fg%2F11wn10ccyp!19sChIJ1f5-VgADaDQR7bmP1_aZuQA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "ssSip營業時間請看ig",
-      "mapUrl": "https://www.google.com/maps/place/ssSip%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%AB%8B%E7%9C%8Big/data=!4m7!3m6!1s0x3442a97492e7eb8b:0x85f137369f1d9457!8m2!3d25.0096091!4d121.4600393!16s%2Fg%2F11w8pkdmdp!19sChIJi-vnknSpQjQRV5QdnzY38YU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "New Spark 新火花烘焙餐廳",
-      "mapUrl": "https://www.google.com/maps/place/New+Spark+%E6%96%B0%E7%81%AB%E8%8A%B1%E7%83%98%E7%84%99%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x346802a7bc245389:0x98d9bb8fbeba916d!8m2!3d25.0071188!4d121.4590284!16s%2Fg%2F11cmlzh8zy!19sChIJiVMkvKcCaDQRbZG6vo-72Zg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "那裡的咖啡店",
-      "mapUrl": "https://www.google.com/maps/place/%E9%82%A3%E8%A3%A1%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9cab6d91907:0x5bdf253a6e7b1186!8m2!3d25.0299307!4d121.4737161!16s%2Fg%2F11fd67_r0v!19sChIJBxnZtsqpQjQRhhF7bjol31s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "哩哉咖啡 Uknowhere Café",
-      "mapUrl": "https://www.google.com/maps/place/%E5%93%A9%E5%93%89%E5%92%96%E5%95%A1+Uknowhere+Caf%C3%A9/data=!4m7!3m6!1s0x346803a55f27083d:0x70db34d5bf7b9136!8m2!3d25.0080602!4d121.4617443!16s%2Fg%2F11s_d6sm5s!19sChIJPQgnX6UDaDQRNpF7v9U023A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "濁水",
-      "mapUrl": "https://www.google.com/maps/place/%E6%BF%81%E6%B0%B4/data=!4m7!3m6!1s0x346803f804ec2f4d:0x95ade6cdb2cbca97!8m2!3d25.0085475!4d121.4570862!16s%2Fg%2F11t507qnqn!19sChIJTS_sBPgDaDQRl8rLss3mrZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "典藏咖啡館府中15店",
-      "mapUrl": "https://www.google.com/maps/place/%E5%85%B8%E8%97%8F%E5%92%96%E5%95%A1%E9%A4%A8%E5%BA%9C%E4%B8%AD15%E5%BA%97/data=!4m7!3m6!1s0x3442a81d76dcf3e1:0x2ab4acf1006d4e4c!8m2!3d25.0094848!4d121.4595785!16s%2Fg%2F11fy_d2g5c!19sChIJ4fPcdh2oQjQRTE5tAPGstCo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "KINO KINO CAFE",
-      "mapUrl": "https://www.google.com/maps/place/KINO+KINO+CAFE/data=!4m7!3m6!1s0x346802a819c483dd:0xd9d1191daaafba92!8m2!3d25.0087695!4d121.4558813!16s%2Fg%2F11g7z6nckb!19sChIJ3YPEGagCaDQRkrqvqh0Z0dk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "here work&coffee 板橋民權店",
-      "mapUrl": "https://www.google.com/maps/place/here+work%26coffee+%E6%9D%BF%E6%A9%8B%E6%B0%91%E6%AC%8A%E5%BA%97/data=!4m7!3m6!1s0x3442a9e734ffd777:0x3855830cf063800f!8m2!3d25.0117886!4d121.4609359!16s%2Fg%2F11zf33085r!19sChIJd9f_NOepQjQRD4Bj8AyDVTg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "Ferment Café",
-      "mapUrl": "https://www.google.com/maps/place/Ferment+Caf%C3%A9/data=!4m7!3m6!1s0x346803c86e2d9555:0x2914b125ccb6328f!8m2!3d25.0082013!4d121.4544973!16s%2Fg%2F11vxh3dz95!19sChIJVZUtbsgDaDQRjzK2zCWxFCk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "Partik Coffee & Roast",
-      "mapUrl": "https://www.google.com/maps/place/Partik+Coffee+%26+Roast/data=!4m7!3m6!1s0x3442abdeb094b569:0x2ab14c72da8a290d!8m2!3d25.0046675!4d121.4633166!16s%2Fg%2F11c1qx3vqv!19sChIJabWUsN6rQjQRDSmK2nJMsSo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "萩眠咖啡 Chillman Coffee",
-      "mapUrl": "https://www.google.com/maps/place/%E8%90%A9%E7%9C%A0%E5%92%96%E5%95%A1+Chillman+Coffee/data=!4m7!3m6!1s0x3442a9b575d9e937:0xd2b994cfaeb6c69a!8m2!3d25.0101166!4d121.4598602!16s%2Fg%2F11zbn1tbqj!19sChIJN-nZdbWpQjQRmsa2rs-UudI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "CAFE!N 硬咖啡 板橋中山門市",
-      "mapUrl": "https://www.google.com/maps/place/CAFE!N+%E7%A1%AC%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a97a809026f5:0x112bf0c0bee3ddee!8m2!3d25.0108458!4d121.4638672!16s%2Fg%2F11rww7flxw!19sChIJ9SaQgHqpQjQR7t3jvsDwKxE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
       "name": "路易・莎咖啡(板橋府中門市)",
       "mapUrl": "https://www.google.com/maps/place/%E8%B7%AF%E6%98%93%E3%83%BB%E8%8E%8E%E5%92%96%E5%95%A1%28%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E9%96%80%E5%B8%82%29/data=!4m7!3m6!1s0x346803454cb18cc5:0x4ed3173805a30684!8m2!3d25.0075754!4d121.4612783!16s%2Fg%2F11bzs3_895!19sChIJxYyxTEUDaDQRhAajBTgX004?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
       "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
       "checkedAt": "2026-10-04"
     },
     {
-      "name": "三豐芋冰城（無內用）",
-      "mapUrl": "https://www.google.com/maps/place/%E4%B8%89%E8%B1%90%E8%8A%8B%E5%86%B0%E5%9F%8E%EF%BC%88%E7%84%A1%E5%85%A7%E7%94%A8%EF%BC%89/data=!4m7!3m6!1s0x3442a81dc44b2807:0x79934ce83a6836c4!8m2!3d25.0098167!4d121.4616752!16s%2Fg%2F1tq4ns_3!19sChIJByhLxB2oQjQRxDZoOuhMk3k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
+      "name": "Petit Tuz 小兔子鄉村輕食雜貨鋪",
+      "mapUrl": "https://www.google.com/maps/place/Petit+Tuz+%E5%B0%8F%E5%85%94%E5%AD%90%E9%84%89%E6%9D%91%E8%BC%95%E9%A3%9F%E9%9B%9C%E8%B2%A8%E9%8B%AA/data=!4m7!3m6!1s0x3442a83a56754193:0x84c8a7b87e312bf7!8m2!3d25.0178255!4d121.4773101!16s%2Fg%2F1pzrwrqd3!19sChIJk0F1VjqoQjQR9ysxfrinyIQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "reason": "Maps 類型為協會或機構，餐飲營業與菜單待確認",
+      "checkedAt": "2026-10-05"
     },
     {
-      "name": "奶油鬍子貓咖啡甜點工作室Meowlicious",
-      "mapUrl": "https://www.google.com/maps/place/%E5%A5%B6%E6%B2%B9%E9%AC%8D%E5%AD%90%E8%B2%93%E5%92%96%E5%95%A1%E7%94%9C%E9%BB%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4Meowlicious/data=!4m7!3m6!1s0x3442a8049c4e15bf:0xa88e12853c0da64b!8m2!3d25.0150872!4d121.455134!16s%2Fg%2F11bbwn510m!19sChIJvxVOnASoQjQRS6YNPIUSjqg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
+      "name": "FULL MOON 手工蛋餅外帶店早午餐（不定期公休）",
+      "mapUrl": "https://www.google.com/maps/place/FULL+MOON+%E6%89%8B%E5%B7%A5%E8%9B%8B%E9%A4%85%E5%A4%96%E5%B8%B6%E5%BA%97%E6%97%A9%E5%8D%88%E9%A4%90%EF%BC%88%E4%B8%8D%E5%AE%9A%E6%9C%9F%E5%85%AC%E4%BC%91%EF%BC%89/data=!4m7!3m6!1s0x346803d037be552b:0x5979a4a94c9b86d8!8m2!3d25.003586!4d121.45849!16s%2Fg%2F11kx3lftmx!19sChIJK1W-N9ADaDQR2IabTKmkeVk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "reason": "業主公告手傷休養，10月營業時間另行公布；恢復營業未確認，暫不新增",
+      "checkedAt": "2026-10-05"
     },
     {
-      "name": "Bar Aku",
-      "mapUrl": "https://www.google.com/maps/place/Bar+Aku/data=!4m7!3m6!1s0x3442a9d89852ab23:0xc7a0f7f0eca30f5d!8m2!3d25.0098794!4d121.4603242!16s%2Fg%2F11w9bp92z2!19sChIJI6tSmNipQjQRXQ-j7PD3oMc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
+      "name": "食月午日 Brunch & Cafe 板橋店",
+      "mapUrl": "https://www.google.com/maps/place/%E9%A3%9F%E6%9C%88%E5%8D%88%E6%97%A5+Brunch+%26+Cafe+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802b6cb436f45:0x482a7bd2828b83c4!8m2!3d24.994073!4d121.453065!16s%2Fg%2F11c2jvpy_k!19sChIJRW9Dy7YCaDQRxIOLgtJ7Kkg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "reason": "超過步行20分鐘且開車15分鐘範圍",
+      "checkedAt": "2026-10-05"
     },
     {
-      "name": "福實咖啡",
-      "mapUrl": "https://www.google.com/maps/place/%E7%A6%8F%E5%AF%A6%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346803a815b8a229:0x8cd01bdb2df0ff05!8m2!3d25.0044683!4d121.4642527!16s%2Fg%2F11jq1l_p0l!19sChIJKaK4FagDaDQRBf_wLdsb0Iw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "一緒館",
-      "mapUrl": "https://www.google.com/maps/place/%E4%B8%80%E7%B7%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9b28c4e8615:0x6b69253ef82641ad!8m2!3d25.011103!4d121.460051!16s%2Fg%2F11rfqg46hg!19sChIJFYZOjLKpQjQRrUEm-D4laWs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "檸檬草美食茶房 板橋店",
-      "mapUrl": "https://www.google.com/maps/place/%E6%AA%B8%E6%AA%AC%E8%8D%89%E7%BE%8E%E9%A3%9F%E8%8C%B6%E6%88%BF+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802a7c6280c75:0x10ccdea663ef1a88!8m2!3d25.0068674!4d121.4590616!16s%2Fg%2F1tjgy2xw!19sChIJdQwoxqcCaDQRiBrvY6bezBA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "兩喜布丁蛋糕甜點",
-      "mapUrl": "https://www.google.com/maps/place/%E5%85%A9%E5%96%9C%E5%B8%83%E4%B8%81%E8%9B%8B%E7%B3%95%E7%94%9C%E9%BB%9E/data=!4m7!3m6!1s0x3442a9cb69e47ab3:0x688554271f1a5ba7!8m2!3d25.0098207!4d121.4616775!16s%2Fg%2F11s34l2qrf!19sChIJs3rkacupQjQRp1saHydUhWg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
+      "name": "here work&coffee 板橋民權店",
+      "mapUrl": "https://www.google.com/maps/place/here+work%26coffee+%E6%9D%BF%E6%A9%8B%E6%B0%91%E6%AC%8A%E5%BA%97/data=!4m7!3m6!1s0x3442a9e734ffd777:0x3855830cf063800f!8m2!3d25.0117886!4d121.4609359!16s%2Fg%2F11zf33085r!19sChIJd9f_NOepQjQRD4Bj8AyDVTg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "reason": "工作空間，餐飲服務與菜單待確認",
+      "checkedAt": "2026-10-05"
     },
     {
       "name": "Qtime板橋府中旗艦店",
       "mapUrl": "https://www.google.com/maps/place/Qtime%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3468030023b951e5:0xe5f7b24788a12ebb!8m2!3d25.0078229!4d121.4562812!16s%2Fg%2F11ycjm4x29!19sChIJ5VG5IwADaDQRuy6hiEey9-U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
-    },
-    {
-      "name": "Buttery",
-      "mapUrl": "https://www.google.com/maps/place/Buttery/data=!4m7!3m6!1s0x3442a9003d4e0bbb:0x7eba2ea682324281!8m2!3d25.0090793!4d121.4653292!16s%2Fg%2F11y54g5btv!19sChIJuwtOPQCpQjQRgUIygqYuun4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
-      "reason": "照片、評分或交通資料尚未完整查證，暫不收錄",
-      "checkedAt": "2026-10-04"
+      "reason": "網咖，餐飲服務與菜單待確認",
+      "checkedAt": "2026-10-05"
     }
   ],
   "taxonomy": {

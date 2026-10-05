@@ -1,0 +1,1167 @@
+[
+  {
+    "name": "大戶屋 板橋遠百中山店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=walking",
+    "options": [
+      "27 分\n1.9 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "大戶屋 板橋遠百中山店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "大賞平價鐵板燒板橋中山店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0152532%2C121.4729097&travelmode=walking",
+    "options": [
+      "15 分\n1.1 公里\n途經民生路二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "大賞平價鐵板燒板橋中山店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0152532%2C121.4729097&travelmode=driving",
+    "options": [
+      "5 分\n1.1 公里\n途經新北市特一號道路/106甲縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "旭舊咖啡 Shiujiou’s cafe!",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0128361%2C121.4706195&travelmode=walking",
+    "options": [
+      "23 分\n1.6 公里\n途經民生路二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "旭舊咖啡 Shiujiou’s cafe!",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0128361%2C121.4706195&travelmode=driving",
+    "options": [
+      "7 分\n1.6 公里\n途經新北市特一號道路/106甲縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "The Wild Boar 野豬精釀啤酒餐酒館",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106571%2C121.4634073&travelmode=walking",
+    "options": [
+      "28 分\n2.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "The Wild Boar 野豬精釀啤酒餐酒館",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106571%2C121.4634073&travelmode=driving",
+    "options": [
+      "10 分\n2.2 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "小秘苑燒肉餐酒",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0142282%2C121.4702913&travelmode=walking",
+    "options": [
+      "19 分\n1.3 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "小秘苑燒肉餐酒",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0142282%2C121.4702913&travelmode=driving",
+    "options": [
+      "6 分\n1.4 公里\n途經新北市特一號道路/106甲縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "羅瑛沙縣小吃",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=walking",
+    "options": [
+      "27 分\n1.9 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "羅瑛沙縣小吃",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0109757%2C121.4644519&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "酒食人餐酒館",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010697%2C121.463286&travelmode=walking",
+    "options": [
+      "29 分\n2.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "酒食人餐酒館",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010697%2C121.463286&travelmode=driving",
+    "options": [
+      "10 分\n2.2 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "巢鍋 shabu",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106356%2C121.4631597&travelmode=walking",
+    "options": [
+      "29 分\n2.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "巢鍋 shabu",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106356%2C121.4631597&travelmode=driving",
+    "options": [
+      "10 分\n2.2 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "板橋鳴門和食料理",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0117719%2C121.4663202&travelmode=walking",
+    "options": [
+      "25 分\n1.7 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "板橋鳴門和食料理",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0117719%2C121.4663202&travelmode=driving",
+    "options": [
+      "9 分\n1.9 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "滝禾製麵所-板橋中山店(拉麵專賣)",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0089711%2C121.4608989&travelmode=walking",
+    "options": [
+      "32 分\n2.2 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "滝禾製麵所-板橋中山店(拉麵專賣)",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0089711%2C121.4608989&travelmode=driving",
+    "options": [
+      "11 分\n2.5 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "西堤牛排 板橋中山店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0078516%2C121.4598833&travelmode=walking",
+    "options": [
+      "34 分\n2.3 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "西堤牛排 板橋中山店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0078516%2C121.4598833&travelmode=driving",
+    "options": [
+      "12 分\n2.7 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "くら寿司 藏壽司 板橋中山遠百店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108872%2C121.4645019&travelmode=walking",
+    "options": [
+      "28 分\n2.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "くら寿司 藏壽司 板橋中山遠百店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108872%2C121.4645019&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "FRENCH TOAST FACTORY 府中旗艦店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0103006%2C121.4589664&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "FRENCH TOAST FACTORY 府中旗艦店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0103006%2C121.4589664&travelmode=driving",
+    "options": [
+      "11 分\n2.4 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Morning call早午餐(板橋府中店)",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0093027%2C121.4550783&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Morning call早午餐(板橋府中店)",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0093027%2C121.4550783&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "隱寓咖啡",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175576%2C121.4646734&travelmode=walking",
+    "options": [
+      "15 分\n1.1 公里\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "隱寓咖啡",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175576%2C121.4646734&travelmode=driving",
+    "options": [
+      "7 分\n1.5 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "COFFeee早午餐咖啡",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.007399%2C121.4609836&travelmode=walking",
+    "options": [
+      "36 分\n2.5 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "COFFeee早午餐咖啡",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.007399%2C121.4609836&travelmode=driving",
+    "options": [
+      "14 分\n2.8 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "慵懶貓早午餐",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057002%2C121.4605495&travelmode=walking",
+    "options": [
+      "38 分\n2.6 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "慵懶貓早午餐",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057002%2C121.4605495&travelmode=driving",
+    "options": [
+      "14 分\n2.9 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "巨人早餐店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094089%2C121.4553539&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "巨人早餐店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094089%2C121.4553539&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "蒔逅 Seed Meet",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0115046%2C121.4542844&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "蒔逅 Seed Meet",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0115046%2C121.4542844&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經台3線和公館街"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "麥味登 板橋光環店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.014772%2C121.4814776&travelmode=walking",
+    "options": [
+      "27 分\n1.9 公里\n途經懷仁街"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "麥味登 板橋光環店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.014772%2C121.4814776&travelmode=driving",
+    "options": [
+      "10 分\n2.5 公里\n途經新北市特一號道路/106甲縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "好初早餐 板橋二二",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175321%2C121.4610103&travelmode=walking",
+    "options": [
+      "21 分\n1.5 公里\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "好初早餐 板橋二二",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0175321%2C121.4610103&travelmode=driving",
+    "options": [
+      "9 分\n1.7 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "FULL MOON 手工蛋餅外帶店早午餐（不定期公休）",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.003586%2C121.45849&travelmode=walking",
+    "options": [
+      "43 分\n3.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "FULL MOON 手工蛋餅外帶店早午餐（不定期公休）",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.003586%2C121.45849&travelmode=driving",
+    "options": [
+      "14 分\n3.1 公里\n途經縣民大道二段和縣民大道一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "吉飽早餐-板橋北門街",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106261%2C121.4577203&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "吉飽早餐-板橋北門街",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106261%2C121.4577203&travelmode=driving",
+    "options": [
+      "12 分\n2.4 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "ASPOON CAFE",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106638%2C121.4602683&travelmode=walking",
+    "options": [
+      "30 分\n2.0 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "ASPOON CAFE",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0106638%2C121.4602683&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "紅茶巴士 Black Tea Bus - 板橋府中站",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057503%2C121.4620039&travelmode=walking",
+    "options": [
+      "37 分\n2.6 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "紅茶巴士 Black Tea Bus - 板橋府中站",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0057503%2C121.4620039&travelmode=driving",
+    "options": [
+      "13 分\n2.8 公里\n途經114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "聽喵說早午餐",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0047817%2C121.4582227&travelmode=walking",
+    "options": [
+      "42 分\n2.9 公里\n途經縣民大道二段和縣民大道一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "聽喵說早午餐",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0047817%2C121.4582227&travelmode=driving",
+    "options": [
+      "13 分\n2.9 公里\n途經縣民大道二段和縣民大道一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "東美早餐店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0053056%2C121.4644659&travelmode=walking",
+    "options": [
+      "38 分\n2.6 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "東美早餐店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0053056%2C121.4644659&travelmode=driving",
+    "options": [
+      "13 分\n2.9 公里\n途經114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "食月午日 Brunch & Cafe 板橋店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=24.994073%2C121.453065&travelmode=walking",
+    "options": [
+      "60 分\n4.2 公里\n途經縣民大道二段和台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "食月午日 Brunch & Cafe 板橋店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=24.994073%2C121.453065&travelmode=driving",
+    "options": [
+      "20 分\n4.5 公里\n途經114縣道和台3線",
+      "20 分\n4.5 公里\n途經縣民大道二段和南雅南路二段",
+      "23 分\n7.7 公里\n途經板城路"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "尚青標記皮蛋瘦肉粥（快餐車）",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0203894%2C121.4661099&travelmode=walking",
+    "options": [
+      "11 分\n750 公尺\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "尚青標記皮蛋瘦肉粥（快餐車）",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0203894%2C121.4661099&travelmode=driving",
+    "options": [
+      "6 分\n1.0 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "​源慶鮮蚵(YuanQingOyster)—鮮蚵/小卷/藥膳滷味｜台灣500碗推薦 | 板橋60年老店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0058432%2C121.4540241&travelmode=walking",
+    "options": [
+      "41 分\n2.8 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "​源慶鮮蚵(YuanQingOyster)—鮮蚵/小卷/藥膳滷味｜台灣500碗推薦 | 板橋60年老店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0058432%2C121.4540241&travelmode=driving",
+    "options": [
+      "15 分\n3.1 公里\n途經文化路一段",
+      "16 分\n3.7 公里\n途經縣民大道二段和縣民大道一段",
+      "16 分\n3.2 公里\n途經民生路二段、縣民大道二段和縣民大道一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。",
+    "selectionBasis": "採此次可見替代路線中時間最短者"
+  },
+  {
+    "name": "伴刻早餐店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0074746%2C121.4604836&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "伴刻早餐店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0074746%2C121.4604836&travelmode=driving",
+    "options": [
+      "13 分\n2.9 公里\n途經114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "文昌豆漿",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0092356%2C121.4557653&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "文昌豆漿",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0092356%2C121.4557653&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "在一起 One&Together",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010814%2C121.456173&travelmode=walking",
+    "options": [
+      "34 分\n2.3 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "在一起 One&Together",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.010814%2C121.456173&travelmode=driving",
+    "options": [
+      "12 分\n2.6 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "萬佳鄉府中店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.009422%2C121.455646&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "萬佳鄉府中店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.009422%2C121.455646&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "北港黑豆漿",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101717%2C121.4561768&travelmode=walking",
+    "options": [
+      "33 分\n2.3 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "北港黑豆漿",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101717%2C121.4561768&travelmode=driving",
+    "options": [
+      "12 分\n2.5 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "早餐豆漿",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0075378%2C121.4613032&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "早餐豆漿",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0075378%2C121.4613032&travelmode=driving",
+    "options": [
+      "12 分\n2.7 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "ssSip營業時間請看ig",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0096091%2C121.4600393&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "ssSip營業時間請看ig",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0096091%2C121.4600393&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "New Spark 新火花烘焙餐廳",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0071188%2C121.4590284&travelmode=walking",
+    "options": [
+      "36 分\n2.5 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "New Spark 新火花烘焙餐廳",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0071188%2C121.4590284&travelmode=driving",
+    "options": [
+      "13 分\n2.6 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "那裡的咖啡店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0299307%2C121.4737161&travelmode=walking",
+    "options": [
+      "14 分\n1.0 公里\n途經莊敬路"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "那裡的咖啡店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0299307%2C121.4737161&travelmode=driving",
+    "options": [
+      "5 分\n1.3 公里\n途經文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "哩哉咖啡 Uknowhere Café",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0080602%2C121.4617443&travelmode=walking",
+    "options": [
+      "36 分\n2.5 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "哩哉咖啡 Uknowhere Café",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0080602%2C121.4617443&travelmode=driving",
+    "options": [
+      "12 分\n2.6 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "濁水",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085475%2C121.4570862&travelmode=walking",
+    "options": [
+      "34 分\n2.3 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "濁水",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085475%2C121.4570862&travelmode=driving",
+    "options": [
+      "13 分\n2.6 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "典藏咖啡館府中15店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094848%2C121.4595785&travelmode=walking",
+    "options": [
+      "31 分\n2.2 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "典藏咖啡館府中15店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0094848%2C121.4595785&travelmode=driving",
+    "options": [
+      "11 分\n2.2 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "KINO KINO CAFE",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0087695%2C121.4558813&travelmode=walking",
+    "options": [
+      "35 分\n2.4 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "KINO KINO CAFE",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0087695%2C121.4558813&travelmode=driving",
+    "options": [
+      "13 分\n2.6 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Ferment Café",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0082013%2C121.4544973&travelmode=walking",
+    "options": [
+      "39 分\n2.7 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Ferment Café",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0082013%2C121.4544973&travelmode=driving",
+    "options": [
+      "14 分\n2.9 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Partik Coffee & Roast",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0046675%2C121.4633166&travelmode=walking",
+    "options": [
+      "39 分\n2.7 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Partik Coffee & Roast",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0046675%2C121.4633166&travelmode=driving",
+    "options": [
+      "14 分\n3.0 公里\n途經114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "萩眠咖啡 Chillman Coffee",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101166%2C121.4598602&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "萩眠咖啡 Chillman Coffee",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0101166%2C121.4598602&travelmode=driving",
+    "options": [
+      "11 分\n2.2 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "CAFE!N 硬咖啡 板橋中山門市",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108458%2C121.4638672&travelmode=walking",
+    "options": [
+      "28 分\n2.0 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "CAFE!N 硬咖啡 板橋中山門市",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0108458%2C121.4638672&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "三豐芋冰城（無內用）",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098167%2C121.4616752&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "三豐芋冰城（無內用）",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098167%2C121.4616752&travelmode=driving",
+    "options": [
+      "11 分\n2.4 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "奶油鬍子貓咖啡甜點工作室Meowlicious",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0150872%2C121.455134&travelmode=walking",
+    "options": [
+      "32 分\n2.2 公里\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "奶油鬍子貓咖啡甜點工作室Meowlicious",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0150872%2C121.455134&travelmode=driving",
+    "options": [
+      "13 分\n2.7 公里\n途經文化路一段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Bar Aku",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098794%2C121.4603242&travelmode=walking",
+    "options": [
+      "30 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Bar Aku",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098794%2C121.4603242&travelmode=driving",
+    "options": [
+      "10 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "福實咖啡",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0044683%2C121.4642527&travelmode=walking",
+    "options": [
+      "39 分\n2.7 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "福實咖啡",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0044683%2C121.4642527&travelmode=driving",
+    "options": [
+      "13 分\n2.9 公里\n途經114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "一緒館",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.011103%2C121.460051&travelmode=walking",
+    "options": [
+      "29 分\n2.0 公里\n途經文化路一段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "一緒館",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.011103%2C121.460051&travelmode=driving",
+    "options": [
+      "11 分\n2.2 公里\n途經台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "檸檬草美食茶房 板橋店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0068674%2C121.4590616&travelmode=walking",
+    "options": [
+      "36 分\n2.5 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "檸檬草美食茶房 板橋店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0068674%2C121.4590616&travelmode=driving",
+    "options": [
+      "12 分\n2.6 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "兩喜布丁蛋糕甜點",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098207%2C121.4616775&travelmode=walking",
+    "options": [
+      "31 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "兩喜布丁蛋糕甜點",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0098207%2C121.4616775&travelmode=driving",
+    "options": [
+      "11 分\n2.4 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Buttery",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0090793%2C121.4653292&travelmode=walking",
+    "options": [
+      "30 分\n2.1 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Buttery",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0090793%2C121.4653292&travelmode=driving",
+    "options": [
+      "12 分\n2.3 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "悠悠U Brunch",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0270662%2C121.4694735&travelmode=walking",
+    "options": [
+      "9 分\n600 公尺\n途經莒光路和文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "悠悠U Brunch",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0270662%2C121.4694735&travelmode=driving",
+    "options": [
+      "5 分\n800 公尺\n途經文化路二段124巷"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "刁民-酸菜魚 板橋府中店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085857%2C121.4601496&travelmode=walking",
+    "options": [
+      "33 分\n2.3 公里\n途經縣民大道二段"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "刁民-酸菜魚 板橋府中店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0085857%2C121.4601496&travelmode=driving",
+    "options": [
+      "11 分\n2.6 公里\n途經新北市特一號道路/106甲縣道和114縣道"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Lane 72 Bistro 英式餐館《板橋店》",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0278699%2C121.4686941&travelmode=walking",
+    "options": [
+      "10 分\n700 公尺\n途經松江街"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  },
+  {
+    "name": "Lane 72 Bistro 英式餐館《板橋店》",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=25.0278699%2C121.4686941&travelmode=driving",
+    "options": [
+      "5 分\n1.2 公里\n途經文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-05",
+    "observation": "Google Maps 可見路線的時間、距離及途經道路；交通狀況會變動。"
+  }
+]

@@ -29,5 +29,5 @@ js=(ROOT/'app.js').read_text().replace('Google 步行導航 ↗','規劃步行�
 public=''.join(unquote(p.read_text()) for p in DEST.iterdir() if p.suffix in ['.js','.css','.html'])
 assert '240巷68' not in public and '欣璞綻' not in public
 assert not any('origin=' in p[field] for p in data['places'] for field in ['routeUrl','driveRouteUrl'])
-assert len(data['places'])==500+len(json.loads((ROOT/'expansion-more-metadata.json').read_text()))
+assert len(data['places'])==500+len(json.loads((ROOT/'expansion-more-metadata.json').read_text()))+len(json.loads((ROOT/'expansion-next-metadata.json').read_text()))
 print(f'Prepared public Site: {len(data["places"])} stores, {sum(len(p["photos"]) for p in data["places"])} photos; private address and navigation origin removed.')

@@ -1,0 +1,2382 @@
+{
+  "大戶屋 板橋遠百中山店": {
+    "shortName": "大戶屋 板橋遠百中山店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "日式定食與飯類主餐，適合日常午晚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "雞排蓋飯",
+      "炭烤雞腿沙拉"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%88%B6%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E9%81%A0%E7%99%BE%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a9144f3f1851:0xd7aaf76695a10f87!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11p74py6wk!19sChIJURg_TxSpQjQRhw-hlWb3qtc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-001"
+  },
+  "大賞平價鐵板燒板橋中山店": {
+    "shortName": "大賞平價鐵板燒板橋中山店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "鐵板燒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "鐵板燒與海陸套餐，適合午晚餐或朋友聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "單人海陸特餐",
+      "牛肉",
+      "鐵板豆腐"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E8%B3%9E%E5%B9%B3%E5%83%B9%E9%90%B5%E6%9D%BF%E7%87%92%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x3442a82347cf1697:0x5130f133ebc78ae7!8m2!3d25.0152532!4d121.4729097!16s%2Fg%2F11cm_47840!19sChIJlxbPRyOoQjQR54rH6zPxMFE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://www.ubereats.com/tw/store/大賞平價鉄板燒-板橋店/CD2YVX7NVEyS_E_WjojzGQ"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-002"
+  },
+  "旭舊咖啡 Shiujiou’s cafe!": {
+    "shortName": "旭舊咖啡 Shiujiou’s cafe!",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "泰式"
+    ],
+    "types": [
+      "咖啡廳",
+      "飯類",
+      "甜點店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡、打拋豬飯與手作蛋糕，適合用餐或午後聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "打拋豬飯",
+      "伯爵檸檬戚風",
+      "鹹奶蓋拿鐵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%97%AD%E8%88%8A%E5%92%96%E5%95%A1+Shiujiou%E2%80%99s+cafe!/data=!4m7!3m6!1s0x3442a9646c6ea4b3:0xa5d6f3c200f11858!8m2!3d25.0128361!4d121.4706195!16s%2Fg%2F11k56gj1qy!19sChIJs6RubGSpQjQRWBjxAMLz1qU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://shinblog.com.tw/shiujioucafe/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-003"
+  },
+  "The Wild Boar 野豬精釀啤酒餐酒館": {
+    "shortName": "The Wild Boar 野豬精釀啤酒餐酒館",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "餐酒館",
+      "飯類"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      800
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "精釀啤酒搭配創意餐點與燉飯，適合晚間朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "明太子法式吐司",
+      "巧克力炸雞",
+      "蕃茄海鮮燉飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/The+Wild+Boar+%E9%87%8E%E8%B1%AC%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9861cc39145:0x659e7024ce90e1cf!8m2!3d25.0106571!4d121.4634073!16s%2Fg%2F11ll4x_2r9!19sChIJRZHDHIapQjQRz-GQziRwnmU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-004"
+  },
+  "小秘苑燒肉餐酒": {
+    "shortName": "小秘苑燒肉餐酒",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "燒肉",
+      "餐酒館"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      600,
+      1400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "日式燒肉與餐酒，適合朋友聚餐或約會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "厚切霜降翼板",
+      "明太子雞肉",
+      "明太子烤雞肉飯糰"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%8F%E7%A7%98%E8%8B%91%E7%87%92%E8%82%89%E9%A4%90%E9%85%92/data=!4m7!3m6!1s0x3442a914666ae767:0xd582ca27d53de423!8m2!3d25.0142282!4d121.4702913!16s%2Fg%2F11fm4l5qhr!19sChIJZ-dqZhSpQjQRI-Q91SfKgtU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-005"
+  },
+  "羅瑛沙縣小吃": {
+    "shortName": "羅瑛沙縣小吃",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "小吃",
+      "飯類",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      100,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$100 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "沙縣小吃、煎餃與飯類主餐，適合日常用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "蝦仁煎餃",
+      "沙縣抄手",
+      "牛肉蓋飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%BE%85%E7%91%9B%E6%B2%99%E7%B8%A3%E5%B0%8F%E5%90%83/data=!4m7!3m6!1s0x3442a9d66751a2a3:0x84d7bdd927007550!8m2!3d25.0109757!4d121.4644519!16s%2Fg%2F11khqfcx_t!19sChIJo6JRZ9apQjQRUHUAJ9m914Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-006"
+  },
+  "酒食人餐酒館": {
+    "shortName": "酒食人餐酒館",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "義式"
+    ],
+    "types": [
+      "餐酒館",
+      "義大利麵",
+      "披薩"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      1200
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "融合台味與義式餐點，適合晚間朋友聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "粉色鮮蝦扁扁麵",
+      "菇菇寶貝燉飯",
+      "大腸包小腸披薩"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%85%92%E9%A3%9F%E4%BA%BA%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a96327509ecf:0xa677646fa93be3f2!8m2!3d25.010697!4d121.463286!16s%2Fg%2F11h_3zk8gf!19sChIJz55QJ2OpQjQR8uM7qW9kd6Y?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://www.ubereats.com/tw/store/酒食人餐酒館/As6MlwbcXO6_cavr0PWVFA"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-007"
+  },
+  "巢鍋 shabu": {
+    "shortName": "巢鍋 shabu",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      600,
+      800
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "鍋物與壽喜燒，適合午晚餐或多人聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "日式壽喜燒",
+      "梅花豬"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B7%A2%E9%8D%8B+shabu/data=!4m7!3m6!1s0x3442a81e86d4b073:0xb3d9934ce25d0576!8m2!3d25.0106356!4d121.4631597!16s%2Fg%2F11f1wqf608!19sChIJc7DUhh6oQjQRdgVd4kyT2bM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://ifoodie.tw/post/66a1c36c7be9c3cb067837de"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-008"
+  },
+  "板橋鳴門和食料理": {
+    "shortName": "板橋鳴門和食料理",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "壽司",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "日式丼飯與壽司料理，適合午晚餐或一人用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "天使蝦生魚丼飯",
+      "招牌黑捲",
+      "腰內肉豬肉丼"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E9%B3%B4%E9%96%80%E5%92%8C%E9%A3%9F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a81f2e2ec4c7:0x484d0546e866f4ee!8m2!3d25.0117719!4d121.4663202!16s%2Fg%2F1pp2tkt_d!19sChIJx8QuLh-oQjQR7vRm6EYFTUg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-009"
+  },
+  "滝禾製麵所-板橋中山店(拉麵專賣)": {
+    "shortName": "滝禾製麵所-板橋中山店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "拉麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "雞湯拉麵與炸物，適合午晚餐或一人用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鹽味雞湯五花叉燒",
+      "清香黑蒜",
+      "炸水餃"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%BB%9D%E7%A6%BE%E8%A3%BD%E9%BA%B5%E6%89%80-%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97%28%E6%8B%89%E9%BA%B5%E5%B0%88%E8%B3%A3%29/data=!4m7!3m6!1s0x3442a92c3dcaa289:0x283079f905b05c52!8m2!3d25.0089711!4d121.4608989!16s%2Fg%2F11p_247ffj!19sChIJiaLKPSypQjQRUlywBfl5MCg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://www.ubereats.com/tw-en/store/滝禾製麵所-板橋中山店/T8uA5X50V8C3yK-4c_PXBA"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-010"
+  },
+  "西堤牛排 板橋中山店": {
+    "shortName": "西堤牛排 板橋中山店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "牛排"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      600,
+      800
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "牛排套餐與西式料理，適合朋友聚餐或約會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "牛排",
+      "南瓜湯",
+      "焦糖起司塔"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%A5%BF%E5%A0%A4%E7%89%9B%E6%8E%92+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E5%BA%97/data=!4m7!3m6!1s0x346802a777d692ab:0xd7940cfc590ca6ad!8m2!3d25.0078516!4d121.4598833!16s%2Fg%2F1v9l8hj7!19sChIJq5LWd6cCaDQRraYMWfwMlNc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-012"
+  },
+  "くら寿司 藏壽司 板橋中山遠百店": {
+    "shortName": "くら寿司 藏壽司 板橋中山遠百店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "壽司"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "迴轉壽司與日式配餐，適合日常午晚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "燒炙鮭魚肚握壽司",
+      "炙烤起司鮭魚",
+      "茶碗蒸"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8+%E8%97%8F%E5%A3%BD%E5%8F%B8+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%81%A0%E7%99%BE%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2534f6ba1:0x6df9c4b48c117012!8m2!3d25.0108872!4d121.4645019!16s%2Fg%2F11llzqk3s2!19sChIJoWtPU8KpQjQREnARjLTE-W0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "藏壽司官方菜單",
+        "url": "https://www.kurasushi.tw/products"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-013"
+  },
+  "FRENCH TOAST FACTORY 府中旗艦店": {
+    "shortName": "FRENCH TOAST FACTORY 府中旗艦店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "法式吐司與早午餐主餐，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "松露白醬牛肉寶",
+      "豬豬拳擊餐"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/FRENCH+TOAST+FACTORY+%E5%BA%9C%E4%B8%AD%E6%97%97%E8%89%A6%E5%BA%97/data=!4m7!3m6!1s0x3442a81d1158a6c5:0xa347ceaafe410827!8m2!3d25.0103006!4d121.4589664!16s%2Fg%2F11clvv563k!19sChIJxaZYER2oQjQRJwhB_qrOR6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-014"
+  },
+  "Morning call早午餐(板橋府中店)": {
+    "shortName": "Morning call早午餐",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "港式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      180,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$180 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早午餐特餐與漢堡套餐，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "法式羅勒鮪魚特餐",
+      "港式特餐",
+      "超值卡滋雞腿堡特餐"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Morning+call%E6%97%A9%E5%8D%88%E9%A4%90%28%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%29/data=!4m7!3m6!1s0x346803cf208fa549:0xe975336b0a834174!8m2!3d25.0093027!4d121.4550783!16s%2Fg%2F11s_zbn3_6!19sChIJSaWPIM8DaDQRdEGDCmszdek?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://www.foodpanda.com.tw/restaurant/mboz/morningcallzao-wu-can-ban-qiao-fu-zhong-dian"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-015"
+  },
+  "隱寓咖啡": {
+    "shortName": "隱寓咖啡",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "可頌主餐、咖啡與茶飲，適合早午餐或聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "牛牛配可頌",
+      "港式奶茶",
+      "抹茶牛奶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%9A%B1%E5%AF%93%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9f69d7839cd:0x5dd255c7df68d83c!8m2!3d25.0175576!4d121.4646734!16s%2Fg%2F11nngvvkn0!19sChIJzTl4nfapQjQRPNho38dV0l0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-016"
+  },
+  "COFFeee早午餐咖啡": {
+    "shortName": "COFFeee早午餐咖啡",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "佛卡夏、濃湯與咖啡，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "青醬蘋果鮭魚佛卡夏",
+      "松露濃湯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/COFFeee%E6%97%A9%E5%8D%88%E9%A4%90%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346802a76ed14ffd:0x7e8900357ebc4d8e!8m2!3d25.007399!4d121.4609836!16s%2Fg%2F11cn3rz26z!19sChIJ_U_RbqcCaDQRjk28fjUAiX4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-017"
+  },
+  "慵懶貓早午餐": {
+    "shortName": "慵懶貓早午餐",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "蛋餅、捲餅與早餐輕食，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "花生厚牛蛋餅",
+      "惡魔雞腿捲餅",
+      "薯餅波蘿"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%85%B5%E6%87%B6%E8%B2%93%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x346803ca26772ae7:0x42dde58c705577e4!8m2!3d25.0057002!4d121.4605495!16s%2Fg%2F11v9v6921b!19sChIJ5yp3JsoDaDQR5HdVcIzl3UI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-018"
+  },
+  "巨人早餐店": {
+    "shortName": "巨人早餐店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "蒜蒜蛋餅",
+      "薯餅漢堡"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B7%A8%E4%BA%BA%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a820f1b96d:0x28465db8ca699884!8m2!3d25.0094089!4d121.4553539!16s%2Fg%2F11fzbvjbgy!19sChIJbbnxIKgCaDQRhJhpyrhdRig?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-019"
+  },
+  "蒔逅 Seed Meet": {
+    "shortName": "蒔逅 Seed Meet",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "雞腿排、漢堡與早午餐，適合白天聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "雞腿排",
+      "手打漢堡排",
+      "手作牛肉漢堡"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%92%94%E9%80%85+Seed+Meet/data=!4m7!3m6!1s0x3442a93a27871a05:0xb00950fcb5395010!8m2!3d25.0115046!4d121.4542844!16s%2Fg%2F11x1cb790t!19sChIJBRqHJzqpQjQREFA5tfxQCbA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://ifoodie.com.tw/blog/691b3274eb74c4411ed6313c"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-020"
+  },
+  "麥味登 板橋光環店": {
+    "shortName": "麥味登 板橋光環店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鮮蔬可頌"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%BA%A5%E5%91%B3%E7%99%BB+%E6%9D%BF%E6%A9%8B%E5%85%89%E7%92%B0%E5%BA%97/data=!4m7!3m6!1s0x3442a9dd4b1008e9:0x4350fa323abe5f45!8m2!3d25.014772!4d121.4814776!16s%2Fg%2F11lf_mblqr!19sChIJ6QgQS92pQjQRRV--OjL6UEM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-021"
+  },
+  "好初早餐 板橋二二": {
+    "shortName": "好初早餐 板橋二二",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "三明治與肉餅漢堡，適合早餐、早午餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "一拳排骨三明治",
+      "首爾豬豬三明治",
+      "板橋炸肉餅堡"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A5%BD%E5%88%9D%E6%97%A9%E9%A4%90+%E6%9D%BF%E6%A9%8B%E4%BA%8C%E4%BA%8C/data=!4m7!3m6!1s0x3442a81a6a18c2bd:0x3c492d35ffde46c2!8m2!3d25.0175321!4d121.4610103!16s%2Fg%2F1ptymr9cv!19sChIJvcIYahqoQjQRwkbe_zUtSTw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "2026-10-05 公開菜單或分店食記查閱（價格可能已調整）",
+        "url": "https://www.popdaily.com.tw/forum/food/1591817?is_app=true"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-022"
+  },
+  "吉飽早餐-板橋北門街": {
+    "shortName": "吉飽早餐-板橋北門街",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店",
+      "麵店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "蛋餅、熱壓吐司與肉燥麵，適合早餐或早午餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "薯餅蛋餅",
+      "古早肉燥麵",
+      "辣起司燻雞熱壓吐司"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%90%89%E9%A3%BD%E6%97%A9%E9%A4%90-%E6%9D%BF%E6%A9%8B%E5%8C%97%E9%96%80%E8%A1%97/data=!4m7!3m6!1s0x3442a95c68f40f09:0xdbd1b29e4b8402d9!8m2!3d25.0106261!4d121.4577203!16s%2Fg%2F11jrr4_jk7!19sChIJCQ_0aFypQjQR2QKES56y0ds?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-024"
+  },
+  "ASPOON CAFE": {
+    "shortName": "ASPOON CAFE",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "特色咖啡與巴斯克蛋糕，適合午後休息。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鳳梨特調美式咖啡",
+      "桂花風味拿鐵",
+      "黑芝麻巴斯克"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/ASPOON+CAFE/data=!4m7!3m6!1s0x3442a979cb9faa0d:0x359816a977fda956!8m2!3d25.0106638!4d121.4602683!16s%2Fg%2F11s3zjhrdp!19sChIJDaqfy3mpQjQRVqn9d6kWmDU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-025"
+  },
+  "紅茶巴士 Black Tea Bus - 板橋府中站": {
+    "shortName": "紅茶巴士 Black Tea Bus - 板橋府中站",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      35,
+      110
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$35–110 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "紅茶與豆漿紅茶，適合外帶飲品。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "復刻紅茶",
+      "豆漿紅茶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%B4%85%E8%8C%B6%E5%B7%B4%E5%A3%AB+Black+Tea+Bus+-+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E7%AB%99/data=!4m7!3m6!1s0x346803ef9f6ecaa1:0x40121c44fcc16b6e!8m2!3d25.0057503!4d121.4620039!16s%2Fg%2F11wxgfwm6k!19sChIJocpun-8DaDQRbmvB_EQcEkA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-026"
+  },
+  "聽喵說早午餐": {
+    "shortName": "聽喵說早午餐",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店",
+      "飯類",
+      "麵店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "蛋餅、炒麵與燉飯，適合早餐或白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "芋泥起司蛋餅",
+      "重慶麻辣炒麵",
+      "奶油雞肉燉飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%81%BD%E5%96%B5%E8%AA%AA%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x34680365bb4dab81:0xddbad4bc6f51766c!8m2!3d25.0047817!4d121.4582227!16s%2Fg%2F11t6q7pkw0!19sChIJgatNu2UDaDQRbHZRb7zUut0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-027"
+  },
+  "東美早餐店": {
+    "shortName": "東美早餐店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鐵板麵加蛋",
+      "中杯奶茶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%9D%B1%E7%BE%8E%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x346802a0e65ea3d7:0xf2fb820c55e25097!8m2!3d25.0053056!4d121.4644659!16s%2Fg%2F11fxzrh975!19sChIJ16Ne5qACaDQRl1DiVQyC-_I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-028"
+  },
+  "尚青標記皮蛋瘦肉粥（快餐車）": {
+    "shortName": "尚青標記皮蛋瘦肉粥",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店",
+      "小吃"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "皮蛋瘦肉粥與飲品，適合早餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。快餐車出攤位置與時間請先查看店家公告。",
+    "dishes": [
+      "皮蛋瘦肉粥",
+      "薏仁牛奶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%B0%9A%E9%9D%92%E6%A8%99%E8%A8%98%E7%9A%AE%E8%9B%8B%E7%98%A6%E8%82%89%E7%B2%A5%EF%BC%88%E5%BF%AB%E9%A4%90%E8%BB%8A%EF%BC%89/data=!4m7!3m6!1s0x3442a815ef7ec3dd:0x4ba82b4bb81bed87!8m2!3d25.0203894!4d121.4661099!16s%2Fg%2F11hbllvmg1!19sChIJ3cN-7xWoQjQRh-0buEsrqEs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-030"
+  },
+  "​源慶鮮蚵(YuanQingOyster)—鮮蚵/小卷/藥膳滷味｜台灣500碗推薦 | 板橋60年老店": {
+    "shortName": "​源慶鮮蚵—鮮蚵/小卷/藥膳滷味",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃",
+      "麵店",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$200 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "鮮蚵、小卷與飯麵小吃，適合日常午晚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "小卷米粉",
+      "牛肝菌滷肉飯",
+      "黑金麻醬麵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E2%80%8B%E6%BA%90%E6%85%B6%E9%AE%AE%E8%9A%B5%28YuanQingOyster%29%E2%80%94%E9%AE%AE%E8%9A%B5%2F%E5%B0%8F%E5%8D%B7%2F%E8%97%A5%E8%86%B3%E6%BB%B7%E5%91%B3%EF%BD%9C%E5%8F%B0%E7%81%A3500%E7%A2%97%E6%8E%A8%E8%96%A6+%7C+%E6%9D%BF%E6%A9%8B60%E5%B9%B4%E8%80%81%E5%BA%97/data=!4m7!3m6!1s0x346802a921e09a25:0x3834a517287a0ae4!8m2!3d25.0058432!4d121.4540241!16s%2Fg%2F119w8tt3r!19sChIJJZrgIakCaDQR5Ap6KBelNDg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-031"
+  },
+  "伴刻早餐店": {
+    "shortName": "伴刻早餐店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "燒肉蛋堡",
+      "薯餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%BC%B4%E5%88%BB%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m7!3m6!1s0x3468031cf17a9f5b:0x652f6010e87d6232!8m2!3d25.0074746!4d121.4604836!16s%2Fg%2F11njxdnd68!19sChIJW5968RwDaDQRMmJ96BBgL2U?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-032"
+  },
+  "文昌豆漿": {
+    "shortName": "文昌豆漿",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鹹燒餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%96%87%E6%98%8C%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3468034051671d6f:0xaf2b1e224e8ae9f5!8m2!3d25.0092356!4d121.4557653!16s%2Fg%2F11v3_xgpnt!19sChIJbx1nUUADaDQR9emKTiIeK68?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-033"
+  },
+  "在一起 One&Together": {
+    "shortName": "在一起 One&Together",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "咖啡廳",
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與家常輕食，適合用餐或午後聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "高麗菜蝦水餃",
+      "蜂蜜千層蛋糕",
+      "虱目魚烏龍麵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%9C%A8%E4%B8%80%E8%B5%B7+One%26Together/data=!4m7!3m6!1s0x3442a802c7ab8937:0x10ec4def277f1364!8m2!3d25.010814!4d121.456173!16s%2Fg%2F11c44dlnks!19sChIJN4mrxwKoQjQRZBN_J-9N7BA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-034"
+  },
+  "萬佳鄉府中店": {
+    "shortName": "萬佳鄉府中店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鮪魚蛋吐司",
+      "炸薯條"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%90%AC%E4%BD%B3%E9%84%89%E5%BA%9C%E4%B8%AD%E5%BA%97/data=!4m7!3m6!1s0x346802a820728335:0xdbe79679c72b85ce!8m2!3d25.009422!4d121.455646!16s%2Fg%2F11bxd7p5j4!19sChIJNYNyIKgCaDQRzoUrx3mW59s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-035"
+  },
+  "北港黑豆漿": {
+    "shortName": "北港黑豆漿",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "黑豆香菜捲",
+      "蔥肉酥包",
+      "香椿毛豆餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%8C%97%E6%B8%AF%E9%BB%91%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x3442a802bac2099b:0xaad71f381150a602!8m2!3d25.0101717!4d121.4561768!16s%2Fg%2F11cn3qbpn7!19sChIJmwnCugKoQjQRAqZQETgf16o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-036"
+  },
+  "早餐豆漿": {
+    "shortName": "早餐豆漿",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "早餐店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "朋友聚餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "早餐、輕食與飲品，適合白天用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "熱無糖豆漿"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%97%A9%E9%A4%90%E8%B1%86%E6%BC%BF/data=!4m7!3m6!1s0x34680300567efed5:0xb999f6d78fb9ed!8m2!3d25.0075378!4d121.4613032!16s%2Fg%2F11wn10ccyp!19sChIJ1f5-VgADaDQR7bmP1_aZuQA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-037"
+  },
+  "ssSip營業時間請看ig": {
+    "shortName": "ssSip營業時間請看ig",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "義式"
+    ],
+    "types": [
+      "咖啡廳",
+      "義大利麵"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與麵疙瘩餐點，適合白天用餐或聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示營業時間請看 Instagram。",
+    "dishes": [
+      "奶油南瓜口味麵疙瘩"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/ssSip%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%AB%8B%E7%9C%8Big/data=!4m7!3m6!1s0x3442a97492e7eb8b:0x85f137369f1d9457!8m2!3d25.0096091!4d121.4600393!16s%2Fg%2F11w8pkdmdp!19sChIJi-vnknSpQjQRV5QdnzY38YU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-038"
+  },
+  "New Spark 新火花烘焙餐廳": {
+    "shortName": "New Spark 新火花烘焙餐廳",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "咖啡廳",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      80,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$80 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "咖啡與牛肉飯套餐，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "匈牙利牛肉飯套餐"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/New+Spark+%E6%96%B0%E7%81%AB%E8%8A%B1%E7%83%98%E7%84%99%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x346802a7bc245389:0x98d9bb8fbeba916d!8m2!3d25.0071188!4d121.4590284!16s%2Fg%2F11cmlzh8zy!19sChIJiVMkvKcCaDQRbZG6vo-72Zg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-039"
+  },
+  "那裡的咖啡店": {
+    "shortName": "那裡的咖啡店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "吐司輕食、特色拿鐵與甜點，適合白天聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "柚子胡椒蛋沙拉吐司",
+      "鹽之花焦糖拿鐵",
+      "抹茶毛巾卷"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E9%82%A3%E8%A3%A1%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9cab6d91907:0x5bdf253a6e7b1186!8m2!3d25.0299307!4d121.4737161!16s%2Fg%2F11fd67_r0v!19sChIJBxnZtsqpQjQRhhF7bjol31s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-040"
+  },
+  "哩哉咖啡 Uknowhere Café": {
+    "shortName": "哩哉咖啡 Uknowhere Café",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "黑糖拿鐵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%93%A9%E5%93%89%E5%92%96%E5%95%A1+Uknowhere+Caf%C3%A9/data=!4m7!3m6!1s0x346803a55f27083d:0x70db34d5bf7b9136!8m2!3d25.0080602!4d121.4617443!16s%2Fg%2F11s_d6sm5s!19sChIJPQgnX6UDaDQRNpF7v9U023A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-041"
+  },
+  "濁水": {
+    "shortName": "濁水",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "西西里冰咖啡",
+      "提拉米蘇",
+      "焙茶芒果蛋糕"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%BF%81%E6%B0%B4/data=!4m7!3m6!1s0x346803f804ec2f4d:0x95ade6cdb2cbca97!8m2!3d25.0085475!4d121.4570862!16s%2Fg%2F11t507qnqn!19sChIJTS_sBPgDaDQRl8rLss3mrZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-042"
+  },
+  "典藏咖啡館府中15店": {
+    "shortName": "典藏咖啡館府中15店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "泰式"
+    ],
+    "types": [
+      "咖啡廳",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡、飯類主餐與鬆餅，適合用餐或朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "泰式打拋豬",
+      "紫蘇梅肉排",
+      "鬆餅炸雞"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%B8%E8%97%8F%E5%92%96%E5%95%A1%E9%A4%A8%E5%BA%9C%E4%B8%AD15%E5%BA%97/data=!4m7!3m6!1s0x3442a81d76dcf3e1:0x2ab4acf1006d4e4c!8m2!3d25.0094848!4d121.4595785!16s%2Fg%2F11fy_d2g5c!19sChIJ4fPcdh2oQjQRTE5tAPGstCo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-043"
+  },
+  "KINO KINO CAFE": {
+    "shortName": "KINO KINO CAFE",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡、烤吐司與起司蛋糕，適合午後休息。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "芒果優格起司蛋糕",
+      "蛋沙拉烤吐司"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/KINO+KINO+CAFE/data=!4m7!3m6!1s0x346802a819c483dd:0xd9d1191daaafba92!8m2!3d25.0087695!4d121.4558813!16s%2Fg%2F11g7z6nckb!19sChIJ3YPEGagCaDQRkrqvqh0Z0dk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-044"
+  },
+  "Ferment Café": {
+    "shortName": "Ferment Café",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "酸種三明治與咖啡，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "輕檸酪梨酸種三明治盤"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Ferment+Caf%C3%A9/data=!4m7!3m6!1s0x346803c86e2d9555:0x2914b125ccb6328f!8m2!3d25.0082013!4d121.4544973!16s%2Fg%2F11vxh3dz95!19sChIJVZUtbsgDaDQRjzK2zCWxFCk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-046"
+  },
+  "Partik Coffee & Roast": {
+    "shortName": "Partik Coffee & Roast",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "肉桂捲",
+      "布丁"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Partik+Coffee+%26+Roast/data=!4m7!3m6!1s0x3442abdeb094b569:0x2ab14c72da8a290d!8m2!3d25.0046675!4d121.4633166!16s%2Fg%2F11c1qx3vqv!19sChIJabWUsN6rQjQRDSmK2nJMsSo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-047"
+  },
+  "萩眠咖啡 Chillman Coffee": {
+    "shortName": "萩眠咖啡 Chillman Coffee",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "軟趴趴焦糖布丁",
+      "台茶18號紅玉鮮奶茶",
+      "芭樂美式"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E8%90%A9%E7%9C%A0%E5%92%96%E5%95%A1+Chillman+Coffee/data=!4m7!3m6!1s0x3442a9b575d9e937:0xd2b994cfaeb6c69a!8m2!3d25.0101166!4d121.4598602!16s%2Fg%2F11zbn1tbqj!19sChIJN-nZdbWpQjQRmsa2rs-UudI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-048"
+  },
+  "CAFE!N 硬咖啡 板橋中山門市": {
+    "shortName": "CAFE!N 硬咖啡 板橋中山門市",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      120,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "咖啡、嫩蛋堡與小點心，適合外帶或短暫休息。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "黑椒薯餅嫩蛋堡",
+      "一口小米甜甜圈",
+      "燕麥拿鐵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/CAFE!N+%E7%A1%AC%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a97a809026f5:0x112bf0c0bee3ddee!8m2!3d25.0108458!4d121.4638672!16s%2Fg%2F11rww7flxw!19sChIJ9SaQgHqpQjQR7t3jvsDwKxE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-049"
+  },
+  "三豐芋冰城（無內用）": {
+    "shortName": "三豐芋冰城",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      100,
+      300
+    ],
+    "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+    "description": "芋頭冰品與雪花冰，適合外帶點心。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示無內用。",
+    "dishes": [
+      "芋泥牛奶雪冰",
+      "芋泥布丁牛奶雪花冰",
+      "芋頭冰磚"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%B8%89%E8%B1%90%E8%8A%8B%E5%86%B0%E5%9F%8E%EF%BC%88%E7%84%A1%E5%85%A7%E7%94%A8%EF%BC%89/data=!4m7!3m6!1s0x3442a81dc44b2807:0x79934ce83a6836c4!8m2!3d25.0098167!4d121.4616752!16s%2Fg%2F1tq4ns_3!19sChIJByhLxB2oQjQRxDZoOuhMk3k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-050"
+  },
+  "奶油鬍子貓咖啡甜點工作室Meowlicious": {
+    "shortName": "奶油鬍子貓咖啡甜點工作室Meowlicious",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      120,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。工作室的內用、取貨與預約方式請先詢問。甜點工作室的取貨與預約方式請先詢問。",
+    "dishes": [
+      "抹茶芝麻生乳酪",
+      "翠伯重乳酪塔",
+      "紫鄉芋頭"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%A5%B6%E6%B2%B9%E9%AC%8D%E5%AD%90%E8%B2%93%E5%92%96%E5%95%A1%E7%94%9C%E9%BB%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4Meowlicious/data=!4m7!3m6!1s0x3442a8049c4e15bf:0xa88e12853c0da64b!8m2!3d25.0150872!4d121.455134!16s%2Fg%2F11bbwn510m!19sChIJvxVOnASoQjQRS6YNPIUSjqg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-051"
+  },
+  "Bar Aku": {
+    "shortName": "Bar Aku",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "酒吧"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      1000
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "特色調酒，適合晚間小酌與朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "茶基酒 Old fashioned",
+      "新北（調酒）"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Bar+Aku/data=!4m7!3m6!1s0x3442a9d89852ab23:0xc7a0f7f0eca30f5d!8m2!3d25.0098794!4d121.4603242!16s%2Fg%2F11w9bp92z2!19sChIJI6tSmNipQjQRXQ-j7PD3oMc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-052"
+  },
+  "福實咖啡": {
+    "shortName": "福實咖啡",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "早午餐",
+      "甜點店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "荷蘭小鬆餅、蛋捲與咖啡，適合白天聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "荷蘭小鬆餅",
+      "蔬菜起司蛋捲",
+      "肉桂捲"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E7%A6%8F%E5%AF%A6%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x346803a815b8a229:0x8cd01bdb2df0ff05!8m2!3d25.0044683!4d121.4642527!16s%2Fg%2F11jq1l_p0l!19sChIJKaK4FagDaDQRBf_wLdsb0Iw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-053"
+  },
+  "一緒館": {
+    "shortName": "一緒館",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "咖啡廳",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      120,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$120 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "鹹派、可頌與咖啡，適合輕食或午後休息。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "法式鹹派",
+      "起司可頌"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E7%B7%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a9b28c4e8615:0x6b69253ef82641ad!8m2!3d25.011103!4d121.460051!16s%2Fg%2F11rfqg46hg!19sChIJFYZOjLKpQjQRrUEm-D4laWs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-054"
+  },
+  "檸檬草美食茶房 板橋店": {
+    "shortName": "檸檬草美食茶房 板橋店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式",
+      "韓式"
+    ],
+    "types": [
+      "飯類",
+      "火鍋"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "陶飯、焗烤與鍋物，適合午晚餐或朋友聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "韓式烤肉醬陶飯",
+      "茄汁辣味雞肉焗",
+      "五花牛肉鍋"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E6%AA%B8%E6%AA%AC%E8%8D%89%E7%BE%8E%E9%A3%9F%E8%8C%B6%E6%88%BF+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x346802a7c6280c75:0x10ccdea663ef1a88!8m2!3d25.0068674!4d121.4590616!16s%2Fg%2F1tjgy2xw!19sChIJdQwoxqcCaDQRiBrvY6bezBA?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-055"
+  },
+  "兩喜布丁蛋糕甜點": {
+    "shortName": "兩喜布丁蛋糕甜點",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      80,
+      400
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$400 以下；下限 NT$80 為餐點類型的參考預算，非店家公布最低消費。",
+    "description": "布丁與蛋糕甜點，適合外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "夏日雲朵芒果布丁杯杯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/%E5%85%A9%E5%96%9C%E5%B8%83%E4%B8%81%E8%9B%8B%E7%B3%95%E7%94%9C%E9%BB%9E/data=!4m7!3m6!1s0x3442a9cb69e47ab3:0x688554271f1a5ba7!8m2!3d25.0098207!4d121.4616775!16s%2Fg%2F11s34l2qrf!19sChIJs3rkacupQjQRp1saHydUhWg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-056"
+  },
+  "Buttery": {
+    "shortName": "Buttery",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "咖啡與甜點，適合午後休息或朋友聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "起司蛋糕",
+      "蒸汽美式"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps/place/Buttery/data=!4m7!3m6!1s0x3442a9003d4e0bbb:0x7eba2ea682324281!8m2!3d25.0090793!4d121.4653292!16s%2Fg%2F11y54g5btv!19sChIJuwtOPQCpQjQRgUIygqYuun4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-058"
+  },
+  "悠悠U Brunch": {
+    "shortName": "悠悠U Brunch",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "美式",
+      "日式"
+    ],
+    "types": [
+      "早午餐",
+      "飯類"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "早午餐吐司、炸雞與咖哩飯，適合白天用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "炸雞咖哩飯",
+      "酪梨鮮蝦乳酪酸種",
+      "老闆炸雞",
+      "蒸蛋殼"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps?cid=3851376000272514698&hl=zh-TW"
+      },
+      {
+        "label": "推薦品項公開資料",
+        "url": "https://pattieeat.com/u-brunch-banqiao/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-059"
+  },
+  "刁民-酸菜魚 板橋府中店": {
+    "shortName": "刁民-酸菜魚 板橋府中店",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "熱炒"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "酸菜魚搭配小菜與加料，適合朋友或家庭分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "酸菜魚",
+      "母湯娃娃菜",
+      "完美蝦滑",
+      "四季水果茶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps?cid=11361692063081552610&hl=zh-TW"
+      },
+      {
+        "label": "推薦品項公開資料",
+        "url": "https://www.diaominasia.com/article_d.php?id=171&lang=tw&tb=1"
+      },
+      {
+        "label": "推薦品項公開資料",
+        "url": "https://pekoblog.tw/diaomin-banqiao/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-060"
+  },
+  "Lane 72 Bistro 英式餐館《板橋店》": {
+    "shortName": "Lane 72 Bistro 英式餐館《板橋店》",
+    "area": "板橋・新埔／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "餐酒館",
+      "酒吧"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間，非店家固定套餐價；實際消費依點餐與當日菜單。",
+    "description": "英式炸魚薯條、蘇格蘭蛋與主餐，適合晚間聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "炸魚薯條",
+      "蘇格蘭蛋",
+      "蘋果酒香烤豬排"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家定位、餐點照片與公開評論；未查證價格為規劃推估",
+        "url": "https://www.google.com/maps?cid=3956178985993773589&hl=zh-TW"
+      },
+      {
+        "label": "推薦品項公開資料",
+        "url": "https://annieko.tw/lane-72-bistro/"
+      },
+      {
+        "label": "推薦品項公開資料",
+        "url": "https://jeremyfoodie.tw/lane72-bistro/"
+      }
+    ],
+    "classificationBasis": "料理與型態依 Maps 店家定位整理；場合、兒童友善與未查證預算為參考判斷。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-next-061"
+  }
+}

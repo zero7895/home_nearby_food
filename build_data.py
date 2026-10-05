@@ -39,28 +39,35 @@ def build():
     more_metadata = json.loads((ROOT/'expansion-more-metadata.json').read_text())
     META.update(more_metadata)
     observed += json.loads((ROOT/'expansion-more-maps.json').read_text())
+    next_metadata = json.loads((ROOT/'expansion-next-metadata.json').read_text())
+    META.update(next_metadata)
+    next_observed = json.loads((ROOT/'expansion-next-maps.json').read_text()) + json.loads((ROOT/'expansion-next-new-maps.json').read_text())
+    next_names = {obs['name'] for obs in next_observed}
+    observed = [obs for obs in observed if obs['name'] not in next_names] + next_observed
     expanded_routes = json.loads((ROOT/'expanded-routes-research.json').read_text()) + json.loads((ROOT/'expansion-200-routes.json').read_text()) + json.loads((ROOT/'expansion-500-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-more-routes.json').read_text())
+    expanded_routes += json.loads((ROOT/'expansion-next-routes.json').read_text())
     drives = {r['name']:r for r in expanded_routes if r['mode']=='driving'}
     routes = {r['name']:r for r in json.loads((ROOT/'routes-research.json').read_text())}
     routes.update({r['name']:r for r in expanded_routes if r['mode']=='walking'})
     corrections = json.loads((ROOT/'reviewed-corrections.json').read_text())
     dish_research = json.loads((ROOT/'recommended-dishes-research.json').read_text())
+    dish_research.update(json.loads((ROOT/'expansion-next-dishes.json').read_text()))
     places, excluded = [], []
     for obs in observed:
         if obs.get('excludedReason'):
-            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':obs['excludedReason'], 'checkedAt':'2026-10-04'})
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':obs['excludedReason'], 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
         if obs.get('closed'):
-            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'Google Maps 標示永久歇業', 'checkedAt':'2026-10-04'})
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'Google Maps 標示永久歇業', 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
         if obs['name'] not in routes:
-            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'交通路線資料待複查，暫不收錄', 'checkedAt':'2026-10-04'})
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'交通路線資料待複查，暫不收錄', 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
         walk = int(re.search(r'(\d+) 分',routes[obs['name']]['options'][0]).group(1))
         drive = int(re.search(r'(\d+) 分',drives[obs['name']]['options'][0]).group(1)) if obs['name'] in drives else None
         if walk > 20 and (drive is None or drive > 15):
-            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'超過步行20分鐘且開車15分鐘範圍', 'checkedAt':'2026-10-04'})
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'超過步行20分鐘且開車15分鐘範圍', 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
         p = dict(META[obs['name']])
         p.update(corrections.get(obs['name'], {}))
@@ -120,7 +127,7 @@ def build():
         assert p['childRating'] in TAXONOMY['childRatings']
         p['priceBands'] = [band['label'] for band in TAXONOMY['priceBands'] if p['price'][0] <= band['max'] and p['price'][1] >= band['min']]
         p.setdefault('classificationBasis','依公開菜單與店家定位整理；適合場合為情境推估，未保證兒童或包廂設備。')
-        p['checkedAt'] = '2026-10-04'
+        p['checkedAt'] = obs.get('checkedAt', '2026-10-04')
         assert len(p['photos']) == 5 and len(set(p['photos'])) == 5, p['name']
         for field in ['cuisines','types','periods','occasions']:
             assert all(v in TAXONOMY[field] for v in p[field]), (p['name'],field)
@@ -128,8 +135,8 @@ def build():
     assert len({p['name'] for p in places}) == len(places)
     identities = [re.search(r'!1s(0x[^!]+)',p['mapUrl']).group(1) if re.search(r'!1s(0x[^!]+)',p['mapUrl']) else p['name'] for p in places]
     assert len(set(identities)) == len(places), 'Duplicate Google Maps place identity'
-    assert len(places) == 500 + len(more_metadata) and len({p['id'] for p in places}) == len(places)
-    result = {'checkedAt':'2026-10-04','home':{'label':'板橋區民生路二段240巷68號','mapUrl':json.loads((ROOT/'home-map.json').read_text())['url']},'places':places,'excluded':excluded,'taxonomy':TAXONOMY}
+    assert len(places) == 500 + len(more_metadata) + len(next_metadata) and len({p['id'] for p in places}) == len(places)
+    result = {'checkedAt':max(p['checkedAt'] for p in places),'home':{'label':'板橋區民生路二段240巷68號','mapUrl':json.loads((ROOT/'home-map.json').read_text())['url']},'places':places,'excluded':excluded,'taxonomy':TAXONOMY}
     (ROOT/'data.js').write_text('window.NEARBY_DATA = '+json.dumps(result,ensure_ascii=False,indent=2)+';\n')
     (ROOT/'restaurants.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
     print(f'Built {len(places)} active places, {sum(len(p["photos"]) for p in places)} photos; excluded {len(excluded)} candidates.')

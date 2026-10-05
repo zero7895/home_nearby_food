@@ -2,8 +2,8 @@
   {
     "name": "悠悠U Brunch",
     "address": "22047新北市板橋區文化里文化路二段125巷15號",
-    "rating": 4.2,
-    "reviews": 203,
+    "rating": "4.2",
+    "reviews": "203",
     "observedPriceRange": "$400-600",
     "phone": "02 2256 6006",
     "closed": false,
@@ -20,8 +20,9 @@
     ],
     "dishes": [
       "炸雞咖哩飯",
-      "Shrimp Avocado Toast with Eggs",
-      "老闆炸雞"
+      "酪梨鮮蝦乳酪酸種",
+      "老闆炸雞",
+      "蒸蛋殼"
     ],
     "dishSources": [
       "https://pattieeat.com/u-brunch-banqiao/"
@@ -29,14 +30,15 @@
     "text": "Google Maps：4.2，203 篇評論，早午餐餐廳，平均每人 $400-600（117人回報）。營業中，打烊時間17:00。菜單與精選餐點：炸雞咖哩飯、Shrimp Avocado Toast with Eggs。",
     "checkedAt": "2026-10-05",
     "photoCheckedAt": "2026-10-05",
-    "routeStatus": "pending-origin-transmission-consent",
-    "status": "candidate-not-published"
+    "routeStatus": "verified",
+    "status": "published",
+    "publishedVersion": 42
   },
   {
     "name": "刁民-酸菜魚 板橋府中店",
     "address": "220新北市板橋區鄉雲里中山路一段21-1號1樓",
-    "rating": 4.6,
-    "reviews": 1039,
+    "rating": "4.6",
+    "reviews": "1039",
     "observedPriceRange": "$400-600",
     "phone": "02 2951 2888",
     "closed": false,
@@ -64,14 +66,15 @@
     "text": "Google Maps：4.6，1,039 篇評論，中菜館，平均每人 $400-600（253人回報）。營業中，打烊時間02:00。菜單與精選餐點：母湯娃娃菜、四季水果茶。公開評論提及酸菜魚、完美蝦滑、沙漏酥魚皮。",
     "checkedAt": "2026-10-05",
     "photoCheckedAt": "2026-10-05",
-    "routeStatus": "pending-origin-transmission-consent",
-    "status": "candidate-not-published"
+    "routeStatus": "verified",
+    "status": "published",
+    "publishedVersion": 42
   },
   {
     "name": "Lane 72 Bistro 英式餐館《板橋店》",
     "address": "220新北市板橋區文化里松江街74號",
-    "rating": 4.8,
-    "reviews": 1579,
+    "rating": "4.8",
+    "reviews": "1579",
     "observedPriceRange": "$400-600",
     "phone": "02 2250 9584",
     "closed": false,
@@ -98,7 +101,8 @@
     "text": "Google Maps：4.8，1,579 篇評論，小餐館，平均每人 $400-600（49人回報）。週一公休，週二18:30開始營業。公開評論與照片分類提及炸魚薯條、蘇格蘭蛋、蘋果酒香烤豬排。",
     "checkedAt": "2026-10-05",
     "photoCheckedAt": "2026-10-05",
-    "routeStatus": "pending-origin-transmission-consent",
-    "status": "candidate-not-published"
+    "routeStatus": "verified",
+    "status": "published",
+    "publishedVersion": 42
   }
 ]
