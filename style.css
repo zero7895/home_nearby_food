@@ -155,3 +155,13 @@ dialog{overscroll-behavior:contain;max-height:90dvh}
 
 .detail-recommendations{margin:18px 0;padding:16px;background:#eff2e8;border-radius:9px}.detail-recommendations h3{font-size:14px;margin:0 0 9px;color:var(--green)}.detail-recommendations ul{padding-left:20px;margin:0;font-size:13px;line-height:1.9}.detail-recommendations p{margin:0;color:var(--muted)}
 @media(max-width:600px){.detail-recommendations ul{font-size:14px}}
+
+/* Home card actions: outlined map link and full-width primary detail button. */
+.card .card-topline{flex-wrap:nowrap}
+.card .card-heading{flex:1 1 0;min-width:0}
+.card .card-map-link{min-height:44px;padding:8px 11px;margin-left:auto;border:1.5px solid var(--green);border-radius:9px;background:white;color:var(--green);font-size:13px;font-weight:700;justify-content:center}
+.card .card-map-link:hover{background:#eff2e8}
+.card .card-bottom{display:flex;flex-direction:column;align-items:stretch;gap:12px}
+.card .card-bottom .price{align-self:flex-start}
+.card .card-bottom .detail-button{width:100%;min-height:44px;padding:10px 14px;border:1px solid var(--green);border-radius:10px;background:var(--green);color:white;font-size:14px;font-weight:700;text-align:center}
+.card .card-bottom .detail-button:hover{background:#1b3d30}

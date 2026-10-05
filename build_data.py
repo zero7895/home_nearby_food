@@ -45,6 +45,7 @@ def build():
     routes = {r['name']:r for r in json.loads((ROOT/'routes-research.json').read_text())}
     routes.update({r['name']:r for r in expanded_routes if r['mode']=='walking'})
     corrections = json.loads((ROOT/'reviewed-corrections.json').read_text())
+    dish_research = json.loads((ROOT/'recommended-dishes-research.json').read_text())
     places, excluded = [], []
     for obs in observed:
         if obs.get('excludedReason'):
@@ -63,6 +64,16 @@ def build():
             continue
         p = dict(META[obs['name']])
         p.update(corrections.get(obs['name'], {}))
+        if obs['name'] in dish_research:
+            recommendation = dish_research[obs['name']]
+            assert recommendation['dishes'] and recommendation['sources'], obs['name']
+            assert all(isinstance(dish, str) and dish.strip() for dish in recommendation['dishes'])
+            p['dishes'] = list(dict.fromkeys(recommendation['dishes']))
+            sources = list(p.get('sources', []))
+            for source in recommendation['sources']:
+                if not any(existing['url'] == source['url'] for existing in sources):
+                    sources.append(source)
+            p['sources'] = sources
         p['name'] = obs['name']
         p.setdefault('address',obs.get('address','').replace('地址: ','').strip())
         p['address'] = re.sub(r'^\d{3,6}(?=[^\d])','',p['address'])
