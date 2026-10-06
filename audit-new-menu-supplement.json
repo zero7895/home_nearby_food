@@ -1,0 +1,119 @@
+[
+  {
+    "name": "GOOD BOB韓食",
+    "recommendedDishes": [
+      "牛肉雪濃湯",
+      "韓式烤肉套餐",
+      "馬鈴薯龍骨湯",
+      "韓式炸雞"
+    ],
+    "sources": [
+      {
+        "url": "https://evanchiny.com/20250926eat/",
+        "kind": "2025-09食記，同址，附官方粉專菜單圖片"
+      },
+      {
+        "url": "https://ifunny.blog/good-bob/",
+        "kind": "同址實食菜單"
+      }
+    ],
+    "address": "新北市板橋區縣民大道一段306號",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  },
+  {
+    "name": "知日石磨腸粉",
+    "recommendedDishes": [
+      "手剝鮮蝦腸粉",
+      "犇放牛肉腸粉",
+      "蟹足肉腸粉",
+      "海霸王腸粉"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ubereats.com/tw/store/知日石磨腸粉/6XVs_PDqQwm5SbJtlJyZGA",
+        "kind": "同址外送菜單，招牌系列"
+      }
+    ],
+    "address": "新北市板橋區莒光路165巷8號",
+    "notes": "手剝鮮蝦外送價189；外送與內用價不同，勿當人均平均。",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  },
+  {
+    "name": "文宗涼麵",
+    "recommendedDishes": [
+      "文宗涼麵",
+      "三合一湯",
+      "無蒜涼麵"
+    ],
+    "sources": [
+      {
+        "url": "https://www.foodpanda.com.tw/en/restaurant/cdpr/a-zong-liang-mian",
+        "kind": "店名英譯阿宗，菜單直接說文宗涼麵（阿宗涼麵）"
+      },
+      {
+        "url": "https://www.ubereats.com/tw/store/文宗涼麵/ns82V64EUVOFtaYPztkKtQ",
+        "kind": "同名外送菜單"
+      }
+    ],
+    "address": "新北市板橋區民治街67號",
+    "notes": "不可把外送頁當前CLOSED當作永久歇業。",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  },
+  {
+    "name": "HALOA POKE 夏威夷拌飯 板橋店",
+    "recommendedDishes": [
+      "好身材POKE",
+      "泰式POKE"
+    ],
+    "sources": [
+      {
+        "url": "https://www.haloapoke.com/about",
+        "kind": "官方現行門市資料，地址雙十路二段100號，電話02-2258-8884，11:30–20:00"
+      },
+      {
+        "url": "https://ifoodie.tw/post/68837f5a7be9c3861eb9ca74",
+        "kind": "2025-07同址食記，兩款餐點各210元"
+      }
+    ],
+    "address": "新北市板橋區雙十路二段100號",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  },
+  {
+    "name": "閏月吃飯點",
+    "recommendedDishes": [
+      "秘炙雞腿排飯",
+      "南洋沙爹牛肉飯",
+      "原味松阪豬飯"
+    ],
+    "sources": [
+      {
+        "url": "https://mandyenjoylife.com/moonmoonbrunch/",
+        "kind": "2025-07同址實食，價格170/190/250"
+      }
+    ],
+    "address": "新北市板橋區文聖街99號",
+    "notes": "由早午餐轉型為午晚餐定食便當，期間應午餐、晚餐。",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  },
+  {
+    "name": "ABV閣樓餐酒館 板橋府中店",
+    "sources": [
+      {
+        "url": "https://cold91.com/abv-bar/",
+        "kind": "食記2026查證更新聲称Maps暫時關閉，非當前Maps直接證據"
+      },
+      {
+        "url": "https://www.abv.com.tw/penthouse-menu/",
+        "kind": "官網仍列府中分店與菜單"
+      }
+    ],
+    "notes": "需主代理當前Maps狀態核對，不能只用官網仍有菜單判定營業。",
+    "checkedAt": "2026-10-05",
+    "verificationScope": "公開網頁資料，未查當前Google Maps DOM，不能作評分/路線/營業狀態證據"
+  }
+]

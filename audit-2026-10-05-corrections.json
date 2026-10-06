@@ -1,0 +1,950 @@
+[
+  {
+    "name": "成真咖啡 新北環球板車店",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "咖啡廳",
+        "甜點店",
+        "義大利麵",
+        "披薩",
+        "飯類"
+      ],
+      "cuisines": [
+        "義式",
+        "台式"
+      ],
+      "description": "提供咖啡、舒芙蕾、義大利麵、薄餅與彩虹飯，適合正餐或下午茶。",
+      "occasions": [
+        "一人用餐",
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "cuisines": [
+        "台式"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "這間是板橋車站附近很熱門的咖啡廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "昨晚點了義大利麵、薄餅和舒芙蕾",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E6%88%90%E7%9C%9F%E5%92%96%E5%95%A1+%E6%96%B0%E5%8C%97%E7%92%B0%E7%90%83%E6%9D%BF%E8%BB%8A%E5%BA%97/data=!4m7!3m6!1s0x3442a95b5b66e477:0xe532118084ffcaeb!8m2!3d25.014505!4d121.4638803!16s%2Fg%2F11j10r4vhb!19sChIJd-RmW1upQjQR68r_hIARMuU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "成真咖啡官方門市菜單",
+        "url": "https://www.cometrue-coffee.com/menu"
+      }
+    ]
+  },
+  {
+    "name": "YELO Seoul Bistro 首爾餐酒館",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "餐酒館"
+      ],
+      "cuisines": [
+        "韓式"
+      ],
+      "description": "韓式炸雞與創意料理搭配飲品，適合朋友聚餐或約會。",
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐",
+        "聊天聚會"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "cuisines": [
+        "台式"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "韓式炸雞口味有不一樣的感覺，醬汁好。",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/YELO+Seoul+Bistro+%E9%A6%96%E7%88%BE%E9%A4%90%E9%85%92%E9%A4%A8/data=!4m7!3m6!1s0x3442a97261de9987:0x73ff0a9065a1c6dd!8m2!3d25.0106869!4d121.4615892!16s%2Fg%2F11g1gp61bs!19sChIJh5neYXKpQjQR3cahZZAK_3M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "MENU 美食誌｜同址首爾餐酒館用餐紀錄",
+        "url": "https://menutaiwan.com/tw/restaurants/s519PbNAvd"
+      }
+    ]
+  },
+  {
+    "name": "漁道屋",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "壽司",
+        "丼飯"
+      ],
+      "cuisines": [
+        "日式"
+      ],
+      "description": "日式散壽司、丼飯與生魚片，以外帶用餐為主。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "cuisines": [
+        "台式"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "日本地方料理餐廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "點了綜合散壽司",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "小小的店只能外帶",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E6%BC%81%E9%81%93%E5%B1%8B/data=!4m7!3m6!1s0x3442a90042b4d7a3:0x40cf5b458b7d6494!8m2!3d25.0219382!4d121.4652424!16s%2Fg%2F11yr8hsn0v!19sChIJo9e0QgCpQjQRlGR9i0Vbz0A?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "鮨誠すし",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "壽司"
+      ],
+      "cuisines": [
+        "日式"
+      ],
+      "description": "握壽司與日式套餐料理，適合預約用餐或約會。",
+      "occasions": [
+        "情侶約會",
+        "朋友聚餐"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "cuisines": [
+        "台式"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "日本地方料理餐廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "雖然握壽司佔大部分",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "今天和女友來這裡吃情人節大餐",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E9%AE%A8%E8%AA%A0%E3%81%99%E3%81%97/data=!4m7!3m6!1s0x3442a98ebe8db325:0x5e924350a43b8b49!8m2!3d25.0272203!4d121.4720018!16s%2Fg%2F11tsr1vyg0!19sChIJJbONvo6pQjQRSYs7pFBDkl4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "米泰豐泰式便當飲料",
+    "action": "patch",
+    "patch": {
+      "cuisines": [
+        "泰式"
+      ],
+      "description": "泰式便當與飲品，包含咖哩、打拋豬及椒麻雞等選擇。"
+    },
+    "previous": {
+      "cuisines": [
+        "台式"
+      ],
+      "description": "便當與飯類主餐，適合外帶或快速用餐。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "泰國餐廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "打拋豬",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E7%B1%B3%E6%B3%B0%E8%B1%90%E6%B3%B0%E5%BC%8F%E4%BE%BF%E7%95%B6%E9%A3%B2%E6%96%99/data=!4m7!3m6!1s0x3442a9db92896597:0x495d8ccd8c6d5393!8m2!3d25.0198236!4d121.4677179!16s%2Fg%2F11q2p1vdwc!19sChIJl2WJktupQjQRk1NtjM2MXUk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "大洺牛肉麵-板橋美食-江子翠餐廳-Restaurants",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "麵店"
+      ],
+      "description": "清燉牛肉麵搭配小菜與腐乳沾醬，適合日常正餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-200-maps.json",
+        "excerpt": "清燉牛肉麵",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-200-maps.json",
+        "excerpt": "小菜豆乾也不錯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%B4%BA%E7%89%9B%E8%82%89%E9%BA%B5-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F-%E6%B1%9F%E5%AD%90%E7%BF%A0%E9%A4%90%E5%BB%B3-Restaurants/data=!4m7!3m6!1s0x3442a95f41e22643:0x97c4a7b1da4e027e!8m2!3d25.0259709!4d121.476103!16s%2Fg%2F11m77cnhr4!19sChIJQybiQV-pQjQRfgJO2rGnxJc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "名香快餐",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "排骨、雞腿便當與現炒燴飯，適合日常午晚餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "便當",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "三鮮燴飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%90%8D%E9%A6%99%E5%BF%AB%E9%A4%90/data=!4m7!3m6!1s0x3442a8223ae45f59:0x81ef15da5f6fc73d!8m2!3d25.012034!4d121.4705304!16s%2Fg%2F1w96dg4h!19sChIJWV_kOiKoQjQRPcdvX9oV74E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "炒燴香盒飯",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "便當與飯類主餐，提供魯排骨飯、打拋豬等選擇。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "九宮格會議便當",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "魯排骨飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E7%82%92%E7%87%B4%E9%A6%99%E7%9B%92%E9%A3%AF/data=!4m7!3m6!1s0x3442a9037ac9635d:0x9f8a803028d47686!8m2!3d25.0325759!4d121.4681421!16s%2Fg%2F11qnyht7vw!19sChIJXWPJegOpQjQRhnbUKDCAip8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "呷飯城(板橋莒光路)",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "雞排、排骨等主菜搭配配菜的便當，適合日常用餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "便宜的便當店 有雞排、排骨及各式主菜",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%91%B7%E9%A3%AF%E5%9F%8E%28%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E8%B7%AF%29/data=!4m7!3m6!1s0x3442a9332d38c629:0xd3b559dd3f47e30f!8m2!3d25.0247912!4d121.4701237!16s%2Fg%2F11t0lv8hbj!19sChIJKcY4LTOpQjQRD-NHP91ZtdM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "Miss Energy 能量小姐 板橋中山 直營門市",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "以雞腿排等主菜搭配紫米飯及配菜的餐盒，適合外帶正餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "便當也超好吃",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "照燒雞腿排一份135元",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/Miss+Energy+%E8%83%BD%E9%87%8F%E5%B0%8F%E5%A7%90+%E6%9D%BF%E6%A9%8B%E4%B8%AD%E5%B1%B1+%E7%9B%B4%E7%87%9F%E9%96%80%E5%B8%82/data=!4m7!3m6!1s0x3442a91422a2dbe3:0xb15fc6eca9eeeda4!8m2!3d25.0170363!4d121.4768098!16s%2Fg%2F11lfjskzj_!19sChIJ49uiIhSpQjQRpO3uqezGX7E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "熳食 SlowFood",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "雞腿排、鯖魚與雞胸肉等餐盒主餐，適合午晚餐或外帶。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "新開好吃健康餐便當",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "這是一間便當店",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E7%86%B3%E9%A3%9F+SlowFood/data=!4m7!3m6!1s0x3442a939a7826817:0x5ef414501dfb8697!8m2!3d25.0332829!4d121.4780321!16s%2Fg%2F11vsdmly6j!19sChIJF2iCpzmpQjQRl4b7HVAU9F4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "成昌食堂",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "提供排骨、魚類等主菜便當與單點菜色。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "便當及單點菜色都不錯吃",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "紅目鰱飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E6%88%90%E6%98%8C%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a83b1a806f65:0x7d702672f2aa5833!8m2!3d25.0168019!4d121.4756659!16s%2Fg%2F11gzc8yz7!19sChIJZW-AGjuoQjQRM1iq8nImcH0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "一頂香雞肉飯",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "便當",
+        "飯類"
+      ],
+      "description": "雞腿飯與雞肉便當搭配配菜，提供內用及外帶。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "雞腿便當",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "鹽水白雞腿飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E4%B8%80%E9%A0%82%E9%A6%99%E9%9B%9E%E8%82%89%E9%A3%AF/data=!4m7!3m6!1s0x3442a9f67b68e0ff:0x4fb299350da7d8eb!8m2!3d25.0144886!4d121.4792494!16s%2Fg%2F11sqvtrvmr!19sChIJ_-Boe_apQjQR69inDTWZsk8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "兩津號雞肉飯",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "小吃",
+        "飯類",
+        "便當"
+      ],
+      "description": "雞肉飯、雞腿便當與湯品小菜，適合日常正餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "雞腿很好吃，點餐建議便當內用",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "點了金牌雞肉飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%85%A9%E6%B4%A5%E8%99%9F%E9%9B%9E%E8%82%89%E9%A3%AF/data=!4m7!3m6!1s0x3442a9750d30ad6d:0x45383d2fc1951dcb!8m2!3d25.024246!4d121.4658127!16s%2Fg%2F11jn_lr912!19sChIJba0wDXWpQjQRyx2VwS89OEU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "任風咖哩",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "飯類"
+      ],
+      "description": "以咖哩飯為主，提供豬肋排、炸雞排等主餐及甜點。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "日式咖哩餐廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "豬肋排咖哩飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E4%BB%BB%E9%A2%A8%E5%92%96%E5%93%A9/data=!4m7!3m6!1s0x3442a92976a7b9df:0x53efd152da079ae4!8m2!3d25.0320899!4d121.4756247!16s%2Fg%2F11qbqc_lmt!19sChIJ37mndimpQjQR5JoH2lLR71M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "咖哩小屋",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "飯類"
+      ],
+      "description": "雞腿、魚排等咖哩飯主餐，適合日常午晚餐。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "日式咖哩餐廳",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "板橋最好吃的咖哩飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%92%96%E5%93%A9%E5%B0%8F%E5%B1%8B/data=!4m7!3m6!1s0x3442a83caa443189:0x7ef54871a8f05bc3!8m2!3d25.0160264!4d121.4740465!16s%2Fg%2F11cmd8ym6j!19sChIJiTFEqjyoQjQRw1vwqHFI9X4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "真豪越泰美食 板橋民治店",
+    "action": "patch",
+    "patch": {
+      "cuisines": [
+        "越式"
+      ],
+      "types": [
+        "小吃",
+        "麵店"
+      ],
+      "description": "越式河粉與法國麵包等選擇，適合日常正餐。"
+    },
+    "previous": {
+      "cuisines": [
+        "台式"
+      ],
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "越式料理",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "牛肉河粉",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "越南麵包",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E7%9C%9F%E8%B1%AA%E8%B6%8A%E6%B3%B0%E7%BE%8E%E9%A3%9F+%E6%9D%BF%E6%A9%8B%E6%B0%91%E6%B2%BB%E5%BA%97/data=!4m7!3m6!1s0x3442a845d7e38813:0x7c64195c7c7d4eb9!8m2!3d25.0308615!4d121.4776707!16s%2Fg%2F11c2jqwn_c!19sChIJE4jj10WoQjQRuU59fFwZZHw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "藍櫃坊熱炒",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "熱炒"
+      ],
+      "description": "海鮮與台式熱炒菜色，可單點分享或搭配白飯。",
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐",
+        "聊天聚會"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "糖醋排骨、鹽酥蝦、酥炸蚵仔、沙茶豬肉",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "八菜一湯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E8%97%8D%E6%AB%83%E5%9D%8A%E7%86%B1%E7%82%92/data=!4m7!3m6!1s0x3442a900432e0ca5:0xedcfcb51278d225c!8m2!3d25.0214232!4d121.4622299!16s%2Fg%2F11y4bfhyt7!19sChIJpQwuQwCpQjQRXCKNJ1HLz-0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "榮饗川味館",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "熱炒",
+        "飯類",
+        "便當"
+      ],
+      "description": "川味熱炒、飯類簡餐與便當，可單點菜色分享。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "每個禮拜都會點便當吃",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "主菜就像熱炒店一樣有鍋氣",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E6%A6%AE%E9%A5%97%E5%B7%9D%E5%91%B3%E9%A4%A8/data=!4m7!3m6!1s0x3442a847217d6ee1:0xbcdd85ebb9a49ef2!8m2!3d25.0284261!4d121.4753964!16s%2Fg%2F11bvcv8hkd!19sChIJ4W59IUeoQjQR8p6kueuF3bw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "唐媽媽特色川菜",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "熱炒"
+      ],
+      "description": "四川風味乾鍋、水煮料理等菜色，適合多人分食。",
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "四川酒家",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "點了綜合乾鍋，水煮牛，剁椒魚",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%94%90%E5%AA%BD%E5%AA%BD%E7%89%B9%E8%89%B2%E5%B7%9D%E8%8F%9C/data=!4m7!3m6!1s0x3442a9f0dc2c87d3:0x3e6ffc70a8c0f02!8m2!3d25.0256646!4d121.4647869!16s%2Fg%2F11hdqjwzj4!19sChIJ04cs3PCpQjQRAg-MCsf_5gM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "星馬廚房",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "飯類"
+      ],
+      "description": "新馬風味飯類主餐與小菜，搭配印度拉茶等飲品。"
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "description": "街區裡的日常用餐選擇。"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "海南雞飯",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "椒麻雞排飯",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E6%98%9F%E9%A6%AC%E5%BB%9A%E6%88%BF/data=!4m7!3m6!1s0x3442a817ac9bd5b1:0x7158a5cb7d55b49b!8m2!3d25.0114605!4d121.4661015!16s%2Fg%2F11c1vpdg70!19sChIJsdWbrBeoQjQRm7RVfculWHE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "蓮花餐廳",
+    "action": "patch",
+    "patch": {
+      "types": [
+        "Buffet",
+        "吃到飽"
+      ],
+      "cuisines": [
+        "泰式",
+        "新馬料理",
+        "印度料理"
+      ],
+      "description": "以泰式及南洋料理為主，提供半自助餐檯與現點現做主食吃到飽。",
+      "price": [
+        1078,
+        1298
+      ],
+      "priceNote": "2026/7/1–12/31 午晚餐成人方案：平日 NT$980＋10%、假日 NT$1,180＋10%，含服務費約 NT$1,078–1,298；早餐與桌菜另計，優惠及價格以餐廳最新公告為準。",
+      "occasions": [
+        "朋友聚餐",
+        "家庭聚餐",
+        "情侶約會"
+      ]
+    },
+    "previous": {
+      "types": [
+        "小吃"
+      ],
+      "cuisines": [
+        "台式"
+      ],
+      "description": "街區裡的日常用餐選擇。",
+      "price": [
+        100,
+        300
+      ],
+      "priceNote": "尚未逐項核對最新菜單；依 Google 店家類型與公開餐點資訊規劃每人 NT$100–300 的參考預算，屬推估，並非已查證售價或店家平均消費。",
+      "occasions": [
+        "一人用餐",
+        "快速用餐"
+      ]
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "五星級飯店的完美泰式料理",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "這次來吃buffet",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E8%93%AE%E8%8A%B1%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a92fa2ef8533:0x6b2e5d07baf96c6d!8m2!3d25.0116977!4d121.4626939!16s%2Fg%2F11thfq85nv!19sChIJM4Xvoi-pQjQRbWz5ugddLms?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      },
+      {
+        "label": "板橋凱撒官方｜2026/7/1–12/31 吃到飽方案與價格",
+        "url": "https://banqiao.caesarpark.com.tw/news-detail/0__65/"
+      },
+      {
+        "label": "板橋凱撒官方｜Lotus 泰饗蓮花餐廳定位與餐飲形式",
+        "url": "https://banqiao.caesarpark.com.tw/dining-detail/lotus-restaurant/"
+      }
+    ]
+  },
+  {
+    "name": "彼得好咖啡 板橋文化店",
+    "action": "patch",
+    "patch": {
+      "childBasis": "Google 公開評論提及兒童餐具與親子用餐，也提到沒有尿布台；設備與規定請向店家確認。"
+    },
+    "previous": {
+      "childBasis": "Google 公開資料有親子用餐記載，並非店家保證"
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-200-maps.json",
+        "excerpt": "店內有兒童餐具，但沒有兒童尿布台",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a9ccbb08a879:0xe65ce04cc727c6fc!8m2!3d25.0202569!4d121.4669265!16s%2Fg%2F11kj71288x!19sChIJeagIu8ypQjQR_MYnx0zgXOY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  },
+  {
+    "name": "埔墘市場",
+    "action": "exclude",
+    "patch": {
+      "excludedReason": "Google 店家類型為街市；目前資料代表整個市場，非可確認菜單及預算的單一餐廳。"
+    },
+    "previous": {
+      "excludedReason": null
+    },
+    "evidence": [
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "街市",
+        "snapshotDate": "2026-10-04"
+      },
+      {
+        "snapshotFile": "expansion-500-maps.json",
+        "excerpt": "市場各種青菜水果海鮮肉品都有還有小吃",
+        "snapshotDate": "2026-10-04"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google Maps 店家頁面與已存檔公開評論",
+        "url": "https://www.google.com/maps/place/%E5%9F%94%E5%A2%98%E5%B8%82%E5%A0%B4/data=!4m7!3m6!1s0x3442a83aef4a30b9:0xfde5685f16543324!8m2!3d25.0173488!4d121.4772882!16s%2Fg%2F11hbmv708h!19sChIJuTBK7zqoQjQRJDNUFl9o5f0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1"
+      }
+    ]
+  }
+]

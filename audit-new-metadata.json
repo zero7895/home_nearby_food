@@ -1,0 +1,2344 @@
+{
+  "老曹餛飩": {
+    "shortName": "老曹餛飩",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "早餐",
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "餛飩麵、麻醬麵與湯品，適合日常用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "餛飩麵",
+      "麻醬麵",
+      "餛飩湯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E6%9B%B9%E9%A4%9B%E9%A3%A9%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E8%8C%B6%E9%A4%A8%E8%A1%9711%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E6%9B%B9%E9%A4%9B%E9%A3%A9+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E8%8C%B6%E9%A4%A8%E8%A1%9711%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E6%9B%B9%E9%A4%9B%E9%A3%A9+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E8%8C%B6%E9%A4%A8%E8%A1%9711%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-001",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 0,
+    "candidateName": "老曹餛飩麵",
+    "routeEvidence": {
+      "walking": {
+        "name": "老曹餛飩",
+        "index": 0,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E6%9B%B9%E9%A4%9B%E9%A3%A9+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E8%8C%B6%E9%A4%A8%E8%A1%9711%E8%99%9F&travelmode=walking",
+        "options": [
+          "32 分\n2.2 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "老曹餛飩",
+        "index": 0,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E6%9B%B9%E9%A4%9B%E9%A3%A9+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E8%8C%B6%E9%A4%A8%E8%A1%9711%E8%99%9F&travelmode=driving",
+        "options": [
+          "14 分\n2.4 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "懷念泡菜臭豆腐": {
+    "shortName": "懷念泡菜臭豆腐",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      65,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$65 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "現炸臭豆腐搭配泡菜，適合外帶小吃。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "泡菜臭豆腐"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%87%B7%E5%BF%B5%E6%B3%A1%E8%8F%9C%E8%87%AD%E8%B1%86%E8%85%90%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E6%96%87%E6%98%8C%E8%A1%971%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%87%B7%E5%BF%B5%E6%B3%A1%E8%8F%9C%E8%87%AD%E8%B1%86%E8%85%90+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E6%96%87%E6%98%8C%E8%A1%971%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%87%B7%E5%BF%B5%E6%B3%A1%E8%8F%9C%E8%87%AD%E8%B1%86%E8%85%90+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E6%96%87%E6%98%8C%E8%A1%971%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-003",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 2,
+    "candidateName": "懷念泡菜臭豆腐",
+    "routeEvidence": {
+      "walking": {
+        "name": "懷念泡菜臭豆腐",
+        "index": 2,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%87%B7%E5%BF%B5%E6%B3%A1%E8%8F%9C%E8%87%AD%E8%B1%86%E8%85%90+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E6%96%87%E6%98%8C%E8%A1%971%E8%99%9F&travelmode=walking",
+        "options": [
+          "33 分\n2.3 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "懷念泡菜臭豆腐",
+        "index": 2,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%87%B7%E5%BF%B5%E6%B3%A1%E8%8F%9C%E8%87%AD%E8%B1%86%E8%85%90+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E6%96%87%E6%98%8C%E8%A1%971%E8%99%9F&travelmode=driving",
+        "options": [
+          "14 分\n2.6 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "林員肉圓": {
+    "shortName": "林員肉圓",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "肉圓與虱目魚丸湯，適合日常小吃或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "肉圓",
+      "虱目魚丸湯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%9E%97%E5%93%A1%E8%82%89%E5%9C%93%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF104%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9E%97%E5%93%A1%E8%82%89%E5%9C%93+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF104%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9E%97%E5%93%A1%E8%82%89%E5%9C%93+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF104%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-004",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 3,
+    "candidateName": "林員肉圓",
+    "routeEvidence": {
+      "walking": {
+        "name": "林員肉圓",
+        "index": 3,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9E%97%E5%93%A1%E8%82%89%E5%9C%93+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF104%E8%99%9F&travelmode=walking",
+        "options": [
+          "34 分\n2.4 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "林員肉圓",
+        "index": 3,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9E%97%E5%93%A1%E8%82%89%E5%9C%93+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%B5%A4%E6%9D%BE%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF104%E8%99%9F&travelmode=driving",
+        "options": [
+          "14 分\n2.5 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "巷弄內 波霸珍珠奶茶": {
+    "shortName": "巷弄內 波霸珍珠奶茶",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "飲料店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      40,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$40 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "珍珠奶茶與外帶茶飲，適合飯後順路帶一杯。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "珍珠奶茶"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%B7%E5%BC%84%E5%85%A7%20%E6%B3%A2%E9%9C%B8%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E4%B8%98%E9%87%8C%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B550%E5%B7%B71%E5%BC%844%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B7%B7%E5%BC%84%E5%85%A7+%E6%B3%A2%E9%9C%B8%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E4%B8%98%E9%87%8C%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B550%E5%B7%B71%E5%BC%844%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B7%B7%E5%BC%84%E5%85%A7+%E6%B3%A2%E9%9C%B8%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E4%B8%98%E9%87%8C%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B550%E5%B7%B71%E5%BC%844%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-005",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 4,
+    "candidateName": "波霸珍珠奶茶",
+    "routeEvidence": {
+      "walking": {
+        "name": "巷弄內 波霸珍珠奶茶",
+        "index": 4,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B7%B7%E5%BC%84%E5%85%A7+%E6%B3%A2%E9%9C%B8%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E4%B8%98%E9%87%8C%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B550%E5%B7%B71%E5%BC%844%E8%99%9F&travelmode=walking",
+        "options": [
+          "32 分\n2.2 公里\n途經縣民大道二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "巷弄內 波霸珍珠奶茶",
+        "index": 4,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B7%B7%E5%BC%84%E5%85%A7+%E6%B3%A2%E9%9C%B8%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E4%B8%98%E9%87%8C%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%B8%80%E6%AE%B550%E5%B7%B71%E5%BC%844%E8%99%9F&travelmode=driving",
+        "options": [
+          "15 分\n2.7 公里\n途經台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "北門田不辣": {
+    "shortName": "北門田不辣",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "甜不辣搭配醬料與熱湯，適合簡單吃一份小吃。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "甜不辣"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E9%96%80%E7%94%B0%E4%B8%8D%E8%BE%A3%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E5%8C%97%E9%96%80%E8%A1%978%E8%99%9F1%E6%A8%93"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8C%97%E9%96%80%E7%94%B0%E4%B8%8D%E8%BE%A3+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E5%8C%97%E9%96%80%E8%A1%978%E8%99%9F1%E6%A8%93&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8C%97%E9%96%80%E7%94%B0%E4%B8%8D%E8%BE%A3+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E5%8C%97%E9%96%80%E8%A1%978%E8%99%9F1%E6%A8%93&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-007",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 6,
+    "candidateName": "北門田不辣",
+    "routeEvidence": {
+      "walking": {
+        "name": "北門田不辣",
+        "index": 6,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8C%97%E9%96%80%E7%94%B0%E4%B8%8D%E8%BE%A3+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E5%8C%97%E9%96%80%E8%A1%978%E8%99%9F1%E6%A8%93&travelmode=walking",
+        "options": [
+          "31 分\n2.1 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "北門田不辣",
+        "index": 6,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8C%97%E9%96%80%E7%94%B0%E4%B8%8D%E8%BE%A3+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BB%83%E7%9F%B3%E9%87%8C%E5%8C%97%E9%96%80%E8%A1%978%E8%99%9F1%E6%A8%93&travelmode=driving",
+        "options": [
+          "13 分\n2.4 公里\n途經台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "野原湳雅胡椒餅 小酥餅": {
+    "shortName": "野原湳雅胡椒餅 小酥餅",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      50,
+      150
+    ],
+    "priceNote": "2026-01 食記列胡椒餅50元；依不同點餐規劃每人 NT$50–150。參考菜單日期可能較舊，非店家統計平均消費。",
+    "description": "胡椒餅與小酥餅，適合外帶點心或簡單用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "胡椒餅",
+      "小酥餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%87%8E%E5%8E%9F%E6%B9%B3%E9%9B%85%E8%83%A1%E6%A4%92%E9%A4%85%20%E5%B0%8F%E9%85%A5%E9%A4%85%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B5%81%E8%8A%B3%E9%87%8C%E9%A4%A8%E5%89%8D%E8%A5%BF%E8%B7%AF127%E4%B9%8B1%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%87%8E%E5%8E%9F%E6%B9%B3%E9%9B%85%E8%83%A1%E6%A4%92%E9%A4%85+%E5%B0%8F%E9%85%A5%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B5%81%E8%8A%B3%E9%87%8C%E9%A4%A8%E5%89%8D%E8%A5%BF%E8%B7%AF127%E4%B9%8B1%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%87%8E%E5%8E%9F%E6%B9%B3%E9%9B%85%E8%83%A1%E6%A4%92%E9%A4%85+%E5%B0%8F%E9%85%A5%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B5%81%E8%8A%B3%E9%87%8C%E9%A4%A8%E5%89%8D%E8%A5%BF%E8%B7%AF127%E4%B9%8B1%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-008",
+    "priceBasis": "menu-reference-estimate",
+    "candidateIndex": 7,
+    "candidateName": "野原湳雅胡椒餅",
+    "routeEvidence": {
+      "walking": {
+        "name": "野原湳雅胡椒餅 小酥餅",
+        "index": 7,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%87%8E%E5%8E%9F%E6%B9%B3%E9%9B%85%E8%83%A1%E6%A4%92%E9%A4%85+%E5%B0%8F%E9%85%A5%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B5%81%E8%8A%B3%E9%87%8C%E9%A4%A8%E5%89%8D%E8%A5%BF%E8%B7%AF127%E4%B9%8B1%E8%99%9F&travelmode=walking",
+        "options": [
+          "35 分\n2.4 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "野原湳雅胡椒餅 小酥餅",
+        "index": 7,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%87%8E%E5%8E%9F%E6%B9%B3%E9%9B%85%E8%83%A1%E6%A4%92%E9%A4%85+%E5%B0%8F%E9%85%A5%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%B5%81%E8%8A%B3%E9%87%8C%E9%A4%A8%E5%89%8D%E8%A5%BF%E8%B7%AF127%E4%B9%8B1%E8%99%9F&travelmode=driving",
+        "options": [
+          "15 分\n2.6 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "方人也鮮奶麻糬(江翠店)": {
+    "shortName": "方人也鮮奶麻糬",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "鮮奶麻糬搭配花生、芝麻或可可，適合外帶分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "花生鮮奶麻糬",
+      "芝麻鮮奶麻糬",
+      "奶香可可鮮奶麻糬"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%96%B9%E4%BA%BA%E4%B9%9F%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%28%E6%B1%9F%E7%BF%A0%E5%BA%97%29%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B520%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://salihaha.com/mochi-lab/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%B9%E4%BA%BA%E4%B9%9F%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%28%E6%B1%9F%E7%BF%A0%E5%BA%97%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B520%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%B9%E4%BA%BA%E4%B9%9F%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%28%E6%B1%9F%E7%BF%A0%E5%BA%97%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B520%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-010",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 9,
+    "candidateName": "方人也鮮奶麻糬江翠店",
+    "routeEvidence": {
+      "walking": {
+        "name": "方人也鮮奶麻糬(江翠店)",
+        "index": 9,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%B9%E4%BA%BA%E4%B9%9F%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%28%E6%B1%9F%E7%BF%A0%E5%BA%97%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B520%E8%99%9F&travelmode=walking",
+        "options": [
+          "15 分\n1.1 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "方人也鮮奶麻糬(江翠店)",
+        "index": 9,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%B9%E4%BA%BA%E4%B9%9F%E9%AE%AE%E5%A5%B6%E9%BA%BB%E7%B3%AC%28%E6%B1%9F%E7%BF%A0%E5%BA%97%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B520%E8%99%9F&travelmode=driving",
+        "options": [
+          "5 分\n1.3 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "白霧時光｜新板傑仕堡店": {
+    "shortName": "白霧時光",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "美式"
+    ],
+    "types": [
+      "早午餐",
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "早午餐、咖啡與手作甜點，適合白天用餐或聊天。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "雲朵日出早午餐",
+      "肉桂捲",
+      "水果焦糖布丁戚風"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E7%99%BD%E9%9C%A7%E6%99%82%E5%85%89%EF%BD%9C%E6%96%B0%E6%9D%BF%E5%82%91%E4%BB%95%E5%A0%A1%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%99%BE%E5%A3%BD%E9%87%8C%E6%96%87%E5%8C%96%E8%B7%AF%E4%B8%80%E6%AE%B5188%E5%B7%B759%E8%99%9F%E4%B8%80%E6%A8%93"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.shera.tw/white-mist/"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://inline.app/booking/-OgBUn4Ndo17s2TC5IDS%3Ainline-live-4"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%99%BD%E9%9C%A7%E6%99%82%E5%85%89%EF%BD%9C%E6%96%B0%E6%9D%BF%E5%82%91%E4%BB%95%E5%A0%A1%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%99%BE%E5%A3%BD%E9%87%8C%E6%96%87%E5%8C%96%E8%B7%AF%E4%B8%80%E6%AE%B5188%E5%B7%B759%E8%99%9F%E4%B8%80%E6%A8%93&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%99%BD%E9%9C%A7%E6%99%82%E5%85%89%EF%BD%9C%E6%96%B0%E6%9D%BF%E5%82%91%E4%BB%95%E5%A0%A1%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%99%BE%E5%A3%BD%E9%87%8C%E6%96%87%E5%8C%96%E8%B7%AF%E4%B8%80%E6%AE%B5188%E5%B7%B759%E8%99%9F%E4%B8%80%E6%A8%93&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-011",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 10,
+    "candidateName": "白霧時光 White Mist 新板傑仕堡店",
+    "routeEvidence": {
+      "walking": {
+        "name": "白霧時光｜新板傑仕堡店",
+        "index": 10,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%99%BD%E9%9C%A7%E6%99%82%E5%85%89%EF%BD%9C%E6%96%B0%E6%9D%BF%E5%82%91%E4%BB%95%E5%A0%A1%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%99%BE%E5%A3%BD%E9%87%8C%E6%96%87%E5%8C%96%E8%B7%AF%E4%B8%80%E6%AE%B5188%E5%B7%B759%E8%99%9F%E4%B8%80%E6%A8%93&travelmode=walking",
+        "options": [
+          "14 分\n1.0 公里\n途經萬板路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "白霧時光｜新板傑仕堡店",
+        "index": 10,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%99%BD%E9%9C%A7%E6%99%82%E5%85%89%EF%BD%9C%E6%96%B0%E6%9D%BF%E5%82%91%E4%BB%95%E5%A0%A1%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%99%BE%E5%A3%BD%E9%87%8C%E6%96%87%E5%8C%96%E8%B7%AF%E4%B8%80%E6%AE%B5188%E5%B7%B759%E8%99%9F%E4%B8%80%E6%A8%93&travelmode=driving",
+        "options": [
+          "6 分\n1.1 公里\n途經介壽街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "鏊屋 串燒/壽司/酒場-板橋新埔店": {
+    "shortName": "鏊屋 串燒/壽司/酒場-板橋新埔店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋",
+      "壽司",
+      "丼飯"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      1000
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "日式丼飯、壽司與串燒，適合用餐或朋友聚會。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "綜合生魚片蓋飯",
+      "鮭魚親子蓋飯",
+      "烤鯖魚蓋飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%8F%8A%E5%B1%8B%20%E4%B8%B2%E7%87%92/%E5%A3%BD%E5%8F%B8/%E9%85%92%E5%A0%B4-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E9%99%BD%E6%98%8E%E8%A1%97105%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://page.line.me/heh5470b"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.ubereats.com/store/鏊屋-板橋新埔店/wPBldoDqXFiFTsgEy0_fcw"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%8F%8A%E5%B1%8B+%E4%B8%B2%E7%87%92%2F%E5%A3%BD%E5%8F%B8%2F%E9%85%92%E5%A0%B4-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E9%99%BD%E6%98%8E%E8%A1%97105%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%8F%8A%E5%B1%8B+%E4%B8%B2%E7%87%92%2F%E5%A3%BD%E5%8F%B8%2F%E9%85%92%E5%A0%B4-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E9%99%BD%E6%98%8E%E8%A1%97105%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-012",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$400-1,000",
+    "candidateIndex": 11,
+    "candidateName": "鏊屋 串燒壽司酒場 板橋新埔店",
+    "routeEvidence": {
+      "walking": {
+        "name": "鏊屋 串燒/壽司/酒場-板橋新埔店",
+        "index": 11,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%8F%8A%E5%B1%8B+%E4%B8%B2%E7%87%92%2F%E5%A3%BD%E5%8F%B8%2F%E9%85%92%E5%A0%B4-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E9%99%BD%E6%98%8E%E8%A1%97105%E8%99%9F&travelmode=walking",
+        "options": [
+          "14 分\n900 公尺\n途經陽明街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "鏊屋 串燒/壽司/酒場-板橋新埔店",
+        "index": 11,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%8F%8A%E5%B1%8B+%E4%B8%B2%E7%87%92%2F%E5%A3%BD%E5%8F%B8%2F%E9%85%92%E5%A0%B4-%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E9%99%BD%E6%98%8E%E8%A1%97105%E8%99%9F&travelmode=driving",
+        "options": [
+          "9 分\n1.2 公里\n途經台3線和陽明街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "貓爪爪貓咪咖啡廳(未滿12歲孩童請電話預約)": {
+    "shortName": "貓爪爪貓咪咖啡廳",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "咖啡廳",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "咖哩飯、燒肉飯與飲品，適合喜歡貓咪的用餐者。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。店名標示預約制，請先向店家確認。兒童入店與訂位規定請先詢問店家。",
+    "dishes": [
+      "薑汁燒肉",
+      "炭燒牛",
+      "炸豬排咖哩"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%93%E7%88%AA%E7%88%AA%E8%B2%93%E5%92%AA%E5%92%96%E5%95%A1%E5%BB%B3%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E8%AB%8B%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%29%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BF%E6%96%B0%E8%B7%AF88%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://omega.taipei/cat-pawpaw/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%B2%93%E7%88%AA%E7%88%AA%E8%B2%93%E5%92%AA%E5%92%96%E5%95%A1%E5%BB%B3%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E8%AB%8B%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BF%E6%96%B0%E8%B7%AF88%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%B2%93%E7%88%AA%E7%88%AA%E8%B2%93%E5%92%AA%E5%92%96%E5%95%A1%E5%BB%B3%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E8%AB%8B%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BF%E6%96%B0%E8%B7%AF88%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-014",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 13,
+    "candidateName": "貓爪爪貓咪咖啡廳",
+    "routeEvidence": {
+      "walking": {
+        "name": "貓爪爪貓咪咖啡廳(未滿12歲孩童請電話預約)",
+        "index": 13,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%B2%93%E7%88%AA%E7%88%AA%E8%B2%93%E5%92%AA%E5%92%96%E5%95%A1%E5%BB%B3%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E8%AB%8B%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BF%E6%96%B0%E8%B7%AF88%E8%99%9F&travelmode=walking",
+        "options": [
+          "18 分\n1.2 公里\n途經民生路二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "貓爪爪貓咪咖啡廳(未滿12歲孩童請電話預約)",
+        "index": 13,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%B2%93%E7%88%AA%E7%88%AA%E8%B2%93%E5%92%AA%E5%92%96%E5%95%A1%E5%BB%B3%28%E6%9C%AA%E6%BB%BF12%E6%AD%B2%E5%AD%A9%E7%AB%A5%E8%AB%8B%E9%9B%BB%E8%A9%B1%E9%A0%90%E7%B4%84%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BF%E6%96%B0%E8%B7%AF88%E8%99%9F&travelmode=driving",
+        "options": [
+          "8 分\n1.4 公里\n途經新北市特一號道路/106甲縣道和板新路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "咖哩樹 板橋環球店": {
+    "shortName": "咖哩樹 板橋環球店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "咖哩飯與配餐，適合在車站商場吃一份主餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "慢燉牛咖哩飯",
+      "嫩燉豬奶油咖哩飯",
+      "嫩煎鯖魚咖哩飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%93%A9%E6%A8%B9%20%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5%E4%B8%83%E8%99%9FB1"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.currytree.com.tw/"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://jeremyfoodie.tw/currytree-banqiao/"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.foodpanda.com.tw/restaurant/k918/ka-li-shu-huan-qiu-gou-wu-zhong-xin-ban-qiao-che-zhan"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%92%96%E5%93%A9%E6%A8%B9+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5%E4%B8%83%E8%99%9FB1&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%92%96%E5%93%A9%E6%A8%B9+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5%E4%B8%83%E8%99%9FB1&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-015",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 14,
+    "candidateName": "咖哩樹 板橋環球店",
+    "routeEvidence": {
+      "walking": {
+        "name": "咖哩樹 板橋環球店",
+        "index": 14,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%92%96%E5%93%A9%E6%A8%B9+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5%E4%B8%83%E8%99%9FB1&travelmode=walking",
+        "options": [
+          "22 分\n1.5 公里\n途經縣民大道二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "咖哩樹 板橋環球店",
+        "index": 14,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%92%96%E5%93%A9%E6%A8%B9+%E6%9D%BF%E6%A9%8B%E7%92%B0%E7%90%83%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5%E4%B8%83%E8%99%9FB1&travelmode=driving",
+        "options": [
+          "11 分\n1.5 公里\n途經縣民大道二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "CURISTA COFFEE奎士咖啡 環球板橋車站店": {
+    "shortName": "CURISTA COFFEE奎士咖啡 環球板橋車站店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "不適用（咖啡／茶飲）"
+    ],
+    "types": [
+      "咖啡廳",
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      150,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$150 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "特色咖啡搭配巴斯克乳酪蛋糕，適合短暫休息。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "單品咖啡拿鐵",
+      "鹿兒島抹茶巴斯克",
+      "巴斯克乳酪蛋糕"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=CURISTA%20COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1%20%E7%92%B0%E7%90%83%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B57%E8%99%9F%20%E8%99%9F%20B1"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://www.ubereats.com/tw-en/store/curista-coffee奎士咖啡-環球板橋車站店/2QLMV-PhVCWKzJa0pk_COQ"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CURISTA+COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1+%E7%92%B0%E7%90%83%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B57%E8%99%9F+%E8%99%9F+B1&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CURISTA+COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1+%E7%92%B0%E7%90%83%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B57%E8%99%9F+%E8%99%9F+B1&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-016",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 15,
+    "candidateName": "CURISTA COFFEE奎士咖啡 環球板橋車站店",
+    "routeEvidence": {
+      "walking": {
+        "name": "CURISTA COFFEE奎士咖啡 環球板橋車站店",
+        "index": 15,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CURISTA+COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1+%E7%92%B0%E7%90%83%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B57%E8%99%9F+%E8%99%9F+B1&travelmode=walking",
+        "options": [
+          "22 分\n1.5 公里\n途經縣民大道二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "CURISTA COFFEE奎士咖啡 環球板橋車站店",
+        "index": 15,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CURISTA+COFFEE%E5%A5%8E%E5%A3%AB%E5%92%96%E5%95%A1+%E7%92%B0%E7%90%83%E6%9D%BF%E6%A9%8B%E8%BB%8A%E7%AB%99%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%B8%A3%E6%B0%91%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B57%E8%99%9F+%E8%99%9F+B1&travelmode=driving",
+        "options": [
+          "11 分\n1.5 公里\n途經縣民大道二段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "閣樓餐酒館ABV Bar & Kitchen 板橋府中店": {
+    "shortName": "閣樓餐酒館ABV Bar & Kitchen 板橋府中店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "餐酒館"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "情侶約會",
+      "朋友聚餐",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      1200
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "精釀啤酒與異國共享餐點，適合朋友聚餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "經典比利時白酒淡菜鍋",
+      "黑啤酒馬鈴薯炒香腸",
+      "鮮蔬南瓜奶油大貝殼麵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%96%A3%E6%A8%93%E9%A4%90%E9%85%92%E9%A4%A8ABV%20Bar%20%26%20Kitchen%20%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%8C%B9%E7%A7%80%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF67%E8%99%9F12%E6%A8%93"
+      },
+      {
+        "label": "官網仍列府中分店與菜單",
+        "url": "https://www.abv.com.tw/penthouse-menu/"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://kkmurmur.com/abv-penthouse/"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://omega.taipei/abv-banqiao/"
+      },
+      {
+        "label": "食記2026查證更新聲称Maps暫時關閉，非當前Maps直接證據",
+        "url": "https://cold91.com/abv-bar/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%A3%E6%A8%93%E9%A4%90%E9%85%92%E9%A4%A8ABV+Bar+%26+Kitchen+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%8C%B9%E7%A7%80%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF67%E8%99%9F12%E6%A8%93&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%A3%E6%A8%93%E9%A4%90%E9%85%92%E9%A4%A8ABV+Bar+%26+Kitchen+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%8C%B9%E7%A7%80%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF67%E8%99%9F12%E6%A8%93&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-017",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$400-1,200",
+    "candidateIndex": 16,
+    "candidateName": "ABV閣樓餐酒館 板橋府中店",
+    "routeEvidence": {
+      "walking": {
+        "name": "閣樓餐酒館ABV Bar & Kitchen 板橋府中店",
+        "index": 16,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%A3%E6%A8%93%E9%A4%90%E9%85%92%E9%A4%A8ABV+Bar+%26+Kitchen+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%8C%B9%E7%A7%80%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF67%E8%99%9F12%E6%A8%93&travelmode=walking",
+        "options": [
+          "33 分\n2.2 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "閣樓餐酒館ABV Bar & Kitchen 板橋府中店",
+        "index": 16,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%A3%E6%A8%93%E9%A4%90%E9%85%92%E9%A4%A8ABV+Bar+%26+Kitchen+%E6%9D%BF%E6%A9%8B%E5%BA%9C%E4%B8%AD%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%8C%B9%E7%A7%80%E9%87%8C%E5%BA%9C%E4%B8%AD%E8%B7%AF67%E8%99%9F12%E6%A8%93&travelmode=driving",
+        "options": [
+          "14 分\n2.4 公里\n途經文化路一段"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "花蓮光復高麗菜煎餅-板橋店（無預訂）": {
+    "shortName": "花蓮光復高麗菜煎餅-板橋店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      40,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$40 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "高麗菜煎餅，適合外帶鹹點心。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "高麗菜煎餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E9%AB%98%E9%BA%97%E8%8F%9C%E7%85%8E%E9%A4%85-%E6%9D%BF%E6%A9%8B%E5%BA%97%EF%BC%88%E7%84%A1%E9%A0%90%E8%A8%82%EF%BC%89%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E7%BF%A0%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%971%E5%B7%B743%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E9%AB%98%E9%BA%97%E8%8F%9C%E7%85%8E%E9%A4%85-%E6%9D%BF%E6%A9%8B%E5%BA%97%EF%BC%88%E7%84%A1%E9%A0%90%E8%A8%82%EF%BC%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E7%BF%A0%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%971%E5%B7%B743%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E9%AB%98%E9%BA%97%E8%8F%9C%E7%85%8E%E9%A4%85-%E6%9D%BF%E6%A9%8B%E5%BA%97%EF%BC%88%E7%84%A1%E9%A0%90%E8%A8%82%EF%BC%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E7%BF%A0%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%971%E5%B7%B743%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-018",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 17,
+    "candidateName": "花蓮光復高麗菜煎餅 板橋店",
+    "routeEvidence": {
+      "walking": {
+        "name": "花蓮光復高麗菜煎餅-板橋店（無預訂）",
+        "index": 17,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E9%AB%98%E9%BA%97%E8%8F%9C%E7%85%8E%E9%A4%85-%E6%9D%BF%E6%A9%8B%E5%BA%97%EF%BC%88%E7%84%A1%E9%A0%90%E8%A8%82%EF%BC%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E7%BF%A0%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%971%E5%B7%B743%E8%99%9F&travelmode=walking",
+        "options": [
+          "14 分\n1.0 公里\n途經莊敬路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "花蓮光復高麗菜煎餅-板橋店（無預訂）",
+        "index": 17,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%8A%B1%E8%93%AE%E5%85%89%E5%BE%A9%E9%AB%98%E9%BA%97%E8%8F%9C%E7%85%8E%E9%A4%85-%E6%9D%BF%E6%A9%8B%E5%BA%97%EF%BC%88%E7%84%A1%E9%A0%90%E8%A8%82%EF%BC%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E7%BF%A0%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%971%E5%B7%B743%E8%99%9F&travelmode=driving",
+        "options": [
+          "5 分\n1.3 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "奇郁炸雞": {
+    "shortName": "奇郁炸雞",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "晚餐",
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      400
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$400 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "炸雞翅、腿排與薯條，適合外帶或朋友分享。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "炸雞翅",
+      "炸腿排",
+      "地瓜薯條"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%A5%87%E9%83%81%E7%82%B8%E9%9B%9E%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%BA%AA%E9%A0%AD%E9%87%8C%E6%B1%9F%E5%AF%A7%E8%B7%AF%E4%B8%89%E6%AE%B5119%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A5%87%E9%83%81%E7%82%B8%E9%9B%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%BA%AA%E9%A0%AD%E9%87%8C%E6%B1%9F%E5%AF%A7%E8%B7%AF%E4%B8%89%E6%AE%B5119%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A5%87%E9%83%81%E7%82%B8%E9%9B%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%BA%AA%E9%A0%AD%E9%87%8C%E6%B1%9F%E5%AF%A7%E8%B7%AF%E4%B8%89%E6%AE%B5119%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-019",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-400",
+    "candidateIndex": 18,
+    "candidateName": "奇郁炸雞",
+    "routeEvidence": {
+      "walking": {
+        "name": "奇郁炸雞",
+        "index": 18,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A5%87%E9%83%81%E7%82%B8%E9%9B%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%BA%AA%E9%A0%AD%E9%87%8C%E6%B1%9F%E5%AF%A7%E8%B7%AF%E4%B8%89%E6%AE%B5119%E8%99%9F&travelmode=walking",
+        "options": [
+          "20 分\n1.5 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "奇郁炸雞",
+        "index": 18,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A5%87%E9%83%81%E7%82%B8%E9%9B%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%BA%AA%E9%A0%AD%E9%87%8C%E6%B1%9F%E5%AF%A7%E8%B7%AF%E4%B8%89%E6%AE%B5119%E8%99%9F&travelmode=driving",
+        "options": [
+          "7 分\n1.7 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "下港蚵嗲": {
+    "shortName": "下港蚵嗲",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      50,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$50 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "蚵嗲與炸蔬菜，適合外帶古早味小吃。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "蚵嗲",
+      "炸地瓜",
+      "炸韭菜"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%8B%E6%B8%AF%E8%9A%B5%E5%97%B2%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BE%8D%E7%BF%A0%E9%87%8C%E5%A4%A7%E5%90%8C%E8%A1%9724-2%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E4%B8%8B%E6%B8%AF%E8%9A%B5%E5%97%B2+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BE%8D%E7%BF%A0%E9%87%8C%E5%A4%A7%E5%90%8C%E8%A1%9724-2%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E4%B8%8B%E6%B8%AF%E8%9A%B5%E5%97%B2+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BE%8D%E7%BF%A0%E9%87%8C%E5%A4%A7%E5%90%8C%E8%A1%9724-2%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-020",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 19,
+    "candidateName": "下港蚵嗲",
+    "routeEvidence": {
+      "walking": {
+        "name": "下港蚵嗲",
+        "index": 19,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E4%B8%8B%E6%B8%AF%E8%9A%B5%E5%97%B2+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BE%8D%E7%BF%A0%E9%87%8C%E5%A4%A7%E5%90%8C%E8%A1%9724-2%E8%99%9F&travelmode=walking",
+        "options": [
+          "17 分\n1.2 公里\n途經莒光路和雙十路二段47巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "下港蚵嗲",
+        "index": 19,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E4%B8%8B%E6%B8%AF%E8%9A%B5%E5%97%B2+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%BE%8D%E7%BF%A0%E9%87%8C%E5%A4%A7%E5%90%8C%E8%A1%9724-2%E8%99%9F&travelmode=driving",
+        "options": [
+          "7 分\n1.9 公里\n途經文化路二段/台3線和雙十路二段/北91鄉道"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "鐵皮屋麵攤(懷德街米苔目)": {
+    "shortName": "鐵皮屋麵攤",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "早餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "米苔目與黑白切，適合早上或中午吃一碗熱湯麵。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "米苔目",
+      "黑白切"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%90%B5%E7%9A%AE%E5%B1%8B%E9%BA%B5%E6%94%A4%28%E6%87%B7%E5%BE%B7%E8%A1%97%E7%B1%B3%E8%8B%94%E7%9B%AE%29%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97211%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%90%B5%E7%9A%AE%E5%B1%8B%E9%BA%B5%E6%94%A4%28%E6%87%B7%E5%BE%B7%E8%A1%97%E7%B1%B3%E8%8B%94%E7%9B%AE%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97211%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%90%B5%E7%9A%AE%E5%B1%8B%E9%BA%B5%E6%94%A4%28%E6%87%B7%E5%BE%B7%E8%A1%97%E7%B1%B3%E8%8B%94%E7%9B%AE%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97211%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-022",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 21,
+    "candidateName": "鐵皮屋麵攤 懷德街米苔目",
+    "routeEvidence": {
+      "walking": {
+        "name": "鐵皮屋麵攤(懷德街米苔目)",
+        "index": 21,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%90%B5%E7%9A%AE%E5%B1%8B%E9%BA%B5%E6%94%A4%28%E6%87%B7%E5%BE%B7%E8%A1%97%E7%B1%B3%E8%8B%94%E7%9B%AE%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97211%E8%99%9F&travelmode=walking",
+        "options": [
+          "20 分\n1.5 公里\n途經大同街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "鐵皮屋麵攤(懷德街米苔目)",
+        "index": 21,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%90%B5%E7%9A%AE%E5%B1%8B%E9%BA%B5%E6%94%A4%28%E6%87%B7%E5%BE%B7%E8%A1%97%E7%B1%B3%E8%8B%94%E7%9B%AE%29+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E7%A6%8F%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97211%E8%99%9F&travelmode=driving",
+        "options": [
+          "8 分\n2.2 公里\n途經文化路二段/台3線和雙十路二段/北91鄉道"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "潘 古早味滷肉飯": {
+    "shortName": "潘 古早味滷肉飯",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "飯類",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "手切滷肉飯與雞肉飯，適合日常用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "手切滷肉飯",
+      "雞肉飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%BD%98%20%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97162%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%BD%98+%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97162%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%BD%98+%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97162%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-023",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 22,
+    "candidateName": "潘古早味滷肉飯",
+    "routeEvidence": {
+      "walking": {
+        "name": "潘 古早味滷肉飯",
+        "index": 22,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%BD%98+%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97162%E8%99%9F&travelmode=walking",
+        "options": [
+          "22 分\n1.6 公里\n途經莊敬路和松柏街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "潘 古早味滷肉飯",
+        "index": 22,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%BD%98+%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%87%B7%E5%BE%B7%E8%A1%97162%E8%99%9F&travelmode=driving",
+        "options": [
+          "8 分\n2.1 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "天天豆花-新北 板橋冰品飲料店推薦 古早味美食首選 必吃傳統冰店 人氣綠豆湯 紅豆湯 豆漿 高CP值剉冰 楊桃汁 新北甜品推薦 探店小吃 熱門甜點老店 食尚玩家推薦美食打卡老店": {
+    "shortName": "天天豆花",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      45,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$45 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "豆花與豆漿甜品，適合飯後甜點或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "糖水冰沙豆花",
+      "豆漿豆花",
+      "綠豆湯豆花"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E5%A4%A9%E8%B1%86%E8%8A%B1-%E6%96%B0%E5%8C%97%20%E6%9D%BF%E6%A9%8B%E5%86%B0%E5%93%81%E9%A3%B2%E6%96%99%E5%BA%97%E6%8E%A8%E8%96%A6%20%E5%8F%A4%E6%97%A9%E5%91%B3%E7%BE%8E%E9%A3%9F%E9%A6%96%E9%81%B8%20%E5%BF%85%E5%90%83%E5%82%B3%E7%B5%B1%E5%86%B0%E5%BA%97%20%E4%BA%BA%E6%B0%A3%E7%B6%A0%E8%B1%86%E6%B9%AF%20%E7%B4%85%E8%B1%86%E6%B9%AF%20%E8%B1%86%E6%BC%BF%20%E9%AB%98CP%E5%80%BC%E5%89%89%E5%86%B0%20%E6%A5%8A%E6%A1%83%E6%B1%81%20%E6%96%B0%E5%8C%97%E7%94%9C%E5%93%81%E6%8E%A8%E8%96%A6%20%E6%8E%A2%E5%BA%97%E5%B0%8F%E5%90%83%20%E7%86%B1%E9%96%80%E7%94%9C%E9%BB%9E%E8%80%81%E5%BA%97%20%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8D%A1%E8%80%81%E5%BA%97%2022045%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9728%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A4%A9%E5%A4%A9%E8%B1%86%E8%8A%B1-%E6%96%B0%E5%8C%97+%E6%9D%BF%E6%A9%8B%E5%86%B0%E5%93%81%E9%A3%B2%E6%96%99%E5%BA%97%E6%8E%A8%E8%96%A6+%E5%8F%A4%E6%97%A9%E5%91%B3%E7%BE%8E%E9%A3%9F%E9%A6%96%E9%81%B8+%E5%BF%85%E5%90%83%E5%82%B3%E7%B5%B1%E5%86%B0%E5%BA%97+%E4%BA%BA%E6%B0%A3%E7%B6%A0%E8%B1%86%E6%B9%AF+%E7%B4%85%E8%B1%86%E6%B9%AF+%E8%B1%86%E6%BC%BF+%E9%AB%98CP%E5%80%BC%E5%89%89%E5%86%B0+%E6%A5%8A%E6%A1%83%E6%B1%81+%E6%96%B0%E5%8C%97%E7%94%9C%E5%93%81%E6%8E%A8%E8%96%A6+%E6%8E%A2%E5%BA%97%E5%B0%8F%E5%90%83+%E7%86%B1%E9%96%80%E7%94%9C%E9%BB%9E%E8%80%81%E5%BA%97+%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8D%A1%E8%80%81%E5%BA%97+22045%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9728%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A4%A9%E5%A4%A9%E8%B1%86%E8%8A%B1-%E6%96%B0%E5%8C%97+%E6%9D%BF%E6%A9%8B%E5%86%B0%E5%93%81%E9%A3%B2%E6%96%99%E5%BA%97%E6%8E%A8%E8%96%A6+%E5%8F%A4%E6%97%A9%E5%91%B3%E7%BE%8E%E9%A3%9F%E9%A6%96%E9%81%B8+%E5%BF%85%E5%90%83%E5%82%B3%E7%B5%B1%E5%86%B0%E5%BA%97+%E4%BA%BA%E6%B0%A3%E7%B6%A0%E8%B1%86%E6%B9%AF+%E7%B4%85%E8%B1%86%E6%B9%AF+%E8%B1%86%E6%BC%BF+%E9%AB%98CP%E5%80%BC%E5%89%89%E5%86%B0+%E6%A5%8A%E6%A1%83%E6%B1%81+%E6%96%B0%E5%8C%97%E7%94%9C%E5%93%81%E6%8E%A8%E8%96%A6+%E6%8E%A2%E5%BA%97%E5%B0%8F%E5%90%83+%E7%86%B1%E9%96%80%E7%94%9C%E9%BB%9E%E8%80%81%E5%BA%97+%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8D%A1%E8%80%81%E5%BA%97+22045%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9728%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-024",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 23,
+    "candidateName": "天天豆花",
+    "routeEvidence": {
+      "walking": {
+        "name": "天天豆花-新北 板橋冰品飲料店推薦 古早味美食首選 必吃傳統冰店 人氣綠豆湯 紅豆湯 豆漿 高CP值剉冰 楊桃汁 新北甜品推薦 探店小吃 熱門甜點老店 食尚玩家推薦美食打卡老店",
+        "index": 23,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A4%A9%E5%A4%A9%E8%B1%86%E8%8A%B1-%E6%96%B0%E5%8C%97+%E6%9D%BF%E6%A9%8B%E5%86%B0%E5%93%81%E9%A3%B2%E6%96%99%E5%BA%97%E6%8E%A8%E8%96%A6+%E5%8F%A4%E6%97%A9%E5%91%B3%E7%BE%8E%E9%A3%9F%E9%A6%96%E9%81%B8+%E5%BF%85%E5%90%83%E5%82%B3%E7%B5%B1%E5%86%B0%E5%BA%97+%E4%BA%BA%E6%B0%A3%E7%B6%A0%E8%B1%86%E6%B9%AF+%E7%B4%85%E8%B1%86%E6%B9%AF+%E8%B1%86%E6%BC%BF+%E9%AB%98CP%E5%80%BC%E5%89%89%E5%86%B0+%E6%A5%8A%E6%A1%83%E6%B1%81+%E6%96%B0%E5%8C%97%E7%94%9C%E5%93%81%E6%8E%A8%E8%96%A6+%E6%8E%A2%E5%BA%97%E5%B0%8F%E5%90%83+%E7%86%B1%E9%96%80%E7%94%9C%E9%BB%9E%E8%80%81%E5%BA%97+%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8D%A1%E8%80%81%E5%BA%97+22045%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9728%E8%99%9F&travelmode=walking",
+        "options": [
+          "25 分\n1.8 公里\n途經台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "天天豆花-新北 板橋冰品飲料店推薦 古早味美食首選 必吃傳統冰店 人氣綠豆湯 紅豆湯 豆漿 高CP值剉冰 楊桃汁 新北甜品推薦 探店小吃 熱門甜點老店 食尚玩家推薦美食打卡老店",
+        "index": 23,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A4%A9%E5%A4%A9%E8%B1%86%E8%8A%B1-%E6%96%B0%E5%8C%97+%E6%9D%BF%E6%A9%8B%E5%86%B0%E5%93%81%E9%A3%B2%E6%96%99%E5%BA%97%E6%8E%A8%E8%96%A6+%E5%8F%A4%E6%97%A9%E5%91%B3%E7%BE%8E%E9%A3%9F%E9%A6%96%E9%81%B8+%E5%BF%85%E5%90%83%E5%82%B3%E7%B5%B1%E5%86%B0%E5%BA%97+%E4%BA%BA%E6%B0%A3%E7%B6%A0%E8%B1%86%E6%B9%AF+%E7%B4%85%E8%B1%86%E6%B9%AF+%E8%B1%86%E6%BC%BF+%E9%AB%98CP%E5%80%BC%E5%89%89%E5%86%B0+%E6%A5%8A%E6%A1%83%E6%B1%81+%E6%96%B0%E5%8C%97%E7%94%9C%E5%93%81%E6%8E%A8%E8%96%A6+%E6%8E%A2%E5%BA%97%E5%B0%8F%E5%90%83+%E7%86%B1%E9%96%80%E7%94%9C%E9%BB%9E%E8%80%81%E5%BA%97+%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F%E6%89%93%E5%8D%A1%E8%80%81%E5%BA%97+22045%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9728%E8%99%9F&travelmode=driving",
+        "options": [
+          "6 分\n1.9 公里\n途經台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "日向紅豆餅": {
+    "shortName": "日向紅豆餅",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      25,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$25 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "紅豆、奶油與芋頭車輪餅，適合外帶點心。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "紅豆車輪餅",
+      "奶油車輪餅",
+      "芋頭車輪餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E5%90%91%E7%B4%85%E8%B1%86%E9%A4%85%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%97117%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jiangzicui/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A5%E5%90%91%E7%B4%85%E8%B1%86%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%97117%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A5%E5%90%91%E7%B4%85%E8%B1%86%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%97117%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-025",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 24,
+    "candidateName": "日向紅豆餅",
+    "routeEvidence": {
+      "walking": {
+        "name": "日向紅豆餅",
+        "index": 24,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A5%E5%90%91%E7%B4%85%E8%B1%86%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%97117%E8%99%9F&travelmode=walking",
+        "options": [
+          "20 分\n1.5 公里\n途經莊敬路和松柏街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "日向紅豆餅",
+        "index": 24,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A5%E5%90%91%E7%B4%85%E8%B1%86%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%B5%90%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%97117%E8%99%9F&travelmode=driving",
+        "options": [
+          "8 分\n2.4 公里\n途經台3線和民治街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "牛肉麵": {
+    "shortName": "莒光路27巷牛肉麵",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      100,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$100 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "紅燒牛肉麵、水餃與乾麵，適合晚間日常用餐。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "紅燒牛肉麵",
+      "水餃",
+      "乾麵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E7%89%9B%E8%82%89%E9%BA%B5%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF27%E5%B7%B74%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/juguang27/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%89%9B%E8%82%89%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF27%E5%B7%B74%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%89%9B%E8%82%89%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF27%E5%B7%B74%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-026",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 25,
+    "candidateName": "莒光路27巷牛肉麵",
+    "routeEvidence": {
+      "walking": {
+        "name": "牛肉麵",
+        "index": 25,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%89%9B%E8%82%89%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF27%E5%B7%B74%E8%99%9F&travelmode=walking",
+        "options": [
+          "4 分\n260 公尺\n途經莒光路40巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "牛肉麵",
+        "index": 25,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E7%89%9B%E8%82%89%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF27%E5%B7%B74%E8%99%9F&travelmode=driving",
+        "options": [
+          "2 分\n260 公尺\n途經莒光路40巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "文宗涼麵": {
+    "shortName": "文宗涼麵",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$60 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "涼麵搭配味噌湯，適合日常用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "文宗涼麵",
+      "三合一湯",
+      "無蒜涼麵"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%96%87%E5%AE%97%E6%B6%BC%E9%BA%B5%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%87%B7%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9767%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://may128.com/wenzong-cold-noodles/"
+      },
+      {
+        "label": "店名英譯阿宗，菜單直接說文宗涼麵（阿宗涼麵）",
+        "url": "https://www.foodpanda.com.tw/en/restaurant/cdpr/a-zong-liang-mian"
+      },
+      {
+        "label": "同名外送菜單",
+        "url": "https://www.ubereats.com/tw/store/文宗涼麵/ns82V64EUVOFtaYPztkKtQ"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%87%E5%AE%97%E6%B6%BC%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%87%B7%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9767%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%87%E5%AE%97%E6%B6%BC%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%87%B7%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9767%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-027",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 26,
+    "candidateName": "文宗涼麵",
+    "routeEvidence": {
+      "walking": {
+        "name": "文宗涼麵",
+        "index": 26,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%87%E5%AE%97%E6%B6%BC%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%87%B7%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9767%E8%99%9F&travelmode=walking",
+        "options": [
+          "24 分\n1.7 公里\n途經莊敬路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "文宗涼麵",
+        "index": 26,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%96%87%E5%AE%97%E6%B6%BC%E9%BA%B5+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%87%B7%E7%BF%A0%E9%87%8C%E6%B0%91%E6%B2%BB%E8%A1%9767%E8%99%9F&travelmode=driving",
+        "options": [
+          "7 分\n2.2 公里\n途經台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "阿婆蔥肉餅": {
+    "shortName": "阿婆蔥肉餅",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      25,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報區間為 NT$200 以下；下限 NT$25 為同店餐點與店型的參考預算，非已查證最低消費。",
+    "description": "蔥肉餅、蘿蔔絲餅與高麗菜餅，適合外帶鹹點心。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。攤位出攤位置與售完時間請先確認。",
+    "dishes": [
+      "蘿蔔絲餅",
+      "蔥肉餅",
+      "高麗菜餅"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%98%BF%E5%A9%86%E8%94%A5%E8%82%89%E9%A4%85%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF38%E8%99%9F%E5%85%A8%E5%AE%B6%E9%96%80%E5%8F%A3"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/apo/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%98%BF%E5%A9%86%E8%94%A5%E8%82%89%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF38%E8%99%9F%E5%85%A8%E5%AE%B6%E9%96%80%E5%8F%A3&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%98%BF%E5%A9%86%E8%94%A5%E8%82%89%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF38%E8%99%9F%E5%85%A8%E5%AE%B6%E9%96%80%E5%8F%A3&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-028",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "candidateIndex": 27,
+    "candidateName": "阿婆蔥肉餅",
+    "routeEvidence": {
+      "walking": {
+        "name": "阿婆蔥肉餅",
+        "index": 27,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%98%BF%E5%A9%86%E8%94%A5%E8%82%89%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF38%E8%99%9F%E5%85%A8%E5%AE%B6%E9%96%80%E5%8F%A3&travelmode=walking",
+        "options": [
+          "3 分\n200 公尺\n途經莒光路40巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "阿婆蔥肉餅",
+        "index": 27,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%98%BF%E5%A9%86%E8%94%A5%E8%82%89%E9%A4%85+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF38%E8%99%9F%E5%85%A8%E5%AE%B6%E9%96%80%E5%8F%A3&travelmode=driving",
+        "options": [
+          "1 分\n200 公尺\n途經莒光路40巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "正宗鵝肉": {
+    "shortName": "正宗鵝肉",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "小吃",
+      "麵店"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "鵝肉切盤與鵝肉米粉，適合晚間用餐或分食。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "鵝肉切盤",
+      "鵝肉米粉"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A3%E5%AE%97%E9%B5%9D%E8%82%89%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8F%AF%E7%BF%A0%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF70%E8%99%9F1%E6%A8%93"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/jhengzong/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%AD%A3%E5%AE%97%E9%B5%9D%E8%82%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8F%AF%E7%BF%A0%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF70%E8%99%9F1%E6%A8%93&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%AD%A3%E5%AE%97%E9%B5%9D%E8%82%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8F%AF%E7%BF%A0%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF70%E8%99%9F1%E6%A8%93&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-029",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 28,
+    "candidateName": "正宗鵝肉",
+    "routeEvidence": {
+      "walking": {
+        "name": "正宗鵝肉",
+        "index": 28,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%AD%A3%E5%AE%97%E9%B5%9D%E8%82%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8F%AF%E7%BF%A0%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF70%E8%99%9F1%E6%A8%93&travelmode=walking",
+        "options": [
+          "4 分\n260 公尺\n途經莊敬路140巷和莊敬路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "正宗鵝肉",
+        "index": 28,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%AD%A3%E5%AE%97%E9%B5%9D%E8%82%89+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8F%AF%E7%BF%A0%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF70%E8%99%9F1%E6%A8%93&travelmode=driving",
+        "options": [
+          "2 分\n290 公尺\n途經莒光路40巷和莒光路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "MR.羊 羊肉爐 マトン鍋 mutton hot pot": {
+    "shortName": "MR.羊 羊肉爐",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "火鍋"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "家庭聚餐",
+      "多人聚餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      400,
+      600
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "紅燒羊肉爐與羊肉配料，適合多人分享一鍋。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "紅燒羊肉爐",
+      "羊小排",
+      "羊腳筋"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=MR.%E7%BE%8A%20%E7%BE%8A%E8%82%89%E7%88%90%20%E3%83%9E%E3%83%88%E3%83%B3%E9%8D%8B%20mutton%20hot%20pot%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF16%E5%B7%B76%E8%99%9F1%E6%A8%93"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://pekoblog.tw/mrlamb/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=MR.%E7%BE%8A+%E7%BE%8A%E8%82%89%E7%88%90+%E3%83%9E%E3%83%88%E3%83%B3%E9%8D%8B+mutton+hot+pot+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF16%E5%B7%B76%E8%99%9F1%E6%A8%93&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=MR.%E7%BE%8A+%E7%BE%8A%E8%82%89%E7%88%90+%E3%83%9E%E3%83%88%E3%83%B3%E9%8D%8B+mutton+hot+pot+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF16%E5%B7%B76%E8%99%9F1%E6%A8%93&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-030",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$400-600",
+    "candidateIndex": 29,
+    "candidateName": "MR.羊羊肉爐",
+    "routeEvidence": {
+      "walking": {
+        "name": "MR.羊 羊肉爐 マトン鍋 mutton hot pot",
+        "index": 29,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=MR.%E7%BE%8A+%E7%BE%8A%E8%82%89%E7%88%90+%E3%83%9E%E3%83%88%E3%83%B3%E9%8D%8B+mutton+hot+pot+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF16%E5%B7%B76%E8%99%9F1%E6%A8%93&travelmode=walking",
+        "options": [
+          "4 分\n280 公尺\n途經文化路一段388巷和莒光路16巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "MR.羊 羊肉爐 マトン鍋 mutton hot pot",
+        "index": 29,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=MR.%E7%BE%8A+%E7%BE%8A%E8%82%89%E7%88%90+%E3%83%9E%E3%83%88%E3%83%B3%E9%8D%8B+mutton+hot+pot+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8E%92%E5%85%89%E9%87%8C%E8%8E%92%E5%85%89%E8%B7%AF16%E5%B7%B76%E8%99%9F1%E6%A8%93&travelmode=driving",
+        "options": [
+          "2 分\n280 公尺\n途經文化路一段388巷和莒光路16巷"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "HALOA POKE 夏威夷拌飯 板橋店": {
+    "shortName": "HALOA POKE 夏威夷拌飯 板橋店",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "其他異國料理"
+    ],
+    "types": [
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "夏威夷拌飯搭配蔬菜與配料，適合日常用餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "好身材POKE",
+      "泰式POKE"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=HALOA%20POKE%20%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF%20%E6%9D%BF%E6%A9%8B%E5%BA%97%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://may128.com/haloa-poke-banqiao/"
+      },
+      {
+        "label": "官方現行門市資料，地址雙十路二段100號，電話02-2258-8884，11:30–20:00",
+        "url": "https://www.haloapoke.com/about"
+      },
+      {
+        "label": "2025-07同址食記，兩款餐點各210元",
+        "url": "https://ifoodie.tw/post/68837f5a7be9c3861eb9ca74"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=HALOA+POKE+%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF+%E6%9D%BF%E6%A9%8B%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=HALOA+POKE+%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF+%E6%9D%BF%E6%A9%8B%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-032",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 31,
+    "candidateName": "HALOA POKE 夏威夷拌飯 板橋店",
+    "routeEvidence": {
+      "walking": {
+        "name": "HALOA POKE 夏威夷拌飯 板橋店",
+        "index": 31,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=HALOA+POKE+%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF+%E6%9D%BF%E6%A9%8B%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F&travelmode=walking",
+        "options": [
+          "12 分\n850 公尺\n途經莊敬路"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "HALOA POKE 夏威夷拌飯 板橋店",
+        "index": 31,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=HALOA+POKE+%E5%A4%8F%E5%A8%81%E5%A4%B7%E6%8B%8C%E9%A3%AF+%E6%9D%BF%E6%A9%8B%E5%BA%97+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B5100%E8%99%9F&travelmode=driving",
+        "options": [
+          "6 分\n1.5 公里\n途經文化路二段/台3線和雙十路二段/北91鄉道"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "閏月吃飯點": {
+    "shortName": "閏月吃飯點",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "便當",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-05 Google Maps 消費者回報的人均區間；非店家固定套餐價，實際消費依點餐與當日菜單。",
+    "description": "雞腿排、牛肉與松阪豬飯，適合午晚餐或外帶。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "秘炙雞腿排飯",
+      "南洋沙爹牛肉飯",
+      "原味松阪豬飯"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E9%96%8F%E6%9C%88%E5%90%83%E9%A3%AF%E9%BB%9E%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E8%81%96%E8%A1%9799%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://may128.com/leap-month-meal/"
+      },
+      {
+        "label": "2025-07同址實食，價格170/190/250",
+        "url": "https://mandyenjoylife.com/moonmoonbrunch/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%8F%E6%9C%88%E5%90%83%E9%A3%AF%E9%BB%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E8%81%96%E8%A1%9799%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%8F%E6%9C%88%E5%90%83%E9%A3%AF%E9%BB%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E8%81%96%E8%A1%9799%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-033",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "candidateIndex": 32,
+    "candidateName": "閏月吃飯點",
+    "routeEvidence": {
+      "walking": {
+        "name": "閏月吃飯點",
+        "index": 32,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%8F%E6%9C%88%E5%90%83%E9%A3%AF%E9%BB%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E8%81%96%E8%A1%9799%E8%99%9F&travelmode=walking",
+        "options": [
+          "20 分\n1.4 公里\n途經莊敬路和松柏街"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "閏月吃飯點",
+        "index": 32,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E9%96%8F%E6%9C%88%E5%90%83%E9%A3%AF%E9%BB%9E+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E8%81%96%E8%A1%9799%E8%99%9F&travelmode=driving",
+        "options": [
+          "8 分\n2.0 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  },
+  "小鳥餵脆皮雞蛋糕": {
+    "shortName": "小鳥餵脆皮雞蛋糕",
+    "area": "板橋・新埔／江子翠／府中及周邊",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "一人用餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "price": [
+      50,
+      150
+    ],
+    "priceNote": "依店型與同店公開餐點資訊規劃每人 NT$50–150；屬規劃推估，非已查證售價或店家平均消費。",
+    "description": "脆皮雞蛋糕與起司口味，適合外帶點心。",
+    "note": "營業與菜單依店家當日公告；適合時段是用餐情境參考，請先查看實際營業時間。",
+    "dishes": [
+      "原味雞蛋糕",
+      "起司雞蛋糕"
+    ],
+    "sources": [
+      {
+        "label": "Google Maps｜店家名稱、地址、評分與照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E9%B3%A5%E9%A4%B5%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95%20220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B519%E8%99%9F"
+      },
+      {
+        "label": "同店公開餐點與店家資料",
+        "url": "https://may128.com/bird-feeding-banqiao/"
+      },
+      {
+        "label": "Google Maps｜實際步行路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B0%8F%E9%B3%A5%E9%A4%B5%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B519%E8%99%9F&travelmode=walking"
+      },
+      {
+        "label": "Google Maps｜實際開車路線",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B0%8F%E9%B3%A5%E9%A4%B5%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B519%E8%99%9F&travelmode=driving"
+      }
+    ],
+    "classificationBasis": "料理、型態與餐廳簡介依同店公開菜單及 Maps 店家資料整理；時段是用餐情境，兒童設施未確認。",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "id": "expanded-audit-034",
+    "priceBasis": "planning-estimate",
+    "candidateIndex": 33,
+    "candidateName": "小鳥餵脆皮雞蛋糕 板橋雙十店",
+    "routeEvidence": {
+      "walking": {
+        "name": "小鳥餵脆皮雞蛋糕",
+        "index": 33,
+        "mode": "walking",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B0%8F%E9%B3%A5%E9%A4%B5%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B519%E8%99%9F&travelmode=walking",
+        "options": [
+          "17 分\n1.2 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      },
+      "driving": {
+        "name": "小鳥餵脆皮雞蛋糕",
+        "index": 33,
+        "mode": "driving",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%B0%8F%E9%B3%A5%E9%A4%B5%E8%84%86%E7%9A%AE%E9%9B%9E%E8%9B%8B%E7%B3%95+220%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9F%8F%E7%BF%A0%E9%87%8C%E9%9B%99%E5%8D%81%E8%B7%AF%E4%B8%89%E6%AE%B519%E8%99%9F&travelmode=driving",
+        "options": [
+          "6 分\n1.4 公里\n途經文化路二段/台3線"
+        ],
+        "checkedAt": "2026-10-05",
+        "captureFormat": "可見路線選項之時間、距離與道路轉錄",
+        "selectionBasis": "Google Maps 可見路線中最短時間（开車）／建議路線（步行）；查核當下路況"
+      }
+    }
+  }
+}

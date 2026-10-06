@@ -1,0 +1,44 @@
+[
+  {
+    "index": 1,
+    "name": "秋香ㄟ店",
+    "candidateName": "秋香ㄟ店",
+    "excludedReason": "Google Maps 店家頁標示永久歇業"
+  },
+  {
+    "index": 5,
+    "name": "鳥來伯專業糖葫蘆",
+    "candidateName": "鳥來伯糖葫蘆",
+    "excludedReason": "超過步行20分鐘且開車15分鐘範圍"
+  },
+  {
+    "index": 8,
+    "name": "板橋小籠包",
+    "candidateName": "板橋小籠包",
+    "excludedReason": "超過步行20分鐘且開車15分鐘範圍"
+  },
+  {
+    "index": 12,
+    "name": "WAYO.와요.哇優 韓食堂",
+    "candidateName": "WAYO哇優韓食堂",
+    "excludedReason": "Google Maps 店家頁標示永久歇業"
+  },
+  {
+    "index": 20,
+    "name": "華江市場大腸蚵仔麵線",
+    "candidateName": "華江市場大腸蚵仔麵線",
+    "excludedReason": "未能確認獨立店家地圖身分，暫不新增"
+  },
+  {
+    "index": 30,
+    "name": "GOOD BOB 韓食",
+    "candidateName": "GOOD BOB韓食",
+    "excludedReason": "Google Maps 搜尋結果落到縣民大道296號的勁呷韓定食，店家身分未確認"
+  },
+  {
+    "index": 34,
+    "name": "知日石磨腸粉",
+    "candidateName": "知日石磨腸粉",
+    "excludedReason": "Google Maps 店家頁標示永久歇業"
+  }
+]

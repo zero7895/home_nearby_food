@@ -1,0 +1,802 @@
+[
+  {
+    "name": "禾冬咖啡 Hedong cafe",
+    "mapUrl": "https://www.google.com/maps/place/%E7%A6%BE%E5%86%AC%E5%92%96%E5%95%A1+Hedong+cafe/@25.0223011,121.4702443,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a92b10ce201d:0xa7914465b5c91cae!8m2!3d25.0223011!4d121.4702443!16s%2Fg%2F11wnghy_kk?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.7,
+    "reviewCount": 132,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "食時在在民生店",
+    "mapUrl": "https://www.google.com/maps/place/%E9%A3%9F%E6%99%82%E5%9C%A8%E5%9C%A8%E6%B0%91%E7%94%9F%E5%BA%97/@25.0209008,121.4663508,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a95ba5a0692f:0xe199dae8831e2c32!8m2!3d25.0209008!4d121.4689257!16s%2Fg%2F11fmpy2rzt?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.0,
+    "reviewCount": 266,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Good Day Project 好菇計畫商行",
+    "mapUrl": "https://www.google.com/maps/place/Good+Day+Project+%E5%A5%BD%E8%8F%87%E8%A8%88%E7%95%AB%E5%95%86%E8%A1%8C/@25.0224357,121.4676261,17z/data=!3m2!4b1!5s0x3442a83e724bb447:0x1b0e2ed88d7a3824!4m6!3m5!1s0x3442a908b6810e5f:0x6c5d992f6292848f!8m2!3d25.0224357!4d121.470201!16s%2Fg%2F11kpdgtybc?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "reviewCount": 330,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "ハーフ珈琲（Hafu coffee roaster)",
+    "mapUrl": "https://www.google.com/maps/place/%E3%83%8F%E3%83%BC%E3%83%95%E7%8F%88%E7%90%B2%EF%BC%88Hafu+coffee+roaster)/@25.0250636,121.4680985,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a99a8c429ee5:0xf9c7a2e2284cd83f!8m2!3d25.0250636!4d121.4706734!16s%2Fg%2F11fqylyc7j?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.7,
+    "reviewCount": 776,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "阿達師牛肉麵",
+    "mapUrl": "https://www.google.com/maps/place/%E9%98%BF%E9%81%94%E5%B8%AB%E7%89%9B%E8%82%89%E9%BA%B5/@25.0240112,121.46897,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a83efec18aa1:0x6543323663172a44!8m2!3d25.0240112!4d121.4715449!16s%2Fg%2F11c5x7n312?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.2,
+    "reviewCount": 2174,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "原味廣東粥",
+    "mapUrl": "https://www.google.com/maps/place/%E5%8E%9F%E5%91%B3%E5%BB%A3%E6%9D%B1%E7%B2%A5/@25.0242787,121.4688269,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a83effa0cc6f:0xbddb01a12e0ea26a!8m2!3d25.0242787!4d121.4714018!16s%2Fg%2F11btt62476?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.1,
+    "reviewCount": 169,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "瓢記PIAO JI",
+    "mapUrl": "https://www.google.com/maps/place/%E7%93%A2%E8%A8%98PIAO+JI/@25.0240499,121.4667545,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a900098547b9:0x3938782724b13ea7!8m2!3d25.0240499!4d121.4693294!16s%2Fg%2F11wr3c6sm8?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "reviewCount": 335,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "得正#板橋莒光計劃",
+    "mapUrl": "https://www.google.com/maps/place/%E5%BE%97%E6%AD%A3%23%E6%9D%BF%E6%A9%8B%E8%8E%92%E5%85%89%E8%A8%88%E5%8A%83/@25.02429,121.4680844,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9230b4f89cb:0xb752d1561c5cf99b!8m2!3d25.02429!4d121.4706593!16s%2Fg%2F11svp24qy8?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 3.3,
+    "reviewCount": 220,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "鶴茶樓- 鶴頂紅茶商店(板橋新埔店)",
+    "mapUrl": "https://www.google.com/maps/place/%E9%B6%B4%E8%8C%B6%E6%A8%93-+%E9%B6%B4%E9%A0%82%E7%B4%85%E8%8C%B6%E5%95%86%E5%BA%97(%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97)/@25.0235151,121.4646646,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a99718d7fa31:0x3b5425be799f3249!8m2!3d25.0235151!4d121.4672395!16s%2Fg%2F11lcshv2xl?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.3,
+    "reviewCount": 238,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "果汁媽粉條爸",
+    "mapUrl": "https://www.google.com/maps/place/%E6%9E%9C%E6%B1%81%E5%AA%BD%E7%B2%89%E6%A2%9D%E7%88%B8/@25.0221804,121.4664595,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a83dfd678eed:0x2843ffcbf2878da8!8m2!3d25.0221804!4d121.4690344!16s%2Fg%2F11b7j0gn0z?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.2,
+    "reviewCount": 600,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "雙月食品社 板橋店",
+    "mapUrl": "https://www.google.com/maps/place/%E9%9B%99%E6%9C%88%E9%A3%9F%E5%93%81%E7%A4%BE+%E6%9D%BF%E6%A9%8B%E5%BA%97/@25.0178465,121.4662326,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9e3b4c2b8ed:0xdf81b7b94503a844!8m2!3d25.0178465!4d121.4688075!16s%2Fg%2F11sjg7qn5b?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.9,
+    "reviewCount": 12594,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "北城脆皮烤鴨 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%8C%97%E5%9F%8E%E8%84%86%E7%9A%AE%E7%83%A4%E9%B4%A8+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/@25.0200169,121.4669777,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9c4a5d7c0c3:0xc05140e9c973b814!8m2!3d25.0200169!4d121.4695526!16s%2Fg%2F11qn0w8n8t?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "reviewCount": 571,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "英記快餐",
+    "mapUrl": "https://www.google.com/maps/place/%E8%8B%B1%E8%A8%98%E5%BF%AB%E9%A4%90/@25.024488,121.4676401,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a83e4c886c69:0x222e55f82968ff34!8m2!3d25.024488!4d121.470215!16s%2Fg%2F1vspp60v?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 3.5,
+    "reviewCount": 401,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "THE·春 板橋店",
+    "mapUrl": "https://www.google.com/maps/place/THE%C2%B7%E6%98%A5+%E6%9D%BF%E6%A9%8B%E5%BA%97/@25.0237745,121.467125,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a98c7899b821:0x1559594b8e71bb00!8m2!3d25.0237745!4d121.4696999!16s%2Fg%2F11vdp3dkc_?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.4,
+    "reviewCount": 1471,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "巧滋小廚早午餐",
+    "mapUrl": "https://www.google.com/maps/place/%E5%B7%A7%E6%BB%8B%E5%B0%8F%E5%BB%9A%E6%97%A9%E5%8D%88%E9%A4%90/@25.02481,121.469575,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a83fcb507fdd:0xcab4b405e49d63d7!8m2!3d25.02481!4d121.469575!16s%2Fg%2F1pzsyxj38?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.2,
+    "reviewCount": 295,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "皇家傳承牛肉麵（新海路）",
+    "mapUrl": "https://www.google.com/maps/place/%E7%9A%87%E5%AE%B6%E5%82%B3%E6%89%BF%E7%89%9B%E8%82%89%E9%BA%B5%EF%BC%88%E6%96%B0%E6%B5%B7%E8%B7%AF%EF%BC%89/@25.0231793,121.4610533,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a81168fa0ad5:0xe83ddd2f1dcdc7cd!8m2!3d25.0231793!4d121.4610533!16s%2Fg%2F1td5nzh5?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.0,
+    "reviewCount": 1683,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "ONI NOODLE 二鬼麵舖｜板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/ONI+NOODLE+%E4%BA%8C%E9%AC%BC%E9%BA%B5%E8%88%96%EF%BD%9C%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/@25.0189851,121.4696774,15z/data=!4m10!1m2!2m1!1z5qiC6bq15bGLIOadv-api-aWsOWflA!3m6!1s0x3442a9e088470d01:0x7cf0ddcdbf6c0ea8!8m2!3d25.0210535!4d121.4676013!15sChbmqILpurXlsYsg5p2_5qmL5paw5Z-UIgOIAQFaHCIa5qiCIOm6tSDlsYsg5p2_5qmLIOaWsCDln5SSARByYW1lbl9yZXN0YXVyYW50mgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1R2QyUkdiM2xaTUhoRFQwVjRXVmRzT1c5YWFrSXpVbFpTVWxwc1JSQULgAQD6AQQIABAL!16s%2Fg%2F11nk09p0c3?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.8,
+    "reviewCount": 464,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "小英越南小吃",
+    "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E8%8B%B1%E8%B6%8A%E5%8D%97%E5%B0%8F%E5%90%83/@25.1260743,121.4649991,11z/data=!4m10!1m2!2m1!1z6LaK5Y2X5bCP5qOnIOadv-apiw!3m6!1s0x3442a9051668b5e1:0xb155f44102381d62!8m2!3d25.0318496!4d121.4779795!15sChPotorljZflsI_mo6cg5p2_5qmLWhciFei2iuWNlyDlsI8g5qOnIOadv-api5IBFXZpZXRuYW1lc2VfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQycEdiVk5FUlROUmJGRXdaREl4ZUZKVk5YcFViVVo2Wlcxc00xVlhZeEFC4AEA-gEECAAQDA!16s%2Fg%2F11kk4m64qd?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "rating": 4.9,
+    "reviewCount": 100,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "MO-MO-PARADISE中和環球牧場",
+    "mapUrl": "https://www.google.com/maps/place/MO-MO-PARADISE%E4%B8%AD%E5%92%8C%E7%92%B0%E7%90%83%E7%89%A7%E5%A0%B4/data=!4m7!3m6!1s0x3442a827497c6d39:0xcd6e350aab2ca3c9!8m2!3d25.0069668!4d121.4749549!16s%2Fg%2F1w3449wm!19sChIJOW18SSeoQjQRyaMsqwo1bs0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 2596,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "麥當勞-板橋文化餐廳",
+    "mapUrl": "https://www.google.com/maps/place/%E9%BA%A5%E7%95%B6%E5%8B%9E-%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x3442a84076dcb3f7:0x94c0833713a17d24!8m2!3d25.027701!4d121.47037!16s%2Fg%2F1tgfmtv3!19sChIJ97PcdkCoQjQRJH2hEzeDwJQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 3.9,
+    "reviewCount": 6183,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "六堆伙房板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%85%AD%E5%A0%86%E4%BC%99%E6%88%BF%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a83e18a94423:0xa17763981f47bec0!8m2!3d25.0233683!4d121.4697777!16s%2Fg%2F11f1wqvx5z!19sChIJI0SpGD6oQjQRwL5HH5hjd6E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 2467,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "板橋新埔食堂",
+    "mapUrl": "https://www.google.com/maps/place/%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a83e1f15be3b:0x1dc3528f07ac9508!8m2!3d25.023543!4d121.4687323!16s%2Fg%2F11d_71p6n_!19sChIJO74VHz6oQjQRCJWsB49Swx0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 3.3,
+    "reviewCount": 448,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Coffee HABU Co. 咖啡哈巭",
+    "mapUrl": "https://www.google.com/maps/place/Coffee+HABU+Co.+%E5%92%96%E5%95%A1%E5%93%88%E5%B7%AD/data=!4m7!3m6!1s0x3442a90f8120659d:0x76d55bc4ef743b75!8m2!3d25.0207471!4d121.4682762!16s%2Fg%2F11t4gy29f6!19sChIJnWUggQ-pQjQRdTt078Rb1XY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 1329,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "烏龍麵所 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E7%83%8F%E9%BE%8D%E9%BA%B5%E6%89%80+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a98e695bae69:0x2b760cb6cc252913!8m2!3d25.022036!4d121.467843!16s%2Fg%2F11lw7zr_0s!19sChIJaa5baY6pQjQREyklzLYMdis?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 1225,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "新埔洞天 粵式煲湯獨享鍋-新埔美食-板橋火鍋-板橋美食",
+    "mapUrl": "https://www.google.com/maps/place/%E6%96%B0%E5%9F%94%E6%B4%9E%E5%A4%A9+%E7%B2%B5%E5%BC%8F%E7%85%B2%E6%B9%AF%E7%8D%A8%E4%BA%AB%E9%8D%8B-%E6%96%B0%E5%9F%94%E7%BE%8E%E9%A3%9F-%E6%9D%BF%E6%A9%8B%E7%81%AB%E9%8D%8B-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a98b3c21e84f:0xd46ee4329c7ce0c2!8m2!3d25.0202456!4d121.4676378!16s%2Fg%2F11l5qkvqgf!19sChIJT-ghPIupQjQRwuB8nDLkbtQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 291,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "禾多靜巷 義式餐廳 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E7%A6%BE%E5%A4%9A%E9%9D%9C%E5%B7%B7+%E7%BE%A9%E5%BC%8F%E9%A4%90%E5%BB%B3+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442abc57d52a685:0x15461a2b094ad58b!8m2!3d25.0246321!4d121.4730463!16s%2Fg%2F11b6ggz94c!19sChIJhaZSfcWrQjQRi9VKCSsaRhU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 1880,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "solemio",
+    "mapUrl": "https://www.google.com/maps/place/solemio/data=!4m7!3m6!1s0x3442a815e74a2ad7:0x7ab135520d22edd6!8m2!3d25.0227884!4d121.4667912!16s%2Fg%2F11gzr81xw!19sChIJ1ypK5xWoQjQR1u0iDVI1sXo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 1043,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "NU PASTA 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/NU+PASTA+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8168e542ba9:0x6c8d4bd2b92aa745!8m2!3d25.022395!4d121.4651203!16s%2Fg%2F11f4m9yxtd!19sChIJqStUjhaoQjQRRacqudJLjWw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 2903,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "陶板屋 板橋捷運新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E9%99%B6%E6%9D%BF%E5%B1%8B+%E6%9D%BF%E6%A9%8B%E6%8D%B7%E9%81%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a81bd39c401d:0xc4e272b190104941!8m2!3d25.0236277!4d121.4687999!16s%2Fg%2F1ts3hxk2!19sChIJHUCc0xuoQjQRQUkQkLFy4sQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.5,
+    "reviewCount": 8150,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "QuackKitchen 呱灶廚房",
+    "mapUrl": "https://www.google.com/maps/place/QuackKitchen+%E5%91%B1%E7%81%B6%E5%BB%9A%E6%88%BF/data=!4m7!3m6!1s0x3442a976a55c143d:0x6beddc32c3468cc7!8m2!3d25.026481!4d121.4666365!16s%2Fg%2F11s4698skn!19sChIJPRRcpXapQjQRx4xGwzLc7Ws?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 527,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Guten Morgen Brunch & Beer 貳巷食號 Night Burger (Prosit Cafe and Bistro)",
+    "mapUrl": "https://www.google.com/maps/place/Guten+Morgen+Brunch+%26+Beer+%E8%B2%B3%E5%B7%B7%E9%A3%9F%E8%99%9F+Night+Burger+%28Prosit+Cafe+and+Bistro%29/data=!4m7!3m6!1s0x3442a95b9e276ca9:0x9d1f137b21ae3db3!8m2!3d25.0250478!4d121.4684965!16s%2Fg%2F11g0m4ghtp!19sChIJqWwnnlupQjQRsz2uIXsTH50?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 671,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "藍海子LazyBrunch 新埔",
+    "mapUrl": "https://www.google.com/maps/place/%E8%97%8D%E6%B5%B7%E5%AD%90LazyBrunch+%E6%96%B0%E5%9F%94/data=!4m7!3m6!1s0x3442a9002921b9db:0xab0981a635ac1127!8m2!3d25.0205062!4d121.4676409!16s%2Fg%2F11x091ncx8!19sChIJ27khKQCpQjQRJxGsNaaBCas?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 570,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "小螺波 板橋店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E8%9E%BA%E6%B3%A2+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a98978557349:0xe8501160a2bb516e!8m2!3d25.0226458!4d121.4673305!16s%2Fg%2F11kqrs63pv!19sChIJSXNVeImpQjQRblG7omARUOg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 664,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "同樂咖啡",
+    "mapUrl": "https://www.google.com/maps/place/%E5%90%8C%E6%A8%82%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a9e2a31b9e75:0x57c13f46d432718d!8m2!3d25.0227393!4d121.4667855!16s%2Fg%2F11rj54ghzw!19sChIJdZ4bo-KpQjQRjXEy1EY_wVc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 155,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "P'go沛果鮮食煮意",
+    "mapUrl": "https://www.google.com/maps/place/P%27go%E6%B2%9B%E6%9E%9C%E9%AE%AE%E9%A3%9F%E7%85%AE%E6%84%8F/data=!4m7!3m6!1s0x3442a81634513133:0xb9c7997095868cc3!8m2!3d25.0201959!4d121.46725!16s%2Fg%2F11f3dfz6d2!19sChIJMzFRNBaoQjQRw4yGlXCZx7k?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 431,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "和牛涮 板橋文化店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%92%8C%E7%89%9B%E6%B6%AE+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a929a505f077:0xa35beb1974da8294!8m2!3d25.021312!4d121.467335!16s%2Fg%2F11qnrlz64z!19sChIJd_AFpSmpQjQRlILadBnrW6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.9,
+    "reviewCount": 27655,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "盈泰豐泰式料理",
+    "mapUrl": "https://www.google.com/maps/place/%E7%9B%88%E6%B3%B0%E8%B1%90%E6%B3%B0%E5%BC%8F%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a815e0da2715:0x690d2e53278a1fd2!8m2!3d25.0229239!4d121.4671971!16s%2Fg%2F1td0w4x_!19sChIJFSfa4BWoQjQR0h-KJ1MuDWk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 1185,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "拾貳籃早午餐-江子翠捷運站 新埔捷運站 親子友善餐廳 免服務費 包場方案彈性多元 歡迎來電洽詢",
+    "mapUrl": "https://www.google.com/maps/place/%E6%8B%BE%E8%B2%B3%E7%B1%83%E6%97%A9%E5%8D%88%E9%A4%90-%E6%B1%9F%E5%AD%90%E7%BF%A0%E6%8D%B7%E9%81%8B%E7%AB%99+%E6%96%B0%E5%9F%94%E6%8D%B7%E9%81%8B%E7%AB%99+%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3+%E5%85%8D%E6%9C%8D%E5%8B%99%E8%B2%BB+%E5%8C%85%E5%A0%B4%E6%96%B9%E6%A1%88%E5%BD%88%E6%80%A7%E5%A4%9A%E5%85%83+%E6%AD%A1%E8%BF%8E%E4%BE%86%E9%9B%BB%E6%B4%BD%E8%A9%A2/data=!4m7!3m6!1s0x3442a92d3f8a5d9f:0xf890bc9865a7e6e6!8m2!3d25.0265726!4d121.4689862!16s%2Fg%2F11ny4ptzfp!19sChIJn12KPy2pQjQR5uanZZi8kPg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.1,
+    "reviewCount": 370,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "老味噌居酒屋 板橋-新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E8%80%81%E5%91%B3%E5%99%8C%E5%B1%85%E9%85%92%E5%B1%8B+%E6%9D%BF%E6%A9%8B-%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a83dc42f89ab:0x9535174afbba3269!8m2!3d25.0210702!4d121.470417!16s%2Fg%2F1pp2tzzjr!19sChIJq4kvxD2oQjQRaTK6-0oXNZU?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 4553,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "聚 日式鍋物 板橋江子翠店",
+    "mapUrl": "https://www.google.com/maps/place/%E8%81%9A+%E6%97%A5%E5%BC%8F%E9%8D%8B%E7%89%A9+%E6%9D%BF%E6%A9%8B%E6%B1%9F%E5%AD%90%E7%BF%A0%E5%BA%97/data=!4m7!3m6!1s0x3442a921d1e8ed77:0x3e1c74acf0028796!8m2!3d25.0292649!4d121.4727657!16s%2Fg%2F11kqcfknnd!19sChIJd-3o0SGpQjQRlocC8Kx0HD4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 8159,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "W2 Cafe 板橋小籠包｜江子翠咖啡廳",
+    "mapUrl": "https://www.google.com/maps/place/W2+Cafe+%E6%9D%BF%E6%A9%8B%E5%B0%8F%E7%B1%A0%E5%8C%85%EF%BD%9C%E6%B1%9F%E5%AD%90%E7%BF%A0%E5%92%96%E5%95%A1%E5%BB%B3/data=!4m7!3m6!1s0x3442a9c37aff747f:0xb7c008d939023615!8m2!3d25.0311145!4d121.4726214!16s%2Fg%2F11kz543d2n!19sChIJf3T_esOpQjQRFTYCOdkIwLc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 1125,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "定食8 江翠店⎜日式定食 午間定食 ⎜台北江子翠捷運平價美食",
+    "mapUrl": "https://www.google.com/maps/place/%E5%AE%9A%E9%A3%9F8+%E6%B1%9F%E7%BF%A0%E5%BA%97%E2%8E%9C%E6%97%A5%E5%BC%8F%E5%AE%9A%E9%A3%9F+%E5%8D%88%E9%96%93%E5%AE%9A%E9%A3%9F+%E2%8E%9C%E5%8F%B0%E5%8C%97%E6%B1%9F%E5%AD%90%E7%BF%A0%E6%8D%B7%E9%81%8B%E5%B9%B3%E5%83%B9%E7%BE%8E%E9%A3%9F/data=!4m7!3m6!1s0x3442a841188219a5:0xba4f05214f4b04ce!8m2!3d25.0299397!4d121.4726322!16s%2Fg%2F12m9bkf3w!19sChIJpRmCGEGoQjQRzgRLTyEFT7o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 2142,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "老串角居酒屋-江子翠總店",
+    "mapUrl": "https://www.google.com/maps/place/%E8%80%81%E4%B8%B2%E8%A7%92%E5%B1%85%E9%85%92%E5%B1%8B-%E6%B1%9F%E5%AD%90%E7%BF%A0%E7%B8%BD%E5%BA%97/data=!4m7!3m6!1s0x3442a97d5c1b2f1b:0x4d1b1e821aa73846!8m2!3d25.0277587!4d121.4724204!16s%2Fg%2F11h047l60q!19sChIJGy8bXH2pQjQRRjinGoIeG00?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.8,
+    "reviewCount": 22504,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "藍海子 LazyBrunch 江子翠",
+    "mapUrl": "https://www.google.com/maps/place/%E8%97%8D%E6%B5%B7%E5%AD%90+LazyBrunch+%E6%B1%9F%E5%AD%90%E7%BF%A0/data=!4m7!3m6!1s0x3442a9c6c27cf1d9:0xaaa6927fea7fbd1a!8m2!3d25.0321411!4d121.4767169!16s%2Fg%2F11v60qwf4x!19sChIJ2fF8wsapQjQRGr1_6n-Spqo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 678,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "炎上燒肉",
+    "mapUrl": "https://www.google.com/maps/place/%E7%82%8E%E4%B8%8A%E7%87%92%E8%82%89/data=!4m7!3m6!1s0x3442a90033a17bb7:0x6440eee93cc5d292!8m2!3d25.0307637!4d121.4727438!16s%2Fg%2F11wjqqkybr!19sChIJt3uhMwCpQjQRktLFPOnuQGQ?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 1053,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "泰之初 Brunch板橋江翠店",
+    "mapUrl": "https://www.google.com/maps/place/%E6%B3%B0%E4%B9%8B%E5%88%9D+Brunch%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97/data=!4m7!3m6!1s0x3442a9a556cbf1ff:0xea62a8a1a18874d8!8m2!3d25.0305307!4d121.475939!16s%2Fg%2F11ght89r85!19sChIJ__HLVqWpQjQR2HSIoaGoYuo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.0,
+    "reviewCount": 2078,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "大洺牛肉麵-板橋美食-江子翠餐廳-Restaurants",
+    "mapUrl": "https://www.google.com/maps/place/%E5%A4%A7%E6%B4%BA%E7%89%9B%E8%82%89%E9%BA%B5-%E6%9D%BF%E6%A9%8B%E7%BE%8E%E9%A3%9F-%E6%B1%9F%E5%AD%90%E7%BF%A0%E9%A4%90%E5%BB%B3-Restaurants/data=!4m7!3m6!1s0x3442a95f41e22643:0x97c4a7b1da4e027e!8m2!3d25.0259709!4d121.476103!16s%2Fg%2F11m77cnhr4!19sChIJQybiQV-pQjQRfgJO2rGnxJc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.9,
+    "reviewCount": 161,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "豐華小館",
+    "mapUrl": "https://www.google.com/maps/place/%E8%B1%90%E8%8F%AF%E5%B0%8F%E9%A4%A8/data=!4m7!3m6!1s0x3442a841265adef1:0x1a7e061c6598e260!8m2!3d25.0289694!4d121.4732444!16s%2Fg%2F1tfskpkh!19sChIJ8d5aJkGoQjQRYOKYZRwGfho?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.0,
+    "reviewCount": 2423,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "水云濮人文食堂",
+    "mapUrl": "https://www.google.com/maps/place/%E6%B0%B4%E4%BA%91%E6%BF%AE%E4%BA%BA%E6%96%87%E9%A3%9F%E5%A0%82/data=!4m7!3m6!1s0x3442a844885d668b:0xa1d56e237e0c569!8m2!3d25.0342973!4d121.4749396!16s%2Fg%2F11b639pk3r!19sChIJi2ZdiESoQjQRacXgN-JWHQo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 526,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "TNT美式炭烤牛排-板橋店",
+    "mapUrl": "https://www.google.com/maps/place/TNT%E7%BE%8E%E5%BC%8F%E7%82%AD%E7%83%A4%E7%89%9B%E6%8E%92-%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442a96b037d1ebf:0xb2ba69d7d597d5d1!8m2!3d25.0255927!4d121.4750828!16s%2Fg%2F11kbczs6wv!19sChIJvx59A2upQjQR0dWX1ddpurI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 1146,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "風日洋食",
+    "mapUrl": "https://www.google.com/maps/place/%E9%A2%A8%E6%97%A5%E6%B4%8B%E9%A3%9F/data=!4m7!3m6!1s0x3442a97dcf00603b:0xefce891aa7a4c75!8m2!3d25.0205541!4d121.4675958!16s%2Fg%2F11tdhtv747!19sChIJO2AAz32pQjQRdUx6qpHo_A4?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.6,
+    "reviewCount": 1028,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "這里恬冰菓室",
+    "mapUrl": "https://www.google.com/maps/place/%E9%80%99%E9%87%8C%E6%81%AC%E5%86%B0%E8%8F%93%E5%AE%A4/data=!4m7!3m6!1s0x3442a9b378997f05:0xa33b2895c95caaee!8m2!3d25.023895!4d121.4723309!16s%2Fg%2F11y5l24jkt!19sChIJBX-ZeLOpQjQR7qpcyZUoO6M?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 488,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "鮨跡日本料理",
+    "mapUrl": "https://www.google.com/maps/place/%E9%AE%A8%E8%B7%A1%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86/data=!4m7!3m6!1s0x3442a91698a6e919:0x4b1f87acbf00b926!8m2!3d25.0311336!4d121.4741225!16s%2Fg%2F11kh5vp6bl!19sChIJGemmmBapQjQRJrkAv6yHH0s?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.0,
+    "reviewCount": 1736,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "肉sandwich板橋新埔店(最後收客14:15)",
+    "mapUrl": "https://www.google.com/maps/place/%E8%82%89sandwich%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97%28%E6%9C%80%E5%BE%8C%E6%94%B6%E5%AE%A214:15%29/data=!4m7!3m6!1s0x3442a939f9a01311:0x67956317cd650222!8m2!3d25.019931!4d121.468593!16s%2Fg%2F11v11x7_3b!19sChIJEROg-TmpQjQRIgJlzRdjlWc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.5,
+    "reviewCount": 205,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "福來早餐新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E7%A6%8F%E4%BE%86%E6%97%A9%E9%A4%90%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a9215e6899f9:0xf90aaae007f55237!8m2!3d25.0235319!4d121.4660182!16s%2Fg%2F11v05q7dqz!19sChIJ-ZloXiGpQjQRN1L1B-CqCvk?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 316,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "旧宅在 Near Home Cafe",
+    "mapUrl": "https://www.google.com/maps/place/%E6%97%A7%E5%AE%85%E5%9C%A8+Near+Home+Cafe/data=!4m7!3m6!1s0x3442a9aadc92978f:0x1ca39085f566a011!8m2!3d25.0277832!4d121.4688686!16s%2Fg%2F11h3ms1_s6!19sChIJj5eS3KqpQjQREaBm9YWQoxw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 989,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "小巷柒食",
+    "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E5%B7%B7%E6%9F%92%E9%A3%9F/data=!4m7!3m6!1s0x3442a9e28a2d7747:0xfa5e801df2bb3710!8m2!3d25.0230764!4d121.466674!16s%2Fg%2F11mwjgr3sm!19sChIJR3ctiuKpQjQREDe78h2AXvo?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 89,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "懶的享早午餐",
+    "mapUrl": "https://www.google.com/maps/place/%E6%87%B6%E7%9A%84%E4%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x3442a8162701dc4f:0xaaaf8b3ac5b2cb5e!8m2!3d25.0206172!4d121.46828!16s%2Fg%2F11bttpm6j6!19sChIJT9wBJxaoQjQRXsuyxTqLr6o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 1399,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "鳳梨寶堡 | 售完提早打烊 | 外帶請加Line訂餐 ID: pineapple_baby | 無訂位服務 | 只收現金 | 寵物友善 |",
+    "mapUrl": "https://www.google.com/maps/place/%E9%B3%B3%E6%A2%A8%E5%AF%B6%E5%A0%A1+%7C+%E5%94%AE%E5%AE%8C%E6%8F%90%E6%97%A9%E6%89%93%E7%83%8A+%7C+%E5%A4%96%E5%B8%B6%E8%AB%8B%E5%8A%A0Line%E8%A8%82%E9%A4%90+ID:+pineapple_baby+%7C+%E7%84%A1%E8%A8%82%E4%BD%8D%E6%9C%8D%E5%8B%99+%7C+%E5%8F%AA%E6%94%B6%E7%8F%BE%E9%87%91+%7C+%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84+%7C/data=!4m7!3m6!1s0x3442a9c1468ab061:0x1ba7dba5b3db7650!8m2!3d25.0230081!4d121.4601947!16s%2Fg%2F11fd6c2c67!19sChIJYbCKRsGpQjQRUHbbs6Xbpxs?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 601,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "邑朵早午餐",
+    "mapUrl": "https://www.google.com/maps/place/%E9%82%91%E6%9C%B5%E6%97%A9%E5%8D%88%E9%A4%90/data=!4m7!3m6!1s0x3442a83ca8590c03:0xa1b344d3d628915a!8m2!3d25.0163429!4d121.4740118!16s%2Fg%2F11g8974hlv!19sChIJAwxZqDyoQjQRWpEo1tNEs6E?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 359,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "J Kitchen",
+    "mapUrl": "https://www.google.com/maps/place/J+Kitchen/data=!4m7!3m6!1s0x3442a815e91c5569:0xdea700627a78d565!8m2!3d25.0236116!4d121.4673466!16s%2Fg%2F11b5phl468!19sChIJaVUc6RWoQjQRZdV4emIAp94?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.4,
+    "reviewCount": 43,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "早。自己 文化店",
+    "mapUrl": "https://www.google.com/maps/place/%E6%97%A9%E3%80%82%E8%87%AA%E5%B7%B1+%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a9c2ecc1a347:0x5487608f3a7efe8e!8m2!3d25.0267809!4d121.4692479!16s%2Fg%2F11ny3bswt6!19sChIJR6PB7MKpQjQRjv5-Oo9gh1Q?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 459,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "美而美1999小柏小傑",
+    "mapUrl": "https://www.google.com/maps/place/%E7%BE%8E%E8%80%8C%E7%BE%8E1999%E5%B0%8F%E6%9F%8F%E5%B0%8F%E5%82%91/data=!4m7!3m6!1s0x3442a8115ef3ef85:0xed91690f60aecc81!8m2!3d25.0236289!4d121.461395!16s%2Fg%2F1tgkdzzq!19sChIJhe_zXhGoQjQRgcyuYA9pke0?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.5,
+    "reviewCount": 431,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "彼得好咖啡 板橋文化店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E6%96%87%E5%8C%96%E5%BA%97/data=!4m7!3m6!1s0x3442a9ccbb08a879:0xe65ce04cc727c6fc!8m2!3d25.0202569!4d121.4669265!16s%2Fg%2F11kj71288x!19sChIJeagIu8ypQjQR_MYnx0zgXOY?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 267,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "彼得好咖啡 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%BD%BC%E5%BE%97%E5%A5%BD%E5%92%96%E5%95%A1+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8142aefe643:0xf8a1cb37f1f26efa!8m2!3d25.0231926!4d121.4654793!16s%2Fg%2F1tf55ky_!19sChIJQ-bvKhSoQjQR-m7y8TfLofg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 481,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "光權 Kuang's Bistro",
+    "mapUrl": "https://www.google.com/maps/place/%E5%85%89%E6%AC%8A+Kuang%27s+Bistro/data=!4m7!3m6!1s0x3442a81a185a858b:0x2f8bc69d68737e0b!8m2!3d25.017289!4d121.4621267!16s%2Fg%2F11c60dnthn!19sChIJi4VaGBqoQjQRC35zaJ3Giy8?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 996,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "182 pancake",
+    "mapUrl": "https://www.google.com/maps/place/182+pancake/data=!4m7!3m6!1s0x3442a83ffde73ee1:0x9c469411087afb56!8m2!3d25.0273066!4d121.4685532!16s%2Fg%2F11bw471tmr!19sChIJ4T7n_T-oQjQRVvt6CBGURpw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 225,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Merci crème",
+    "mapUrl": "https://www.google.com/maps/place/Merci+cr%C3%A8me/data=!4m7!3m6!1s0x3442a819d3a430d1:0x7ed6a0b91f3f3f6!8m2!3d25.0176546!4d121.4665234!16s%2Fg%2F11cs0phbrg!19sChIJ0TCk0xmoQjQR9vPzkQtq7Qc?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.5,
+    "reviewCount": 804,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Ten Ten Den Den 點點甜甜",
+    "mapUrl": "https://www.google.com/maps/place/Ten+Ten+Den+Den+%E9%BB%9E%E9%BB%9E%E7%94%9C%E7%94%9C/data=!4m7!3m6!1s0x3442a81a160431bf:0x1253b4b5e8b68236!8m2!3d25.0173549!4d121.461712!16s%2Fg%2F11c3tr8g_9!19sChIJvzEEFhqoQjQRNoK26LW0UxI?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 1827,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Aposo 艾波索 法式甜點 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/Aposo+%E8%89%BE%E6%B3%A2%E7%B4%A2+%E6%B3%95%E5%BC%8F%E7%94%9C%E9%BB%9E+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a8151cdf94bf:0x93e1c9ba6d912bbc!8m2!3d25.024585!4d121.466668!16s%2Fg%2F11bwl1vd07!19sChIJv5TfHBWoQjQRvCuRbbrJ4ZM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 1480,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Gustave & Henri 古斯塔亨利｜甜塔鹹派專賣 板橋店",
+    "mapUrl": "https://www.google.com/maps/place/Gustave+%26+Henri+%E5%8F%A4%E6%96%AF%E5%A1%94%E4%BA%A8%E5%88%A9%EF%BD%9C%E7%94%9C%E5%A1%94%E9%B9%B9%E6%B4%BE%E5%B0%88%E8%B3%A3+%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m7!3m6!1s0x3442ab00782022e5:0x414c7eef6636fbc0!8m2!3d25.0224814!4d121.46986!16s%2Fg%2F11ltft7mzq!19sChIJ5SIgeACrQjQRwPs2Zu9-TEE?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.9,
+    "reviewCount": 546,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Bonnie Sugar 手作甜點 不限時咖啡專門店",
+    "mapUrl": "https://www.google.com/maps/place/Bonnie+Sugar+%E6%89%8B%E4%BD%9C%E7%94%9C%E9%BB%9E+%E4%B8%8D%E9%99%90%E6%99%82%E5%92%96%E5%95%A1%E5%B0%88%E9%96%80%E5%BA%97/data=!4m7!3m6!1s0x3442a9003518d849:0x18d68c93f905412e!8m2!3d25.0164837!4d121.462973!16s%2Fg%2F11y2f5vx4h!19sChIJSdgYNQCpQjQRLkEF-ZOM1hg?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 3.7,
+    "reviewCount": 441,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "LAZZY BEANS 閑人咖啡",
+    "mapUrl": "https://www.google.com/maps/place/LAZZY+BEANS+%E9%96%91%E4%BA%BA%E5%92%96%E5%95%A1/data=!4m7!3m6!1s0x3442a90ad79b73bb:0x73e893bcc9ef568d!8m2!3d25.0211007!4d121.4654089!16s%2Fg%2F11xkwx2n86!19sChIJu3Ob1wqpQjQRjVbvybyT6HM?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 5.0,
+    "reviewCount": 61,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "拾梯甜日式舒芙蕾_板橋一店(民權)",
+    "mapUrl": "https://www.google.com/maps/place/%E6%8B%BE%E6%A2%AF%E7%94%9C%E6%97%A5%E5%BC%8F%E8%88%92%E8%8A%99%E8%95%BE_%E6%9D%BF%E6%A9%8B%E4%B8%80%E5%BA%97%28%E6%B0%91%E6%AC%8A%29/data=!4m7!3m6!1s0x3442a96326abb309:0x62a3bf49712be66a!8m2!3d25.0151024!4d121.4604812!16s%2Fg%2F11s76bg51z!19sChIJCbOrJmOpQjQRauYrcUm_o2I?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 938,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "時光造所 As Time Goes By｜選物・攝影・手作體驗・咖啡（板橋新埔）請看IG公告營業時間",
+    "mapUrl": "https://www.google.com/maps/place/%E6%99%82%E5%85%89%E9%80%A0%E6%89%80+As+Time+Goes+By%EF%BD%9C%E9%81%B8%E7%89%A9%E3%83%BB%E6%94%9D%E5%BD%B1%E3%83%BB%E6%89%8B%E4%BD%9C%E9%AB%94%E9%A9%97%E3%83%BB%E5%92%96%E5%95%A1%EF%BC%88%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%EF%BC%89%E8%AB%8B%E7%9C%8BIG%E5%85%AC%E5%91%8A%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93/data=!4m7!3m6!1s0x3442a9bd3badbf5b:0x9b8e3e21a969c266!8m2!3d25.026712!4d121.4666273!16s%2Fg%2F11z18m4_33!19sChIJW7-tO72pQjQRZsJpqSE-jps?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 5.0,
+    "reviewCount": 179,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Merci Cafe(營業時間詳見IG)",
+    "mapUrl": "https://www.google.com/maps/place/Merci+Cafe%28%E7%87%9F%E6%A5%AD%E6%99%82%E9%96%93%E8%A9%B3%E8%A6%8BIG%29/data=!4m7!3m6!1s0x3442a81e8ec93585:0x7af768d9e0a1a048!8m2!3d25.010337!4d121.4634209!16s%2Fg%2F11g_ms64h!19sChIJhTXJjh6oQjQRSKCh4Nlo93o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.2,
+    "reviewCount": 2285,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "Ponpie澎派 板橋店 水果塔專門店 甜點 生日蛋糕",
+    "mapUrl": "https://www.google.com/maps/place/Ponpie%E6%BE%8E%E6%B4%BE+%E6%9D%BF%E6%A9%8B%E5%BA%97+%E6%B0%B4%E6%9E%9C%E5%A1%94%E5%B0%88%E9%96%80%E5%BA%97+%E7%94%9C%E9%BB%9E+%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95/data=!4m7!3m6!1s0x3442a81b7eb32637:0xdc48d7b4b61e5e85!8m2!3d25.0141664!4d121.4595405!16s%2Fg%2F11btlxyw2q!19sChIJNyazfhuoQjQRhV4etrTXSNw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.3,
+    "reviewCount": 1889,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "小木咖啡店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%B0%8F%E6%9C%A8%E5%92%96%E5%95%A1%E5%BA%97/data=!4m7!3m6!1s0x3442a9a8e2e705ff:0x6ad707b4203ae65b!8m2!3d25.0218587!4d121.4582909!16s%2Fg%2F11fmwqgdsy!19sChIJ_wXn4qipQjQRW-Y6ILQH12o?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.9,
+    "reviewCount": 264,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "沐珈琲 自家焙煎",
+    "mapUrl": "https://www.google.com/maps/place/%E6%B2%90%E7%8F%88%E7%90%B2+%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E/data=!4m7!3m6!1s0x3442a8162dbe9a85:0x8f9f65d36ff87292!8m2!3d25.0201452!4d121.4678777!16s%2Fg%2F11c4698m5x!19sChIJhZq-LRaoQjQRknL4b9Nln48?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.5,
+    "reviewCount": 301,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  },
+  {
+    "name": "哈肯舖烘焙 - 板橋新埔店",
+    "mapUrl": "https://www.google.com/maps/place/%E5%93%88%E8%82%AF%E8%88%96%E7%83%98%E7%84%99+-+%E6%9D%BF%E6%A9%8B%E6%96%B0%E5%9F%94%E5%BA%97/data=!4m7!3m6!1s0x3442a95bb1f8f3c1:0x1c3da40c39261286!8m2!3d25.024684!4d121.467745!16s%2Fg%2F11gmxc8gc0!19sChIJwfP4sVupQjQRhhImOQykPRw?authuser=0&hl=zh-TW&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+    "rating": 4.7,
+    "reviewCount": 550,
+    "checkedAt": "2026-10-05",
+    "status": "未顯示永久或暫時歇業標示",
+    "identityChecked": true,
+    "addressChecked": true
+  }
+]

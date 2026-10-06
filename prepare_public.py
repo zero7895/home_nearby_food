@@ -4,13 +4,15 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from pathlib import Path
 from urllib.parse import urlencode, unquote
+from build_data import expected_place_count
 ROOT=Path(__file__).resolve().parent
 DEST=ROOT/'published-site'/'dist'
 DEST.mkdir(parents=True,exist_ok=True)
 data=json.loads((ROOT/'restaurants.json').read_text())
 # Publish only fields used by the UI; retain full research evidence locally.
 data = {'places': data['places'], 'taxonomy': data['taxonomy']}
-unused = ['sources','photoSource','routeVia','driveVia','classificationBasis','checkedAt']
+unused = ['sources','photoSource','routeVia','driveVia','classificationBasis','checkedAt',
+          'routeEvidence','candidateIndex','candidateName','priceBasis','observedPriceRange','ratingCheckedAt']
 for place in data['places']:
     for field in unused:
         place.pop(field, None)
@@ -28,6 +30,7 @@ js=(ROOT/'app.js').read_text().replace('Google 步行導航 ↗','規劃步行�
 (DEST/'style.css').write_text((ROOT/'style.css').read_text())
 public=''.join(unquote(p.read_text()) for p in DEST.iterdir() if p.suffix in ['.js','.css','.html'])
 assert '240巷68' not in public and '欣璞綻' not in public
+assert '25.0228333' not in public and '121.4700462' not in public and 'origin=' not in public
 assert not any('origin=' in p[field] for p in data['places'] for field in ['routeUrl','driveRouteUrl'])
-assert len(data['places'])==500+len(json.loads((ROOT/'expansion-more-metadata.json').read_text()))+len(json.loads((ROOT/'expansion-next-metadata.json').read_text()))
+assert len(data['places']) == expected_place_count(), 'Public store count differs from approved metadata after audit exclusions'
 print(f'Prepared public Site: {len(data["places"])} stores, {sum(len(p["photos"]) for p in data["places"])} photos; private address and navigation origin removed.')

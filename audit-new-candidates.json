@@ -1,0 +1,548 @@
+[
+  {
+    "name": "老曹餛飩麵",
+    "address": "新北市板橋區茶館街11號",
+    "type": "麵店",
+    "recommendedDishes": [
+      "餛飩麵",
+      "麻醬麵",
+      "餛飩湯"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "秋香ㄟ店",
+    "address": "新北市板橋區宮口街2號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "古早油飯",
+      "赤肉羹",
+      "花枝羹"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "懷念泡菜臭豆腐",
+    "address": "新北市板橋區文昌街1號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "泡菜臭豆腐"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "林員肉圓",
+    "address": "新北市板橋區府中路104號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "肉圓",
+      "虱目魚丸湯"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "波霸珍珠奶茶",
+    "address": "新北市板橋區中山路一段50巷1弄4號",
+    "type": "飲料店",
+    "recommendedDishes": [
+      "珍珠奶茶"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "鳥來伯糖葫蘆",
+    "address": "新北市板橋區中山路一段50巷11號",
+    "type": "甜點店",
+    "recommendedDishes": [
+      "草莓糖葫蘆",
+      "蜜餞番茄糖葫蘆",
+      "葡萄糖葫蘆"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "北門田不辣",
+    "address": "新北市板橋區北門街8號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "甜不辣"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "野原湳雅胡椒餅",
+    "address": "新北市板橋區館前西路127號之1號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "胡椒餅",
+      "小酥餅"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "板橋小籠包",
+    "address": "新北市板橋區南雅路一段79號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "爆漿小籠包"
+    ],
+    "sourceUrls": [
+      "https://www.fetnet.net/content/cbu/tw/lifecircle/life/2026/01/Fuzhong_food.html"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "方人也鮮奶麻糬江翠店",
+    "address": "新北市板橋區雙十路三段20號",
+    "type": "甜點店",
+    "recommendedDishes": [
+      "花生鮮奶麻糬",
+      "芝麻鮮奶麻糬",
+      "奶香可可鮮奶麻糬"
+    ],
+    "sourceUrls": [
+      "https://salihaha.com/mochi-lab/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "白霧時光 White Mist 新板傑仕堡店",
+    "address": "新北市板橋區文化路一段188巷59號",
+    "type": "早午餐",
+    "recommendedDishes": [
+      "雲朵日出早午餐",
+      "肉桂捲",
+      "水果焦糖布丁戚風"
+    ],
+    "sourceUrls": [
+      "https://www.shera.tw/white-mist/",
+      "https://inline.app/booking/-OgBUn4Ndo17s2TC5IDS%3Ainline-live-4"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "另一食記用園區地址縣民大道二段275號；採現行訂位頁文化路地址，需Maps確認是否與既有傑仕堡品牌同址換牌。 官網訂位仍可選該分店，與SUN BERNO光焙若蔬食及丹生炊事同園區，須以店家入口確認。"
+  },
+  {
+    "name": "鏊屋 串燒壽司酒場 板橋新埔店",
+    "address": "新北市板橋區陽明街105號",
+    "type": "居酒屋",
+    "recommendedDishes": [
+      "綜合生魚片蓋飯",
+      "鮭魚親子蓋飯",
+      "烤鯖魚蓋飯"
+    ],
+    "sourceUrls": [
+      "https://page.line.me/heh5470b",
+      "https://www.ubereats.com/store/鏊屋-板橋新埔店/wPBldoDqXFiFTsgEy0_fcw"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "WAYO哇優韓食堂",
+    "address": "新北市板橋區貴興路30號",
+    "type": "飯類",
+    "recommendedDishes": [
+      "WAYO韓式炸雞",
+      "起司辣炒年糕",
+      "海鮮煎餅"
+    ],
+    "sourceUrls": [
+      "https://www.ubereats.com/tw-en/store/哇優wayo韓式料理/h1vNp2zyRx6h1JTtvAbPeA",
+      "https://nanocakl.com/wayo/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "",
+    "cuisine": "韓式"
+  },
+  {
+    "name": "貓爪爪貓咪咖啡廳",
+    "address": "新北市板橋區板新路88號",
+    "type": "咖啡廳",
+    "recommendedDishes": [
+      "薑汁燒肉",
+      "炭燒牛",
+      "炸豬排咖哩"
+    ],
+    "sourceUrls": [
+      "https://omega.taipei/cat-pawpaw/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "採2026/08/23食記品項，兒童須電話預約，勿自動標記適合。"
+  },
+  {
+    "name": "咖哩樹 板橋環球店",
+    "address": "新北市板橋區縣民大道二段7號B1",
+    "type": "飯類",
+    "recommendedDishes": [
+      "慢燉牛咖哩飯",
+      "嫩燉豬奶油咖哩飯",
+      "嫩煎鯖魚咖哩飯"
+    ],
+    "sourceUrls": [
+      "https://www.currytree.com.tw/",
+      "https://jeremyfoodie.tw/currytree-banqiao/",
+      "https://www.foodpanda.com.tw/restaurant/k918/ka-li-shu-huan-qiu-gou-wu-zhong-xin-ban-qiao-che-zhan"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "CURISTA COFFEE奎士咖啡 環球板橋車站店",
+    "address": "新北市板橋區縣民大道二段7號",
+    "type": "咖啡廳",
+    "recommendedDishes": [
+      "單品咖啡拿鐵",
+      "鹿兒島抹茶巴斯克",
+      "巴斯克乳酪蛋糕"
+    ],
+    "sourceUrls": [
+      "https://www.ubereats.com/tw-en/store/curista-coffee奎士咖啡-環球板橋車站店/2QLMV-PhVCWKzJa0pk_COQ"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "ABV閣樓餐酒館 板橋府中店",
+    "address": "新北市板橋區府中路67號12樓",
+    "type": "餐酒館",
+    "recommendedDishes": [
+      "經典比利時白酒淡菜鍋",
+      "黑啤酒馬鈴薯炒香腸",
+      "鮮蔬南瓜奶油大貝殼麵"
+    ],
+    "sourceUrls": [
+      "https://www.abv.com.tw/penthouse-menu/",
+      "https://kkmurmur.com/abv-penthouse/",
+      "https://omega.taipei/abv-banqiao/",
+      "https://cold91.com/abv-bar/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "有2026暫時關閉說法，先暫緩收錄直到Maps或店家現行公告確認。"
+  },
+  {
+    "name": "花蓮光復高麗菜煎餅 板橋店",
+    "address": "新北市板橋區松柏街1巷43號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "高麗菜煎餅"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "奇郁炸雞",
+    "address": "新北市板橋區江寧路三段119號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "炸雞翅",
+      "炸腿排",
+      "地瓜薯條"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "下港蚵嗲",
+    "address": "新北市板橋區大同街24號之2號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "蚵嗲",
+      "炸地瓜",
+      "炸韭菜"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "華江市場大腸蚵仔麵線",
+    "address": "新北市板橋區雙十路三段10巷1弄31號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "大腸蚵仔麵線"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "食記指出無正式店名或地標，若Maps找不到確切獨立店家請暫緩，勿拿其他市場商店照片。"
+  },
+  {
+    "name": "鐵皮屋麵攤 懷德街米苔目",
+    "address": "新北市板橋區懷德街211號",
+    "type": "麵店",
+    "recommendedDishes": [
+      "米苔目",
+      "黑白切"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "食記指出無招牌，依懷德街211號核對，避免誤配既有菜市場麵攤。"
+  },
+  {
+    "name": "潘古早味滷肉飯",
+    "address": "新北市板橋區懷德街162號",
+    "type": "飯類",
+    "recommendedDishes": [
+      "手切滷肉飯",
+      "雞肉飯"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "天天豆花",
+    "address": "新北市板橋區民治街28號",
+    "type": "甜點店",
+    "recommendedDishes": [
+      "糖水冰沙豆花",
+      "豆漿豆花",
+      "綠豆湯豆花"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "日向紅豆餅",
+    "address": "新北市板橋區民治街117號",
+    "type": "甜點店",
+    "recommendedDishes": [
+      "紅豆車輪餅",
+      "奶油車輪餅",
+      "芋頭車輪餅"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jiangzicui/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "莒光路27巷牛肉麵",
+    "address": "新北市板橋區莒光路27巷4號",
+    "type": "麵店",
+    "recommendedDishes": [
+      "紅燒牛肉麵",
+      "水餃",
+      "乾麵"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/juguang27/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "無招牌無店名，以地址確認不同於既有阿達師。"
+  },
+  {
+    "name": "文宗涼麵",
+    "address": "新北市板橋區民治街67號",
+    "type": "麵店",
+    "recommendedDishes": [
+      "涼麵",
+      "綜合味噌湯"
+    ],
+    "sourceUrls": [
+      "https://may128.com/wenzong-cold-noodles/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "阿婆蔥肉餅",
+    "address": "新北市板橋區莒光路38號全家門口",
+    "type": "小吃",
+    "recommendedDishes": [
+      "蘿蔔絲餅",
+      "蔥肉餅",
+      "高麗菜餅"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/apo/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "正宗鵝肉",
+    "address": "新北市板橋區莒光路70號1樓",
+    "type": "小吃",
+    "recommendedDishes": [
+      "鵝肉切盤",
+      "鵝肉米粉"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/jhengzong/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "MR.羊羊肉爐",
+    "address": "新北市板橋區莒光路16巷6號1樓",
+    "type": "火鍋",
+    "recommendedDishes": [
+      "紅燒羊肉爐",
+      "羊小排",
+      "羊腳筋"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/mrlamb/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "GOOD BOB韓食",
+    "address": "新北市板橋區縣民大道一段306號",
+    "type": "飯類",
+    "recommendedDishes": [
+      "牛肉雪濃湯"
+    ],
+    "sourceUrls": [
+      "https://may128.com/good-bob/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "",
+    "cuisine": "韓式"
+  },
+  {
+    "name": "HALOA POKE 夏威夷拌飯 板橋店",
+    "address": "新北市板橋區雙十路二段100號",
+    "type": "飯類",
+    "recommendedDishes": [
+      "B好身材POKE",
+      "C泰式POKE"
+    ],
+    "sourceUrls": [
+      "https://may128.com/haloa-poke-banqiao/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": "是 HALOA POKE，不同於既有 HALO潮飯；請依地址核對。"
+  },
+  {
+    "name": "閏月吃飯點",
+    "address": "新北市板橋區文聖街99號",
+    "type": "便當",
+    "recommendedDishes": [
+      "秘炙雞腿排飯",
+      "南洋沙爹牛肉飯",
+      "原味松阪豬飯"
+    ],
+    "sourceUrls": [
+      "https://may128.com/leap-month-meal/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "小鳥餵脆皮雞蛋糕 板橋雙十店",
+    "address": "新北市板橋區雙十路三段19號",
+    "type": "甜點店",
+    "recommendedDishes": [
+      "原味雞蛋糕",
+      "起司雞蛋糕"
+    ],
+    "sourceUrls": [
+      "https://may128.com/bird-feeding-banqiao/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  },
+  {
+    "name": "知日石磨腸粉",
+    "address": "新北市板橋區莒光路165巷8號",
+    "type": "小吃",
+    "recommendedDishes": [
+      "手剝鮮蝦腸粉"
+    ],
+    "sourceUrls": [
+      "https://pekoblog.tw/zhiri/"
+    ],
+    "checkedAt": "2026-10-05",
+    "status": "候選，待 Google Maps 營業與路線查核",
+    "notes": ""
+  }
+]

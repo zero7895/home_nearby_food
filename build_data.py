@@ -31,6 +31,31 @@ TAXONOMY = {
  'priceBands':[{'label':'NT$200 以下','min':0,'max':200},{'label':'NT$201–400','min':201,'max':400},{'label':'NT$401–600','min':401,'max':600},{'label':'NT$601–1,000','min':601,'max':1000},{'label':'NT$1,001–1,500','min':1001,'max':1500},{'label':'NT$1,501–2,000','min':1501,'max':2000},{'label':'NT$2,001 以上','min':2001,'max':999999}],
 }
 
+METADATA_FILES = [
+    'expanded-metadata.json', 'expansion-200-metadata.json',
+    'expansion-500-metadata.json', 'expansion-more-metadata.json',
+    'expansion-next-metadata.json', 'audit-new-metadata.json',
+]
+
+def load_optional_json(filename, default):
+    path = ROOT / filename
+    return json.loads(path.read_text()) if path.exists() else default
+
+def maps_place_identity(url):
+    match = re.search(r'!1s(0x[0-9a-f]+:0x[0-9a-f]+)', url)
+    return match.group(1) if match else None
+
+def expected_place_count():
+    """Every approved metadata entry must produce one active, unique place."""
+    approved = dict(META)
+    for filename in METADATA_FILES:
+        approved.update(load_optional_json(filename, {}))
+    audited_exclusions = {
+        row['name'] for row in load_optional_json('audit-2026-10-05-corrections.json', [])
+        if row.get('action') == 'exclude'
+    }
+    return len(set(approved) - audited_exclusions)
+
 def build():
     observed = json.loads((ROOT/'maps-research.json').read_text()) + json.loads((ROOT/'expanded-maps-research.json').read_text()) + json.loads((ROOT/'expansion-200-maps.json').read_text()) + json.loads((ROOT/'expansion-500-maps.json').read_text())
     META.update(json.loads((ROOT/'expanded-metadata.json').read_text()))
@@ -44,17 +69,30 @@ def build():
     next_observed = json.loads((ROOT/'expansion-next-maps.json').read_text()) + json.loads((ROOT/'expansion-next-new-maps.json').read_text())
     next_names = {obs['name'] for obs in next_observed}
     observed = [obs for obs in observed if obs['name'] not in next_names] + next_observed
+    audit_new_metadata = load_optional_json('audit-new-metadata.json', {})
+    META.update(audit_new_metadata)
+    audit_new_observed = load_optional_json('audit-new-maps.json', [])
+    audit_new_names = {obs['name'] for obs in audit_new_observed}
+    observed = [obs for obs in observed if obs['name'] not in audit_new_names] + audit_new_observed
     expanded_routes = json.loads((ROOT/'expanded-routes-research.json').read_text()) + json.loads((ROOT/'expansion-200-routes.json').read_text()) + json.loads((ROOT/'expansion-500-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-more-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-next-routes.json').read_text())
+    expanded_routes += load_optional_json('audit-new-routes.json', [])
     drives = {r['name']:r for r in expanded_routes if r['mode']=='driving'}
     routes = {r['name']:r for r in json.loads((ROOT/'routes-research.json').read_text())}
     routes.update({r['name']:r for r in expanded_routes if r['mode']=='walking'})
     corrections = json.loads((ROOT/'reviewed-corrections.json').read_text())
     dish_research = json.loads((ROOT/'recommended-dishes-research.json').read_text())
     dish_research.update(json.loads((ROOT/'expansion-next-dishes.json').read_text()))
+    dish_research.update(load_optional_json('audit-new-dishes.json', {}))
+    audit_corrections = {row['name']: row for row in load_optional_json('audit-2026-10-05-corrections.json', [])}
+    live_ratings = {row['name']: row for row in load_optional_json('audit-live-maps.json', [])}
     places, excluded = [], []
     for obs in observed:
+        audit = audit_corrections.get(obs['name'], {})
+        if audit.get('action') == 'exclude':
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':audit['patch']['excludedReason'], 'checkedAt':'2026-10-05'})
+            continue
         if obs.get('excludedReason'):
             excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':obs['excludedReason'], 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
@@ -69,6 +107,9 @@ def build():
         if walk > 20 and (drive is None or drive > 15):
             excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'超過步行20分鐘且開車15分鐘範圍', 'checkedAt':obs.get('checkedAt','2026-10-04')})
             continue
+        if obs['name'] not in META:
+            excluded.append({'name':obs['name'], 'mapUrl':obs['url'], 'reason':'店家分類、預算與餐點資料尚未核實，暫不收錄', 'checkedAt':obs.get('checkedAt','2026-10-04')})
+            continue
         p = dict(META[obs['name']])
         p.update(corrections.get(obs['name'], {}))
         if obs['name'] in dish_research:
@@ -81,12 +122,30 @@ def build():
                 if not any(existing['url'] == source['url'] for existing in sources):
                     sources.append(source)
             p['sources'] = sources
+        # Apply researched fixes before generating tags, price bands and other UI fields.
+        p.update(audit.get('patch', {}))
+        if audit:
+            sources = list(p.get('sources', []))
+            for source in audit.get('sources', []):
+                if not any(existing['url'] == source['url'] for existing in sources):
+                    sources.append(source)
+            p['sources'] = sources
         p['name'] = obs['name']
         p.setdefault('address',obs.get('address','').replace('地址: ','').strip())
         p['address'] = re.sub(r'^\d{3,6}(?=[^\d])','',p['address'])
         p['mapUrl'] = obs['url']
         p.setdefault('rating',float(obs.get('rating','0').split()[0]))
         p.setdefault('reviewCount',int(re.sub(r'\D','',obs.get('reviews','0'))))
+        live_rating = live_ratings.get(obs['name'])
+        if live_rating:
+            identity = maps_place_identity(obs['url'])
+            assert identity and identity == maps_place_identity(live_rating['mapUrl']), (obs['name'], 'Live rating source has a different Google Maps place identity')
+            rating = float(live_rating['rating'])
+            review_count = int(live_rating['reviewCount'])
+            assert 0 < rating <= 5 and review_count >= 0, obs['name']
+            p['rating'] = rating
+            p['reviewCount'] = review_count
+            p['ratingCheckedAt'] = live_rating['checkedAt']
         photo_ids = set()
         p['photos'] = []
         for url in obs['photos']:
@@ -135,7 +194,8 @@ def build():
     assert len({p['name'] for p in places}) == len(places)
     identities = [re.search(r'!1s(0x[^!]+)',p['mapUrl']).group(1) if re.search(r'!1s(0x[^!]+)',p['mapUrl']) else p['name'] for p in places]
     assert len(set(identities)) == len(places), 'Duplicate Google Maps place identity'
-    assert len(places) == 500 + len(more_metadata) + len(next_metadata) and len({p['id'] for p in places}) == len(places)
+    assert len(places) == expected_place_count(), 'Approved metadata entries must all pass observation and route gates'
+    assert len({p['id'] for p in places}) == len(places)
     result = {'checkedAt':max(p['checkedAt'] for p in places),'home':{'label':'板橋區民生路二段240巷68號','mapUrl':json.loads((ROOT/'home-map.json').read_text())['url']},'places':places,'excluded':excluded,'taxonomy':TAXONOMY}
     (ROOT/'data.js').write_text('window.NEARBY_DATA = '+json.dumps(result,ensure_ascii=False,indent=2)+';\n')
     (ROOT/'restaurants.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
