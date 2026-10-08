@@ -12,7 +12,7 @@ data=json.loads((ROOT/'restaurants.json').read_text())
 # Publish only fields used by the UI; retain full research evidence locally.
 data = {'places': data['places'], 'taxonomy': data['taxonomy']}
 unused = ['sources','photoSource','routeVia','driveVia','classificationBasis','checkedAt',
-          'routeEvidence','candidateIndex','candidateName','priceBasis','observedPriceRange','ratingCheckedAt']
+          'routeEvidence','candidateIndex','candidateName','priceBasis','observedPriceRange','ratingCheckedAt','businessCheckedAt','businessStatus']
 for place in data['places']:
     for field in unused:
         place.pop(field, None)

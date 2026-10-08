@@ -45,6 +45,8 @@ def maps_place_identity(url):
     match = re.search(r'!1s(0x[0-9a-f]+:0x[0-9a-f]+)', url)
     return match.group(1) if match else None
 
+METADATA_FILES += [p.name for p in sorted(ROOT.glob('weekly-*-metadata.json'))]
+
 def expected_place_count():
     """Every approved metadata entry must produce one active, unique place."""
     approved = dict(META)
@@ -74,10 +76,19 @@ def build():
     audit_new_observed = load_optional_json('audit-new-maps.json', [])
     audit_new_names = {obs['name'] for obs in audit_new_observed}
     observed = [obs for obs in observed if obs['name'] not in audit_new_names] + audit_new_observed
+    for file in sorted(ROOT.glob('weekly-*-metadata.json')):
+        META.update(json.loads(file.read_text()))
+    for file in sorted(ROOT.glob('weekly-*-maps.json')):
+        observed += json.loads(file.read_text())
     expanded_routes = json.loads((ROOT/'expanded-routes-research.json').read_text()) + json.loads((ROOT/'expansion-200-routes.json').read_text()) + json.loads((ROOT/'expansion-500-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-more-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-next-routes.json').read_text())
     expanded_routes += load_optional_json('audit-new-routes.json', [])
+    for file in sorted(ROOT.glob('weekly-*-routes.json')):
+        expanded_routes += json.loads(file.read_text())
+    weekly_live = {}
+    for file in sorted(ROOT.glob('weekly-*-live.json')):
+        weekly_live.update({r['name']: r for r in json.loads(file.read_text())})
     drives = {r['name']:r for r in expanded_routes if r['mode']=='driving'}
     routes = {r['name']:r for r in json.loads((ROOT/'routes-research.json').read_text())}
     routes.update({r['name']:r for r in expanded_routes if r['mode']=='walking'})
@@ -146,6 +157,14 @@ def build():
             p['rating'] = rating
             p['reviewCount'] = review_count
             p['ratingCheckedAt'] = live_rating['checkedAt']
+        weekly = weekly_live.get(p['name'])
+        if weekly:
+            assert weekly['mapUrl'] == p['mapUrl'] and weekly['address'] == p['address'], 'Weekly observation must match saved shop identity and address'
+            p['rating'] = weekly['rating']
+            p['reviewCount'] = weekly['reviewCount']
+            p['ratingCheckedAt'] = weekly['checkedAt']
+            p['businessCheckedAt'] = weekly['checkedAt']
+            p['businessStatus'] = weekly['businessStatus']
         photo_ids = set()
         p['photos'] = []
         for url in obs['photos']:

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "小英越南小吃",
+    "address": "新北市板橋區懷德街87號",
+    "checkedAt": "2026-10-08",
+    "sourceUrls": [
+      "https://itwmap.com/food/10976"
+    ],
+    "recommendedDishes": [],
+    "finding": "公開搜尋僅找到同址店名、電話0922514349與越式料理分類，沒有可可靠核對的具體品項，也未找到永久歇業證據。搜尋中的小英越南美食外送頁在鹿港彰化生活圈，無同址證據，排除。保留品項待補充，不填越式通用菜名。",
+    "permanentClosureEvidence": null
+  },
+  {
+    "name": "陳媽媽家的味道便當店",
+    "address": "新北市板橋區文化路二段225巷60弄67號",
+    "checkedAt": "2026-10-08",
+    "sourceUrls": [
+      "https://www.findcompany.com.tw/陳媽媽便當店",
+      "https://serv.gcis.nat.gov.tw/moeadsBF/cmpy/reportAction.do?fileName=376410000Asetup11407.pdf&method=report&reportClass=bms&subPath=11407"
+    ],
+    "recommendedDishes": [],
+    "finding": "同址公司名陳媽媽便當店，統編60059520，2025-07-25設立。現存登記不能證明店家當前營業；沒有具體菜單或永久歇業證據。不同地址的陳媽媽熱炒、便當或鹹豬肉均不套用。",
+    "permanentClosureEvidence": null
+  }
+]

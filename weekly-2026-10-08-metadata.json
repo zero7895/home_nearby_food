@@ -1,0 +1,251 @@
+{
+  "墨竹亭 燃麵本家 板橋雙十店": {
+    "id": "weekly-20261008-01",
+    "shortName": "墨竹亭 燃麵本家 板橋雙十店",
+    "area": "板橋・新埔／江子翠及周邊",
+    "address": "新北市板橋區雙十路二段28號",
+    "rating": 4.5,
+    "reviewCount": 527,
+    "price": [
+      200,
+      400
+    ],
+    "priceNote": "依 2026-10-08 Google Maps 消費者回報的人均區間；實際消費依點餐與當日菜單。",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$200-400",
+    "description": "川味燃麵、抄手與口水雞，適合午晚餐或一人用餐。",
+    "dishes": [
+      "招牌本家燃麵",
+      "紅油抄手燃麵",
+      "鮮蝦抄手燃麵",
+      "紅油口水雞"
+    ],
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業與菜單以店家當日公告為準；適合時段為用餐情境，非每天營業時段。",
+    "sources": [
+      {
+        "label": "Google Maps｜店名、同址、評分、五張照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E5%A2%A8%E7%AB%B9%E4%BA%AD%20%E7%87%83%E9%BA%B5%E6%9C%AC%E5%AE%B6%20%E6%9D%BF%E6%A9%8B%E9%9B%99%E5%8D%81%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B528%E8%99%9F"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://www.mozhuting.com/stores"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://www.ubereats.com/tw/store/墨竹亭-燃麵本家-板橋雙十店/HPLc-Tf4U5C3PE5YVfh6RA"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://mandyenjoylife.com/mozhuting/"
+      }
+    ],
+    "classificationBasis": "依同址公開菜單與店家資料；兒童設備未確認。",
+    "ratingCheckedAt": "2026-10-08"
+  },
+  "早享早午餐": {
+    "id": "weekly-20261008-02",
+    "shortName": "早享早午餐",
+    "area": "板橋・新埔／江子翠及周邊",
+    "address": "新北市板橋區雨農路18巷1號",
+    "rating": 4.2,
+    "reviewCount": 123,
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報為 NT$200 以下；下限 NT$60 為早餐點餐參考預算，非已查證最低消費。外送價可能與現場不同。",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "description": "酥脆蛋餅、吐司與古早味早餐套餐，適合早餐或早午餐。",
+    "dishes": [
+      "玉米鮪魚蛋餅",
+      "薯泥蛋餅",
+      "古早味三寶",
+      "卡拉雞腿蛋吐司"
+    ],
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業與菜單以店家當日公告為準；適合時段為用餐情境，非每天營業時段。",
+    "sources": [
+      {
+        "label": "Google Maps｜店名、同址、評分、五張照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A9%E4%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%A8%E8%BE%B2%E8%B7%AF18%E5%B7%B71%E8%99%9F"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://www.ubereats.com/tw/store/早享早午餐/TinkvufzXoq5U9E4hLaY3A"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://rlaidiary.com/zao-xiang/"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://yesfoody.com/20281"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://www.facebook.com/profile.php?id=61578732876961"
+      }
+    ],
+    "classificationBasis": "依同址公開菜單與店家資料；兒童設備未確認。",
+    "ratingCheckedAt": "2026-10-08"
+  },
+  "朝日暖陽宵夜早餐": {
+    "id": "weekly-20261008-03",
+    "shortName": "朝日暖陽宵夜早餐",
+    "area": "板橋・新埔／江子翠及周邊",
+    "address": "新北市板橋區英士路72號",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "price": [
+      60,
+      200
+    ],
+    "priceNote": "Google Maps 消費者回報為 NT$200 以下；下限 NT$60 為早餐點餐參考預算，非已查證最低消費。外送價可能與現場不同。",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$1-200",
+    "description": "現做蛋餅、漢堡與雞腿餐盒，適合早餐、早午餐或宵夜。",
+    "dishes": [
+      "朝日炙香嫩腿",
+      "四盎司手打牛肉起司蛋漢堡",
+      "朝日烤雞腿餐盒"
+    ],
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店",
+      "早午餐",
+      "便當"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "一人用餐",
+      "快速用餐"
+    ],
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業與菜單以店家當日公告為準；適合時段為用餐情境，非每天營業時段。",
+    "sources": [
+      {
+        "label": "Google Maps｜店名、同址、評分、五張照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%9D%E6%97%A5%E6%9A%96%E9%99%BD%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8B%B1%E5%A3%AB%E8%B7%AF72%E8%99%9F"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://www.ubereats.com/sv-en/store/朝日暖陽/16MJO5OLUMuadv-680lMpQ"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://newsday.tw/news/527240"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://buzzdaily.tw/store/aj2026052610"
+      }
+    ],
+    "classificationBasis": "依同址公開菜單與店家資料；兒童設備未確認。",
+    "ratingCheckedAt": "2026-10-08"
+  },
+  "老藏野居酒屋-江翠店": {
+    "id": "weekly-20261008-04",
+    "shortName": "老藏野居酒屋-江翠店",
+    "area": "板橋・新埔／江子翠及周邊",
+    "address": "新北市板橋區文化路二段353號",
+    "rating": 4.9,
+    "reviewCount": 2195,
+    "price": [
+      400,
+      1000
+    ],
+    "priceNote": "依 2026-10-08 Google Maps 消費者回報的人均區間；實際消費依點餐與當日菜單。",
+    "priceBasis": "maps-reported-range",
+    "observedPriceRange": "$400-1,000",
+    "description": "炭火串燒與日式下酒菜，適合晚間朋友聚餐。",
+    "dishes": [
+      "明太子玉子燒",
+      "牛筋湯",
+      "起酥麻吉燒",
+      "蜜釀苦瓜"
+    ],
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業與菜單以店家當日公告為準；適合時段為用餐情境，非每天營業時段。",
+    "sources": [
+      {
+        "label": "Google Maps｜店名、同址、評分、五張照片",
+        "url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%97%8F%E9%87%8E%E7%82%AD%E7%81%AB%E5%B1%85%E9%85%92%E5%B1%8B%20%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E5%8C%96%E8%B7%AF%E4%BA%8C%E6%AE%B5353%E8%99%9F"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://dalang.tw/lao-kurano/"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://mymarcy.tw/best-food-in-jiangzicui/"
+      },
+      {
+        "label": "同址公開菜單／店家資訊",
+        "url": "https://inline.app/booking/-NuxZ9JRrw3-6-5_PPW0:inline-live-3/-NuxZ9VsCYj_XSSCuE4I"
+      }
+    ],
+    "classificationBasis": "依同址公開菜單與店家資料；兒童設備未確認。",
+    "ratingCheckedAt": "2026-10-08"
+  }
+}

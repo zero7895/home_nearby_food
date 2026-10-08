@@ -1,0 +1,19 @@
+[
+  {
+    "name": "皇品中華樓",
+    "reason": "官網／研究地址 B1之22 與 Maps B1之23 有差異，保留待查，尚未新增。",
+    "checkedAt": "2026-10-08",
+    "sourceUrls": [
+      "https://huangpin-chunghua.weebly.com/32879323632510520497.html",
+      "https://www.opentable.com.tw/restaurant/profile/276695",
+      "https://weshares.com.tw/xinbei-huangpin/",
+      "https://pekoblog.tw/huangpinzhen/"
+    ]
+  },
+  {
+    "name": "瑪賀牛肉麵 板橋店",
+    "reason": "本次同址 Maps 店家頁明列永久歇業，拒絕新增；不是僅依舊外送平台停止服務判定。",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E7%91%AA%E8%B3%80%E7%89%9B%E8%82%89%E9%BA%B5%20%E6%9D%BF%E6%A9%8B%E5%BA%97%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E5%90%B3%E9%B3%B3%E8%B7%AF64%E8%99%9F"
+  }
+]

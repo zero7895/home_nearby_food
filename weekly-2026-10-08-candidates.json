@@ -1,0 +1,223 @@
+[
+  {
+    "name": "皇品中華樓",
+    "address": "新北市板橋區文化路一段360號B1樓之22",
+    "sourceUrls": [
+      "https://huangpin-chunghua.weebly.com/32879323632510520497.html",
+      "https://www.opentable.com.tw/restaurant/profile/276695",
+      "https://weshares.com.tw/xinbei-huangpin/",
+      "https://pekoblog.tw/huangpinzhen/"
+    ],
+    "recommendedDishes": [
+      "上海無錫排骨",
+      "松露鹽蝦炒飯",
+      "蟹黃燴海鮮豆腐",
+      "麻油松阪豬"
+    ],
+    "description": "江浙家常菜、炒飯與合菜套餐，適合午晚餐或多人分食。",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "熱炒",
+      "飯類"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "priceEvidence": {
+      "kind": "dated-menu-reference",
+      "sourceUrl": "https://weshares.com.tw/xinbei-huangpin/",
+      "observations": "2025-03食記：無錫排骨360、松露鹽蝦炒飯220、蟹黃海鮮豆腐280、麻油松阪豬320；另PEKO列單人329、平日16點前299，服務費10%。共享菜價不等於人均。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "官網同址聯繫頁與OpenTable訂位頁現存，頁面有9月1日起新訂位規範；菜單源為2025同址實食。需Maps確認當前狀態。",
+    "notes": "三猿廣場同一棟有其他已收錄店，請依B1之22及Maps識別區分，非同店別名。",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "墨竹亭 燃麵本家 板橋雙十店",
+    "address": "新北市板橋區雙十路二段28號",
+    "sourceUrls": [
+      "https://www.mozhuting.com/stores",
+      "https://www.ubereats.com/tw/store/墨竹亭-燃麵本家-板橋雙十店/HPLc-Tf4U5C3PE5YVfh6RA",
+      "https://mandyenjoylife.com/mozhuting/"
+    ],
+    "recommendedDishes": [
+      "招牌本家燃麵",
+      "紅油抄手燃麵",
+      "鮮蝦抄手燃麵",
+      "紅油口水雞"
+    ],
+    "description": "川味燃麵、抄手與口水雞，適合午晚餐或一人用餐。",
+    "cuisines": [
+      "中式"
+    ],
+    "types": [
+      "麵店",
+      "小吃"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "priceEvidence": {
+      "kind": "delivery-menu",
+      "sourceUrl": "https://www.ubereats.com/tw/store/墨竹亭-燃麵本家-板橋雙十店/HPLc-Tf4U5C3PE5YVfh6RA",
+      "observations": "外送：招牌本家燃麵飲料套餐165、紅油抄手燃麵飲料套餐195、鮮蝦抄手燃麵飲料套餐205、紅油口水雞140。外送價與現場可能不同。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "官方門市頁現列同址、電話02-8252-8072及午晚餐時段；2026-07-13同址實食描述2025-12開幕。",
+    "notes": "Uber無法外送與Corner closed為當下可外送／營業狀態，不能解讀為永久歇業。",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "早享早午餐",
+    "address": "新北市板橋區雨農路18巷1號",
+    "sourceUrls": [
+      "https://www.ubereats.com/tw/store/早享早午餐/TinkvufzXoq5U9E4hLaY3A",
+      "https://rlaidiary.com/zao-xiang/",
+      "https://yesfoody.com/20281",
+      "https://www.facebook.com/profile.php?id=61578732876961"
+    ],
+    "recommendedDishes": [
+      "玉米鮪魚蛋餅",
+      "薯泥蛋餅",
+      "古早味三寶",
+      "卡拉雞腿蛋吐司"
+    ],
+    "description": "酥脆蛋餅、吐司與古早味早餐套餐，適合早餐或早午餐。",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店",
+      "早午餐"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐"
+    ],
+    "priceEvidence": {
+      "kind": "delivery-menu",
+      "sourceUrl": "https://www.ubereats.com/tw/store/早享早午餐/TinkvufzXoq5U9E4hLaY3A",
+      "observations": "外送：玉米鮪魚蛋餅85、薯泥蛋餅75、古早味三寶155、花生卡拉雞腿蛋漢堡120。外送價非現場人均。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "2026-09-07更新同址實食、2025-09-19同址食記與現存外送菜單均吻合。",
+    "notes": "勿混永和仁愛路125號的同名早享。2025食記週四休與2026食記／平台時段不一致，實際店休交Maps及店家公告。",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "朝日暖陽",
+    "address": "新北市板橋區英士路72號",
+    "sourceUrls": [
+      "https://www.ubereats.com/sv-en/store/朝日暖陽/16MJO5OLUMuadv-680lMpQ",
+      "https://newsday.tw/news/527240",
+      "https://buzzdaily.tw/store/aj2026052610"
+    ],
+    "recommendedDishes": [
+      "朝日炙香嫩腿",
+      "四盎司手打牛肉起司蛋漢堡",
+      "朝日烤雞腿餐盒"
+    ],
+    "description": "現做蛋餅、漢堡與雞腿餐盒，適合早餐、早午餐或宵夜。",
+    "cuisines": [
+      "台式",
+      "美式"
+    ],
+    "types": [
+      "早餐店",
+      "早午餐",
+      "便當"
+    ],
+    "periods": [
+      "早餐",
+      "早午餐",
+      "午餐",
+      "宵夜"
+    ],
+    "priceEvidence": {
+      "kind": "delivery-menu",
+      "sourceUrl": "https://www.ubereats.com/sv-en/store/朝日暖陽/16MJO5OLUMuadv-680lMpQ",
+      "observations": "外送搜尋結果列四盎司手打牛肉起司蛋漢堡209、朝日烤雞腿餐盒200；頁面同址英士72，外送價格不等於現場人均。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "2026-05新聞及2026-06受訪商家頁同址，现存平台也列同址、白天及週五六宵夜菜單。",
+    "notes": "受訪商家頁與平台列的時段略不同，以店家公告及Maps為準；不使用受訪宣傳推斷兒童設施。",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "老藏野炭火居酒屋 板橋江翠店",
+    "address": "新北市板橋區文化路二段353號",
+    "sourceUrls": [
+      "https://dalang.tw/lao-kurano/",
+      "https://mymarcy.tw/best-food-in-jiangzicui/",
+      "https://inline.app/booking/-NuxZ9JRrw3-6-5_PPW0:inline-live-3/-NuxZ9VsCYj_XSSCuE4I"
+    ],
+    "recommendedDishes": [
+      "明太子玉子燒",
+      "牛筋湯",
+      "起酥麻吉燒",
+      "蜜釀苦瓜"
+    ],
+    "description": "炭火串燒與日式下酒菜，適合晚間朋友聚餐。",
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐",
+      "宵夜"
+    ],
+    "priceEvidence": {
+      "kind": "not-confirmed",
+      "sourceUrl": "https://dalang.tw/lao-kurano/",
+      "observations": "同址文章附菜單但本次未辨讀菜單圖片價格；沒有可靠人均價格，請以Maps回報價帶或清楚標為規劃估計。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "2026-06同址聚餐推薦及標示2026菜單的實食頁，正式同名inline訂位頁現存；Map狀態需另核對。",
+    "notes": "未使用愛食記『回報歇業』操作按鈕作為歇業證據，也不使用其他網站評分當Google評分。",
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "瑪賀牛肉麵 板橋店",
+    "address": "新北市板橋區吳鳳路64號",
+    "sourceUrls": [
+      "https://www.ringring.com.tw/ringring3813/",
+      "https://www.ubereats.com/tw/store/瑪賀牛肉麵-板橋店/Dd0TRlVQSDuy1v-JDcywDw",
+      "https://chewmap.com/places/location-a274faf39bcfdcd8/taiwanese-cuisine"
+    ],
+    "recommendedDishes": [
+      "大麥克牛肉麵",
+      "香柚蘿蔔",
+      "紅燒半筋半肉麵",
+      "番茄牛三寶麵"
+    ],
+    "description": "紅燒與番茄牛肉麵搭配自製小菜，適合日常午晚餐。",
+    "cuisines": [
+      "台式"
+    ],
+    "types": [
+      "麵店"
+    ],
+    "periods": [
+      "午餐",
+      "晚餐"
+    ],
+    "priceEvidence": {
+      "kind": "dated-menu-reference",
+      "sourceUrl": "https://www.ringring.com.tw/ringring3813/",
+      "observations": "約2025同址實食列大麥克牛肉麵180、香柚蘿蔔40；非本次核實現場售價。",
+      "verifiedAverage": false
+    },
+    "businessEvidence": "2025同址實食仍描述營業；近期名錄亦列店家。平台明示2024-09-19停止在Uber營業，不能當永久歇業。當前營業需Maps裁決。",
+    "notes": "建議最後核對；若Maps關閉則排除。沒有用近期名錄評分或自動更新日期證明店家營業。",
+    "checkedAt": "2026-10-08"
+  }
+]

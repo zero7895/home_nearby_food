@@ -1,0 +1,74 @@
+[
+  {
+    "name": "墨竹亭 燃麵本家 板橋雙十店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A2%A8%E7%AB%B9%E4%BA%AD+%E7%87%83%E9%BA%B5%E6%9C%AC%E5%AE%B6+%E6%9D%BF%E6%A9%8B%E9%9B%99%E5%8D%81%E5%BA%97+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B528%E8%99%9F&travelmode=walking",
+    "options": [
+      "15 分\n1.1 公里\n途經莊敬路"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "墨竹亭 燃麵本家 板橋雙十店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%A2%A8%E7%AB%B9%E4%BA%AD+%E7%87%83%E9%BA%B5%E6%9C%AC%E5%AE%B6+%E6%9D%BF%E6%A9%8B%E9%9B%99%E5%8D%81%E5%BA%97+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B528%E8%99%9F&travelmode=driving",
+    "options": [
+      "5 分\n1.1 公里\n途經莒光路和雙十路二段47巷"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "早享早午餐",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A9%E4%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%A8%E8%BE%B2%E8%B7%AF18%E5%B7%B71%E8%99%9F&travelmode=walking",
+    "options": [
+      "19 分\n1.3 公里\n途經陽明街"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "早享早午餐",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%97%A9%E4%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%A8%E8%BE%B2%E8%B7%AF18%E5%B7%B71%E8%99%9F&travelmode=driving",
+    "options": [
+      "8 分\n1.8 公里\n途經民生路二段"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "朝日暖陽宵夜早餐",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9C%9D%E6%97%A5%E6%9A%96%E9%99%BD%E5%AE%B5%E5%A4%9C%E6%97%A9%E9%A4%90+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8B%B1%E5%A3%AB%E8%B7%AF72%E8%99%9F&travelmode=walking",
+    "options": [
+      "21 分\n1.4 公里\n途經陽明街"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "朝日暖陽宵夜早餐",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E6%9C%9D%E6%97%A5%E6%9A%96%E9%99%BD%E5%AE%B5%E5%A4%9C%E6%97%A9%E9%A4%90+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E8%8B%B1%E5%A3%AB%E8%B7%AF72%E8%99%9F&travelmode=driving",
+    "options": [
+      "9 分\n1.7 公里\n途經台3線和陽明街"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "老藏野居酒屋-江翠店",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E8%97%8F%E9%87%8E%E5%B1%85%E9%85%92%E5%B1%8B-%E6%B1%9F%E7%BF%A0%E5%BA%97+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E5%8C%96%E8%B7%AF%E4%BA%8C%E6%AE%B5353%E8%99%9F&travelmode=walking",
+    "options": [
+      "15 分\n1.1 公里\n途經文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-08"
+  },
+  {
+    "name": "老藏野居酒屋-江翠店",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E8%80%81%E8%97%8F%E9%87%8E%E5%B1%85%E9%85%92%E5%B1%8B-%E6%B1%9F%E7%BF%A0%E5%BA%97+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%96%87%E5%8C%96%E8%B7%AF%E4%BA%8C%E6%AE%B5353%E8%99%9F&travelmode=driving",
+    "options": [
+      "6 分\n1.8 公里\n途經文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-08"
+  }
+]
