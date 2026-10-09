@@ -1,0 +1,42 @@
+[
+  {
+    "name": "參堂居酒屋",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8F%83%E5%A0%82%E5%B1%85%E9%85%92%E5%B1%8B+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B542-4%E8%99%9F1%E6%A8%93&travelmode=walking",
+    "options": [
+      "14 分\n1.0 公里\n途經莊敬路"
+    ],
+    "checkedAt": "2026-10-09",
+    "evidence": "Maps第一條路線；固定起點與同址店家目的地人工核對。"
+  },
+  {
+    "name": "參堂居酒屋",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=%E5%8F%83%E5%A0%82%E5%B1%85%E9%85%92%E5%B1%8B+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%9B%99%E5%8D%81%E8%B7%AF%E4%BA%8C%E6%AE%B542-4%E8%99%9F1%E6%A8%93&travelmode=driving",
+    "options": [
+      "6 分\n1.1 公里\n途經莒光路和雙十路二段47巷"
+    ],
+    "checkedAt": "2026-10-09",
+    "evidence": "Maps第一條路線；固定起點與同址店家目的地人工核對。"
+  },
+  {
+    "name": "CHATTY BAKERY-麵包同話(板橋江翠店)",
+    "mode": "walking",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CHATTY+BAKERY-%E9%BA%B5%E5%8C%85%E5%90%8C%E8%A9%B1%28%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97%29+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%972-1%E8%99%9F&travelmode=walking",
+    "options": [
+      "13 分\n950 公尺\n途經莊敬路"
+    ],
+    "checkedAt": "2026-10-09",
+    "evidence": "Maps第一條路線；固定起點與同址店家目的地人工核對。"
+  },
+  {
+    "name": "CHATTY BAKERY-麵包同話(板橋江翠店)",
+    "mode": "driving",
+    "url": "https://www.google.com/maps/dir/?api=1&origin=25.0228333%2C121.4700462&destination=CHATTY+BAKERY-%E9%BA%B5%E5%8C%85%E5%90%8C%E8%A9%B1%28%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97%29+%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E6%9D%BE%E6%9F%8F%E9%87%8C%E6%9D%BE%E6%9F%8F%E8%A1%972-1%E8%99%9F&travelmode=driving",
+    "options": [
+      "5 分\n1.3 公里\n途經文化路二段/台3線"
+    ],
+    "checkedAt": "2026-10-09",
+    "evidence": "Maps第一條路線；固定起點與同址店家目的地人工核對。"
+  }
+]

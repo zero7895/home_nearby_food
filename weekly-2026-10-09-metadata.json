@@ -1,0 +1,119 @@
+{
+  "參堂居酒屋": {
+    "shortName": "參堂居酒屋",
+    "address": "新北市板橋區雙十路二段42-4號1樓",
+    "rating": 4.9,
+    "reviewCount": 3468,
+    "price": [
+      400,
+      1000
+    ],
+    "observedPriceRange": "$400-1,000",
+    "priceNote": "依本次 Google Maps 消費者回報區間 NT$400–1,000；點餐、飲品與服務費會影響總額，以店家當日菜單為準。",
+    "description": "日式串燒、烤物與烏龍麵，適合晚餐和朋友小聚。",
+    "dishes": [
+      "明太子白醬海鮮烏龍麵",
+      "明太子雞肉串",
+      "蔥鹽牛舌",
+      "日式唐揚炸雞"
+    ],
+    "cuisines": [
+      "日式"
+    ],
+    "types": [
+      "居酒屋"
+    ],
+    "periods": [
+      "晚餐"
+    ],
+    "occasions": [
+      "朋友聚餐",
+      "情侶約會",
+      "聊天聚會"
+    ],
+    "id": "weekly-20261009-01",
+    "area": "板橋・新埔／江子翠及周邊",
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業時間與實際供應以店家當日公告為準。晚餐時段的居酒屋用餐情境；未查證兒童設備。",
+    "priceBasis": "maps-reported-range",
+    "classificationBasis": "依同址菜單與公開店家定位整理；適合場合為情境推估。",
+    "ratingCheckedAt": "2026-10-09",
+    "businessCheckedAt": "2026-10-09",
+    "businessStatus": "hours-listed",
+    "sources": [
+      {
+        "label": "Google Maps｜同址、營業、評分與五張照片",
+        "url": "https://www.google.com/maps/place/%E5%8F%83%E5%A0%82%E5%B1%85%E9%85%92%E5%B1%8B/@25.0275464,121.4759642,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9a8493cc54f:0x8f54bf3c308298e7!8m2!3d25.0275464!4d121.4759642"
+      },
+      {
+        "label": "同址 Uber Eats 公開菜單（平台2024停止服務，不作歇業依據）",
+        "url": "https://www.ubereats.com/tw/store/參堂居酒屋/i_mufB_aTECmnf0tWClJww"
+      },
+      {
+        "label": "2026同址食記｜推薦串燒、烏龍麵與炸雞",
+        "url": "https://tisshuang.com/blog/post/santon"
+      },
+      {
+        "label": "Maps列出的店家Instagram",
+        "url": "https://www.instagram.com/santon0815/"
+      }
+    ]
+  },
+  "CHATTY BAKERY-麵包同話(板橋江翠店)": {
+    "shortName": "麵包同話・板橋江翠店",
+    "address": "新北市板橋區松柏里松柏街2-1號",
+    "rating": 4.5,
+    "reviewCount": 683,
+    "price": [
+      50,
+      200
+    ],
+    "observedPriceRange": "$1-200",
+    "priceNote": "Maps 消費者回報為 NT$200 以下。NT$50–200 是單人購買麵包的規劃預算；下限參考公開食記單品50元，非本次已確認最低消費或最新單品售價。",
+    "description": "現烤麵包、吐司與蛋糕，適合外帶點心與分享。",
+    "dishes": [
+      "法國鹽之花號角",
+      "經典同話吐司",
+      "黑裸麥老麵種堅果園",
+      "法頌可可珍珠"
+    ],
+    "cuisines": [
+      "台式",
+      "法式"
+    ],
+    "types": [
+      "甜點店"
+    ],
+    "periods": [
+      "甜點／飲料"
+    ],
+    "occasions": [
+      "快速用餐"
+    ],
+    "id": "weekly-20261009-02",
+    "area": "板橋・新埔／江子翠及周邊",
+    "childRating": "普通",
+    "childBasis": "資料不足，暫列普通，並非已確認適合兒童",
+    "note": "營業時間與實際供應以店家當日公告為準。Maps標示提供外帶、禁止內用。",
+    "priceBasis": "planning-budget-maps-upper-band",
+    "classificationBasis": "依同址菜單與公開店家定位整理；適合場合為情境推估。",
+    "ratingCheckedAt": "2026-10-09",
+    "businessCheckedAt": "2026-10-09",
+    "businessStatus": "hours-listed",
+    "sources": [
+      {
+        "label": "Google Maps｜同址、營業、評分與五張照片",
+        "url": "https://www.google.com/maps/place/CHATTY%20BAKERY-%E9%BA%B5%E5%8C%85%E5%90%8C%E8%A9%B1%28%E6%9D%BF%E6%A9%8B%E6%B1%9F%E7%BF%A0%E5%BA%97%29/@25.0293324,121.4737993,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9003cdf813f:0xf0cae635682fdaf4!8m2!3d25.0293324!4d121.4737993"
+      },
+      {
+        "label": "同址與電話核對｜招牌麵包、吐司與單品參考價",
+        "url": "https://maiimage.com/chatty-bakery/"
+      },
+      {
+        "label": "同址食記｜麵包品項",
+        "url": "https://www.walkerland.com.tw/article/view/401982"
+      }
+    ]
+  }
+}

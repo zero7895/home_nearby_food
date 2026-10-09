@@ -79,7 +79,9 @@ def build():
     for file in sorted(ROOT.glob('weekly-*-metadata.json')):
         META.update(json.loads(file.read_text()))
     for file in sorted(ROOT.glob('weekly-*-maps.json')):
-        observed += json.loads(file.read_text())
+        updates = json.loads(file.read_text())
+        updated_names = {obs['name'] for obs in updates}
+        observed = [obs for obs in observed if obs['name'] not in updated_names] + updates
     expanded_routes = json.loads((ROOT/'expanded-routes-research.json').read_text()) + json.loads((ROOT/'expansion-200-routes.json').read_text()) + json.loads((ROOT/'expansion-500-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-more-routes.json').read_text())
     expanded_routes += json.loads((ROOT/'expansion-next-routes.json').read_text())
@@ -160,6 +162,7 @@ def build():
         weekly = weekly_live.get(p['name'])
         if weekly:
             assert weekly['mapUrl'] == p['mapUrl'] and weekly['address'] == p['address'], 'Weekly observation must match saved shop identity and address'
+            assert 0 < weekly['rating'] <= 5 and isinstance(weekly['reviewCount'], int) and weekly['reviewCount'] >= 0
             p['rating'] = weekly['rating']
             p['reviewCount'] = weekly['reviewCount']
             p['ratingCheckedAt'] = weekly['checkedAt']
